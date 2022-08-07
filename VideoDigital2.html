@@ -1,0 +1,84 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>New Digital Videos</title>
+
+	<!-- INCLUDING JQUERY-->
+	<script src=
+"https://code.jquery.com/jquery-3.5.1.js">
+	</script>
+
+	<!-- CSS FOR STYLING THE PAGE -->
+	<style>
+		table {
+			margin: 0 auto;
+		}
+
+		h1 {
+			text-align: center;
+			color: #332a7e;
+			font-family: 'Gotham Narrow A','Gotham Narrow B',Arial,sans-serif;
+		}
+
+		td {
+		}
+
+		th,
+		td {
+			border: 1px solid black;			
+			font-weight: bold;
+			padding: 5px;
+			text-align: left;
+		}
+
+		td {
+			font-weight: lighter;
+		}
+	</style>
+</head>
+
+<body>
+	<section>
+		<h1>New Digital Videos - week of July 24, 2022</h1>
+
+		<!-- TABLE CONSTRUCTION-->
+		<table id='table'>
+			<!-- HEADING FORMATION -->
+			<tr>
+				<th>Title</th>
+				<th>Creator</th>
+			</tr>
+
+			<script>
+				$(document).ready(function () {
+
+					// FETCHING DATA FROM JSON FILE
+					$.getJSON("test.json",
+							function (data) {
+						var record = '';
+
+						// ITERATING THROUGH OBJECTS
+						$.each(data, function (key, value) {
+
+							//CONSTRUCTION OF ROWS HAVING
+							// DATA FROM JSON OBJECT
+							record += '<tr>';
+							record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +
+								value.title + '</a></td>';
+
+							record += '<td>' +
+								value.creator + '</td>';
+
+							record += '</tr>';
+						});
+						
+						//INSERTING ROWS INTO TABLE
+						$('#table').append(record);
+					});
+				});
+			</script>
+	</section>
+</body>
+
+</html>
