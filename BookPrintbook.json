@@ -1,6 +1,4 @@
-[{
- "numberOfRecords": 62,
- "briefRecords": [
+[
   {
    "oclcNumber": "3844641",
    "title": "German-English science dictionary",
@@ -3705,24 +3703,4 @@
    ],
    "peerReviewed": "N"
   }
- ],
- "searchFacets": [
-  {
-   "index": "mt",
-   "facetType": "content",
-   "values": [
-    {
-     "value": "nonFic",
-     "count": 62
-    },
-    {
-     "value": "bio",
-     "count": 3
-    }
-   ]
-  }
  ]
-}
-{
- "numberOfRecords": 0
-}]
