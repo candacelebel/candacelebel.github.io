@@ -1,3706 +1,626 @@
 [
-  {
-   "oclcNumber": "3844641",
-   "title": "German-English science dictionary",
-   "titleInfo": {
-    "text": "German-English science dictionary"
-   },
-   "creator": "Louis De Vries",
-   "contributors": [
     {
-     "firstName": {
-      "text": "Louis"
-     },
-     "secondName": {
-      "text": "De Vries"
-     },
-     "isPrimary": true
+        "oclcNumber": "947940",
+        "title": "Weathering the storm : women of the American Revolution",
+        "creator": "Elizabeth Evans",
+        "thumbnail": "http://books.google.com/books/content?id=BO52AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Leon"
-     },
-     "secondName": {
-      "text": "Jacolev"
-     },
-     "isPrimary": false
+        "oclcNumber": "707209",
+        "title": "The price of loyalty : Tory writings from the Revolutionary era",
+        "creator": "Catherine S. Crary",
+        "thumbnail": "http://books.google.com/books/content?id=8Tl3AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Phyllis L."
-     },
-     "secondName": {
-      "text": "Bolton"
-     },
-     "isPrimary": false
-    }
-   ],
-   "date": "\u00a91978",
-   "machineReadableDate": "1978",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "4th ed",
-   "publisher": "McGraw-Hill",
-   "publicationPlace": "New York",
-   "isbns": [
-    "0070166021",
-    "9780070166028"
-   ],
-   "subjectsText": [
-    "Deutsch, ..",
-    "Science Dictionaries German",
-    "German language Dictionaries English",
-    "Science",
-    "German language Dictionaries",
-    "Dictionaries german",
-    "Terminology",
-    "Technology",
-    "Sciences Dictionnaires allemands",
-    "Allemand (Langue) Dictionnaires anglais",
-    "Sciences",
-    "sciences (philosophy)",
-    "German language",
-    "Englisch",
-    "Wo\u0308rterbuch",
-    "Naturwissenschaften",
-    "Ingenieurwissenschaften",
-    "Dictionary",
-    "Wo\u0308rterbuch (mehrsprachig)",
-    "dictionaries",
-    "Dictionaries",
-    "Dictionnaires",
-    "Science German & English dictionaries"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T20:19:02.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "4020194",
-   "title": "Geology of Albuquerque Basin, New Mexico",
-   "titleInfo": {
-    "text": "Geology of Albuquerque Basin, New Mexico"
-   },
-   "creator": "Vincent C. Kelley",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Vincent C."
-     },
-     "secondName": {
-      "text": "Kelley"
-     },
-     "isPrimary": true
-    }
-   ],
-   "date": "1977",
-   "machineReadableDate": "1977",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "1st ed",
-   "publisher": "New Mexico Bureau of Mines & Mineral Resources",
-   "publicationPlace": "Socorro",
-   "subjectsText": [
-    "Geology New Mexico Albuquerque Basin",
-    "Geology",
-    "New Mexico Albuquerque Basin"
-   ],
-   "series": "Memoir (New Mexico. Bureau of Mines and Mineral Resources)",
-   "seriesVolumes": [
-    "33"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T19:55:43.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "894802426",
-   "title": "\u8a73\u8a3b\u804a\u9f4b\u5fd7\u7570\u5716\u8a60",
-   "titleInfo": {
-    "text": "\u8a73\u8a3b\u804a\u9f4b\u5fd7\u7570\u5716\u8a60",
-    "romanizedText": "Xiang zhu Liao zhai zhi yi tu yong",
-    "languageCode": "ZH",
-    "textDirection": "LTR"
-   },
-   "creator": "\u84b2\u677e\u9f61, 1640-1715, author",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "[\u84b2\u677e\u9f61\u64b0 ; \u5442\u6e5b\u6069\u6ce8].",
-      "romanizedText": "[Pu Songling zhuan ; Lu Zhan'en zhu].",
-      "languageCode": "ZH",
-      "textDirection": "LTR"
-     },
-     "isPrimary": false,
-     "fromStatementOfResponsibility": true
+        "oclcNumber": "342080",
+        "title": "Trumpets sounding; propaganda plays of the American Revolution",
+        "creator": "Norman Philbrick",
+        "thumbnail": "http://books.google.com/books/content?id=-qh2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "\u84b2\u677e\u9f61, 1640-1715, author",
-      "romanizedText": "Songling",
-      "languageCode": "ZH",
-      "textDirection": "LTR"
-     },
-     "secondName": {
-      "romanizedText": "Pu",
-      "languageCode": "ZH",
-      "textDirection": "LTR"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "447466",
+        "title": "The untapped human resource : the urban Negro and employment equality",
+        "creator": "Marvin J. Levine",
+        "thumbnail": "http://books.google.com/books/content?id=eJWaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "\u5442\u6e5b\u6069",
-      "romanizedText": "Zhan'en",
-      "languageCode": "ZH",
-      "textDirection": "LTR"
-     },
-     "secondName": {
-      "romanizedText": "L\u00fc",
-      "languageCode": "ZH",
-      "textDirection": "LTR"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "edt"
-     ]
-    }
-   ],
-   "date": "1980",
-   "machineReadableDate": "1980",
-   "language": "chi",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "\u4e2d\u83ef\u5716\u66f8\u9928\u767c\u884c",
-   "publicationPlace": "[[Place of publication not identified]",
-   "subjectsText": [
-    "Ghost stories, Chinese",
-    "Chinese fiction Qing dynasty, 1644-1912",
-    "Histoires de fanto\u0302mes chinoises",
-    "Roman chinois 1644-1912 (Dynastie mandchoue)",
-    "Chinese fiction",
-    "Qing Dynasty (China)",
-    "1644-1912"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T18:46:28.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "3659385",
-   "title": "Geologic and hydrologic features of the San Bernardino area, California, with special reference to underflow across the San Jacinto fault",
-   "titleInfo": {
-    "text": "Geologic and hydrologic features of the San Bernardino area, California, with special reference to underflow across the San Jacinto fault"
-   },
-   "creator": "Geological Survey (U.S.).",
-   "contributors": [
-    {
-     "nonPersonName": {
-      "text": "Geological Survey (U.S.)."
-     },
-     "isPrimary": true
+        "oclcNumber": "2696135",
+        "title": "The setting for Black business development : a study in sociology and political economy",
+        "creator": "Roy F. Lee",
+        "thumbnail": "http://books.google.com/books/content?id=sZWaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "L. C."
-     },
-     "secondName": {
-      "text": "Dutcher"
-     },
-     "isPrimary": false
+        "oclcNumber": "590829",
+        "title": "The Black man comes to the city : a documentary account from the great migration to the great depression, 1915 to 1930",
+        "creator": "Robert B. Grant",
+        "thumbnail": "http://books.google.com/books/content?id=0Xp2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "A. A."
-     },
-     "secondName": {
-      "text": "Garrett"
-     },
-     "isPrimary": false
-    }
-   ],
-   "date": "1958",
-   "machineReadableDate": "1958",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "subjectsText": [
-    "Geology California",
-    "Groundwater California",
-    "Water-supply California",
-    "Eau souterraine Californie",
-    "Geology",
-    "Groundwater",
-    "Water-supply",
-    "California"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T17:41:54.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "23788",
-   "title": "Genetic counseling; a guide for the practicing physician",
-   "titleInfo": {
-    "text": "Genetic counseling; a guide for the practicing physician"
-   },
-   "creator": "Walter Fuhrmann",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Walter"
-     },
-     "secondName": {
-      "text": "Fuhrmann"
-     },
-     "isPrimary": true
+        "oclcNumber": "361673",
+        "title": "The Black migration, the journey to urban America",
+        "creator": "George W. Groh",
+        "thumbnail": "http://books.google.com/books/content?id=hPF1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Friedrich"
-     },
-     "secondName": {
-      "text": "Vogel"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "1969",
-   "machineReadableDate": "1969",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Springer-Verlag",
-   "publicationPlace": "New York",
-   "subjectsText": [
-    "Genetic counseling",
-    "Genetic disorders",
-    "Medical genetics",
-    "Heredity",
-    "Genetic Diseases, Inborn",
-    "Genetics, Medical",
-    "Genetic Counseling",
-    "Genetics",
-    "He\u0301re\u0301dite\u0301",
-    "Maladies ge\u0301ne\u0301tiques",
-    "Conseil ge\u0301ne\u0301tique",
-    "Ge\u0301ne\u0301tique me\u0301dicale",
-    "Gene\u0300tica humana",
-    "Fulltext",
-    "Translations",
-    "Internet Resources"
-   ],
-   "series": "Heidelberg science library",
-   "seriesVolumes": [
-    "v. 10"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T17:26:10.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1272891922",
-   "title": "The history of political thought : a very short introduction",
-   "titleInfo": {
-    "text": "The history of political thought : a very short introduction"
-   },
-   "creator": "Richard Whatmore",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Richard"
-     },
-     "secondName": {
-      "text": "Whatmore"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2021",
-   "machineReadableDate": "2021",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "9780198853725",
-    "0198853726"
-   ],
-   "subjectsText": [
-    "Political science Philosophy History",
-    "Political science Philosophy",
-    "History"
-   ],
-   "series": "Very short introductions",
-   "seriesVolumes": [
-    "692"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T17:16:46.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Explores the core concerns and questions in the history of political thought. It considers the field as a branch of political philosophy and political science, and examines the approaches of core theorists such as Reinhart Koselleck, Leo Strauss, Michel Foucault, and the so-called Cambridge School of Quentin Skinner and John Pocock. Assessing the current relationship between political history, theory, and action, it concludes with an analysis of its ongoing relevance for current politics. -- Cover"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "534856",
-   "title": "General endocrinology",
-   "titleInfo": {
-    "text": "General endocrinology"
-   },
-   "creator": "C. Donnell Turner",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "C. Donnell"
-     },
-     "secondName": {
-      "text": "Turner"
-     },
-     "isPrimary": true
-    }
-   ],
-   "date": "[\u00a91955]",
-   "machineReadableDate": "1955",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "2d ed",
-   "publisher": "Saunders",
-   "publicationPlace": "Philadelphia",
-   "isbns": [
-    "0721689329",
-    "9780721689326"
-   ],
-   "subjectsText": [
-    "Endocrinology",
-    "Endocrine glands",
-    "Hormones",
-    "Endocrine Glands",
-    "Glandes endocrines",
-    "Endocrinologie",
-    "hormone"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T17:13:43.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "26452704",
-   "title": "Gattungskonventionen der Ha\u0308ndel-Oper : Bericht u\u0308ber die Symposien der Internationalen Ha\u0308ndel-Akademie Karlsruhe 1990 und 1991",
-   "titleInfo": {
-    "text": "Gattungskonventionen der Ha\u0308ndel-Oper : Bericht u\u0308ber die Symposien der Internationalen Ha\u0308ndel-Akademie Karlsruhe 1990 und 1991"
-   },
-   "creator": "Internationale Ha\u0308ndel-Akademie Karlsruhe",
-   "contributors": [
-    {
-     "nonPersonName": {
-      "text": "Internationale Ha\u0308ndel-Akademie Karlsruhe"
-     },
-     "isPrimary": true
+        "oclcNumber": "495442",
+        "title": "Inveighing we will go",
+        "creator": "William F. Buckley",
+        "thumbnail": "http://books.google.com/books/content?id=shgfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Hans Joachim"
-     },
-     "secondName": {
-      "text": "Marx"
-     },
-     "isPrimary": false
-    }
-   ],
-   "date": "\u00a91992",
-   "machineReadableDate": "1992",
-   "language": "ger",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Laaber-Verlag",
-   "publicationPlace": "Laaber",
-   "isbns": [
-    "3890072674",
-    "9783890072678"
-   ],
-   "subjectsText": [
-    "Handel, George Frideric, 1685-1759 Dramaturgy Congresses",
-    "Handel, George Frideric, 1685-1759",
-    "Arianna in Creta (Handel, George Frideric)",
-    "Operas (Handel, George Frideric)",
-    "Opera Dramaturgy Congresses",
-    "Ope\u0301ra Dramaturgie Congre\u0300s",
-    "Opera Dramaturgy",
-    "Opera's",
-    "Genres",
-    "Traditie",
-    "Conference papers and proceedings",
-    "Handel, George Frideric 1685-1759 Arianna in Creta",
-    "Handel, George Frideric 1685-1759 Dramaturgy Congresses",
-    "Handel, George Frideric 1685-1759 Operas"
-   ],
-   "series": "Vero\u0308ffentlichungen der Internationalen Ha\u0308ndel-Akademie Karlsruhe",
-   "seriesVolumes": [
-    "Bd. 4"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T17:03:44.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1194988",
-   "title": "Gastrointestinal ultrastructure : an atlas of scanning and transmission electron micrographs",
-   "titleInfo": {
-    "text": "Gastrointestinal ultrastructure : an atlas of scanning and transmission electron micrographs"
-   },
-   "creator": "Carl J. Pfeiffer",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Carl J."
-     },
-     "secondName": {
-      "text": "Pfeiffer"
-     },
-     "isPrimary": true
+        "oclcNumber": "222032",
+        "title": "Black business enterprise : historical and contemporary perspectives",
+        "creator": "Ronald William Bailey",
+        "thumbnail": "http://books.google.com/books/content?id=yCuaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Geoffrey"
-     },
-     "secondName": {
-      "text": "Rowden"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "475204",
+        "title": "The Great Society reader : the failure of American liberalism",
+        "creator": "Marvin E. Gettleman",
+        "thumbnail": "http://books.google.com/books/content?id=GN54AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Josef"
-     },
-     "secondName": {
-      "text": "Weibel"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "[1974]",
-   "machineReadableDate": "1974",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Igaku Shoin ; Academic Press",
-   "publicationPlace": "Tokyo, New York",
-   "isbns": [
-    "0125537506",
-    "9780125537506"
-   ],
-   "subjectsText": [
-    "Alimentary canal Atlases",
-    "Ultrastructure (Biology) Atlases",
-    "Transmission electron microscopes",
-    "Digestive System cytology",
-    "Tube digestif Atlas",
-    "Ultrastructure (Biologie) Atlas",
-    "Microscopes e\u0301lectroniques a\u0300 transmission",
-    "Alimentary canal",
-    "Ultrastructure (Biology)",
-    "Atlases",
-    "Atlas",
-    "Atlases, Pictorial",
-    "atlases",
-    "Scientific atlases"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T16:52:14.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1836075",
-   "title": "Fur-bearing mammals of California: their natural history, systematic status, and relations to man",
-   "titleInfo": {
-    "text": "Fur-bearing mammals of California: their natural history, systematic status, and relations to man"
-   },
-   "creator": "Joseph Grinnell",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Joseph"
-     },
-     "secondName": {
-      "text": "Grinnell"
-     },
-     "isPrimary": true
+        "oclcNumber": "663698",
+        "title": "Consequences of failure",
+        "creator": "William R. Corson",
+        "thumbnail": "http://books.google.com/books/content?id=-zFwXN_6_CoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Joseph S."
-     },
-     "secondName": {
-      "text": "Dixon"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "1963459",
+        "title": "The Negro genius; a new appraisal of the achievement of the American Negro in literature and the fine arts",
+        "creator": "Benjamin Brawley",
+        "thumbnail": "http://books.google.com/books/content?id=17dr4sQaRxoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Jean M."
-     },
-     "secondName": {
-      "text": "Linsdale"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "125560",
+        "title": "Senator Arthur H. Vandenberg: the evolution of a modern Republican, 1884-1945",
+        "creator": "C. David Tompkins",
+        "thumbnail": "http://books.google.com/books/content?id=Wv13AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "nonPersonName": {
-      "text": "University of California, Berkeley"
-     },
-     "isPrimary": false
-    }
-   ],
-   "date": "1937",
-   "machineReadableDate": "1937",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of California Press",
-   "publicationPlace": "Berkeley, Calif.",
-   "subjectsText": [
-    "Fur-bearing animals California",
-    "Animaux a\u0300 fourrure Californie",
-    "Fur-bearing animals",
-    "California"
-   ],
-   "series": "Contribution from the Museum of Vertebrate Zoology of the University of California",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T16:13:26.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "558449",
-   "title": "Functional neuroanatomy, including an atlas of the brain stem",
-   "titleInfo": {
-    "text": "Functional neuroanatomy, including an atlas of the brain stem"
-   },
-   "creator": "N. B. Everett",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "N. B."
-     },
-     "secondName": {
-      "text": "Everett"
-     },
-     "isPrimary": true
+        "oclcNumber": "139014",
+        "title": "George Frisbie Hoar and the half-breed Republicans",
+        "creator": "Richard E. Welch",
+        "thumbnail": "http://books.google.com/books/content?id=IqsBAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "A. R."
-     },
-     "secondName": {
-      "text": "Buchanan"
-     },
-     "isPrimary": false,
-     "includes": [
-      {
-       "title": "Functional neuro-anatomy"
-      }
-     ]
-    }
-   ],
-   "date": "1965",
-   "machineReadableDate": "1965",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "5th ed., thoroughly rev",
-   "publisher": "Lea & Febiger",
-   "publicationPlace": "Philadelphia",
-   "subjectsText": [
-    "Neuroanatomy",
-    "Brain",
-    "Nervous System anatomy & histology",
-    "Neuroanatomie",
-    "Cerveau",
-    "brains",
-    "42.63 animal physiology",
-    "Zenuwstelsel",
-    "Functionele anatomie",
-    "Atlas",
-    "atlases",
-    "Atlases"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T15:59:30.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "6581094",
-   "title": "Functional anatomy: mammalian and comparative",
-   "titleInfo": {
-    "text": "Functional anatomy: mammalian and comparative"
-   },
-   "creator": "W. James Leach",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "W. James"
-     },
-     "secondName": {
-      "text": "Leach"
-     },
-     "isPrimary": true
-    }
-   ],
-   "date": "1961",
-   "machineReadableDate": "1961",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "3d ed",
-   "publisher": "McGraw-Hill",
-   "publicationPlace": "New York",
-   "isbns": [
-    "0070368287",
-    "9780070368286"
-   ],
-   "subjectsText": [
-    "Anatomy, Comparative",
-    "Mammals",
-    "Cats Anatomy",
-    "Anatomie compare\u0301e",
-    "Mammife\u0300res",
-    "Mammalia (class)"
-   ],
-   "series": "McGraw-Hill publications in the zoological sciences",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T15:51:26.000+0000"
-    }
-   ],
-   "summariesText": [
-    "A guide to the dissection of the cat and an introduction to the structural and functional relationship between the cat and man"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "4436380",
-   "title": "Function and gross morphology in fish",
-   "titleInfo": {
-    "text": "Function and gross morphology in fish"
-   },
-   "creator": "I\ufe20U\ufe21. G. Aleev",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "I\ufe20U\ufe21. G."
-     },
-     "secondName": {
-      "text": "Aleev"
-     },
-     "isPrimary": true
-    }
-   ],
-   "date": "1969",
-   "machineReadableDate": "1969",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Israel Program for Scientific Translations",
-   "publicationPlace": "Jerusalem",
-   "subjectsText": [
-    "Fishes Anatomy",
-    "Fishes Locomotion",
-    "Fishes anatomy & histology",
-    "Fishes physiology",
-    "Poissons Anatomie",
-    "Poissons Locomotion",
-    "vissen",
-    "fishes",
-    "dieranatomie",
-    "animal anatomy",
-    "morfologie",
-    "morphology",
-    "Pisces",
-    "Animal Anatomy and Morphology",
-    "Dieranatomie en -morfologie"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T15:41:33.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1287923997",
-   "title": "The pastor in print : genre, audience, and religious change in early modern England",
-   "titleInfo": {
-    "text": "The pastor in print : genre, audience, and religious change in early modern England"
-   },
-   "creator": "Amy G. Tan",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Amy G."
-     },
-     "secondName": {
-      "text": "Tan"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Manchester University Press",
-   "publicationPlace": "Manchester",
-   "isbns": [
-    "1526152207",
-    "9781526152206"
-   ],
-   "subjectsText": [
-    "Religion and literature England History 16th century",
-    "Clergy Books and reading England History 16th century",
-    "Religion et litte\u0301rature Angleterre Histoire 16e sie\u0300cle",
-    "Clergy Books and reading",
-    "Religion",
-    "Religion and literature",
-    "England Religion 16th century",
-    "Angleterre Religion 16e sie\u0300cle",
-    "England",
-    "History",
-    "1500-1599"
-   ],
-   "series": "Politics, culture, and society in early modern Britain",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:09.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1322473189",
-   "title": "City of refugees : the story of three newcomers who breathed life into a dying American town",
-   "titleInfo": {
-    "text": "City of refugees : the story of three newcomers who breathed life into a dying American town"
-   },
-   "creator": "Susan Hartman",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Susan"
-     },
-     "secondName": {
-      "text": "Hartman"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Beacon Press",
-   "publicationPlace": "Boston",
-   "isbns": [
-    "9780807024676",
-    "0807024678"
-   ],
-   "subjectsText": [
-    "Women refugees United States Biography",
-    "Women refugees New York (State) Utica Social conditions",
-    "Emigration and immigration Social aspects",
-    "Social conditions",
-    "Women refugees",
-    "Women refugees Social conditions",
-    "Utica (N.Y.) Biography",
-    "Utica (N.Y.) Social conditions",
-    "United States Emigration and immigration Social aspects",
-    "New York (State) Utica",
-    "United States",
-    "Biographies"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:09.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"City of Refugees is the story of three newcomers-a rebellious Somali Bantu girl; a Bosnian woman, who runs a home bakery; and an Iraqi interpreter, haunted by war-as they adapt to an old manufacturing city\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1291573407",
-   "title": "Geography is destiny : Britain and the world : a 10,000-year history",
-   "titleInfo": {
-    "text": "Geography is destiny : Britain and the world : a 10,000-year history"
-   },
-   "creator": "Ian Morris",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Ian"
-     },
-     "secondName": {
-      "text": "Morris"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First American edition",
-   "publisher": "Farrar, Straus and Giroux",
-   "publicationPlace": "New York",
-   "isbns": [
-    "9780374157272",
-    "0374157278"
-   ],
-   "subjectsText": [
-    "HISTORY / World",
-    "Civilization",
-    "International relations",
-    "Great Britain Relations Europe",
-    "Europe Relations Great Britain",
-    "Great Britain Civilization",
-    "Great Britain History",
-    "Europe Relations Grande-Bretagne",
-    "Grande-Bretagne Civilisation",
-    "Grande-Bretagne Histoire",
-    "Europe",
-    "Great Britain",
-    "History"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:08.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"In the wake of Brexit, Ian Morris chronicles the eight-thousand-year history of Britain's relationship to Europe as it has changed in the context of a globalizing world\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1293448680",
-   "title": "German history unbound : from 1750 to the present",
-   "titleInfo": {
-    "text": "German history unbound : from 1750 to the present"
-   },
-   "creator": "H. Glenn Penny",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "H. Glenn"
-     },
-     "secondName": {
-      "text": "Penny"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Cambridge University Press",
-   "publicationPlace": "Cambridge, United Kingdom",
-   "isbns": [
-    "9781316510414",
-    "1316510417",
-    "9781316649916",
-    "1316649911"
-   ],
-   "subjectsText": [
-    "Germans Foreign countries History",
-    "Germans Ethnic identity",
-    "Transnationalism Germany",
-    "Allemands Pays e\u0301trangers Histoire",
-    "Allemands Identite\u0301 ethnique",
-    "HISTORY / Europe / General",
-    "Emigration and immigration",
-    "Germans Foreign countries",
-    "Transnationalism",
-    "Germany History",
-    "Germany Emigration and immigration History",
-    "Allemagne E\u0301migration et immigration Histoire",
-    "Germany",
-    "History"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:08.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"A polycentric German history that pointedly decenters the nation-state. It includes communities of Germans far beyond its borders, and it emphasizes that for generations many who considered themselves to be German also felt themselves to be other things. Taking up a decidedly counter-hegemonic position, Glenn calls for a greater integration of mobilities, migration flows, and pluralities of belonging into our narratives of Germans' histories. He also argues for greater attention to the transcultural spaces many Germans helped to fashion and the various networks that tied them together.\"-- Author's web page"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1277278350",
-   "title": "Completely free : the moral and political vision of John Stuart Mill",
-   "titleInfo": {
-    "text": "Completely free : the moral and political vision of John Stuart Mill"
-   },
-   "creator": "John Peter DiIulio",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "John Peter"
-     },
-     "secondName": {
-      "text": "DiIulio"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Princeton University Press",
-   "publicationPlace": "Princeton, New Jersey",
-   "isbns": [
-    "0691211221",
-    "9780691211220"
-   ],
-   "subjectsText": [
-    "Mill, John Stuart, 1806-1873",
-    "Liberty",
-    "Political science Philosophy",
-    "Utilitarianism",
-    "Philosophy, British 19th century",
-    "Philosophy, British",
-    "1800-1899"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:08.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1265456468",
-   "title": "Trade links : new rules for a new world",
-   "titleInfo": {
-    "text": "Trade links : new rules for a new world"
-   },
-   "creator": "Jim Bacchus",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Jim"
-     },
-     "secondName": {
-      "text": "Bacchus"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Cambridge University Press",
-   "publicationPlace": "Cambridge",
-   "isbns": [
-    "1009098101",
-    "9781009098106"
-   ],
-   "subjectsText": [
-    "World Trade Organization",
-    "Foreign trade regulation",
-    "Sustainable development",
-    "Commerce international Re\u0301glementation",
-    "De\u0301veloppement durable",
-    "sustainable development"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:07.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1252961227",
-   "title": "The Slovak question : a transatlantic perspective, 1914-1948",
-   "titleInfo": {
-    "text": "The Slovak question : a transatlantic perspective, 1914-1948"
-   },
-   "creator": "Michael Cude",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Michael"
-     },
-     "secondName": {
-      "text": "Cude"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of Pittsburgh Press",
-   "publicationPlace": "Pittsburgh, Pa.",
-   "isbns": [
-    "9780822947028",
-    "0822947021"
-   ],
-   "subjectsText": [
-    "Slovaks Ethnic identity",
-    "Nationalism Slovakia",
-    "Slovak Americans Politics and government",
-    "Slovaques Identite\u0301 ethnique",
-    "Nationalisme Slovaquie",
-    "Autonomy and independence movements",
-    "Diplomatic relations",
-    "Ethnic relations Political aspects",
-    "Nationalism",
-    "Politics and government",
-    "Slovakia History 1918-1945",
-    "Slovakia History Autonomy and independence movements",
-    "Czechoslovakia Ethnic relations Political aspects",
-    "Slovakia Foreign relations United States",
-    "United States Foreign relations Slovakia",
-    "Czechoslovakia Politics and government 1918-1938",
-    "Czechoslovakia Politics and government 1938-1945",
-    "Slovaquie Histoire 1918-1945",
-    "Slovaquie Relations exte\u0301rieures E\u0301tats-Unis",
-    "E\u0301tats-Unis Relations exte\u0301rieures Slovaquie",
-    "Tche\u0301coslovaquie Politique et gouvernement 1918-1938",
-    "Tche\u0301coslovaquie Politique et gouvernement 1938-1945",
-    "Czechoslovakia",
-    "Slovakia",
-    "United States",
-    "History",
-    "1918-1945"
-   ],
-   "series": "Russian and East European studies",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:07.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"The so-called Slovak question asked what place Slovaks held-or should have held-in the former state of Czechoslovakia. Formed in 1918 at the end of World War I from the remains of the Hungarian Empire, and reformed after ceasing to exist during World War II, the country would eventually split into the Czech Republic and Slovakia after the \"Velvet Divorce\" in 1993. In the meantime, the minority Slovaks often clashed with the majority Czechs over their role in the nation. The Slovak Question examines this debate from a transatlantic perspective. Explored through the relationship between Slovaks, Americans of Slovak heritage, and United States and Czechoslovakian policymakers, it shows how Slovak national activism in America helped the Slovaks establish a sense of independent identity and national political assertion after World War I. It also shows how Slovak American leaders influenced US policy by conceptualizing the United States and Slovakia as natural allies due to their connections through immigration. This process played a critical role in undermining attempts to establish a united Czechoslovakian identity and instead caused a divide between the two groups, which was exploited by Nazi Germany and then by other actors during the Cold War, and proved ultimately to be insurmountable\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1302177702",
-   "title": "A kaleidoscope of identities : reflexivity, routine, and the fluidity of sex, gender, and sexuality",
-   "titleInfo": {
-    "text": "A kaleidoscope of identities : reflexivity, routine, and the fluidity of sex, gender, and sexuality"
-   },
-   "creator": "James W. Messerschmidt",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "James W."
-     },
-     "secondName": {
-      "text": "Messerschmidt"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "664203",
+        "title": "Perspectives on early American history; essays in honor of Richard B. Morris",
+        "creator": "Richard B. Morris",
+        "thumbnail": "http://books.google.com/books/content?id=DYCnKuALbGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Tristan"
-     },
-     "secondName": {
-      "text": "Bridges"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Rowman & Littlefield",
-   "publicationPlace": "Lanham",
-   "isbns": [
-    "9781538167861",
-    "1538167867",
-    "9781538167878",
-    "1538167875"
-   ],
-   "subjectsText": [
-    "Gender identity",
-    "Sex role",
-    "Sex",
-    "Identity (Psychology)",
-    "Gender Identity",
-    "Sexual Behavior",
-    "Identite\u0301 sexuelle",
-    "Ro\u0302le selon le sexe",
-    "Sexualite\u0301",
-    "Identite\u0301 (Psychologie)",
-    "sex role",
-    "sexuality"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:07.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"This book proffers a new conceptual framework of sex, gender, and sexual identity, presenting data that documents these identities as typical and extensive rather than exceptional. A Kaleidoscope of Identities reveals the more elusive elements of sex, gender, and sexual life which are often difficult to capture in quantifiable variables\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1289482077",
-   "title": "Hessians : German soldiers in the American Revolutionary War",
-   "titleInfo": {
-    "text": "Hessians : German soldiers in the American Revolutionary War"
-   },
-   "creator": "Friederike Baer",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Friederike"
-     },
-     "secondName": {
-      "text": "Baer"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "New York, NY",
-   "isbns": [
-    "9780190249632",
-    "0190249633"
-   ],
-   "subjectsText": [
-    "Hessian mercenaries United States History",
-    "Hessian mercenaries",
-    "Military participation German",
-    "United States History Revolution, 1775-1783 Participation, German",
-    "United States",
-    "History"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:06.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Between 1776 and 1783, Britain hired an estimated 30,000 German soldiers to fight in its war against the Americans. Collectively known as Hessians, they actually came from six German territories within the Holy Roman Empire. Over the course of the war, members of the German corps, including women and children, spent extended periods of time in locations as dispersed and varied as Canada in the North to West Florida and Cuba in the South. They shared in every significant British military triumph and defeat. Thousands died of disease, were killed in battle, were captured by the enemy, or deserted. Collectively, they recorded their experiences and observations of the war they fought in, the land they traversed, and the people they encountered in a large body of letters, diaries, and similar private and official records"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1328007621",
-   "title": "Multiple comparisons for Bernoulli data",
-   "titleInfo": {
-    "text": "Multiple comparisons for Bernoulli data"
-   },
-   "creator": "Takaaki Shiraishi",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Takaaki"
-     },
-     "secondName": {
-      "text": "Shiraishi"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Springer Nature Singapore",
-   "publicationPlace": "Singapore",
-   "isbns": [
-    "9789811927072",
-    "9811927073"
-   ],
-   "subjectsText": [
-    "Statistics",
-    "Bernoulli numbers"
-   ],
-   "series": "SpringerBriefs in statistics",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:06.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Focuses on multiple comparisons of proportions in multi-sample models with Bernoulli responses. First, the author explains the one-sample and two-sample methods that form the basis of multiple comparisons. Then, regularity conditions are stated in detail. Simultaneous inference for all proportions based on exact confidence limits and based on asymptotic theory is discussed. Closed testing procedures based on some one-sample statistics are introduced. For all-pairwise multiple comparisons of proportions, the author uses arcsine square root transformation of sample means. Closed testing procedures based on maximum absolute values of some two-sample test statistics and based on chi-square test statistics are introduced. It is shown that the multi-step procedures are more powerful than single-step procedures and the RyanEinotGabrielWelsch (REGW)-type tests. Furthermore, the author discusses multiple comparisons with a control. Under simple ordered restrictions of proportions, the author also discusses closed testing procedures based on maximum values of two-sample test statistics and based on Bartholomew's statistics. Last, serial gatekeeping procedures based on the above-mentioned closed testing procedures are proposed although Bonferroni inequalities are used in serial gatekeeping procedures of many"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1298383316",
-   "title": "Contesting the last frontier : race, gender, ethnicity, and political representation of Asian Americans",
-   "titleInfo": {
-    "text": "Contesting the last frontier : race, gender, ethnicity, and political representation of Asian Americans"
-   },
-   "creator": "Pei-Te Lien",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Pei-Te"
-     },
-     "secondName": {
-      "text": "Lien"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "9780190077679",
-    "0190077670",
-    "9780190077686",
-    "0190077689"
-   ],
-   "subjectsText": [
-    "Asian Americans Politics and government",
-    "Asian American legislators",
-    "Women Political activity United States",
-    "Minorities Political activity United States",
-    "Race Political aspects United States",
-    "Minorities Political activity",
-    "Race Political aspects",
-    "Women Political activity",
-    "United States"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:06.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1285493010",
-   "title": "The politics of immigration in Scotland",
-   "titleInfo": {
-    "text": "The politics of immigration in Scotland"
-   },
-   "creator": "Aubrey L. Westfall",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Aubrey L."
-     },
-     "secondName": {
-      "text": "Westfall"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Edinburgh University Press",
-   "publicationPlace": "Edinburgh",
-   "isbns": [
-    "1474491588",
-    "9781474491587"
-   ],
-   "subjectsText": [
-    "Emigration and immigration Government policy",
-    "Emigration and immigration Political aspects",
-    "Scotland Emigration and immigration Political aspects",
-    "Scotland Emigration and immigration Government policy",
-    "E\u0301cosse E\u0301migration et immigration Politique gouvernementale",
-    "Scotland"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:05.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1264737478",
-   "title": "Stabilizing fragile states : why it matters and what to do about it",
-   "titleInfo": {
-    "text": "Stabilizing fragile states : why it matters and what to do about it"
-   },
-   "creator": "Rufus C. Phillips",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Rufus C."
-     },
-     "secondName": {
-      "text": "Phillips"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University Press of Kansas",
-   "publicationPlace": "Lawrence, Kansas",
-   "isbns": [
-    "9780700633043",
-    "0700633049"
-   ],
-   "subjectsText": [
-    "Nation-building United States",
-    "Legitimacy of governments Developing countries",
-    "Political stability Developing countries",
-    "Internal security Developing countries",
-    "Reconstruction d'une nation E\u0301tats-Unis",
-    "Diplomatic relations",
-    "Internal security",
-    "Legitimacy of governments",
-    "Nation-building",
-    "Political stability",
-    "United States Foreign relations",
-    "E\u0301tats-Unis Relations exte\u0301rieures",
-    "Developing countries",
-    "United States"
-   ],
-   "series": "ADST-DACOR diplomats and diplomacy series",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:05.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Stabilizing Fragile States is about intervening to help fragile states stabilize in the face of internal challenges that threaten national security and how the United States can do better at less cost with improved chances of success. Recent US involvements have ranged in intensity and size from Colombia, which did not put American boots on the ground, to massive interventions in Iraq and Afghanistan, which did. The lack of success in Afghanistan and Iraq has tended to dominate the national conversation about dealing with fragile states. Helping stabilize fragile states has been too much of a poorly informed, impersonal, technocratic and conflicted process, dominated by reactions to events and missing a more human approach tailored to various countries' circumstances. In this book, Rufus Phillips explains why we have not been more successful and what it would take to make this form of foreign intervention effective and sustainable\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1264717390",
-   "title": "Yeats's poetic codes",
-   "titleInfo": {
-    "text": "Yeats's poetic codes"
-   },
-   "creator": "Nicholas Grene",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Nicholas"
-     },
-     "secondName": {
-      "text": "Grene"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford, United Kingdom",
-   "isbns": [
-    "9780199234776",
-    "0199234779",
-    "9780192857767",
-    "0192857762"
-   ],
-   "subjectsText": [
-    "Yeats, W. B. 1865-1939 Literary style",
-    "Yeats, W. B. 1865-1939 Criticism, Textual",
-    "Yeats, W. B. 1865-1939 Criticism and interpretation",
-    "Yeats, W. B. 1865-1939",
-    "Literary style"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:05.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Nicholas Grene explores Yeats's poetic codes of practice, the key words and habits of speech that shape the reading experience of his poetry.  Where previous studies have sought to decode his work, expounding its symbolic meanings by references to Yeats's occult beliefs, philosophical ideas or political ideology, the focus here is on his poetic technique, its typical forms and their implications for the understanding of the poems. Grene is concerned with the distinctive stylistic signatures of the Collected Poems: the use of dates and place names within individual poems; the handling of demonstratives and of grammatical tense and mood; certain nodal Yeatsian words ('dream', 'bitter', 'sweet') and images (birds and beasts); dialogue and monologue as the voices of his dramatic lyrics. The aim throughout is to illustrate the shifting and unstable movement between lived reality and transcendental thought in Yeats, the embodied quality of his poetry between a phenomenal world of sight and an imagined world of vision\" -- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1310787817",
-   "title": "Poverty and power : the problem of structural inequality",
-   "titleInfo": {
-    "text": "Poverty and power : the problem of structural inequality"
-   },
-   "creator": "Edward Cary Royce",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Edward Cary"
-     },
-     "secondName": {
-      "text": "Royce"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2023",
-   "machineReadableDate": "2023",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "Fourth edition",
-   "publisher": "Rowman & Littlefield",
-   "publicationPlace": "Lanham, Maryland",
-   "isbns": [
-    "9781538167557",
-    "1538167557",
-    "9781538167564",
-    "1538167565"
-   ],
-   "subjectsText": [
-    "Poverty United States",
-    "Equality United States",
-    "Pauvrete\u0301 E\u0301tats-Unis",
-    "Equality",
-    "Poverty",
-    "United States"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:04.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Poverty and Power examines structural inequality in American society by focusing on the persistence of poverty, resulting from failings of our political, economic, cultural, and social systems\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1273668857",
-   "title": "Devil from over the sea : remembering and forgetting Oliver Cromwell in Ireland",
-   "titleInfo": {
-    "text": "Devil from over the sea : remembering and forgetting Oliver Cromwell in Ireland"
-   },
-   "creator": "Sarah Covington",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Sarah"
-     },
-     "secondName": {
-      "text": "Covington"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First Edition",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "9780198848318",
-    "0198848315"
-   ],
-   "subjectsText": [
-    "Cromwell, Oliver, 1599-1658 Public opinion",
-    "Cromwell, Oliver, 1599-1658",
-    "Collective memory Ireland History",
-    "Me\u0301moire collective Irlande Histoire",
-    "Collective memory",
-    "Historiography",
-    "Public opinion",
-    "Ireland History 1649-1660 Historiography",
-    "Irlande Histoire 1649-1660 Historiographie",
-    "Ireland",
-    "History",
-    "1649-1660"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:04.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1261770726",
-   "title": "In our time : authoritative text, contexts, criticism",
-   "titleInfo": {
-    "text": "In our time : authoritative text, contexts, criticism"
-   },
-   "creator": "Ernest Hemingway",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Ernest"
-     },
-     "secondName": {
-      "text": "Hemingway"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "2372890",
+        "title": "Black Ohio and the color line, 1860-1915",
+        "creator": "David A. Gerber",
+        "thumbnail": "http://books.google.com/books/content?id=7kl2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "J. Gerald"
-     },
-     "secondName": {
-      "text": "Kennedy"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "edt"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "W.W. Norton & Company, Inc.",
-   "publicationPlace": "New York, N.Y.",
-   "isbns": [
-    "9780393543056",
-    "0393543056"
-   ],
-   "subjectsText": [
-    "Hemingway, Ernest, 1899-1961",
-    "Short stories (Hemingway, Ernest)",
-    "Adams, Nick (Fictitious character) Fiction",
-    "Autobiographical fiction, American",
-    "Adventure stories, American",
-    "Adams, Nick (Fictitious character)",
-    "short stories",
-    "Fiction",
-    "Literary criticism",
-    "Short stories",
-    "Nouvelles",
-    "Critiques litte\u0301raires"
-   ],
-   "series": "Norton critical edition",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:04.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"In Our Time, a volume of short stories and prose poems, chronicles events before, during, and after the World War I. Hemingway's first major work, the volume exemplifies modernist literature with its unpredictable juxtapositions, disjointed narration, and jarring themes. The stories mere \"Lost Generation\" memories of birth, death, violence, romance, and adventure, some belonging to the semi-autobiographical character Nick Adams. Despite Nick's recurrent challenges, the stories follow a nonlinear, random pattern that marks modernist literature. \"Contexts\" offers a collection of Hemingway's other writings as a journalist and an assortment of letters he wrote to his friends in order to illustrate the background in which In Our Time was conceived. \"Criticism\" includes early reviews that skyrocketed Hemingway to fame, as well as contemporary and recent criticism that analyzes specific stories within the collection. A chronology and selected bibliography are also included\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1314335432",
-   "title": "Cops, teachers, counselors : stories from the front lines of public service",
-   "titleInfo": {
-    "text": "Cops, teachers, counselors : stories from the front lines of public service"
-   },
-   "creator": "Steven Maynard-Moody",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Steven"
-     },
-     "secondName": {
-      "text": "Maynard-Moody"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "241591",
+        "title": "The winning of independence",
+        "creator": "Marshall Smelser",
+        "thumbnail": "http://books.google.com/books/content?id=I7h2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Michael C."
-     },
-     "secondName": {
-      "text": "Musheno"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "New and expanded edition. Second edition",
-   "publisher": "University of Michigan Press",
-   "publicationPlace": "Ann Arbor",
-   "isbns": [
-    "9780472075249",
-    "0472075241",
-    "9780472055241",
-    "0472055240"
-   ],
-   "subjectsText": [
-    "Human services personnel United States",
-    "Social workers United States",
-    "Police United States",
-    "Teachers United States",
-    "Police",
-    "Social workers",
-    "Teachers",
-    "United States",
-    "Personal narratives"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:03.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"The book examines routine encounters of cops, teachers, and counselors with diverse publics when questions of justice and fairness are at play. This new edition speaks to contemporary issues at a time when frontline workers gained broad recognition for their heroic contributions to communities during the Covid 19 pandemic, as well as sustained condemnation for their embodiment of the brutal expression of racialized state power in police actions. The authors conclude with a focus on the significance of place and trust in building social inclusion on the frontlines of public service\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1319835329",
-   "title": "Mathematical modeling of the learning curve and its practical applications",
-   "titleInfo": {
-    "text": "Mathematical modeling of the learning curve and its practical applications"
-   },
-   "creator": "Igor I. Stepanov",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Igor I."
-     },
-     "secondName": {
-      "text": "Stepanov"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "92949",
+        "title": "Negro employment in basic industry; a study of racial policies in six industries",
+        "creator": "Herbert R. Northrup",
+        "thumbnail": "http://books.google.com/books/content?id=t9cNAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Charles I."
-     },
-     "secondName": {
-      "text": "Abramson"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Nova Science Publishers",
-   "publicationPlace": "New York",
-   "isbns": [
-    "9781685077372",
-    "1685077374"
-   ],
-   "subjectsText": [
-    "Learning curve (Psychometrics)",
-    "Learning Mathematical models",
-    "Learning curve (Psychometrics) Data processing"
-   ],
-   "series": "Mathematics research developments series",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:03.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"This book provides a detailed description of the application of mathematical learning curve modeling to analyze the state of learning and memory in humans and animals. The purpose of the book is to enable the readers to apply the knowledge gained in their own research on learning and memory. The authors hope that the readers may achieve success in this field of knowledge, expand and advance mathematical modeling of the learning curve, and that this book may aid in this process. For this, the authors have developed their own mathematical model based on the systems theory and proved its advantage in relation to those previously proposed. The authors developed MS Windows application \"Learning Curve Modeling Tool\" to help the reader modeling the learning curve from raw learning data in the California Verbal Learning Test, the Rey Auditory Verbal Learning Test, and other similar memory tests. Moreover, the book describes in detail the Windows and Android application \"Memory Monitoring Tool\", developed by the authors, which is suited well for mathematical modeling of the learning curves. The application aims to reveal initial signs of memory impairment. Besides, the section APPENDIX A describes a Web application - \"Learning curve simulator\" - developed by the authors for helping readers to get started with practically modeling the learning curve and testing their memory. This application is included in the book. The book will be useful for undergraduate students, graduate students, advanced graduate students, and professors, especially for professors who work on learning in both humans and animals, and those interested in the memory of marijuana users, alcoholics, and those suffering from diabetes and multiple sclerosis, as well as other neurological and psychological diseases and their neurological complications including those after COVID-19\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1262798324",
-   "title": "Incomprehensible certainty  : metaphysics and hermeneutics of the image",
-   "titleInfo": {
-    "text": "Incomprehensible certainty  : metaphysics and hermeneutics of the image"
-   },
-   "creator": "Thomas Pfau",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Thomas"
-     },
-     "secondName": {
-      "text": "Pfau"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of Notre Dame Press",
-   "publicationPlace": "Notre Dame, Indiana",
-   "isbns": [
-    "0268202486",
-    "9780268202484"
-   ],
-   "subjectsText": [
-    "Imagery (Psychology) Philosophy",
-    "Visual communication Philosophy",
-    "Icons Philosophy",
-    "Imagerie (Psychologie) Philosophie"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:03.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Thomas Pfau's study of images and visual experience is a tour de force linking Platonic metaphysics to modern phenomenology and probing literary, philosophical, and theological accounts of visual experience from Plato to Rilke. Incomprehensible Certainty presents a sustained reflection on the nature of images and the phenomenology of visual experience. Taking the \"image\" (eiko\u0304n) as the essential medium of art and literature and as foundational for the intuitive ways in which we make contact with our \"lifeworld,\" Thomas Pfau draws in equal measure on Platonic metaphysics and modern phenomenology to advance a series of interlocking claims. First, Pfau shows that, beginning with Plato's later dialogues, being and appearance came to be understood as ontologically distinct from (but no longer opposed to) one another. Second, in contrast to the idol that is typically gazed at and visually consumed as an object of desire, this study positions the image (eiko\u0304n) as a medium whose intrinsic abundance and excess reveal to us its metaphysical function, namely, as the visible analogue of an invisible, numinous reality. Finally, the interpretations unfolded in this book (from Plato, Plotinus, Pseudo-Dionysius, John Damascene via Bernard of Clairvaux, Bonaventure, Julian of Norwich, and Nicholas of Cusa to modern writers and artists such as Goethe, Ruskin, Turner, Hopkins, Ce\u0301zanne, and Rilke) affirm the essential complementarity of image and word, visual intuition and hermeneutic practice, in theology, philosophy, and literature. Like Pfau's previous book, Minding the Modern, Incomprehensible Certainty is a major work. With over fifty illustrations, the book will interest students and scholars of philosophy, theology, literature, and art history\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1285122011",
-   "title": "Troll magic : hidden folk from the mountains and forests of Norway",
-   "titleInfo": {
-    "text": "Troll magic : hidden folk from the mountains and forests of Norway"
-   },
-   "creator": "Theodor Kittelsen",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Theodor"
-     },
-     "secondName": {
-      "text": "Kittelsen"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "5438616",
+        "title": "Illustrated history of the Bible : its origin, truth, and divinity, as exhibited in the lives and acts of its authors and defenders ; comprising ... biographies of the patriarchs and prophets ; of Christ and his apostles ; and of the early fathers and martyrs, embracing a term of more than three thousand years",
+        "creator": "J. E. Stebbins",
+        "thumbnail": "http://books.google.com/books/content?id=csdCAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Tiina"
-     },
-     "secondName": {
-      "text": "Nunnally"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "trl"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of Minnesota Press",
-   "publicationPlace": "Minneapolis",
-   "isbns": [
-    "9781517911393",
-    "1517911397"
-   ],
-   "subjectsText": [
-    "Animals, Mythical Norway",
-    "Monsters Norway",
-    "Magic Norway",
-    "Folklore Norway",
-    "Animaux fabuleux Norve\u0300ge",
-    "Folklore Norve\u0300ge",
-    "Animals, Mythical",
-    "Folklore",
-    "Magic",
-    "Monsters",
-    "Norway"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:02.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"In this book, first published as Troldskab in 1892, Theodor Kittelsen spins tales of wonder around creatures rumored to haunt the fields, forests, and waterfalls of Norway. Striding, gamboling, and slithering across these pages are witches and gnomes and sea monsters, fiery dragons waking from their stiff-winged slumber, mermaids rising from the deep, and sly shapeshifting n\u00f8kk. But first and foremost are the trolls, hapless, horrible, or just plain silly, working their spells and making their mischief to the terror and delight of the presumably human reader\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1273668186",
-   "title": "Up from the depths : Herman Melville, Lewis Mumford, and rediscovery in dark times",
-   "titleInfo": {
-    "text": "Up from the depths : Herman Melville, Lewis Mumford, and rediscovery in dark times"
-   },
-   "creator": "Aaron Sachs",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Aaron"
-     },
-     "secondName": {
-      "text": "Sachs"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Princeton University Press",
-   "publicationPlace": "Princeton",
-   "isbns": [
-    "9780691215419",
-    "0691215413",
-    "9780691236940",
-    "0691236941"
-   ],
-   "subjectsText": [
-    "Melville, Herman, 1819-1891",
-    "Mumford, Lewis, 1895-1990",
-    "Melville, Herman, 1819-1891 Criticism and interpretation History",
-    "Melville, Herman, 1819-1891 Appreciation",
-    "Authors, American 19th century Biography",
-    "Critics United States Biography",
-    "Art appreciation",
-    "Authors, American",
-    "Critics",
-    "United States",
-    "Biographies",
-    "Criticism, interpretation, etc",
-    "History",
-    "1800-1899"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:02.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Up from the Depths tells the interconnected stories of two of the most important writers in American history--the novelist and poet Herman Melville (1819-1891) and one of his earliest biographers, the literary critic and historian Lewis Mumford (1895-1990). Deftly cutting back and forth between the writers, Aaron Sachs reveals the surprising resonances between their lives, work, and troubled times--and their uncanny relevance in our own age of crisis. The author of Moby-Dick was largely forgotten for several decades after his death, but Mumford helped spearhead Melville's revival in the aftermath of World War I and the 1918-1919 flu pandemic, when American culture needed a forebear with a suitably dark vision. As Mumford's career took off and he wrote books responding to the machine age, urban decay, world war, and environmental degradation, it was looking back to Melville's confrontation with crises such as industrialization, slavery, and the Civil War that helped Mumford to see his own era clearly. Mumford remained obsessed with Melville, ultimately helping to canonize him as America's greatest tragedian. But largely forgotten today is one of Mumford's key insights--that Melville's darkness was balanced by an inspiring determination to endure. Amid today's foreboding over global warming, racism, technology, pandemics, and other crises, Melville and Mumford remind us that we've been in this struggle for a long time. To rediscover these writers today is to rediscover how history can offer hope in dark times"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1264751632",
-   "title": "Menstruation matters : challenging the law's silence on periods",
-   "titleInfo": {
-    "text": "Menstruation matters : challenging the law's silence on periods"
-   },
-   "creator": "Bridget J. Crawford",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Bridget J."
-     },
-     "secondName": {
-      "text": "Crawford"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "157539",
+        "title": "Negro employment in land and air transport; a study of racial policies in the railroad, airline, trucking, and urban transit industries",
+        "creator": "Herbert R. Northrup",
+        "thumbnail": "http://books.google.com/books/content?id=RTYdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Emily Gold"
-     },
-     "secondName": {
-      "text": "Waldman"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "New York University Press",
-   "publicationPlace": "New York",
-   "isbns": [
-    "9781479809677",
-    "1479809675"
-   ],
-   "subjectsText": [
-    "Women Legal status, laws, etc. United States",
-    "Sex discrimination against women Law and legislation United States",
-    "Menstruation Social aspects",
-    "Menstruation Aspect social",
-    "Women Legal status, laws, etc",
-    "LAW / General",
-    "United States"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:02.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1329218076",
-   "title": "Making ammonia : Fritz Haber, Walther Nernst, and the nature of scientific discovery",
-   "titleInfo": {
-    "text": "Making ammonia : Fritz Haber, Walther Nernst, and the nature of scientific discovery"
-   },
-   "creator": "Benjamin Johnson",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Benjamin"
-     },
-     "secondName": {
-      "text": "Johnson"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Springer",
-   "publicationPlace": "Cham, Switzerland",
-   "isbns": [
-    "9783030855314",
-    "3030855317"
-   ],
-   "subjectsText": [
-    "Haber, Fritz, 1868-1934",
-    "Nernst, Walther, 1864-1941",
-    "Ammonia History"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:01.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1264753294",
-   "title": "My second-favorite country : how American Jewish children think about Israel",
-   "titleInfo": {
-    "text": "My second-favorite country : how American Jewish children think about Israel"
-   },
-   "creator": "Sivan Zakai",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Sivan"
-     },
-     "secondName": {
-      "text": "Zakai"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "New York University Press",
-   "publicationPlace": "New York",
-   "isbns": [
-    "9781479808953",
-    "1479808954",
-    "9781479808984",
-    "1479808989"
-   ],
-   "subjectsText": [
-    "Jewish children United States Attitudes toward Israel",
-    "Education",
-    "Israel Study and teaching",
-    "Israel",
-    "United States"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:01.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Drawing on a longitudinal study of Jewish children in the United States, this book presents Jewish children's learning about Israel as a rich case for understanding how children develop ideas and beliefs about self, community, nation, and world over the course of elementary school\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1286796338",
-   "title": "The rise and fall of the German combinatorial analysis",
-   "titleInfo": {
-    "text": "The rise and fall of the German combinatorial analysis"
-   },
-   "creator": "Eduardo Noble",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Eduardo"
-     },
-     "secondName": {
-      "text": "Noble"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Birkha\u0308user",
-   "publicationPlace": "Cham, Switzerland",
-   "isbns": [
-    "3030938190",
-    "9783030938192"
-   ],
-   "subjectsText": [
-    "Combinatorial analysis Germany History 18th century",
-    "Combinatorial analysis Germany History 19th century",
-    "Combinatorial analysis",
-    "Germany",
-    "History",
-    "1700-1899"
-   ],
-   "series": "Frontiers in the history of science",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:01.000+0000"
-    }
-   ],
-   "summariesText": [
-    "This text presents the ideas of a particular group of mathematicians of the late 18th century known as \"the German combinatorial school\" and its influence. The book tackles several questions concerning the emergence and historical development of the German combinatorial analysis, which was the unfinished scientific research project of that group of mathematicians. The historical survey covers the three main episodes in the evolution of that research project: its theoretical antecedents (which go back to the innovative ideas on mathematical analysis of the late 17th century) and first formulation, its consolidation as a foundationalist project of mathematical analysis, and its dissolution at the beginning of the 19th century. In addition, the book analyzes the influence of the ideas of the combinatorial school on German mathematics throughout the 19th century"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1304248374",
-   "title": "Interior frontiers : essays on the entrails of inequality",
-   "titleInfo": {
-    "text": "Interior frontiers : essays on the entrails of inequality"
-   },
-   "creator": "Ann Laura Stoler",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Ann Laura"
-     },
-     "secondName": {
-      "text": "Stoler"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "New York, NY",
-   "isbns": [
-    "0190076380",
-    "9780190076382",
-    "0190076372",
-    "9780190076375"
-   ],
-   "subjectsText": [
-    "Equality",
-    "Political science Philosophy"
-   ],
-   "series": "Heretical thought",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:00.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1295105076",
-   "title": "Hidden pathways to extinction",
-   "titleInfo": {
-    "text": "Hidden pathways to extinction"
-   },
-   "creator": "Giovanni Strona",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Giovanni"
-     },
-     "secondName": {
-      "text": "Strona"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Springer",
-   "publicationPlace": "Cham, Switzerland",
-   "isbns": [
-    "9783030867638",
-    "3030867633"
-   ],
-   "subjectsText": [
-    "Extinction (Biology)",
-    "Biodiversity",
-    "Ecology",
-    "Extinction, Biological",
-    "Extinction (Biologie)",
-    "Biodiversite\u0301"
-   ],
-   "series": "Fascinating life sciences",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:00.000+0000"
-    }
-   ],
-   "summariesText": [
-    "This book provides, for the first time, a comprehensive overview of the fundamental roles that ecological interactions play in extinction processes, bringing to light an underground of hidden pathways leading to the same dark place: biodiversity loss. We are in the midst of the sixth mass extinction. We see species declining and vanishing one after another. Poached rhinos, dolphins and whales slaughtered, pandas surviving only in captivity are strong emotional testimonials of what is happening. Yet, the main threat to natural communities may be overshadowed by the disappearance of large species, with most extinctions happening unnoticed and involving less eye-catching organisms, such as parasites and pollinators. Ecosystems hide countless, invisible wires connecting organisms in dense networks of ecological interactions. Through these networks, perturbations can propagate from one species to another, producing unpredictable effects. In worst case scenarios, the loss of one species might doom many others to extinction. Ecologists now consider such mechanisms as a fundamental and still poorly understood - driver of the ongoing biodiversity crisis. Hidden Pathways to Extinction makes the invisible links connecting the fates of species and organisms evident, exploring why complexity can enhance ecosystem stability and yet accelerate species loss. Page after page, Strona provides convincing evidence that we are primarily responsible for the fall in biodiversity, that we are falling too, and that we need to redouble our conservation efforts now, or it won't be long before we hit the ground"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1308475588",
-   "title": "The Polish portrait of Bonnie Prince Charlie",
-   "titleInfo": {
-    "text": "The Polish portrait of Bonnie Prince Charlie"
-   },
-   "creator": "Robert I. Frost",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Robert I."
-     },
-     "secondName": {
-      "text": "Frost"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Palgrave Macmillan",
-   "publicationPlace": "Cham",
-   "isbns": [
-    "9783030999353",
-    "3030999351"
-   ],
-   "subjectsText": [
-    "Charles Edward, Prince, grandson of James II, King of England, 1720-1788 Portraits",
-    "Charles Edward, Prince, grandson of James II, King of England, 1720-1788",
-    "National Portrait Gallery (Great Britain)",
-    "Portraits England London",
-    "Painting England London",
-    "Portraits Angleterre Londres",
-    "Peinture Angleterre Londres",
-    "Painting",
-    "Portraits",
-    "England London"
-   ],
-   "series": "Palgrave pivot",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:09:00.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1272889869",
-   "title": "Future-proofing : making practice-based IT design sustainable",
-   "titleInfo": {
-    "text": "Future-proofing : making practice-based IT design sustainable"
-   },
-   "creator": "Carla Simone",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Carla"
-     },
-     "secondName": {
-      "text": "Simone"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "3527691",
+        "title": "Löthrohr-tabellen. Ein leitfaden zur chemischen untersuchung auf trockenem wege, für chemiker, hüttenleute und mineralogen",
+        "creator": "J. Hirschwald",
+        "thumbnail": "http://books.google.com/books/content?id=KHsMAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Ina"
-     },
-     "secondName": {
-      "text": "Wagner"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "143113",
+        "title": "Negro employment in southern industry; a study of racial policies in five industries",
+        "creator": "Herbert R. Northrup",
+        "thumbnail": "http://books.google.com/books/content?id=yyC3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Claudia"
-     },
-     "secondName": {
-      "text": "Mu\u0308ller"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "2370",
+        "title": "The Negro and equal employment opportunities; a review of management experiences in twenty companies",
+        "creator": "Louis A. Ferman",
+        "thumbnail": "http://books.google.com/books/content?id=nqMEAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Anne"
-     },
-     "secondName": {
-      "text": "Weibert"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "2094871",
+        "title": "Twenty years in the press gallery; a concise history of important legislation from the 48th to the 58th Congress: the part played by the leading men of that period and the interesting and impressive incidents. Impressions of official and political life in Washington",
+        "creator": "O. O. Stealey",
+        "thumbnail": "http://books.google.com/books/content?id=O-ZYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Volker"
-     },
-     "secondName": {
-      "text": "Wulf"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "New York, NY",
-   "isbns": [
-    "9780198862505",
-    "0198862504"
-   ],
-   "subjectsText": [
-    "Information technology Research",
-    "Computer science Research",
-    "Sustainability",
-    "Informatique Recherche"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:59.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Sustainability is crucial for the future of our societies. From a computing perspective, the challenge is to design IT artifacts that contribute to improving people's work and everyday life in a sustainable way, thereby also contributing to social and ecological sustainability. The book documents the experiences made by several leading research groups in Europe, North America and South Africa, describing their efforts to achieve sustainable design results, the difficulties that barred the way but also the strategies they adopted to achieve the goal of sustainability. The analysis of this rich empirical material helps thinking about how to more systematically address and possibly overcome the impediments to achieving a design result that is sustainable in practice. It points at the importance of considering the socio-technical nature of innovation, to focus on the relationship between ownership, appropriation and learning early on in a project, and to strive not only for technological flexibility but take care of issues of maintenance repair in designing computer-support. The book discusses the changes that would be necessary to make the main stakeholders in IT design more open to creating environments for sustainable innovation. The examples discussed in this book and their analysis can inspire researchers, institutions, managers, ICT professionals and educators to promote the goal of sustainable design results and increase the overall awareness of its strategic relevance\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1285916303",
-   "title": "The city we make together : City council meeting's primer for participation",
-   "titleInfo": {
-    "text": "The city we make together : City council meeting's primer for participation"
-   },
-   "creator": "Mallory Catlett",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Mallory"
-     },
-     "secondName": {
-      "text": "Catlett"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "5355688",
+        "title": "Antonii Goüan, reg. consil. et medici, prof. reg. in Ludovicaeo Monspeliensi ... Illustrationes et observationes botanicae, ad specierum historiam facientes : seu rariorum plantarum indigenarum, pyrenaicarum, exoticarum, adumbrationes, synonymorum reformationes, descriptionum castigationes, varietatum ad species genuinas redactarum determinationes : cum iconibus ex naturae typo et magnitudine naturali ab auctore delineatis",
+        "creator": "Antoine Gouan",
+        "thumbnail": "http://books.google.com/books/content?id=jxA3z8KnyUsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Aaron"
-     },
-     "secondName": {
-      "text": "Landsman"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "423698",
+        "title": "The Negro and employment opportunity; problems and practices",
+        "creator": "Herbert R. Northrup",
+        "thumbnail": "http://books.google.com/books/content?id=80pCAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "nonPersonName": {
-      "text": "University of Iowa Press"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "pbl"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of Iowa Press",
-   "publicationPlace": "Iowa City",
-   "isbns": [
-    "9781609388270",
-    "1609388275"
-   ],
-   "subjectsText": [
-    "Catlett, Mallory, 1969- Production and direction",
-    "Catlett, Mallory, 1969- Stage history",
-    "Performance Political aspects",
-    "Participatory theater",
-    "Local government United States Drama",
-    "Rendement au travail Aspect politique",
-    "The\u0301a\u0302tre Participation du public",
-    "Local government",
-    "United States",
-    "Drama"
-   ],
-   "series": "Humanities and public life",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:59.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"In the middle of unprecedented, ongoing national political polarization, local governments carry on their work of deliberating, administrating, and running the official structures of cities. City council meetings are often where seemingly mundane issues take on epic proportions, and where democracy moves forward in its clunky, wildly imperfect way. How much is a local government meeting an exercise in democracy, and how much is it an exercise in impression management? In 2009, theater artist Aaron Landsman was dragged by a friend to a city council meeting in Portland, Oregon. At first he was bored, but when a citizen dumped trash in front of the council in order to show how the city needed cleaning up, he was rapt. He saw for the first time how our civic bodies often result in a performance of democracy as much as the real thing. He began attending local government meetings across the country, interviewing council members, staffers, activists and other citizens, using an ethnographic method. Out of this initial investigation, Landsman and director Mallory Catlett developed a participatory theater piece called City Council Meeting in five US cities-from New York City to Houston, Keene New Hampshire to San Francisco. They worked with local partners to create endings in each city about issues on the ground and trained local staffers to take audiences through the experience. Along the way they got some things right, made mistakes and learned ways to approach community engagement across geographic, racial and class lines. Five years later Catlett and Landsman returned to local partners in each city to reflect together on what the impact of the project was, how it could have been better, and what they got right. No One is Qualified looks at how we make art with communities, how we perform power and who gets to play which roles, and how we might use creativity and rigorous inquiry to look at our structures of democracy anew. This book is ideal for interdisciplinary humanities courses, socially-engaged theater-making programs, and cross-disciplinary programs in sociology/ethnography, philosophy, politics and live performing arts\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1301899942",
-   "title": "Russophobia : propaganda in international politics",
-   "titleInfo": {
-    "text": "Russophobia : propaganda in international politics"
-   },
-   "creator": "Glenn Diesen",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Glenn"
-     },
-     "secondName": {
-      "text": "Diesen"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Palgrave Macmillan",
-   "publicationPlace": "Singapore, Singapore",
-   "isbns": [
-    "9789811914676",
-    "9811914672"
-   ],
-   "subjectsText": [
-    "Propaganda, Anti-Russian",
-    "International relations",
-    "World politics",
-    "Diplomatic relations",
-    "Russia Foreign relations",
-    "Russia"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:59.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Propaganda is the science of convincing an audience without appealing to reason. Over the past centuries, anti-Russian propaganda has been founded on juxtaposing the West and Russia as European versus Asiatic, civilized versus barbaric, modern versus backward, liberal versus autocratic, and even good versus evil. Russia has therefore throughout history been allowed to play one of two roles -- either an apprentice of Western civilization by accepting the subordinate role as the student and political object, or a threat that must be contained or defeated. While propaganda has the positive effect of promoting unity and mobilizing resources against an adversary, it has the negative effect of creating irrational decision-making and obstructing a workable peace. Glenn Diesen is a Professor at the University of South-Eastern-Norway"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1281580618",
-   "title": "Domestic captivity and the British subject, 1660-1750",
-   "titleInfo": {
-    "text": "Domestic captivity and the British subject, 1660-1750"
-   },
-   "creator": "Catherine Ingrassia",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Catherine"
-     },
-     "secondName": {
-      "text": "Ingrassia"
-     },
-     "isPrimary": true,
-
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "University of Virginia Press",
-   "publicationPlace": "Charlottesville",
-   "isbns": [
-    "9780813948089",
-    "0813948088",
-    "9780813948096",
-    "0813948096"
-   ],
-   "subjectsText": [
-    "English fiction Early modern, 1500-1700 History and criticism",
-    "English fiction 18th century History and criticism",
-    "Captivity in literature",
-    "Master and servant in literature",
-    "Women in literature",
-    "Authority in literature",
-    "Roman anglais 18e sie\u0300cle Histoire et critique",
-    "Captivite\u0301 dans la litte\u0301rature",
-    "Femmes dans la litte\u0301rature",
-    "Autorite\u0301 dans la litte\u0301rature",
-    "English fiction",
-    "English fiction Early modern",
-    "Criticism, interpretation, etc",
-    "1500-1799"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:58.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"This book considers fictional texts by British authors from the Restoration and first half of the eighteenth century in which captivity centrally informs identity, actions, or human relationships for white British subjects. The exercise of institutional and personal power could create conditions in which those least empowered, particularly women, perceived themselves to be captive subjects. This \"domestic captivity\" is intimately connected to England's substantial involvement in the systematic enslavement of kidnapped Africans, even as early fictional narratives ignore the experience of enslaved people. The book looks at canonical authors such as Aphra Behn, Richard Steele, and Eliza Haywood, as well as popular writers such as Penelope Aubin and Edward Kimber\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1302738990",
-   "title": "The Milan Institute of Physics : a research institute from fascism to the reconstruction",
-   "titleInfo": {
-    "text": "The Milan Institute of Physics : a research institute from fascism to the reconstruction"
-   },
-   "creator": "Leonardo Gariboldi",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Leonardo"
-     },
-     "secondName": {
-      "text": "Gariboldi"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "34666",
+        "title": "Race and the social sciences",
+        "creator": "Irwin Katz",
+        "thumbnail": "http://books.google.com/books/content?id=3Bl2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Luisa"
-     },
-     "secondName": {
-      "text": "Bonolis"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "372900",
+        "title": "The structure of the corporate private sector; a study of concentration, ownership and control",
+        "creator": "R. K. Hazari",
+        "thumbnail": "http://books.google.com/books/content?id=g6I1AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Antonella"
-     },
-     "secondName": {
-      "text": "Testa"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Springer",
-   "publicationPlace": "Cham, Switzerland",
-   "isbns": [
-    "9783030995157",
-    "3030995151"
-   ],
-   "subjectsText": [
-    "Universita\u0300 di Milano. Institute of Physics History",
-    "Universita\u0300 di Milano. Dipartimento di fisica History",
-    "Centro informazioni, studi ed esperienze History",
-    "Istituto Nazionale Fisica Nucleare History",
-    "Centro informazioni, studi ed esperienze",
-    "Physics Study and teaching (Higher) Italy Milan History",
-    "Physics Study and teaching",
-    "Italy Milan",
-    "History"
-   ],
-   "series": "History of physics",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:58.000+0000"
-    }
-   ],
-   "summariesText": [
-    "This book offers the first comprehensive and authoritative text on the history of physics in Italy's industrial and financial capital, from the foundation of the University of Milan's Institute of Physics in 1924 up to the early 1960s, when it moved to its current location. It includes biographies and a historical-scientific analysis of the main research topics investigated by world-renowned physicists such as Aldo Pontremoli, Giovanni Polvani, Giovanni Gentile Jr., Beppo Occhialini, and Piero Caldirola, highlighting their contributions to the development of Italian physics in a national and international context. Further, the book provides a historical perspective on the interplay of physics and politics in Italy during both the Fascist regime and the postwar reconstruction period, which led to the creation of the CISE (Centro Informazioni Studi Esperienze, a research center for applied nuclear physics, funded by private industries) in 1946, and of the Milan division of the National Institute of Nuclear Physics (INFN) in 1951"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1304816262",
-   "title": "The affective intensities of masculinity in shaping gendered experience : from little boys, big boys grow",
-   "titleInfo": {
-    "text": "The affective intensities of masculinity in shaping gendered experience : from little boys, big boys grow"
-   },
-   "creator": "Amanda Keddie",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Amanda"
-     },
-     "secondName": {
-      "text": "Keddie"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Palgrave Macmillan",
-   "publicationPlace": "Singapore",
-   "isbns": [
-    "9811922136",
-    "9789811922138"
-   ],
-   "subjectsText": [
-    "Masculinity",
-    "Boys Psychology",
-    "Men Psychology"
-   ],
-   "series": "Palgrave pivot",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:58.000+0000"
-    }
-   ],
-   "summariesText": [
-    "This book tells a story of masculinity through the experiences of one boy, Adam. From four different studies and time periods, it tracks moments of significance in his life over a period of 20 years. These moments highlight the ways in which Adam is both drawn towards and away from a hegemonic masculinity of physical toughness, domination, competition and an opposition to the feminine. The book is set against the backdrop of a long history of contentious gender politics in Australia and globally but particularly responds to the renewed attention to the social construction of masculinities in the current #MeToo climate. Against this backdrop, nuanced and longitudinal accounts of boys' and men's experiences of masculinity are significant because they can offer insight into the complex bodily, social, economic, and historical forces that configure masculinities. Such understandings are important in our endeavours as those who educate, support and work with boys and men to transform gender inequalities"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1308492745",
-   "title": "The philosophy of tacit knowledge : the tacit side of knowledge management in organizations",
-   "titleInfo": {
-    "text": "The philosophy of tacit knowledge : the tacit side of knowledge management in organizations"
-   },
-   "creator": "Jon-Arild Johannessen",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Jon-Arild"
-     },
-     "secondName": {
-      "text": "Johannessen"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "Emerald Publishing Limited",
-   "publicationPlace": "Bingley, UK",
-
-    "9781803826783",
-    "1803826789"
-   ],
-   "subjectsText": [
-    "Knowledge management",
-    "Tacit knowledge",
-    "Knowledge Management",
-    "Gestion des connaissances",
-    "Connaissances tacites"
-   ],
-   "series": "Emerald points",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:57.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Knowledge management expert Jon-Arild Johannessen presents a comprehensive exploration of tacit knowledge based on the research problem: How can tacit knowledge be used to improve organizational performance in practice? To explore this problem, 50 short cases are presented and discussed to analyze and reflect on what tacit knowledge is, how it is developed, transferred and integrated, to improve performance. Tacit knowledge is hard to codify and specify, yet these short cases will demystify how tacit knowledge works in organizations and the benefits of it in relation to improving productivity and processes. The emphasis on short, easy to connect with cases in The Philosophy of Tacit Knowledge allows readers to develop their own models and policy strategies towards improving their own practice"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1285555803",
-   "title": "Aesthetic dimensions of modern philosophy",
-   "titleInfo": {
-    "text": "Aesthetic dimensions of modern philosophy"
-   },
-   "creator": "Andrew Bowie",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Andrew"
-     },
-     "secondName": {
-      "text": "Bowie"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "0192847732",
-    "9780192847737"
-   ],
-   "subjectsText": [
-    "Aesthetics",
-    "Philosophy, Modern"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:57.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  }
- ],
- "searchFacets": [
-  {
-   "index": "mt",
-   "facetType": "content",
-   "values": [
-    {
-     "value": "nonFic",
-     "count": 62
+        "oclcNumber": "513611",
+        "title": "The civil rights reader: basic documents of the civil rights movement",
+        "creator": "Leon Friedman",
+        "thumbnail": "http://books.google.com/books/content?id=1rNAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "value": "bio",
-     "count": 3
-    }
-   ]
-  }
- ]
-}
-{
- "numberOfRecords": 62,
- "briefRecords": [
-  {
-   "oclcNumber": "1285555803",
-   "title": "Aesthetic dimensions of modern philosophy",
-   "titleInfo": {
-    "text": "Aesthetic dimensions of modern philosophy"
-   },
-   "creator": "Andrew Bowie",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Andrew"
-     },
-     "secondName": {
-      "text": "Bowie"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "0192847732",
-    "9780192847737"
-   ],
-   "subjectsText": [
-    "Aesthetics",
-    "Philosophy, Modern"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:57.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1265004416",
-   "title": "Staging democracy : political performance in Ukraine, Russia, and beyond",
-   "titleInfo": {
-    "text": "Staging democracy : political performance in Ukraine, Russia, and beyond"
-   },
-   "creator": "Jessica Pisano",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Jessica"
-     },
-     "secondName": {
-      "text": "Pisano"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Northern Illinois University Press, an imprint of Cornell University Press",
-   "publicationPlace": "Ithaca [New York]",
-   "isbns": [
-    "9781501764066",
-    "1501764063",
-    "9781501764202",
-    "1501764209"
-   ],
-   "subjectsText": [
-    "Political culture Ukraine",
-    "Political culture Russia (Federation)",
-    "Political participation Economic aspects Ukraine",
-    "Political participation Economic aspects Russia (Federation)",
-    "Public relations and politics Ukraine",
-    "Public relations and politics Russia (Federation)",
-    "Participation politique Aspect e\u0301conomique Ukraine",
-    "Participation politique Aspect e\u0301conomique Russie",
-    "Relations publiques et politique Ukraine",
-    "Relations publiques et politique Russie",
-    "POLITICAL SCIENCE / General",
-    "Political culture",
-    "Political participation Economic aspects",
-    "Public relations and politics",
-    "Russia (Federation)",
-    "Ukraine"
-   ],
-   "series": "NIU series in Slavic, East European, and Eurasian studies",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:57.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"This book analyzes twenty-first century performances of democratic politics in Ukraine and Russia. The study goes backstage at rigged elections, protests for hire, and smaller scale mises en sce\u0300ne to explain why people participate, the role of economic change, and how political theater alters the meaning of politics\" -- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1289483724",
-   "title": "Robert Louis Stevenson and nineteenth-century French literature : literary relations at the fin de sie\u0300cle",
-   "titleInfo": {
-    "text": "Robert Louis Stevenson and nineteenth-century French literature : literary relations at the fin de sie\u0300cle"
-   },
-   "creator": "Katherine Ashley",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Katherine"
-     },
-     "secondName": {
-      "text": "Ashley"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Edinburgh University Press",
-   "publicationPlace": "Edinburgh",
-   "isbns": [
-    "1474493238",
-    "9781474493239"
-   ],
-   "subjectsText": [
-    "Stevenson, Robert Louis, 1850-1894 Influence",
-    "Stevenson, Robert Louis, 1850-1894",
-    "French literature 19th century History and criticism",
-    "Litte\u0301rature franc\u0327aise 19e sie\u0300cle Histoire et critique",
-    "French literature",
-    "Influence (Literary, artistic, etc.)",
-    "Criticism, interpretation, etc",
-    "1800-1899"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:56.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1260820455",
-   "title": "It's not free speech : race, democracy, and the future of academic freedom",
-   "titleInfo": {
-    "text": "It's not free speech : race, democracy, and the future of academic freedom"
-   },
-   "creator": "Michael Be\u0301rube\u0301",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Michael"
-     },
-     "secondName": {
-      "text": "Be\u0301rube\u0301"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "513611",
+        "title": "The civil rights reader: basic documents of the civil rights movement",
+        "creator": "Leon Friedman",
+        "thumbnail": "http://books.google.com/books/content?id=1rNAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Jennifer"
-     },
-     "secondName": {
-      "text": "Ruth"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Johns Hopkins University Press",
-   "publicationPlace": "Baltimore, Maryland",
-   "isbns": [
-    "9781421443874",
-    "1421443872"
-   ],
-   "subjectsText": [
-    "Academic freedom",
-    "Teaching, Freedom of",
-    "Freedom of speech",
-    "Universities and colleges Social aspects",
-    "Discrimination in higher education",
-    "Critical race theory",
-    "Liberte\u0301 de l'enseignement",
-    "Liberte\u0301 d'expression",
-    "Universite\u0301s Aspect social",
-    "Discrimination dans l'enseignement supe\u0301rieur",
-    "The\u0301orie critique de la race"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:56.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"This books takes up the hot-button issues at the intersection of free speech, hate speech, and academic freedom on the contemporary college campus. It questions whether scholarship and \"extramural\" speech that is deemed racist, homophobic, or sexist should be exempt from the protections of academic freedom and sanctioned on campus\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1260291827",
-   "title": "Legal spectatorship : slavery and the visual culture of domestic violence",
-   "titleInfo": {
-    "text": "Legal spectatorship : slavery and the visual culture of domestic violence"
-   },
-   "creator": "Kelli Moore",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Kelli"
-     },
-     "secondName": {
-      "text": "Moore"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Duke University Press",
-   "publicationPlace": "Durham",
-   "isbns": [
-    "9781478015703",
-    "1478015705",
-    "9781478018346",
-    "1478018348"
-   ],
-   "subjectsText": [
-    "Family violence Law and legislation United States",
-    "Victims of family violence Legal status, laws, etc. United States",
-    "Slavery Social aspects United States",
-    "African Americans Social conditions 19th century",
-    "Discrimination in justice administration United States History 19th century",
-    "Photography Social aspects United States",
-    "Legal photography United States",
-    "Noirs ame\u0301ricains Conditions sociales 19e sie\u0300cle",
-    "Discrimination dans l'administration de la justice E\u0301tats-Unis Histoire 19e sie\u0300cle",
-    "Photographie Aspect social E\u0301tats-Unis",
-    "Photographie judiciaire E\u0301tats-Unis",
-    "SOCIAL SCIENCE / Ethnic Studies / American / African American & Black Studies",
-    "SOCIAL SCIENCE / Media Studies",
-    "African Americans Social conditions",
-    "Discrimination in justice administration",
-    "Family violence Law and legislation",
-    "Legal photography",
-    "Photography Social aspects",
-    "Slavery Social aspects",
-    "Victims of family violence Legal status, laws, etc",
-    "United States",
-    "History",
-    "1800-1899"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:55.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"Legal Spectatorship examines the visual culture surrounding domestic violence, or DV, focusing on the ways that photographs are marshaled as a form of spectacular evidence rooted in slavery and antiblackness. Historically, slaves were not able to testify in person in court although they were often silent witnesses to white domestic conflicts. Today, these histories of racism are embedded into domestic violence prosecution as photographs documenting evidence of DV stand in for women's testimony, and an extensive web of surveillance and administrative tactics criminalize female victims. Kelli Moore reads the legislative, juridical, and media structures that have developed around domestic violence as an extension of the logics of slavery that points to a broader form of US \"domestic violence\" in the form of slavery and racism. The chapters take up slave witnessing and black subjectivity; the psychological theories that developed around DV in the context of the Civil Rights movement; \"artivism\" around domestic violence imagery and anti-DV campaigns; and Moore's own ethnographic work in the courtroom observing domestic violence cases\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1291391039",
-   "title": "Reading Rancie\u0300re for education : an introduction",
-   "titleInfo": {
-    "text": "Reading Rancie\u0300re for education : an introduction"
-   },
-   "creator": "Jane McDonnell",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Jane"
-     },
-     "secondName": {
-      "text": "McDonnell"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Palgrave Macmillan",
-   "publicationPlace": "Cham, Switzerland",
-   "isbns": [
-    "3030960129",
-    "9783030960124"
-   ],
-   "subjectsText": [
-    "Rancie\u0300re, Jacques",
-    "Education Philosophy"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:55.000+0000"
-    }
-   ],
-   "summariesText": [
-    "This book introduces readers to the writing of the French philosopher, Jacques Rancie\u0300re, and discusses the uptake of his work in education. Written from a personal perspective, the book tells the story of the author's engagement with Rancie\u0300re's writing as an educational researcher. The first part of the book introduces Rancie\u0300re's interventions on democracy and politics, art and aesthetics, emancipation, and education. The second part of the book analyses how Rancie\u0300re's writing has been taken up in considerations of emancipatory, democratic, and political education, art(s) education, and innovative work in educational research. The final part of the book appraises the significance of Rancie\u0300re's writing for education and considers the difficult task of applying his insights to educational scholarship"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1273675960",
-   "title": "Victorians and numbers : statistics and society in nineteenth century Britain",
-   "titleInfo": {
-    "text": "Victorians and numbers : statistics and society in nineteenth century Britain"
-   },
-   "creator": "Lawrence Goldman",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Lawrence"
-     },
-     "secondName": {
-      "text": "Goldman"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "edition": "First edition",
-   "publisher": "Oxford University Press",
-   "publicationPlace": "Oxford",
-   "isbns": [
-    "0192847740",
-    "9780192847744"
-   ],
-   "subjectsText": [
-    "Statistics Great Britain History 19th century",
-    "Intellectual life",
-    "Statistics",
-    "Great Britain Intellectual life 19th century",
-    "Grande-Bretagne Vie intellectuelle 19e sie\u0300cle",
-    "Great Britain",
-    "History",
-    "1800-1899"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:55.000+0000"
-    }
-   ],
-   "summariesText": [
-    "A defining feature of Victorian Britain was its fascination with statistics, and this study shows how data influenced every aspect of Victorian culture and thought, from the methods of natural science and the struggle against disease, to the development of social administration, and the arguments and conflicts between social classes"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1273670319",
-   "title": "The cost of doing politics : how partisanship and public opinion shape corporate influence",
-   "titleInfo": {
-    "text": "The cost of doing politics : how partisanship and public opinion shape corporate influence"
-   },
-   "creator": "Jane L. Sumner",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Jane L."
-     },
-     "secondName": {
-      "text": "Sumner"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Cambridge University Press",
-   "publicationPlace": "Cambridge, United Kingdom",
-   "isbns": [
-    "1009123254",
-    "9781009123259"
-   ],
-   "subjectsText": [
-    "Corporations Political activity",
-    "Boycotts",
-    "Consumer behavior Political aspects",
-    "Public-private sector cooperation",
-    "Boycottage",
-    "Consommateurs Comportement Aspect politique",
-    "Socie\u0301te\u0301s Activite\u0301 politique",
-    "Partenariat public-prive\u0301"
-   ],
-   "series": "Business and public policy",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:54.000+0000"
-    }
-   ],
-   "summariesText": [
-    "Using quantitative and qualitative evidence, Sumner shows how consumer boycotts can work to dissuade companies from donating money to politicians, but may also encourage companies to attempt influence by largely invisible means. Boycotts do not work as many people expect - by threatening sales. Instead, Sumner shows how boycotts are less a statement of consumer behaviour than a way for people to signal their political inclinations, and they primarily hurt companies by tarnishing their reputation. Political influence is about building relationships, which means that companies have many more options for influence than just PAC contributions and formal lobbying. With these options available, companies can decide how to influence politics when they need to, and the tarnish of boycotts to a company's image can push some businesses to pursue options that are less noticeable to the public"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1260172248",
-   "title": "Sex dolls at sea : imagined histories of sexual technologies",
-   "titleInfo": {
-    "text": "Sex dolls at sea : imagined histories of sexual technologies"
-   },
-   "creator": "Bonnie Ruberg",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Bonnie"
-     },
-     "secondName": {
-      "text": "Ruberg"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "The MIT Press",
-   "publicationPlace": "Cambridge, MA",
-   "isbns": [
-    "9780262543675",
-    "0262543672"
-   ],
-   "subjectsText": [
-    "Sex dolls History",
-    "Sex Social aspects",
-    "Sex (Psychology)",
-    "Sex in mass media",
-    "Poupe\u0301es sexuelles Histoire",
-    "Sexualite\u0301 Aspect social",
-    "Sexualite\u0301 (Psychologie)",
-    "Sexualite\u0301 dans les me\u0301dias",
-    "SOCIAL SCIENCE / Sociology / General",
-    "Sex dolls",
-    "History"
-   ],
-   "series": "Media origins",
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:54.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"A new history of sex dolls that challenges how contemporary society understands tech designed for sex\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1292971461",
-   "title": "Artificial intelligence and democracy : risks and promises of AI-mediated citizen-government relations",
-   "titleInfo": {
-    "text": "Artificial intelligence and democracy : risks and promises of AI-mediated citizen-government relations"
-   },
-   "creator": "Je\u0301ro\u0302me Duberry",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Je\u0301ro\u0302me"
-     },
-     "secondName": {
-      "text": "Duberry"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Edward Elgar Publishing",
-   "publicationPlace": "Cheltenham, UK",
-   "isbns": [
-    "1788977300",
-    "9781788977302"
-   ],
-   "subjectsText": [
-    "Democracy Data processing",
-    "Artificial intelligence Political aspects",
-    "Representative government and representation"
-   ],
-   "institutionHoldingIndicators": [
-    {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:53.000+0000"
-    }
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1268545517",
-   "title": "Maroons and Guyane : past, present, future",
-   "titleInfo": {
-    "text": "Maroons and Guyane : past, present, future"
-   },
-   "creator": "Richard Price",
-   "contributors": [
-    {
-     "firstName": {
-      "text": "Richard"
-     },
-     "secondName": {
-      "text": "Price"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
+        "oclcNumber": "142775",
+        "title": "The healing of a nation",
+        "creator": "David Loye",
+        "thumbnail": "http://books.google.com/books/content?id=RngcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-     "firstName": {
-      "text": "Sally"
-     },
-     "secondName": {
-      "text": "Price"
-     },
-     "isPrimary": false,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "The University of Georgia Press",
-   "publicationPlace": "Athens",
-   "isbns": [
-    "9780820362458",
-    "082036245X",
-    "9780820360867",
-    "0820360864"
-   ],
-   "subjectsText": [
-    "Maroons French Guiana History",
-    "Maroons French Guiana Social conditions",
-    "Marrons (Esclaves et descendants d'esclaves) Guyane franc\u0327aise Histoire",
-    "Marrons (Esclaves et descendants d'esclaves) Guyane franc\u0327aise Conditions sociales",
-    "Maroons",
-    "French Guiana",
-    "History"
-   ],
-   "series": "Race in the Atlantic world",
-   "institutionHoldingIndicators": [
+        "oclcNumber": "422000",
+        "title": "The community and racial crises",
+        "creator": "David Stahl",
+        "thumbnail": "http://books.google.com/books/content?id=rmPlAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:08:53.000+0000"
-    }
-   ],
-   "summariesText": [
-    "\"For more than four centuries, the communities of maroons (men and women who escaped from slavery) dotted the fringes of plantation America, from Brazil through the Caribbean to the United States. Today their descendants still form semi-independent enclaves-in Jamaica, Brazil, Colombia, Belize, Suriname, Guyane, and elsewhere-remaining proud of their maroon origins and, in some cases, faithful to unique cultural traditions forged during the earliest days of Afro-American history. In 1986, expelled by the military regime of Suriname, the Prices turned to neighboring Guyane (French Guiana), where thousands of Maroons were taking refuge from the Suriname civil war. Over the next fifteen years, their conversations with local people convinced them of the need to replace the pervasive stereotypes about Maroons in Guyane with accurate information. In 2003, Les Marrons became a local best-seller. In 2020, after many further visits, the Prices wrote a new edition taking into account the many rapid changes. Maroons in Guyane reviews the history of the four Maroon peoples in Guyane, explains how these groups differ from one another, and analyzes their current situations in the bustling, multicultural world of this far-flung outpost of the French Republic. A gallery of the magnificent arts of the Maroons completes the volume\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  },
-  {
-   "oclcNumber": "1288196413",
-   "title": "Empathy and reading : affect, impact, and the co-creating reader",
-   "titleInfo": {
-    "text": "Empathy and reading : affect, impact, and the co-creating reader"
-   },
-   "creator": "Suzanne Keen",
-   "contributors": [
+        "oclcNumber": "538961",
+        "title": "The Great Plains States of America: people, politics, and power in the nine Great Plains States",
+        "creator": "Neal R. Peirce",
+        "thumbnail": "http://books.google.com/books/content?id=JyqbTl9fsc4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     {
-     "firstName": {
-      "text": "Suzanne"
-     },
-     "secondName": {
-      "text": "Keen"
-     },
-     "isPrimary": true,
-     "relatorCodes": [
-      "aut"
-     ]
-    }
-   ],
-   "date": "2022",
-   "machineReadableDate": "2022",
-   "language": "eng",
-   "generalFormat": "Book",
-   "specificFormat": "PrintBook",
-   "publisher": "Routledge",
-   "publicationPlace": "New York, NY",
-   "isbns": [
-    "9781032205366",
-    "1032205369",
-    "9781032205335",
-    "1032205334"
-   ],
-   "subjectsText": [
-    "Reading, Psychology of",
-    "Empathy",
-    "Lecture Psychologie",
-    "Empathie",
-    "empathy",
-    "Essay",
-    "essays",
-    "Essays",
-    "Essais"
-   ],
-   "institutionHoldingIndicators": [
+        "oclcNumber": "4672039",
+        "title": "Lincoln's plan of reconstruction",
+        "creator": "Charles Hallan McCarthy",
+        "thumbnail": "http://books.google.com/books/content?id=QjhNzCSGgT4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     {
-     "id": "5640",
-     "holdsItem": true,
-     "dateHoldingSet": "2022-08-01T14:06:31.000+0000"
+        "oclcNumber": "603305",
+        "title": "Comparative studies of Blacks and Whites in the United States",
+        "creator": "Kent S. Miller",
+        "thumbnail": "http://books.google.com/books/content?id=Eot2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "160347",
+        "title": "The siege of Savannah by the fleet of Count d'Estaing in 1779",
+        "creator": "Charles C. Jones",
+        "thumbnail": "http://books.google.com/books/content?id=OsHZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "127451",
+        "title": "The will to survive; a study of a Mississippi plantation community, based on the words of its citizens",
+        "creator": "Anthony P. Dunbar",
+        "thumbnail": "http://books.google.com/books/content?id=D3FAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2075622",
+        "title": "The cotton states in the spring and summer of 1875",
+        "creator": "Charles Nordhoff",
+        "thumbnail": "http://books.google.com/books/content?id=BlgQAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "712633",
+        "title": "A narrative of the excursion and ravages of the King's troops under the command of General Gage",
+        "creator": "Massachusetts",
+        "thumbnail": "http://books.google.com/books/content?id=ODdCAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "81265446",
+        "title": "Frederick Hammersley : icons of the other, [exhibition] 11 January - 10 February 17, 2007, Ameringer Yohe Fine Art",
+        "creator": "Frederick Hammersley",
+        "thumbnail": "http://books.google.com/books/content?id=I3HsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "21763",
+        "title": "Ike, a pictorial biography",
+        "creator": "William F. Longgood",
+        "thumbnail": "http://books.google.com/books/content?id=ZCUhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "20349",
+        "title": "The La Roche sites",
+        "creator": "J. J. Hoffman",
+        "thumbnail": "http://books.google.com/books/content?id=GfxBAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2805712",
+        "title": "The prehistory of the Chickamauga basin in Tennessee : a preview",
+        "creator": "Thomas M. N. Lewis",
+        "thumbnail": "http://books.google.com/books/content?id=V-5KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1073828",
+        "title": "An exhibition of pre-Columbian art",
+        "creator": "Peabody Museum of Archaeology and Ethnology",
+        "thumbnail": "http://books.google.com/books/content?id=wlkgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "768763",
+        "title": "Epitaph for Jim Crow",
+        "creator": "Thomas F. Pettigrew",
+        "thumbnail": "http://books.google.com/books/content?id=JXZAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "5865379",
+        "title": "Archaeological reconnaissance of the Island of St. John, United States Virgin Islands",
+        "creator": "Frederick W. Sleight",
+        "thumbnail": "http://books.google.com/books/content?id=Az5jAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1609375",
+        "title": "The Krum Bay site : a preceramic site on St. Thomas, United States Virgin Islands",
+        "creator": "Ripley P. Bullen",
+        "thumbnail": "http://books.google.com/books/content?id=4z1jAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "17166708",
+        "title": "Three archaic sites in the Ocala National Forest, Florida",
+        "creator": "Ripley P. Bullen",
+        "thumbnail": "http://books.google.com/books/content?id=sQVKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1299976",
+        "title": "The gift is rich",
+        "creator": "E. Russell Carter",
+        "thumbnail": "http://books.google.com/books/content?id=V2ZrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3282425",
+        "title": "Rogier van der Weyden : paintings from the Escorial and the Prado",
+        "creator": "Rogier van der Weyden",
+        "thumbnail": "http://books.google.com/books/content?id=5ylGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "25747811",
+        "title": "The changing worlds of older women in Japan",
+        "creator": "Anne O. Freed",
+        "thumbnail": "http://books.google.com/books/content?id=ye4EAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "23693475",
+        "title": "Body guards : the cultural politics of gender ambiguity",
+        "creator": "Julia Epstein",
+        "thumbnail": "http://books.google.com/books/content?id=afGFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1026553",
+        "title": "Statistical theory, with engineering applications",
+        "creator": "Anders Hald",
+        "thumbnail": "http://books.google.com/books/content?id=au9QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "22309349",
+        "title": "Woman running in the mountains : a novel",
+        "creator": "Yūko Tsushima",
+        "thumbnail": "http://books.google.com/books/content?id=8EhkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "44066977",
+        "title": "Women of the Mito domain : recollections of samurai family life",
+        "creator": "Kikue Yamakawa",
+        "thumbnail": "http://books.google.com/books/content?id=SfbyFVdlwPgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2992901",
+        "title": "A preliminary report of the algœ of the fresh waters of Connecticut",
+        "creator": "H. W. Conn",
+        "thumbnail": "http://books.google.com/books/content?id=N84UAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "4376445",
+        "title": "California gall-making Cynipidae : with descriptions of new species",
+        "creator": "Mary Isabel McCracken",
+        "thumbnail": "http://books.google.com/books/content?id=ZcFCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3546643",
+        "title": "Spraying crops; why, when, and how",
+        "creator": "Clarence Moores Weed",
+        "thumbnail": "http://books.google.com/books/content?id=CWkgAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1273671138",
+        "title": "Dickens and democracy in the age of paper : representing the people",
+        "creator": "Carolyn Vellenga Berman",
+        "thumbnail": "http://books.google.com/books/content?id=4wZZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1273916294",
+        "title": "Moral authority in Seamus Heaney and Geoffrey Hill",
+        "creator": "Bridget Vincent",
+        "thumbnail": "http://books.google.com/books/content?id=5CFaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "44595897",
+        "title": "My Asakusa : coming of age in pre-war Tokyo",
+        "creator": "Sadako Sawamura",
+        "thumbnail": "http://books.google.com/books/content?id=APFkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "166328682",
+        "title": "濰縣楊家埠木版年畫全色稿選編",
+        "creator": "濰縣年畫硏究所.",
+        "thumbnail": "http://books.google.com/books/content?id=VrprAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "25672715",
+        "title": "陕西国画院作品选",
+        "creator": "陕西国画院.",
+        "thumbnail": "http://books.google.com/books/content?id=FVe0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "4775598",
+        "title": "Secret rendezvous",
+        "creator": "安部公房, 1924-",
+        "thumbnail": "http://books.google.com/books/content?id=O4g-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2120352",
+        "title": "無量義經",
+        "creator": "芳朗(1921-1989) 田村",
+        "thumbnail": "http://books.google.com/books/content?id=MPZOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "879869908",
+        "title": "Gaysia : adventures in the queer East",
+        "creator": "Benjamin Law",
+        "thumbnail": "http://books.google.com/books/content?id=UipYAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "790279",
+        "title": "Spermiogenesis",
+        "creator": "David M. Phillips",
+        "thumbnail": "http://books.google.com/books/content?id=ydVqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "930462572",
+        "title": "Principles and practice of spectro-chemical analysis",
+        "creator": "Norman Harry Nachtrieb",
+        "thumbnail": "http://books.google.com/books/content?id=GuzQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "373117",
+        "title": "Logic and scientific methods, an introductory course",
+        "creator": "Herbert L. Searles",
+        "thumbnail": "http://books.google.com/books/content?id=HkFCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3553218",
+        "title": "Logarithmic and trigonometric tables : five decimal places",
+        "creator": "C. W. Crockett",
+        "thumbnail": "http://books.google.com/books/content?id=7dAGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "178519",
+        "title": "Geology and origin of South Park, Colorado",
+        "creator": "J. T. Stark",
+        "thumbnail": "http://books.google.com/books/content?id=kPEtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "177000591",
+        "title": "Filipinos in Hollywood",
+        "creator": "Carina Monica Montoya",
+        "thumbnail": "http://books.google.com/books/content?id=6eP72TCuAswC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "181601920",
+        "title": "Filipinos in Stockton",
+        "creator": "Dawn Bohulano Mabalon",
+        "thumbnail": "http://books.google.com/books/content?id=ckpjRPYfEk8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "320803884",
+        "title": "Filipinos in Carson and the South Bay",
+        "creator": "Florante Peter Ibanez",
+        "thumbnail": "http://books.google.com/books/content?id=LZ6tLcm9yK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "610834899",
+        "title": "Filipinos in San Diego",
+        "creator": "Judy Patacsil",
+        "thumbnail": "http://books.google.com/books/content?id=x8sRIb1vuooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "668196582",
+        "title": "Filipinos in San Francisco",
+        "creator": "Filipino American National Historical Society",
+        "thumbnail": "http://books.google.com/books/content?id=Zmw7Uym3Vd4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "212843133",
+        "title": "Filipinos in the East Bay",
+        "creator": "Evangeline Canonizado Buell",
+        "thumbnail": "http://books.google.com/books/content?id=m4cagVAo5D0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1061819961",
+        "title": "I know what I am : the life and times of Artemisia Gentileschi",
+        "creator": "Gina Siciliano",
+        "thumbnail": "http://books.google.com/books/content?id=opzqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "692275561",
+        "title": "Filipinos in Ventura County",
+        "creator": "Elnora Kelly Tayag",
+        "thumbnail": "http://books.google.com/books/content?id=Pe4BrFr4MK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "59226646",
+        "title": "Filipinos in Vallejo",
+        "creator": "Mel Orpilla",
+        "thumbnail": "http://books.google.com/books/content?id=t6xXcDel-PkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "752493",
+        "title": "Livre à la mémoire du professeur Paul Fallot; consancré à l'évolution paléogeógraphique et structurale des domaines méditerranéens et alpins d'Europe",
+        "creator": "P. Fallot",
+        "thumbnail": "http://books.google.com/books/content?id=kSESAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "713900",
+        "title": "Living and fossil Bryozoa; recent advances in research, proceedings of the International Bryozoology Association conference",
+        "creator": "International Bryozoology Association",
+        "thumbnail": "http://books.google.com/books/content?id=4wkMAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3643422",
+        "title": "Lithological studies : a description and classification of the rocks of the Cordilleras",
+        "creator": "M. Edward Wadsworth",
+        "thumbnail": "http://books.google.com/books/content?id=VsANAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "551918",
+        "title": "South African scenery; a textbook of geomorphology",
+        "creator": "Lester C. King",
+        "thumbnail": "http://books.google.com/books/content?id=0UDWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2195126",
+        "title": "Sources of information on geology and mining in the Western States",
+        "creator": "William Blake Beatty",
+        "thumbnail": "http://books.google.com/books/content?id=3SNAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "92568",
+        "title": "Sounds of western North Atlantic fishes; a reference file of biological underwater sounds",
+        "creator": "Marie Poland Fish",
+        "thumbnail": "http://books.google.com/books/content?id=AnAWAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1255609018",
+        "title": "The legend of Auntie Po",
+        "creator": "Shing Yin Khor",
+        "thumbnail": "http://books.google.com/books/content?id=7gEvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1083226030",
+        "title": "Banned book club",
+        "creator": "Hyun Sook Kim",
+        "thumbnail": "http://books.google.com/books/content?id=qGK5wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1193559561",
+        "title": "Seek you : a journey through American loneliness",
+        "creator": "Kristen Radtke",
+        "thumbnail": "http://books.google.com/books/content?id=03PU6qOYqoAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "678831",
+        "title": "Sonographs of the sea floor; a picture atlas",
+        "creator": "R. H. Belderson",
+        "thumbnail": "http://books.google.com/books/content?id=Q8wJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3690803",
+        "title": "The biography and typography of William Caxton, England's first printer",
+        "creator": "William Blades",
+        "thumbnail": "http://books.google.com/books/content?id=_UVAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1242836",
+        "title": "So this then is Christmas eve",
+        "creator": "Robert Browning",
+        "thumbnail": "http://books.google.com/books/content?id=264rAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3553278",
+        "title": "Linear programming in industry: theory and applications; an introduction",
+        "creator": "Sven Danø",
+        "thumbnail": "http://books.google.com/books/content?id=qBwUAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1510925",
+        "title": "Limnology",
+        "creator": "Paul S. Welch",
+        "thumbnail": "http://books.google.com/books/content?id=rFPwAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "995052268",
+        "title": "Art history. Volume 1",
+        "creator": "Marilyn Stokstad",
+        "thumbnail": "http://books.google.com/books/content?id=rPnRtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1139030181",
+        "title": "Heaven has eyes : a history of Chinese law",
+        "creator": "Xiaoqun Xu",
+        "thumbnail": "http://books.google.com/books/content?id=s1AAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "3180803",
+        "title": "The life of the Pleistocene or glacial period, as recorded in the deposits laid down by the great ice sheets",
+        "creator": "Frank Collins Baker",
+        "thumbnail": "http://books.google.com/books/content?id=cOwKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "18915360",
+        "title": "郭秉文先生紀念集",
+        "creator": "郭秉文",
+        "thumbnail": "http://books.google.com/books/content?id=59tUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "18849140",
+        "title": "The recognition of Emily Dickinson : selected criticism since 1890",
+        "creator": "Caesar R. Blake",
+        "thumbnail": "http://books.google.com/books/content?id=x9VAngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "2626207",
+        "title": "Life and letters of Sir Joseph Prestwich",
+        "creator": "Grace Anne Prestwich",
+        "thumbnail": "http://books.google.com/books/content?id=heXOAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1579631",
+        "title": "Soils: their genesis and classification. A memorial volume of lectures given in the Graduate School of the United States Department of Agriculture in 1928",
+        "creator": "Curtis Fletcher Marbut",
+        "thumbnail": "http://books.google.com/books/content?id=OoQ_AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "1686997",
+        "title": "Soil mechanics, its principles and structural applications",
+        "creator": "Dimitri Pavlovitch Krynine",
+        "thumbnail": "http://books.google.com/books/content?id=3Q8hAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "57216289",
+        "title": "Austral Hepaticae. 35, A taxonomic and phylogenetic study of Telaranea (Lepidoziaceae) : with a monograph of the genus in temperate Australasia and commentary on extra-Australasian taxa",
+        "creator": "John J. Engel",
+        "thumbnail": "http://books.google.com/books/content?id=cxcOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "oclcNumber": "851703",
+        "title": "Lexikon für Theologie und Kirche",
+        "creator": "Josef Höfer",
+        "thumbnail": "http://books.google.com/books/content?id=mfAIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     }
-   ],
-   "summariesText": [
-    "\"This pioneering collection brings together Suzanne Keen's extensive body of work on empathy and reading, charting the development of narrative empathy as an area of inquiry in its own right and extending cross-disciplinary conversations about empathy evoked by reading\"-- Provided by publisher"
-   ],
-   "peerReviewed": "N"
-  }
- ]
+]
