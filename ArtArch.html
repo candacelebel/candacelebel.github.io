@@ -1,0 +1,100 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>New Art & Architecture Titles</title>
+
+	<!-- INCLUDING JQUERY-->
+	<script src=
+"https://code.jquery.com/jquery-3.5.1.js">
+	</script>
+
+	<!-- CSS FOR STYLING THE PAGE -->
+	<style>
+		table {
+			margin: 0 auto;
+			table-layout: fixed;
+			width: 50%;
+		}
+
+		h1 {
+			text-align: center;
+			color: #332a7e;
+			font-family: 'Gotham Narrow A','Gotham Narrow B',Arial,sans-serif;
+		}
+
+		th {
+			text-align: center;
+		}
+
+		th,
+		td {
+			border: 1px solid black;			
+			font-weight: bold;
+			padding: 5px;
+		}
+
+		td {
+			font-weight: lighter;
+			word-wrap:break-word;
+			text-align: left;
+		}
+	</style>
+</head>
+
+<body>
+	<section>
+		<h1>New Art & Architecture Titles - August 1-21, 2022</h1>
+
+		<!-- TABLE CONSTRUCTION-->
+		<table id='table'>
+			<!-- HEADING FORMATION -->
+			<tr>
+				<th style="width:130px" text-align="center">Cover</th>
+				<th>Title</th>
+				<th style="width:200px">Creator</th>
+				<th>Date</th>
+				<th>Format</th>
+			</tr>
+
+			<script>
+				$(document).ready(function () {
+
+					// FETCHING DATA FROM JSON FILE
+					$.getJSON("NewArt.json",
+							function (data) {
+						var record = '';
+
+						// ITERATING THROUGH OBJECTS
+						$.each(data, function (key, value) {
+
+							//CONSTRUCTION OF ROWS HAVING
+							// DATA FROM JSON OBJECT
+							record += '<tr>';
+
+							record += '<td><img src="' + value.thumbnail + '" alt="' + value.title + '"></td>';
+
+							record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +
+								value.title + '</a></td>';
+
+							record += '<td>' +
+								value.creator + '</td>';
+							
+							record += '<td>' +
+								value.date + '</td>';
+							
+							record += '<td>' +
+								value.generalFormat + '</td>';
+
+							record += '</tr>';
+						});
+						
+						//INSERTING ROWS INTO TABLE
+						$('#table').append(record);
+					});
+				});
+			</script>
+	</section>
+</body>
+
+</html>
