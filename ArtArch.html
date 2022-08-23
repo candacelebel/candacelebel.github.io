@@ -50,11 +50,11 @@
 		<table id='table'>
 			<!-- HEADING FORMATION -->
 			<tr>
-				<th style="width:130px" text-align="center">Cover</th>
+				<th style="width:130px">Cover</th>
 				<th>Title</th>
-				<th style="width:200px" text-align="center">Creator</th>
-				<th style="width:50px" text-align="center">Date</th>
-				<th style="width:75px" text-align="center">Format</th>
+				<th style="width:200px">Creator</th>
+				<th style="width:50px">Date</th>
+				<th style="width:75px">Format</th>
 			</tr>
 
 			<script>
@@ -72,7 +72,7 @@
 							// DATA FROM JSON OBJECT
 							record += '<tr>';
 
-							record += '<td><img src="' + value.thumbnail + '" alt="' + value.title + '"></td>';
+							record += '<td text-align="center"><img src="' + value.thumbnail + '" alt="' + value.title + '"></td>';
 
 							record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +
 								value.title + '</a></td>';
@@ -80,10 +80,10 @@
 							record += '<td>' +
 								value.creator + '</td>';
 							
-							record += '<td>' +
+							record += '<td text-align="center">' +
 								value.date + '</td>';
 							
-							record += '<td>' +
+							record += '<td text-align="center">' +
 								value.generalFormat + '</td>';
 
 							record += '</tr>';
