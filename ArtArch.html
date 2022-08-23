@@ -32,6 +32,7 @@
 			border: 1px solid black;			
 			font-weight: bold;
 			padding: 5px;
+			text-align: center;
 		}
 
 		td {
@@ -71,7 +72,7 @@
 							// DATA FROM JSON OBJECT
 							record += '<tr>';
 
-							record += '<td text-align="center"><img src="' + value.thumbnail + '" alt="' + value.title + '"></td>';
+							record += '<td><img src="' + value.thumbnail + '" alt="' + value.title + '"></td>';
 
 							record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +
 								value.title + '</a></td>';
@@ -79,10 +80,10 @@
 							record += '<td>' +
 								value.creator + '</td>';
 							
-							record += '<td text-align="center">' +
+							record += '<td>' +
 								value.date + '</td>';
 							
-							record += '<td text-align="center">' +
+							record += '<td>' +
 								value.generalFormat + '</td>';
 
 							record += '</tr>';
