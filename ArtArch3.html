@@ -10,34 +10,22 @@
 
 
 
-$(document).ready(function(){
-var url = "https://candacelebel.github.io/NewArt3.json";
-let data;
-//$.getJSON(url, function (data) {
-$.getJSON(url, function (_data) {
-    data = _data
-    $.each(data, function (index, value) {
-        $('#sel').append('<option value="' + value.provider + '">' + value.provider + 
-'</option>');
-        
+let dropdown = $('#locality-dropdown');
 
-  }); 
-    });
+dropdown.empty();
 
-$("select").change(function(){
-        $(this).find("option:selected").each(function(){
-            var optionValue = $(this).attr("value");
-            
-            if(optionValue){
-                $(".box").not("." + optionValue).hide();
-                $("#sol").text(optionValue);
-                $("." + optionValue).show();
-            } else{
-                $(".box").hide();
-            }
-        });
-    }).change();
+dropdown.append('<option selected="true" disabled>Choose Format</option>');
+dropdown.prop('selectedIndex', 0);
+
+const url = 'https://candacelebel.github.io/NewArt3.json';
+
+// Populate dropdown with list of provinces
+$.getJSON(url, function (data) {
+  $.each(data, function (key, entry) {
+    dropdown.append($('<option></option>').attr('value', entry.generalFormat));
+  })
 });
+
 
 
 
@@ -45,15 +33,6 @@ $("select").change(function(){
 
 	<!-- CSS FOR STYLING THE PAGE -->
 	<style>
-	
-	    .box{
-        color: #fff;
-        padding: 20px;
-        display: none;
-        margin-top: 20px;
-		}
-	
-	
 		table {
 			margin: 0 auto;
 			table-layout: auto;
@@ -86,18 +65,8 @@ $("select").change(function(){
 
 <body>
 
-<select id="sel">
-   <option value="">Select option</option>
+<select id="locality-dropdown" name="locality">
 </select>
-<div class="box" id="sol"></div>
-
-
-<!-- <select id="generalFormat">
-  <option value="0">SELECT General Format</option>
-</select>
-<select id="specificFormat">
-  <option value="0">SELECT Specific Format</option>
-</select> -->
 
 
 	<section>
