@@ -8,20 +8,20 @@
 	<script src=
 "https://code.jquery.com/jquery-3.5.1.js">
 
-const data=[{ID:"1",Tumor_type:"crc",Regimen:"CAPOX",Dose:"high"},{ID:"2",Tumor_type:"crc",Regimen:"CAPOX",Dose:"low"},{ID:"3",Tumor_type:"crc",Regimen:"FOLFOX",Dose:"high"},{ID:"4",Tumor_type:"crc",Regimen:"FOLFOX",Dose:"low"},{ID:"5",Tumor_type:"Gastric",Regimen:"FOLFOX",Dose:"high"},{ID:"6",Tumor_type:"Gastric",Regimen:"FOLFOX",Dose:"low"},{ID:"7",Tumor_type:"Gastric",Regimen:"FOLFIRI",Dose:"high"},{ID:"8",Tumor_type:"Gastric",Regimen:"FOLFIRI",Dose:"low"}];
-const dropdown1 = document.getElementById('tumor_type');
-const dropdown2 = document.getElementById('regimen');
-const dropdown3 = document.getElementById('dose');
-for (const t of new Set(data.map(x => x.Tumor_type)))
+
+import data from './NewArt3.json' assert { type: 'json' };
+console.log(data);
+
+const dropdown1 = document.getElementById('generalFormat');
+const dropdown2 = document.getElementById('specificFormat');
+
+for (const t of new Set(data.map(x => x.generalFormat)))
     dropdown1.add(new Option(t));
 dropdown1.addEventListener('change', e => {
     const type = dropdown1.value;
     dropdown2.replaceChildren();
-    for (const r of new Set(data.filter(x => x.Tumor_type === type).map(x => x.Regimen)))
+    for (const r of new Set(data.filter(x => x.generalFormat === type).map(x => x.specificFormat)))
         dropdown2.add(new Option(r));
-    dropdown3.replaceChildren();
-    for (const d of new Set(data.filter(x => x.Tumor_type === type).map(x => x.Dose)))
-        dropdown3.add(new Option(d));
 });
 	</script>
 
