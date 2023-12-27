@@ -12,8 +12,10 @@
 
 $(document).ready(function(){
 var url = "NewArt3.json";
-
-$.getJSON(url, function (data) {
+let data;
+//$.getJSON(url, function (data) {
+$.getJSON(url, function (_data) {
+    data = _data
     $.each(data, function (index, value) {
         $('#sel').append('<option value="' + value.provider + '">' + value.provider + 
 '</option>');
