@@ -9,25 +9,34 @@
 "https://code.jquery.com/jquery-3.5.1.js">
 
 
+let data = [{
+        "oclcNumber": "1414377568",
+        "title": "The history of England's cathedrals",
+        "creator": "Nicholas Orme",
+        "date": "2024",
+        "generalFormat": "Book",
+        "specificFormat": "Digital",
+        "publisher": "Yale University Press",
+        "isbns": [
+            "9780300277593",
+            "0300277598"
+        ]
+    },
+    {
+        "oclcNumber": "1395478574",
+        "title": "Kehinde Wiley : an Economy of Grace",
+        "creator": "Jeff Dupre",
+        "date": "2023",
+        "generalFormat": "Video",
+        "specificFormat": "Digital",
+        "publisher": "Music Box Films",
+        "isbns": ""
+    }
+];
 
-let dropdown = $('#locality-dropdown');
+var selectElement = document.getElementById('mySelect');
 
-dropdown.empty();
-
-dropdown.append('<option selected="true" disabled>Choose Format</option>');
-dropdown.prop('selectedIndex', 0);
-
-const url = 'https://candacelebel.github.io/NewArt3.json';
-
-// Populate dropdown with list of provinces
-$.getJSON(url, function (data) {
-  $.each(data, function (key, entry) {
-    dropdown.append($('<option></option>').attr('value', entry.generalFormat));
-  })
-});
-
-
-
+data.map(item => mySelect.appendChild(new Option(item.generalFormat, item.oclcNumber)).cloneNode(true));
 
 	</script>
 
@@ -65,9 +74,7 @@ $.getJSON(url, function (data) {
 
 <body>
 
-<select id="locality-dropdown" name="locality">
-</select>
-
+<select id="mySelect"></select>
 
 	<section>
 		<h1>New Art & Architecture Titles - December 1-14, 2023</h1>
