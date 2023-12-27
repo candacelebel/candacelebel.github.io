@@ -9,24 +9,49 @@
 "https://code.jquery.com/jquery-3.5.1.js">
 
 
-import data from 'NewArt3.json' assert { type: 'json' };
-console.log(data);
 
-const dropdown1 = document.getElementById('generalFormat');
-const dropdown2 = document.getElementById('specificFormat');
+$(document).ready(function(){
+var url = "NewArt3.json";
 
-for (const t of new Set(data.map(x => x.generalFormat)))
-    dropdown1.add(new Option(t));
-dropdown1.addEventListener('change', e => {
-    const type = dropdown1.value;
-    dropdown2.replaceChildren();
-    for (const r of new Set(data.filter(x => x.generalFormat === type).map(x => x.specificFormat)))
-        dropdown2.add(new Option(r));
+$.getJSON(url, function (data) {
+    $.each(data, function (index, value) {
+        $('#sel').append('<option value="' + value.provider + '">' + value.provider + 
+'</option>');
+        
+
+  }); 
+    });
+
+$("select").change(function(){
+        $(this).find("option:selected").each(function(){
+            var optionValue = $(this).attr("value");
+            
+            if(optionValue){
+                $(".box").not("." + optionValue).hide();
+                $("#sol").text(optionValue);
+                $("." + optionValue).show();
+            } else{
+                $(".box").hide();
+            }
+        });
+    }).change();
 });
+
+
+
 	</script>
 
 	<!-- CSS FOR STYLING THE PAGE -->
 	<style>
+	
+	    .box{
+        color: #fff;
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+		}
+	
+	
 		table {
 			margin: 0 auto;
 			table-layout: auto;
@@ -59,14 +84,18 @@ dropdown1.addEventListener('change', e => {
 
 <body>
 
+<select id="sel">
+   <option value="">Select option</option>
+</select>
+<div class="box" id="sol"></div>
 
 
-<select id="generalFormat">
+<!-- <select id="generalFormat">
   <option value="0">SELECT General Format</option>
 </select>
 <select id="specificFormat">
   <option value="0">SELECT Specific Format</option>
-</select>
+</select> -->
 
 
 	<section>
