@@ -9,34 +9,62 @@
 "https://code.jquery.com/jquery-3.5.1.js">
 
 
-let data = [{
-        "oclcNumber": "1414377568",
-        "title": "The history of England's cathedrals",
-        "creator": "Nicholas Orme",
-        "date": "2024",
-        "generalFormat": "Book",
-        "specificFormat": "Digital",
-        "publisher": "Yale University Press",
-        "isbns": [
-            "9780300277593",
-            "0300277598"
-        ]
-    },
-    {
-        "oclcNumber": "1395478574",
-        "title": "Kehinde Wiley : an Economy of Grace",
-        "creator": "Jeff Dupre",
-        "date": "2023",
-        "generalFormat": "Video",
-        "specificFormat": "Digital",
-        "publisher": "Music Box Films",
-        "isbns": ""
-    }
-];
+document.addEventListener('DOMContentLoaded', function () {
+  // Replace 'your-json-file-url' with the actual URL of your JSON file
+  const jsonFileUrl = 'https://candacelebel.github.io/NewArt3.json';
 
-var selectElement = document.getElementById('mySelect');
+  // Step 1: Fetch the JSON file using the fetch API
+  fetch(jsonFileUrl)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Step 2: Create a dropdown list
+      const dropdown = document.getElementById('dropdown');
 
-data.map(item => mySelect.appendChild(new Option(item.generalFormat, item.oclcNumber)).cloneNode(true));
+      // Step 3: Use a Set to keep track of unique values
+      const uniqueValues = new Set();
+
+      // Step 4: Populate the dropdown list with unique values from the JSON file
+      data.forEach(option => {
+        uniqueValues.add(option.generalFormat);
+      });
+
+      // Step 5: Create option elements for each unique value
+      uniqueValues.forEach(value => {
+        const optionElement = document.createElement('option');
+        optionElement.value = value;
+        optionElement.text = value;
+        dropdown.appendChild(optionElement);
+      });
+    })
+    .catch(error => {
+      console.error('Error fetching JSON:', error);
+    });
+});
+
+
+
+
+
+//populate the Drop Down List
+//$.getJSON("https://candacelebel.github.io/NewArt.json", function (data) {
+//     $.each(data, function (index, item) {
+//         $('#mySelect').append(
+//              $('<option></option>').val(item).html(item)
+//          );
+//     });
+// });
+
+//let data = NewArt.json
+//$.getJSON("NewArt.json", function (data) {
+
+//var selectElement = document.getElementById('mySelect');
+
+//data.map(item => mySelect.appendChild(new Option(item.generalFormat, item.oclcNumber)).cloneNode(true));
 
 	</script>
 
@@ -74,7 +102,7 @@ data.map(item => mySelect.appendChild(new Option(item.generalFormat, item.oclcNu
 
 <body>
 
-<select id="mySelect"></select>
+<select id="dropdown"></select>
 
 	<section>
 		<h1>New Art & Architecture Titles - December 1-14, 2023</h1>
