@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -8,7 +9,42 @@
 	<script src=
 "https://code.jquery.com/jquery-3.5.1.js">
 
+	</script>
 
+	<!-- CSS FOR STYLING THE PAGE -->
+	<style>
+		table {
+			margin: 0 auto;
+			table-layout: auto;
+			width: 50%;
+		}
+
+		h1 {
+			text-align: center;
+			color: #332a7e;
+			font-family: 'Gotham Narrow A','Gotham Narrow B',Arial,sans-serif;
+		}
+
+		th {
+			text-align: center;
+		}
+
+		th,
+		td {
+			font-weight: bold;
+			text-align: left;
+		}
+
+		td {
+			font-weight: lighter;
+			word-wrap:break-word;
+		}
+</style>
+</head>
+
+<body>
+
+<script>
 document.addEventListener('DOMContentLoaded', function () {
   // Replace 'your-json-file-url' with the actual URL of your JSON file
   const jsonFileUrl = 'https://candacelebel.github.io/NewArt3.json';
@@ -45,67 +81,11 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error('Error fetching JSON:', error);
     });
 });
-
-
-
-
-
-//populate the Drop Down List
-//$.getJSON("https://candacelebel.github.io/NewArt.json", function (data) {
-//     $.each(data, function (index, item) {
-//         $('#mySelect').append(
-//              $('<option></option>').val(item).html(item)
-//          );
-//     });
-// });
-
-//let data = NewArt.json
-//$.getJSON("NewArt.json", function (data) {
-
-//var selectElement = document.getElementById('mySelect');
-
-//data.map(item => mySelect.appendChild(new Option(item.generalFormat, item.oclcNumber)).cloneNode(true));
-
-	</script>
-
-	<!-- CSS FOR STYLING THE PAGE -->
-	<style>
-		table {
-			margin: 0 auto;
-			table-layout: auto;
-			width: 50%;
-		}
-
-		h1 {
-			text-align: center;
-			color: #332a7e;
-			font-family: 'Gotham Narrow A','Gotham Narrow B',Arial,sans-serif;
-		}
-
-		th {
-			text-align: center;
-		}
-
-		th,
-		td {
-			font-weight: bold;
-			text-align: left;
-		}
-
-		td {
-			font-weight: lighter;
-			word-wrap:break-word;
-		}
-
-</style>
-</head>
-
-<body>
-
+</script>
 <select id="dropdown"></select>
 
-	<section>
-		<h1>New Art & Architecture Titles - December 1-14, 2023</h1>
+<section>
+		<h1>New Art &a Architecture Titles - December 1-14, 2023</h1>
 
 		<!-- TABLE CONSTRUCTION-->
 		<table id='table'>
@@ -131,19 +111,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
 							//CONSTRUCTION OF ROWS HAVING
 							// DATA FROM JSON OBJECT
-	record += '<tr>';
+                        record += '<tr>';
 
-	record += '<td rowspan="4"><img src="https://syndetics.com/index.aspx?isbn=' + value.isbns + '/LC.GIF&amp;client=springshare" alt="' + value.title + '" width="90" style="padding: 5px 5px 10px 5px"></td>';
+                        record += '<td rowspan="4"><img src="https://syndetics.com/index.aspx?isbn=' + value.isbns + '/LC.GIF&amp;client=springshare" alt="' + value.title + '" width="90" style="padding: 5px 5px 10px 5px"></td>';
 
-	record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +	value.title + '</a></td>';
+                        record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +	value.title + '</a></td>';
 
-	record += '<tr><td>' +	value.creator + '</td></tr>';
+                        record += '<tr><td>' +	value.creator + '</td></tr>';
 	
-	record += '<tr><td>' +	value.publisher + '</td></tr>';
+                        record += '<tr><td>' +	value.publisher + '</td></tr>';
 	
-	record += '<tr><td>' +	value.date + '</td></tr>';
+                        record += '<tr><td>' +	value.date + '</td></tr>';
 
-	record += '</tr>';
+                        record += '</tr>';
 						});
 						
 						//INSERTING ROWS INTO TABLE
@@ -151,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function () {
 					});
 				});
 			</script>
-	</section>
+        </table>
+</section>
 </body>
-
 </html>
