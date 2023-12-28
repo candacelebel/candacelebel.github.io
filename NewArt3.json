@@ -1,0 +1,100 @@
+[
+    {
+        "oclcNumber": "1414377568",
+        "title": "The history of England's cathedrals",
+        "creator": "Nicholas Orme",
+        "date": "2024",
+        "generalFormat": "Book",
+        "specificFormat": "Digital",
+        "publisher": "Yale University Press",
+        "isbns": [
+            "9780300277593",
+            "0300277598"
+        ]
+    },
+    {
+        "oclcNumber": "1395478574",
+        "title": "Kehinde Wiley : an Economy of Grace",
+        "creator": "Jeff Dupre",
+        "date": "2023",
+        "generalFormat": "Video",
+        "specificFormat": "Digital",
+        "publisher": "Music Box Films",
+        "isbns": ""
+    },
+    {
+        "oclcNumber": "1263246457",
+        "title": "Inside out",
+        "creator": "Nancy Callahan",
+        "date": "2010",
+        "generalFormat": "Book",
+        "specificFormat": "PrintBook",
+        "publisher": "Women's Studio Workshop",
+        "isbns": [
+            "1893125629",
+            "9781893125629"
+        ]
+    },
+    {
+        "oclcNumber": "300301154",
+        "title": "Skim milk & soft wax",
+        "creator": "Dani Leventhal",
+        "date": "2008",
+        "generalFormat": "Book",
+        "specificFormat": "PrintBook",
+        "publisher": "Women's Studio Workshop",
+        "isbns": [
+            "9781893125605",
+            "1893125602"
+        ]
+    },
+    {
+        "oclcNumber": "1374670185",
+        "title": "Japanese photography magazines, 1880s to 1980s",
+        "creator": "金子隆一, 1948-2021, author",
+        "date": "2022",
+        "generalFormat": "Book",
+        "specificFormat": "PrintBook",
+        "publisher": "Goliga Books",
+        "isbns": [
+            "9784991276101",
+            "4991276101"
+        ]
+    },
+    {
+        "oclcNumber": "960810911",
+        "title": "L'Art et la tragédie du Beau",
+        "creator": "Karl W. F. Solger",
+        "date": "2013",
+        "generalFormat": "Book",
+        "specificFormat": "Digital",
+        "publisher": "Éditions Rue d'Ulm",
+        "isbns": [
+            "9782728836949",
+            "2728836949"
+        ]
+    },
+    {
+        "oclcNumber": "960810906",
+        "title": "Y voir mieux, y regarder de plus près Autour d'Hubert Damisch",
+        "creator": "Daniel Arasse",
+        "date": "2013",
+        "generalFormat": "Book",
+        "specificFormat": "Digital",
+        "publisher": "Éditions Rue d'Ulm",
+        "isbns": [
+            "9782728836987",
+            "2728836981"
+        ]
+    },
+    {
+        "oclcNumber": "605088938",
+        "title": "The complex past of pottery : production, circulation and consumption of Mycenaean and Greek pottery (sixteenth to early fifth centuries BC)",
+        "creator": "Jan Paul Crielaard",
+        "date": "1999",
+        "generalFormat": "Book",
+        "specificFormat": "Digital",
+        "publisher": "Gieben",
+        "isbns": ""
+    }
+]
