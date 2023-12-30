@@ -53,7 +53,7 @@
 <div id="display-container"></div>
 
 <script>
-// Sample JSON data
+<!-- // Sample JSON data
 const jsonData = [
   {
     "oclcNumber": "1381109163",
@@ -81,10 +81,23 @@ const jsonData = [
       "1835883141"
     ]
   }
-];
+]; -->
 
+document.addEventListener('DOMContentLoaded', function () {
+  // Replace 'your-json-file-url' with the actual URL of your JSON file
+  const jsonFileUrl = 'https://candacelebel.github.io/NewArt_DEC23.json';
+
+  // Step 1: Fetch the JSON file using the fetch API
+  fetch(jsonFileUrl)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
 // Function to populate dropdown and display data
-const populateDropdown = (data) => {
+//const populateDropdown = (data) => {
   const dropdown = document.getElementById('dropdown');
   const displayContainer = document.getElementById('display-container');
   const uniqueValues = new Set();
