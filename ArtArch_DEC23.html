@@ -95,9 +95,9 @@ document.addEventListener('DOMContentLoaded', function () {
       }
       return response.json();
     })
-    .then(data => {
+//    .then(data => {
 // Function to populate dropdown and display data
-//const populateDropdown = (data) => {
+  const populateDropdown = (data) => {
   const dropdown = document.getElementById('dropdown');
   const displayContainer = document.getElementById('display-container');
   const uniqueValues = new Set();
