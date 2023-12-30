@@ -40,7 +40,7 @@
 			word-wrap:break-word;
 		}
         td.border-bottom {
-        border-bottom: 10pt solid #ff000d;
+        border-bottom: 3pt solid #ff000d;
         }
 </style>
 </head>
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	
                         record += '<tr><td>' +	value.publisher + '</td></tr>';
 	
-                        record += '<tr><td>' +	value.date + '</td></tr>';
+                        record += '<tr><td class="border-bottom">' +	value.date + '</td></tr>';
 
                         record += '</tr>';
 						});
