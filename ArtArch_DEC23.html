@@ -40,7 +40,7 @@
 			word-wrap:break-word;
 		}
         td.border-bottom {
-        border-bottom: 3pt solid #ff000d;
+        border-bottom: 1pt solid #000000;
         }
 </style>
 </head>
@@ -132,7 +132,8 @@ document.addEventListener('DOMContentLoaded', function () {
 							// DATA FROM JSON OBJECT
                         record += '<tr>';
 
-                        record += '<td rowspan="4" class="border-bottom"><img src="https://syndetics.com/index.aspx?isbn=' + value.isbns + '/LC.GIF&amp;client=springshare" alt="' + value.title + '" width="90" style="padding: 5px 5px 10px 5px"></td>';
+                        //record += '<td rowspan="4" class="border-bottom"><img src="https://syndetics.com/index.aspx?isbn=' + value.isbns + '/LC.GIF&amp;client=springshare" alt="' + value.title + '" width="90" style="padding: 5px 5px 10px 5px"></td>';
+                        record += '<td rowspan="4" class="border-bottom"><img src="https://syndetics.com/index.aspx?isbn=' + value.isbns + '/LC.GIF&amp;client=springshare" width="90" style="padding: 5px 5px 10px 5px"></td>';
 
                         record += '<td><a href="https://ccl.on.worldcat.org/oclc/' + value.oclcNumber + '" target="_blank">' +	value.title + '</a></td>';
 
