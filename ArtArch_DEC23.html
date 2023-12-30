@@ -44,7 +44,84 @@
 
 <body>
 
+<!-- HTML dropdown element -->
+<select id="dropdown">
+  <!-- Options will be dynamically added using JavaScript -->
+</select>
+
+<!-- Container to display the selected JSON data -->
+<div id="display-container"></div>
+
 <script>
+// Sample JSON data
+const jsonData = [
+  {
+    "oclcNumber": "1381109163",
+    "title": "Grotesque and caricature : Leonardo to Bernini",
+    "creator": "Lucia Tantardini",
+    "date": "2023",
+    "generalFormat": "Book",
+    "specificFormat": "Digital",
+    "publisher": "Brill",
+    "isbns": [
+      "9789004679757",
+      "9004679758"
+    ]
+  },
+  {
+    "oclcNumber": "1415199560",
+    "title": "Adobe Firefly : start building and delivering in under 30 minutes",
+    "creator": "Joseph Labrecque",
+    "date": "2023",
+    "generalFormat": "Video",
+    "specificFormat": "Digital",
+    "publisher": "Packt Publishing",
+    "isbns": [
+      "9781835883143",
+      "1835883141"
+    ]
+  }
+];
+
+// Function to populate dropdown and display data
+const populateDropdown = (data) => {
+  const dropdown = document.getElementById('dropdown');
+  const displayContainer = document.getElementById('display-container');
+  const uniqueValues = new Set();
+
+  // Clear existing options
+  dropdown.innerHTML = '';
+
+  // Populate dropdown options
+  data.forEach(option => {
+    uniqueValues.add(option.generalFormat);
+  });
+
+  uniqueValues.forEach(value => {
+    const optionElement = document.createElement('option');
+    optionElement.value = value;
+    optionElement.text = value;
+    dropdown.appendChild(optionElement);
+  });
+
+  // Add event listener to the dropdown
+  dropdown.addEventListener('change', () => {
+    const selectedValue = dropdown.value;
+    
+    // Filter data based on the selected value
+    const filteredData = jsonData.filter(option => option.generalFormat === selectedValue);
+
+    // Display filtered data
+    displayContainer.innerHTML = JSON.stringify(filteredData, null, 2);
+  });
+};
+
+// Call the function with the JSON data
+populateDropdown(jsonData);
+</script>
+
+
+<!-- <script>
 document.addEventListener('DOMContentLoaded', function () {
   // Replace 'your-json-file-url' with the actual URL of your JSON file
   const jsonFileUrl = 'https://candacelebel.github.io/NewArt_DEC23.json';
@@ -100,10 +177,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-</script>
-<select id="dropdown"></select>
+</script> -->
 
-<div id="display-container"></div>
+<!-- <select id="dropdown"></select>
+
+<div id="display-container"></div> -->
 
 <section>
 		<h1>New Art &amp; Architecture Titles - December 2023</h1>
