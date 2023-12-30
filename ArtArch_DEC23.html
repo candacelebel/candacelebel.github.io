@@ -60,6 +60,8 @@ document.addEventListener('DOMContentLoaded', function () {
     .then(data => {
       // Step 2: Create a dropdown list
       const dropdown = document.getElementById('dropdown');
+      
+      const displayContainer = document.getElementById('display-container');
 
       // Step 3: Use a Set to keep track of unique values
       const uniqueValues = new Set();
@@ -76,13 +78,32 @@ document.addEventListener('DOMContentLoaded', function () {
         optionElement.text = value;
         dropdown.appendChild(optionElement);
       });
+
+      // Add event listener to the dropdown
+      dropdown.addEventListener('change', () => {
+        const selectedValue = dropdown.value;
+    
+      // Filter data based on the selected value
+        const filteredData = jsonData.filter(option => option.generalFormat === selectedValue);
+
+      // Display filtered data
+      displayContainer.innerHTML = JSON.stringify(filteredData, null, 2);
+  });
+};
+
+
     })
     .catch(error => {
       console.error('Error fetching JSON:', error);
     });
 });
+
+
+
 </script>
 <select id="dropdown"></select>
+
+<div id="display-container"></div>
 
 <section>
 		<h1>New Art &amp; Architecture Titles - December 2023</h1>
