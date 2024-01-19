@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>New Digital Video Titles</title>
+	<title>New Titles</title>
 
 	<!-- INCLUDING JQUERY-->
 	<script src=
@@ -50,7 +50,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   // Replace 'your-json-file-url' with the actual URL of your JSON file
-  const jsonFileUrl = 'https://candacelebel.github.io/NewDigitalVideo_DEC23.json';
+  const jsonFileUrl = 'https://candacelebel.github.io/NewTitles_All_DEC23.json';
 
   // Step 1: Fetch the JSON file using the fetch API
   fetch(jsonFileUrl)
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function () {
 </div>
 
 <section>
-		<h1>New Digital Video Titles - December 2023</h1>
+		<h1>New Titles - December 2023</h1>
 
 		<!-- TABLE CONSTRUCTION-->
 		<table id='table'>
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				$(document).ready(function () {
 
 					// FETCHING DATA FROM JSON FILE
-					$.getJSON("NewDigitalVideo_DEC23.json",
+					$.getJSON("NewTitles_All_DEC23.json",
 							function (data) {
 						var record = '';
 
