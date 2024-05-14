@@ -94,7 +94,8 @@ document.addEventListener('DOMContentLoaded', function () {
       const filteredData = data.filter(option => option.generalFormat === selectedValue);
 
       // Display filtered data
-      displayContainer.innerHTML = formatRecords(filteredData);
+      // displayContainer.innerHTML = formatRecords(filteredData);
+      displayContainer = formatRecords(filteredData);
     });
 });
 </script>
