@@ -4,45 +4,52 @@
         "title": "The Conformed Body contemporary art in China",
         "creator": "Jiehong Jiang",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "BRILL",
         "isbns": [
             "9004703608",
             "9789004703605"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1439596667",
         "title": "Room Acoustics",
         "creator": "Heinrich Kuttruff",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040086131",
             "1040086136"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1423773330",
         "title": "Translating Warhol",
         "creator": "Reva Wolf",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Academic",
         "isbns": [
             "9798765110973",
             "9798765110966"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1419683261",
         "title": "Derek Jarman's visionary arts : exploring land and depth",
         "creator": "Michael Charlesworth",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Academic",
@@ -51,65 +58,75 @@
             "1350385743",
             "9781350385757",
             "1350385751"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1433207061",
         "title": "Photography, Ecology and Historical Change in the Anthropocene Activating Archives",
         "creator": "Bergit Arends",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040086285",
             "1040086284"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446803800",
         "title": "Luxury Fashion Marketing and Branding A Strategic Approach",
         "creator": "Alice Dallabona",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040100899",
             "1040100899"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1416189986",
         "title": "Illustration and Heritage",
         "creator": "Rachel Emily Taylor",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350294189",
             "1350294187"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446798630",
         "title": "Lo-Fi Photography Art from Do-It-Yourself Chemistry and Physics",
         "creator": "John Beaver",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Royal Society of Chemistry, The",
         "isbns": [
             "9781839169311",
             "1839169311"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1415898738",
         "title": "Variations in Christian art : Mennonite, Mormon, Quaker, and Swedenborgian",
         "creator": "Diane Apostolos-Cappadona",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "T&T Clark",
@@ -118,306 +135,354 @@
             "0567698130",
             "9780567698148",
             "0567698149"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1428262438",
         "title": "Moving Pictures A History of American Animation from Gertie to Pixar and Beyond",
         "creator": "Darl Larsen",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Rowman & Littlefield Publishers, Incorporated",
         "isbns": [
             "9781538160381",
             "1538160382"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1428141414",
         "title": "Art during wartime : painting everyday life in the Civil War North",
         "creator": "Vanessa Meikle Schulman",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "University of Massachusetts Press",
         "isbns": [
             "9781685750749",
             "1685750745"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1453286399",
         "title": "Art activism for an anticolonial future",
         "creator": "Carlos Garrido Castellano",
         "date": "2021",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "State University of New York Press",
         "isbns": [
             "9781438485744",
             "1438485743"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1441720234",
         "title": "Moscow Conceptualism, 1975-1985 Words, Deeds, Legacies",
         "creator": "Mary A. Nicholas",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350227880",
             "1350227889"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1366214716",
         "title": "Ceramic Production in the American Southwest",
         "creator": "Patricia L. Crown",
         "date": "2022",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "University of Arizona Press",
         "isbns": [
             "9780816548804",
             "0816548803"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "614855779",
         "title": "Tussen zwart en ultramarijn : de levens van schilders beschreven door Jacob Campo Weyerman (1677-1747)",
         "creator": "Ton Broos",
         "date": "1990",
+        "language": "dut",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Rodopi",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450655312",
         "title": "Verso la neutralità climatica di architetture e città green. Sperimentazioni e casi di studio nel Nord e Mittel Europa",
         "creator": "Fabrizio Tucci",
         "date": "2023",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Franco Angeli Riviste SRL",
         "isbns": [
             "9788835153955",
             "8835153956"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450657076",
         "title": "History, painting, and the seriousness of pleasure in the age of Louis XV",
         "creator": "Susanna Caviglia-Brunel",
         "date": "2020",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Published by Liverpool University Press : on behalf of Voltaire Foundation, University of Oxford",
         "isbns": [
             "9781789622478",
             "1789622476"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450656915",
         "title": "Città sospese fra capi e fiumare: Strategie identitarie",
         "creator": "Marinella Arena",
         "date": "2023",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Franco Angeli Riviste SRL",
         "isbns": [
             "9788835153795",
             "8835153794"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1257077036",
         "title": "Technical Art History",
         "creator": "Jehane Ragai",
         "date": "2021",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "World Scientific Publishing Company",
         "isbns": [
             "9781786349408",
             "178634940X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1453237772",
         "title": "Fotografías durante el conflicto armado en Colombia : un campo visual para armar",
         "creator": "Manuel Silva Rodríguez",
         "date": "2022",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Universidad del Valle, Programa Editorial",
         "isbns": [
             "9786287566422",
             "6287566426"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1438846326",
         "title": "Guía de Visual Thinking",
         "creator": "Ignacio López-Forniés",
         "date": "2020",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Dextra Editorial",
         "isbns": [
             "9788417946487",
             "8417946489"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1431980481",
         "title": "Representaciones artísticas del indígena en América Latina",
         "creator": "Martha Elena Munguía Zatarain",
         "date": "2024",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Iberoamericana ; Vervuert ; Universidad Veracruzana ; Universidad de Sonora",
         "isbns": [
             "9783968695662",
             "3968695666"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1434177014",
         "title": "Disfrutar el arte Comentario y silencio",
         "creator": "Juan-Ramón. Capella",
         "date": "2024",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Trotta, Editorial S.A.",
         "isbns": [
             "9788413642499",
             "8413642493"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885849",
         "title": "Hijas de la posguerra : esculturas de la transición",
         "creator": "Raquel Barrionuevo Pérez",
         "date": "2012",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Libros",
         "isbns": [
             "9788490114797",
             "849011479X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885723",
         "title": "La Europa pintoresca : grabados del siglo XIX",
         "creator": "José Luis González",
         "date": "2010",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Libros",
         "isbns": [
             "9788498866032",
             "8498866030"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885590",
         "title": "Vida y pintura naïf : memorias",
         "creator": "Mercedes Barba",
         "date": "2011",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Libros",
         "isbns": [
             "9788499837512",
             "8499837514"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885450",
         "title": "Arte contextual : intervenciones en el espacio público",
         "creator": "Jesús Segura",
         "date": "2012",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Libros",
         "isbns": [
             "9788490115473",
             "8490115478"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885353",
         "title": "La miniatura altomedieval española",
         "creator": "Pablo García-Diego",
         "date": "2011",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Libros",
         "isbns": [
             "9788490112526",
             "8490112525"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450885275",
         "title": "Estudio particular sobre las artes decorativas en Menorca",
         "creator": "Mariana Vinent Cardona",
         "date": "2010",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vision Net",
         "isbns": [
             "9788498866469",
             "8498866464"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1452948042",
         "title": "Aproximación a Gaudí",
         "creator": "Juan Bassegoda Nonell",
         "date": "1992",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Doce Calles",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1439597472",
         "title": "Composición no composición Arquitectura y teorías, siglos XIX y XX",
         "creator": "Jacques Lucan",
         "date": "2024",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Editorial Reverté",
         "isbns": [
             "9788429198126",
             "8429198121"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1452349949",
         "title": "Goya (aún) aprende : los viajes del conocimiento",
         "creator": "María Elena Manrique Ara",
         "date": "2024",
+        "language": "spa",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Prensas de la Universidad de Zaragoza",
         "isbns": [
             "9788413407548",
             "8413407540"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1405364977",
         "title": "Walking",
         "creator": "Tom Jeffreys",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Whitechapel Gallery ; The MIT Press",
@@ -426,39 +491,45 @@
             "9780854883165",
             "9780262547581",
             "0262547589"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "847600566",
         "title": "Out of hand : materializing the postdigital",
         "creator": "Ronald T. Labaco",
         "date": "2013",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Black Dog Publishing ; Museum of Arts and Design",
         "isbns": [
             "9781908966230",
             "1908966238"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "987356666",
         "title": "Digital handmade : craftsmanship in the new industrial revolution",
         "creator": "Lucy Johnston",
         "date": "2017",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Thames & Hudson",
         "isbns": [
             "0500293139",
             "9780500293133"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1081273888",
         "title": "The dealer is the devil : an insider's history of the Aboriginal art trade",
         "creator": "Adrian Newstead",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Brandl & Schlesinger",
@@ -467,13 +538,15 @@
             "1921556439",
             "9781921556449",
             "1921556447"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "3003788",
         "title": "The natural paradise : painting in America, 1800-1950 : the Museum of Modern Art, New York",
         "creator": "Kynaston McShine",
         "date": "1976",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "The Museum of Modern Art ; Distributed by New York Graphic Society",
@@ -482,103 +555,119 @@
             "9780870705052",
             "0870705040",
             "9780870705045"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1431973335",
         "title": "Imperfect Solidarities",
         "creator": "Aruna D'Souza",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Floating Opera Press",
         "isbns": [
             "3982389488",
             "9783982389486"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1453253793",
         "title": "Armorial porcelain : the genesis",
         "creator": "Rachel L. Denyer",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Springer",
         "isbns": [
             "9783031637452",
             "3031637453"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1338673753",
         "title": "An alternative history of photography",
         "creator": "Phillip Prodger",
         "date": "2022",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Prestel",
         "isbns": [
             "9783791387826",
             "3791387820"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1427350509",
         "title": "Mini plein air painting",
         "creator": "Remington Robinson",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Walter Foster",
         "isbns": [
             "9780760388082",
             "0760388083"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446130396",
         "title": "Silver Age and after",
         "creator": "Roberto Echavarren",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Vernon Art and Science Inc.",
         "isbns": [
             "9798881900748"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1418054915",
         "title": "Tokens and social life in roman imperial italy",
         "creator": "Clare Rowan",
         "date": "2023",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Cambridge University Press",
         "isbns": [
             "9781009030434",
             "1009030434"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1438673071",
         "title": "St Albans Abbey",
         "creator": "Martin Biddle",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Archaeopress",
         "isbns": [
             "9781803277097",
             "1803277092"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450102114",
         "title": "Utopian and Dystopian Explorations of Pandemics and Ecological Breakdown Entangled Futurities",
         "creator": "Heather Alberro",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
@@ -587,26 +676,30 @@
             "1040090753",
             "1003345778",
             "9781003345770"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450098986",
         "title": "International Perspectives on Museum Management",
         "creator": "Darko Babic",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040085547",
             "1040085547"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443940845",
         "title": "Craft and Design Practice from an Embodied Perspective",
         "creator": "Nithikul Nimkulrat",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
@@ -615,361 +708,423 @@
             "9781040108703",
             "1003328016",
             "9781003328018"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450108974",
         "title": "Image Controversies Contemporary Iconoclasm in Art, Media, and Cultural Heritage",
         "creator": "Birgit Mersmann",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Walter de Gruyter GmbH",
         "isbns": [
             "9783110773576",
             "3110773570"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1314610930",
         "title": "Photography: A Cultural History",
         "creator": "Mary Warner Marien",
         "date": "2021",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Laurence King Publishing",
         "isbns": [
             "9781529420975",
             "1529420970"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1191615125",
         "title": "Architectural record",
         "creator": "EBSCO Publishing (Firm)",
         "date": "1891-",
+        "language": "eng",
         "generalFormat": "Jrnl",
         "specificFormat": "Digital",
         "publisher": "The Record and Guide, BNP Media II, LLC",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eJournal/eMagazine"
     },
     {
         "oclcNumber": "1449551517",
         "title": "Disruption and convergence : generating new conversations through arts research",
         "creator": "Rébecca Bourgault",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Brill",
         "isbns": [
             "9789004700994",
             "9004700994"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "448835",
         "title": "More figures in art",
         "creator": "Borden Publishing Co",
         "date": "[1968]",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Borden Pub. Co",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1438764281",
         "title": "Konteksty : polska sztuka ludowa : antropologia kultury, etnografia, sztuka",
         "creator": "Instytut Sztuki (Polska Akademia Nauk)",
         "date": "1990-",
+        "language": "pol",
         "generalFormat": "Jrnl",
         "specificFormat": "Digital",
         "publisher": "Polska Akademia Nauk, Instytut Sztuki",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eJournal/eMagazine"
     },
     {
         "oclcNumber": "762452888",
         "title": "La Fusta",
         "creator": "",
         "date": "1976",
+        "language": "eng",
         "generalFormat": "Jrnl",
         "specificFormat": "Digital",
         "publisher": "[Dept. of Italian, Rutgers University]",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eJournal/eMagazine"
     },
     {
         "oclcNumber": "1265220",
         "title": "New Guinea art in the collection of the Museum of Primitive Art",
         "creator": "Douglas Newton",
         "date": "1967",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Museum of Primitive Art; distributed by the New York Graphic Society, Greenwich, Conn.",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1445930239",
         "title": "Time & place : Milano-Torino, 1958-1968",
         "creator": "Moderna museet (Stockholm, Sweden)",
         "date": "©2008",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Moderna Museet ; Steidl",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1445902867",
         "title": "Fluxus administration : George Maciunas and the art of paperwork",
         "creator": "Colby Chamberlain",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "The University of Chicago Press",
         "isbns": [
             "9780226831381",
             "0226831388"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1445864871",
         "title": "Designing and conducting practice-based research projects : a practical guide for arts student researchers",
         "creator": "R. Lyle Skains",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Intellect",
         "isbns": [
             "9781789389302",
             "1789389305"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "919205625",
         "title": "Super skyscrapers. Episode 3, The vertical city",
         "creator": "Rob Slater",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service (PBS)",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "919205624",
         "title": "Super skyscrapers. Episode 1, One World Trade Center",
         "creator": "Nick Adey",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service (PBS)",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "919205479",
         "title": "Super skyscrapers. Episode 2, Building the future",
         "creator": "Matt Jackson",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service (PBS)",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "919205443",
         "title": "Super skyscrapers. Episode 4, The billionaire building",
         "creator": "Matt Jackson",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service (PBS)",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1432591924",
         "title": "Precious beyond measure : a history of Korean ceramics",
         "creator": "Beth McKillop",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Reaktion Books, Limited",
         "isbns": [
             "1789148987",
             "9781789148985"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1369591953",
         "title": "Cool spaces. 2, Libraries",
         "creator": "Dan Frank",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1369591903",
         "title": "Cool spaces. 3, Art spaces",
         "creator": "Dan Frank",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1369591891",
         "title": "Cool spaces. 4, Healing spaces",
         "creator": "Dan Frank",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1369591387",
         "title": "Cool spaces. 1, Performing spaces",
         "creator": "Dan Frank",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Public Broadcasting Service",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1429724527",
         "title": "Women Art Dealers Creating Markets for Modern Art, 1940-1990",
         "creator": "Véronique Chagnon-Burke",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350292437",
             "1350292435"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1441724217",
         "title": "Humor in Global Contemporary Art",
         "creator": "Mette Gieskes",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350415843",
             "1350415847"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1441722620",
         "title": "Design History and Culture Methods and Approaches",
         "creator": "Javier Gimeno-Martínez",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040044483",
             "1040044484"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1438669770",
         "title": "Understanding Architecture Its Elements, History, and Meaning",
         "creator": "Leland M. Roth",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040021651",
             "1040021654"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1419055899",
         "title": "Venetian Disegno New Frontiers",
         "creator": "Maria Aresin",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Paul Holberton Publishing",
         "isbns": [
             "9781914532214",
             "191453221X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1427665593",
         "title": "Interior Design on Edge History, Theory, Praxis",
         "creator": "Erica Morawski",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040009444",
             "1040009441"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443938771",
         "title": "Museums and Entrepreneurship The Effects of Capitalising on Culture in the 21st Century",
         "creator": "Eve Kalyva",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040090978",
             "1040090974"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443932367",
         "title": "The Rise of the Stylist Subculture, Style and the Fashion Image in London 1980-1990",
         "creator": "Philip Clarke",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350301672",
             "1350301671"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1423132226",
         "title": "Art and Biotechnology Viral Culture from CRISPR to COVID",
         "creator": "Claire Correo Nettleton",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350376045",
             "1350376043"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1440669198",
         "title": "Socially engaged creative practice : contemporary case studies",
         "creator": "Jess Moriarty",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Intellect Books",
         "isbns": [
             "9781789388886",
             "1789388880"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1412154520",
         "title": "European churches and Chinese temples as neuro-theatrical sites",
         "creator": "Mark Pizzato",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Academic",
@@ -977,13 +1132,15 @@
             "9798765109137",
             "9798765109144",
             "9798765109120"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1322146591",
         "title": "Cultural policy for arts education : African-European practises and perspectives",
         "creator": "Wolfgang Schneider",
         "date": "2022",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Peter Lang",
@@ -992,26 +1149,30 @@
             "3631866801",
             "9783631866818",
             "363186681X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450106903",
         "title": "Atlas der Datenkörper 2 Digitale Körperlichkeit Im Bauhaus, der Politik und Mystik",
         "creator": "Marlene Bart",
         "date": "2024",
+        "language": "ger",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "transcript Verlag",
         "isbns": [
             "3839470862",
             "9783839470862"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1449547721",
         "title": "Facing images medieval Japanese art and the problem of modernity",
         "creator": "Kristopher W. Kersey",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "The Pennsylvania State University Press",
@@ -1020,39 +1181,45 @@
             "0271098155",
             "9780271098166",
             "0271098163"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446072588",
         "title": "Iranian art from the Sasanians to the Islamic Republic : essays in honour of Linda Komaroff",
         "creator": "",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Edinburgh University Press",
         "isbns": [
             "9781399506045",
             "1399506048"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446049546",
         "title": "Mina'i Ware : A Reassessment and Comprehensive Study of Iranian Polychrome Overglaze Wares through Sherds",
         "creator": "Richard P. McClary",
         "date": "2024",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Edinburgh University Press",
         "isbns": [
             "9781399507189",
             "1399507184"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446417043",
         "title": "Gender violence, art, and the viewer an intervention",
         "creator": "Ellen C. Caldwell",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "The Pennsylvania State University Press",
@@ -1061,13 +1228,15 @@
             "0271098570",
             "9780271098586",
             "0271098589"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1438604380",
         "title": "The American Art-Union : utopia and skepticism in the Antebellum Era",
         "creator": "Kimberly Orcutt",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Empire State Editions, an imprint of Fordham University Press",
@@ -1076,49 +1245,57 @@
             "1531507018",
             "9781531507008",
             "153150700X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "6295695",
         "title": "The figure in art",
         "creator": "Stephen Longstreet",
         "date": "[1963]",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Borden Pub. Co",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "96442",
         "title": "The artist & the nude: an anthology of drawings",
         "creator": "Mervyn Levy",
         "date": "1970",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Corgi",
         "isbns": [
             "0552983454",
             "9780552983457"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "25904641",
         "title": "The nude",
         "creator": "Monica Bohm-Duchen",
         "date": "1992",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Scala Books ; Distributed in the USA and Canada by Rizzoli International Publications",
         "isbns": [
             "185759004X",
             "9781857590043"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1124537793",
         "title": "Gum printing : a step-by-step manual, highlighting artists and their creative practice",
         "creator": "Christina Z. Anderson",
         "date": "2016",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge",
@@ -1131,13 +1308,15 @@
             "1317326407",
             "9781315656892",
             "1315656892"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "646755230",
         "title": "Heterotopia and the city : public space in a postcivil society",
         "creator": "Michiel Dehaene",
         "date": "2008",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge",
@@ -1146,72 +1325,84 @@
             "9780203089415",
             "9786611394752",
             "6611394753"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1289848409",
         "title": "Comics studies here and now",
         "creator": "Frederick Luis Aldama",
         "date": "2018",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge",
         "isbns": [
             "9781351015257",
             "1351015257"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "47784589",
         "title": "Il Convegno",
         "creator": "Enzo Ferrieri",
         "date": "1920",
+        "language": "ita",
         "generalFormat": "Jrnl",
         "specificFormat": "",
         "publisher": "",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Journal/Magazine"
     },
     {
         "oclcNumber": "48374178",
         "title": "王家大院在人间",
         "creator": "耿彥波.",
         "date": "1999",
+        "language": "chi",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "山西经济出版社 : 发行新华书店总店北京发行所",
         "isbns": [
             "7806363750",
             "9787806363751"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1452236798",
         "title": "Archive as detour : historical re-enactment in artist archive and archival art practices of Contemporary Hong Kong",
         "creator": "Sau Wai Vennes Cheng",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Palgrave Macmillan",
         "isbns": [
             "9789819724888",
             "9819724880"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "664773172",
         "title": "Border crossings",
         "creator": "Arts Manitoba",
         "date": "1985-",
+        "language": "eng",
         "generalFormat": "Jrnl",
         "specificFormat": "Digital",
         "publisher": "Arts Manitoba Publications",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eJournal/eMagazine"
     },
     {
         "oclcNumber": "1439605279",
         "title": "Textiles in Motion : Dress for Dance in the Ancient World",
         "creator": "Audrey Gouy",
         "date": "2023",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Oxbow Books, Limited",
@@ -1219,153 +1410,177 @@
             "9798888570937",
             "1789257999",
             "9781789257991"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446130102",
         "title": "Advanced Research and Design Tools for Architectural Heritage Unforeseen Paths",
         "creator": "Stefania Stellacci",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781040031377",
             "1040031374"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1452124603",
         "title": "Merritt collection of José Clemente Orozco, 1930-1980 and undated",
         "creator": "Dorothy Merritt",
         "date": "1930",
+        "language": "eng",
         "generalFormat": "Archv",
         "specificFormat": "",
         "publisher": "",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Archival Material"
     },
     {
         "oclcNumber": "1440237972",
         "title": "Earth diplomacy : Indigenous American art, ecological crisis, and the Cold War",
         "creator": "Jessica L. Horton",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059493",
             "1478059494"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1434741886",
         "title": "Selected writings on visual arts and culture : detour to the imaginary",
         "creator": "Stuart Hall",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059332",
             "1478059338"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1433995258",
         "title": "Visual disobedience : art and decoloniality in Central America",
         "creator": "Kency Cornejo",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059608",
             "1478059605"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1437745304",
         "title": "The politics of collecting : race and the aestheticization of property",
         "creator": "Eunsong Kim",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059479",
             "1478059478"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1438933804",
         "title": "Heavyweight : Black boxers and the fight for representation",
         "creator": "Jordana Moore Saggese",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "1478059648",
             "9781478059646"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1436036588",
         "title": "Biennial boom : making contemporary art global",
         "creator": "Paloma Checa-Gismero",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059486",
             "1478059486"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1442348223",
         "title": "Artist, audience, accomplice : ethics and authorship in art of the 1970s and 1980s",
         "creator": "Sydney Stutterheim",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Duke University Press",
         "isbns": [
             "9781478059677",
             "1478059672"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1411311010",
         "title": "Kōjin Karatani's Philosophy of Architecture",
         "creator": "Nadir Lahiji",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781003846956",
             "1003846955"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450607234",
         "title": "Performative monuments : the rematerialisation of public art",
         "creator": "Mechtild Widrich",
         "date": "2014",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Manchester University Press",
         "isbns": [
             "9781526186102",
             "1526186101"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1434587903",
         "title": "Forests and fences",
         "creator": "Myer Taub",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge, Taylor & Francis Group",
@@ -1376,79 +1591,93 @@
             "1040042910",
             "9781040042861",
             "1040042864"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "643538386",
         "title": "Ornamented bark-cloth in Indonesia",
         "creator": "Simon Kooijman",
         "date": "1963",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "E.J. Brill",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "615652",
         "title": "Mark Tobey",
         "creator": "William C. Seitz",
         "date": "[1962]",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Museum of Modern Art; distributed by Doubleday, Garden City, N.Y",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1450216057",
         "title": "Familiar faces : photography, memory and Argentina's disappeared",
         "creator": "Piotr Cieplak",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Goldsmiths Press",
         "isbns": [
             "9781913380755",
             "1913380750"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1437536854",
         "title": "Rethinking Asuka sculpture : a revised conception of Buddhist spread in East Asia, 538-710",
         "creator": "Hong Wu",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Brill",
         "isbns": [
             "9789004701922",
             "9004701923"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1371775477",
         "title": "Giacomo Verde. Attraversamenti tra teatro e video (1992-1986)",
         "creator": "Anna Maria Monteverdi",
         "date": "2022",
+        "language": "ita",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Milano University Press",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "682374727",
         "title": "European clocks and watches in the Near East",
         "creator": "Otto Kurz",
         "date": "1975",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "E.J. Brill",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1449550817",
         "title": "Dutch neorealism, cinema, and the politics of painting, 1927-1945",
         "creator": "Stephanie Lebas Huber",
         "date": "2025",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge",
@@ -1459,13 +1688,15 @@
             "1040135129",
             "9781040135198",
             "1040135196"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1449550671",
         "title": "Rethinking modern Austrian art beyond the metropolis",
         "creator": "Julia Secklehner",
         "date": "2025",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Routledge",
@@ -1476,217 +1707,251 @@
             "1040133231",
             "9781040133194",
             "1040133193"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1144180505",
         "title": "The whole picture : the colonial story of the art in our museums & why we need to talk about it",
         "creator": "Alice Procter",
         "date": "2020",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Cassell",
         "isbns": [
             "9781788401555",
             "1788401557"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "809808402",
         "title": "ACM SIGGRAPH 2004 Art gallery",
         "creator": "Sue Gollifer",
         "date": "2004",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "ACM",
         "isbns": [
             "1581138962",
             "9781581138962"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1395188299",
         "title": "Proceedings of the Digital Production Symposium (DigiPro 2023) : August 5, 2023, Los Angeles, California",
         "creator": "Digital Production Symposium",
         "date": "2023",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Association for Computing Machinery",
         "isbns": [
             "9798400702389"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450837076",
         "title": "On the artistic representation of industrial disputes in the shadow of repression in European art : from 1870 to 1914 and beyond",
         "creator": "F. Dorssemont",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Springer",
         "isbns": [
             "9783031636349",
             "3031636341"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1439602064",
         "title": "Profiwissen Landschaftsfotografie Der Praxisleitfaden Für Magische Momente Aus Licht, Komposition und Zeit",
         "creator": "André Koschinowski",
         "date": "2024",
+        "language": "ger",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "dpunkt.verlag",
         "isbns": [
             "9783969108789",
             "3969108780"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1451040829",
         "title": "Learn Clip Studio Paint : a beginner's guide to creating compelling art in manga, comics, and animation",
         "creator": "Inko",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Packt Publishing Ltd.",
         "isbns": [
             "1835886582",
             "9781835886588"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1081421726",
         "title": "1 world manga. Passage 2",
         "creator": "Annette Roman",
         "date": "2006",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Viz Media ; World Bank",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1420499571",
         "title": "Thasos et sa monnaie : recueil d'études",
         "creator": "Olivier Picard",
         "date": "2023",
+        "language": "fre",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Ecole française d'Athènes",
         "isbns": [
             "9782869586079",
             "2869586078"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1197770539",
         "title": "Shaping the world : sculpture from prehistory to now",
         "creator": "Antony Gormley",
         "date": "2020",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "PrintBook",
         "publisher": "Thames & Hudson",
         "isbns": [
             "9780500022672",
             "0500022674"
-        ]
+        ],
+        "newFormat": "Print Book"
     },
     {
         "oclcNumber": "1294427042",
         "title": "In Praise of Commercial Culture",
         "creator": "Tyler Cowen",
         "date": "2022",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Harvard University Press",
         "isbns": [
             "9780674029934",
             "0674029933"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1430955121",
         "title": "Architecture and Choreography : Collaborations in Dance, Space and Time",
         "creator": "Beth Weinstein",
         "date": "2024",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor and Francis (Unlimited)",
         "isbns": [
             "9780367816551",
             "0367816555"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1415962806",
         "title": "Methodology, Ideology and Pedagogy of African Art : Primitive to Metamodern",
         "creator": "Moyo Okediji",
         "date": "2024",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor and Francis (Unlimited)",
         "isbns": [
             "9781003389088",
             "1003389082"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1406410052",
         "title": "The Art of Mary Linwood Embroidery, Installation, and Entrepreneurship in Britain, 1787-1845",
         "creator": "Heidi A. Strobel",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Publishing USA",
         "isbns": [
             "9781350428096",
             "1350428094"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1428264107",
         "title": "Tidal waters",
         "creator": "Velia Vidal",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Charco Press",
         "isbns": [
             "1913867773",
             "9781913867775"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1427550631",
         "title": "Early modern print media and the art of observation : training the literate eye",
         "creator": "Stephanie Leitch",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Cambridge University Press",
         "isbns": [
             "9781009444491",
             "1009444492"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450106184",
         "title": "The Pictures Generation at Hallwalls Traces of the Body, Gender, and History",
         "creator": "Vera Dika",
         "date": "2023",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Taylor & Francis Group",
         "isbns": [
             "9781000894974",
             "1000894975"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1439215223",
         "title": "Female Art and Agency in Yugoslavia, 1971-2001",
         "creator": "Anja Foerschner",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Bloomsbury Visual Arts",
@@ -1695,26 +1960,30 @@
             "1350229245",
             "9781350229235",
             "1350229237"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1434176231",
         "title": "Modelling International Collaborations in Art Education",
         "creator": "Peter Sramek",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Intellect, Limited",
         "isbns": [
             "9781789389265",
             "1789389267"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1262688176",
         "title": "Reading objects in the contact zone",
         "creator": "Eva-Maria Troelenberg",
         "date": "2021",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Heidelberg University Publishing",
@@ -1723,33 +1992,39 @@
             "3968220498",
             "396822051X",
             "9783968220512"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "682474757",
         "title": "Kölnische Künstler in alter und neuer Zeit",
         "creator": "Johann Jakob Merlo",
         "date": "1895",
+        "language": "ger",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "L. Schwann",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "921222353",
         "title": "Groundings",
         "creator": "Glasgow University Dialectic Society",
         "date": "2007",
+        "language": "eng",
         "generalFormat": "Jrnl",
         "specificFormat": "Digital",
         "publisher": "Glasgow University Dialectic Society, Glasgow University Union",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eJournal/eMagazine"
     },
     {
         "oclcNumber": "1294673455",
         "title": "Visuelle Dimensionen des Antiziganismus",
         "creator": "Frank Reuter",
         "date": "2021",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Heidelberg University Publishing (heiUP)",
@@ -1758,107 +2033,124 @@
             "3968220722",
             "3968220544",
             "9783968220543"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1374866610",
         "title": "Glas in der Frühen Neuzeit: Herstellung, Verwendung, Bedeutung, Analyse, Bewahrung",
         "creator": "",
         "date": "2022",
+        "language": "und",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Heidelberg University Publishing (heiUP)",
         "isbns": [
             "9783968220710",
             "3968220714"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1450302612",
         "title": "Immersive virtual reality for a building occupant-centric design : defining, validating and applying an innovative framework",
         "creator": "Arianna Latini",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Springer",
         "isbns": [
             "9783031660283",
             "3031660285"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1147297798",
         "title": "Vogue & the Metropolitan Museum of Art Costume Institute : parties, exhibitions, people",
         "creator": "Hamish Bowles",
         "date": "2020",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Abrams, Inc.",
         "isbns": [
             "9781647000776",
             "1647000777"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1446550417",
         "title": "Innovating institutions and inequities in the arts",
         "creator": "Joanna Woronkowicz",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Palgrave Macmillan",
         "isbns": [
             "9783031592317",
             "303159231X"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443964306",
         "title": "Mastering Adobe Photoshop Elements : Bring Out the Best in Your Images Using Adobe Photoshop Elements 2024",
         "creator": "Robin Nichols",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Packt Publishing Ltd.",
         "isbns": [
             "1835468799",
             "9781835468791"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443961720",
         "title": "Ave's America",
         "creator": "Patrick Taulère",
         "date": "2022",
+        "language": "eng",
         "generalFormat": "Video",
         "specificFormat": "Digital",
         "publisher": "Bayview Entertainment",
-        "isbns": ""
+        "isbns": "",
+        "newFormat": "eVideo"
     },
     {
         "oclcNumber": "1443934580",
         "title": "Synagonism: Theory and Practice in Early Modern Art",
         "creator": "Joris van Gastel",
         "date": "2024",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "Brill",
         "isbns": [
             "9004693149",
             "9789004693142"
-        ]
+        ],
+        "newFormat": "eBook"
     },
     {
         "oclcNumber": "1443936124",
         "title": "Parliament Buildings: The architecture of politics in Europe",
         "creator": "Sophia Psarra",
         "date": "2023",
+        "language": "eng",
         "generalFormat": "Book",
         "specificFormat": "Digital",
         "publisher": "UCL Press",
         "isbns": [
             "9781800085343",
             "1800085346"
-        ]
+        ],
+        "newFormat": "eBook"
     }
 ]
