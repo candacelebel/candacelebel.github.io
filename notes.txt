@@ -1,0 +1,3 @@
+thumbnail": "https://syndetics.com/index.aspx?isbn=1789209218;%9781789209211/LC.GIF&amp;client=springshare"
+
+thumbnail": "http://books.google.com/books/content?id=BO52AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
