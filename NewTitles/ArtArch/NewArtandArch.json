@@ -13,7 +13,18 @@
             "286754047X",
             "9782867540479"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Erwitt, Elliott, (1928- )",
+            "Erwitt, Elliott",
+            "Erwitt, Elliott, (1928- ...)",
+            "Erwitt, Elliott - photographie",
+            "Photography, Artistic",
+            "Photographie artistique",
+            "art photography",
+            "Albums de photographies",
+            "Photographie (Descripteur de forme)"
+        ]
     },
     {
         "topic": "14000000",
@@ -29,7 +40,13 @@
             "0394744470",
             "9780394744476"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Smith, W. Eugene, 1918-1978",
+            "Documentary photography",
+            "Photographie documentaire",
+            "documentary photography"
+        ]
     },
     {
         "topic": "14000000",
@@ -45,7 +62,13 @@
             "0394744489",
             "9780394744483"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Photography, Artistic",
+            "Photographie artistique",
+            "art photography",
+            "Artistic photography"
+        ]
     },
     {
         "topic": "14000000",
@@ -61,7 +84,10 @@
             "039474781X",
             "9780394747811"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Lartigue, Jacques-Henri"
+        ]
     },
     {
         "topic": "14000000",
@@ -77,7 +103,13 @@
             "0394740858",
             "9780394740850"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Frank, Robert, 1924-2019",
+            "Photography, Artistic",
+            "Photographie artistique",
+            "art photography"
+        ]
     },
     {
         "topic": "14000000",
@@ -93,7 +125,19 @@
             "2867540224",
             "9782867540226"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Giacomelli, Mario",
+            "Giacomelli, Mario 1925-2000",
+            "Giacomelli, Mario, (1925-2000)",
+            "Photography, Artistic",
+            "Landscape photography",
+            "Photographie artistique",
+            "Photographie de paysages",
+            "art photography",
+            "Fotografie",
+            "Bildband"
+        ]
     },
     {
         "topic": "14000000",
@@ -109,7 +153,20 @@
             "2851071033",
             "9782851071033"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Nadar 1820-1910",
+            "Nadar, (1820-1910)",
+            "Nadar",
+            "Photography, Artistic",
+            "Photographie artistique",
+            "art photography",
+            "Porträtfotografie",
+            "Fotografie",
+            "Portraits (photographie)",
+            "Photographie en noir et blanc",
+            "Bildband"
+        ]
     },
     {
         "topic": "14000000",
@@ -125,7 +182,30 @@
             "286754064X",
             "9782867540646"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Freed, Leonard",
+            "Photography, Artistic",
+            "Police New York (State) New York Pictorial works",
+            "Violence New York (State) New York Pictorial works",
+            "Crime New York (State) New York Pictorial works",
+            "Photographie artistique",
+            "Violence New York (État) New York Ouvrages illustrés",
+            "art photography",
+            "Crime",
+            "Police",
+            "Violence",
+            "Documentary photography United States",
+            "Poliser",
+            "Brottslighet",
+            "Våld",
+            "Dokumentärfotografi",
+            "New York (State) New York",
+            "New York (N.Y.) Pictorial works",
+            "New York (N.Y.) Descriptions",
+            "New York",
+            "Pictorial works"
+        ]
     },
     {
         "topic": "14000000",
@@ -141,7 +221,17 @@
             "9781606069288",
             "1606069284"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Light in art Exhibitions",
+            "Art, Medieval Exhibitions",
+            "Science, Medieval, in art Exhibitions",
+            "Illumination of books and manuscripts, Medieval Exhibitions",
+            "Christian art and symbolism Medieval, 500-1500 Exhibitions",
+            "Lumière dans l'art Expositions",
+            "Art médiéval Expositions",
+            "Enluminure médiévale Expositions"
+        ]
     },
     {
         "topic": "14000000",
@@ -157,7 +247,18 @@
             "9781849760669",
             "1849760667"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Gabo, Naum, 1890-1977",
+            "Gabo, Naum 1890-1977",
+            "Sculptors Soviet Union Biography",
+            "Constructivism (Art)",
+            "Sculpteurs URSS Biographies",
+            "Constructivisme (Art)",
+            "Sculptors",
+            "Soviet Union",
+            "Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -170,7 +271,16 @@
         "specificFormat": "PrintBook",
         "publisher": "Crown",
         "isbns": "",
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Sheffield plate",
+            "Silver-plated ware",
+            "Hallmarks",
+            "Sheffield Plate",
+            "Plaqués",
+            "Poinçons de garantie",
+            "hallmarks"
+        ]
     },
     {
         "topic": "14000000",
@@ -188,7 +298,19 @@
             "9786287566422",
             "6287566426"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "War photography Colombia",
+            "Documentary photography Colombia",
+            "Insurgency Colombia",
+            "Political violence Colombia",
+            "Photographie de guerre Colombie",
+            "Photographie documentaire Colombie",
+            "Révoltes Colombie",
+            "Violence politique Colombie",
+            "Colombia History 1974-",
+            "Colombie Histoire 1974-"
+        ]
     },
     {
         "topic": "14000000",
@@ -204,7 +326,8 @@
             "9781040046104",
             "104004610X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -226,7 +349,11 @@
             "9781351001632",
             "1351001639"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museum exhibits Philosophy",
+            "Objets exposés Philosophie"
+        ]
     },
     {
         "topic": "14000000",
@@ -242,7 +369,8 @@
             "9781040123454",
             "1040123457"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -258,7 +386,15 @@
             "9780198918004",
             "0198918003"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Philosophy History 19th century",
+            "Women philosophers Great Britain History 19th century",
+            "Art Philosophie Histoire 19e siècle",
+            "Femmes philosophes Grande-Bretagne Histoire 19e siècle",
+            "The arts: general issues",
+            "Art and Design"
+        ]
     },
     {
         "topic": "14000000",
@@ -274,7 +410,10 @@
             "9780711293793",
             "0711293791"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -287,7 +426,25 @@
         "specificFormat": "Digital",
         "publisher": "Pion Ltd., Sage Publications Ltd",
         "isbns": "",
-        "newFormat": "eJournal/eMagazine"
+        "newFormat": "eJournal/eMagazine",
+        "subjects": [
+            "Architecture Research Periodicals",
+            "Building Research Periodicals",
+            "Land use Planning Periodicals",
+            "Architecture Recherche Périodiques",
+            "Construction Recherche Périodiques",
+            "Utilisation du sol Planification Périodiques",
+            "Architecture Research",
+            "Building Research",
+            "Land use Planning",
+            "Ruimtelijke ordening",
+            "Architecture",
+            "Construction",
+            "Planification urbaine",
+            "Utilisation du sol",
+            "Electronic journals",
+            "Periodicals"
+        ]
     },
     {
         "topic": "14000000",
@@ -305,7 +462,30 @@
             "9781399510042",
             "1399510045"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Government aid to the arts Scotland History 15th century",
+            "Government aid to the arts Scotland History 16th century",
+            "Art and state Scotland History 15th century",
+            "Art and state Scotland History 16th century",
+            "Nationalism Scotland History 15th century",
+            "Nationalism Scotland History 16th century",
+            "Aide de l'État aux arts Écosse Histoire 15e siècle",
+            "Aide de l'État aux arts Écosse Histoire 16e siècle",
+            "Art Politique gouvernementale Écosse Histoire 15e siècle",
+            "Art Politique gouvernementale Écosse Histoire 16e siècle",
+            "Nationalisme Écosse Histoire 15e siècle",
+            "Nationalisme Écosse Histoire 16e siècle",
+            "ART / History / Medieval",
+            "Scotland Foreign relations France History 15th century",
+            "Scotland Foreign relations France History 16th century",
+            "France Foreign relations Scotland History 15th century",
+            "France Foreign relations Scotland History 16th century",
+            "Scotland Foreign relations France 15th century",
+            "Écosse Relations extérieures France 15e siècle",
+            "France Relations extérieures Écosse Histoire 15e siècle",
+            "France Relations extérieures Écosse Histoire 16e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -321,7 +501,18 @@
             "0520420594",
             "9780520420595"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Vachon, John, 1914-1975 Correspondence",
+            "United States. Farm Security Administration",
+            "Photographers United States Correspondence",
+            "Documentary photography United States History 20th century",
+            "Photographes États-Unis Correspondance",
+            "Photographie documentaire États-Unis Histoire 20e siècle",
+            "PHOTOGRAPHY / Collections, Catalogs, Exhibitions / General",
+            "United States Social conditions 1933-1945 Pictorial works",
+            "États-Unis Conditions sociales 1933-1945 Ouvrages illustrés"
+        ]
     },
     {
         "topic": "14000000",
@@ -337,7 +528,12 @@
             "9783031707186",
             "3031707184"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architectural design Data processing",
+            "Design architectural Informatique",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -353,7 +549,20 @@
             "9789819764228",
             "981976422X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts in education Research",
+            "Education, Higher Research",
+            "Art Study and teaching",
+            "Education, Higher",
+            "Arts en éducation Recherche",
+            "Enseignement supérieur Recherche",
+            "Art Étude et enseignement",
+            "Enseignement supérieur",
+            "art education",
+            "higher education",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -366,7 +575,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture China",
+            "Architecture Chine"
+        ]
     },
     {
         "topic": "14000000",
@@ -379,7 +592,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Painting, Chinese",
+            "Peinture chinoise"
+        ]
     },
     {
         "topic": "14000000",
@@ -395,7 +612,13 @@
             "9783031661624",
             "3031661621"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Creation (Literary, artistic, etc.)",
+            "Creative ability",
+            "Créativité",
+            "creativity"
+        ]
     },
     {
         "topic": "14000000",
@@ -408,7 +631,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Bronzes, Chinese To 221 B.C",
+            "Bronzes chinois Jusqu'à 221 av. J.-C"
+        ]
     },
     {
         "topic": "14000000",
@@ -421,7 +648,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture China",
+            "Architecture Chine"
+        ]
     },
     {
         "topic": "14000000",
@@ -437,7 +668,12 @@
             "9788478846177",
             "8478846174"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Pottery, Chinese",
+            "Porcelain, Chinese",
+            "Porcelaine chinoise"
+        ]
     },
     {
         "topic": "14000000",
@@ -450,7 +686,12 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Furniture China",
+            "Furniture China History",
+            "Meubles Chine Histoire"
+        ]
     },
     {
         "topic": "14000000",
@@ -463,7 +704,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts, Chinese",
+            "Arts chinois"
+        ]
     },
     {
         "topic": "14000000",
@@ -476,7 +721,12 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Domestic China",
+            "Dwellings China",
+            "Vernacular architecture China"
+        ]
     },
     {
         "topic": "14000000",
@@ -489,7 +739,13 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Jade art objects China",
+            "Jade carving China",
+            "Jades Chine",
+            "Travail du jade Chine"
+        ]
     },
     {
         "topic": "14000000",
@@ -502,7 +758,13 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Decorative arts China",
+            "Handicraft China History",
+            "Arts décoratifs Chine",
+            "Artisanat Chine Histoire"
+        ]
     },
     {
         "topic": "14000000",
@@ -515,7 +777,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Calligraphy, Chinese History",
+            "Calligraphie chinoise Histoire"
+        ]
     },
     {
         "topic": "14000000",
@@ -528,7 +794,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Folk art China",
+            "Art populaire Chine"
+        ]
     },
     {
         "topic": "14000000",
@@ -541,7 +811,11 @@
         "specificFormat": "Digital",
         "publisher": "Editorial Popular",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Sculpture, Chinese History",
+            "Sculpture chinoise Histoire"
+        ]
     },
     {
         "topic": "14000000",
@@ -557,7 +831,16 @@
             "9788418095443",
             "841809544X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and technology Argentina",
+            "Video art Argentina",
+            "Art et technologie Argentine",
+            "Art vidéo Argentine",
+            "Art and technology",
+            "Video art",
+            "Argentina"
+        ]
     },
     {
         "topic": "14000000",
@@ -570,7 +853,21 @@
         "specificFormat": "Digital",
         "publisher": "Wallstein",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Medieval Collectors and collecting History 18th century",
+            "Art, Medieval Collectors and collecting History 19th century",
+            "cultuurgeschiedenis",
+            "middeleeuwen",
+            "Art médiéval Collectionneurs et collections Histoire 18e siècle",
+            "Art médiéval Collectionneurs et collections Histoire 19e siècle",
+            "History / Europe / Medieval",
+            "History / Europe",
+            "Art / History / Medieval",
+            "Electronic books",
+            "PDF",
+            "1701-1900"
+        ]
     },
     {
         "topic": "14000000",
@@ -586,7 +883,11 @@
             "9788418929809",
             "8418929804"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Philosophy",
+            "Art Philosophie"
+        ]
     },
     {
         "topic": "14000000",
@@ -602,7 +903,12 @@
             "9789509467965",
             "9509467960"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museum exhibits",
+            "Museums Curatorship",
+            "Objets exposés"
+        ]
     },
     {
         "topic": "14000000",
@@ -618,7 +924,10 @@
             "9788419830500",
             "841983050X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Decorative arts Argentina Buenos Aires History 20th century"
+        ]
     },
     {
         "topic": "14000000",
@@ -634,7 +943,14 @@
             "9788418095535",
             "8418095539"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Dragons in art",
+            "Illumination of books and manuscripts, Medieval",
+            "Manuscripts, Spanish",
+            "Dragons dans l'art",
+            "Enluminure médiévale"
+        ]
     },
     {
         "topic": "14000000",
@@ -650,7 +966,15 @@
             "9788418095931",
             "8418095938"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Christian art and symbolism Spain Medieval, 500-1500",
+            "Illumination of books and manuscripts, Medieval Spain",
+            "Illumination of books and manuscripts, Spanish",
+            "Animals in art",
+            "Enluminure médiévale Espagne",
+            "Enluminure espagnole"
+        ]
     },
     {
         "topic": "14000000",
@@ -666,7 +990,12 @@
             "9788419830531",
             "8419830534"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Carballo, Aída, 1916-",
+            "Printmakers Argentina Biography",
+            "Graveurs d'estampes Argentine Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -682,7 +1011,12 @@
             "9788418929717",
             "8418929715"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Alberti, Leon Battista, 1404-1472 Criticism and interpretation",
+            "Colonna, Francesco, -1527",
+            "Architecture, Renaissance Italy"
+        ]
     },
     {
         "topic": "14000000",
@@ -698,7 +1032,13 @@
             "9789876995849",
             "9876995847"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Group identity Latin America",
+            "Arts, Latin American",
+            "Identité collective Amérique latine",
+            "Arts latino-américains"
+        ]
     },
     {
         "topic": "14000000",
@@ -714,7 +1054,15 @@
             "9789585037922",
             "9585037920"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Building Problems, exercises, etc",
+            "Architecture Problems, exercises, etc",
+            "Physics Problems, exercises, etc",
+            "Construction Problèmes et exercices",
+            "Architecture Problèmes et exercices",
+            "Physique Problèmes et exercices"
+        ]
     },
     {
         "topic": "14000000",
@@ -730,7 +1078,12 @@
             "9789876998444",
             "9876998447"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Modern Argentina",
+            "Architecture History",
+            "Architecture Histoire"
+        ]
     },
     {
         "topic": "14000000",
@@ -743,7 +1096,12 @@
         "specificFormat": "Digital",
         "publisher": "RIL editores",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and mental illness Chile",
+            "Autism",
+            "Autisme"
+        ]
     },
     {
         "topic": "14000000",
@@ -759,7 +1117,13 @@
             "9789876997560",
             "9876997564"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Argentina Philosophy",
+            "Collective memory Argentina",
+            "Musées Argentine Philosophie",
+            "Mémoire collective Argentine"
+        ]
     },
     {
         "topic": "14000000",
@@ -775,7 +1139,19 @@
             "9787020054626",
             "7020054625"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Chen, Danqing, 1953- Interviews",
+            "Ai, Weiwei Interviews",
+            "Ai, Weiwei. Interviews",
+            "Ai, Weiwei",
+            "Chen, Danqing, 1953-",
+            "Artists China Interviews Artists",
+            "Artists",
+            "China",
+            "interviews",
+            "Interviews"
+        ]
     },
     {
         "topic": "14000000",
@@ -791,7 +1167,11 @@
             "9780760391426",
             "0760391424"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Watercolor painting Technique",
+            "Aquarelle Technique"
+        ]
     },
     {
         "topic": "14000000",
@@ -807,7 +1187,11 @@
             "9783839470886",
             "3839470889"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Aesthetics",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -823,7 +1207,34 @@
             "9783839468982",
             "3839468981"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Genre painting Europe",
+            "Ambiguität",
+            "Bielefeld University Press",
+            "Bild",
+            "Bildtheorie",
+            "Bildwissenschaft",
+            "Europäische Kunst",
+            "Frühe Neuzeit",
+            "Gattung",
+            "Genrebild",
+            "Historienmalerei",
+            "Ikonographie",
+            "Kunst",
+            "Kunstgeschichte des 19. Jahrhunderts",
+            "Kunstgeschichte",
+            "Latenz",
+            "Moderne",
+            "Rezeptionsästhetik",
+            "Temporalität",
+            "Ästhetik",
+            "Peinture de genre Europe",
+            "ART / History / General",
+            "Genre painting",
+            "Europe",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -841,7 +1252,13 @@
             "9781350006508",
             "1350006505"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Pottery Technique",
+            "Decoration and ornament",
+            "Décoration et ornement",
+            "DESIGN / Textile & Costume"
+        ]
     },
     {
         "topic": "14000000",
@@ -857,7 +1274,13 @@
             "1527583295",
             "9781527583290"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Vases, Red-figured Italy Paestum (Extinct city)",
+            "Vases à figures rouges Italie Paestum (Ville ancienne)",
+            "Vases, Red-figured",
+            "Italy Paestum (Extinct city)"
+        ]
     },
     {
         "topic": "14000000",
@@ -872,7 +1295,23 @@
         "isbns": [
             "9798888570531"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Ceramics Iran History",
+            "Pottery Iran History",
+            "Céramique industrielle Iran Histoire",
+            "SOCIAL SCIENCE / Archaeology",
+            "Antiquities",
+            "Ceramics",
+            "Economic history",
+            "Pottery",
+            "Iran Economic conditions",
+            "Iran Antiquities",
+            "Iran Conditions économiques",
+            "Iran Antiquités",
+            "Iran",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -888,7 +1327,13 @@
             "9798987228173",
             "9798987228180"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Slaughter, Tom, 1955-2014 Criticism and interpretation",
+            "catalogs (documents)",
+            "Catalogs",
+            "Catalogues"
+        ]
     },
     {
         "topic": "14000000",
@@ -906,7 +1351,14 @@
             "9781848225527",
             "1848225520"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Philosophy",
+            "Art museums Philosophy",
+            "Decolonization",
+            "Musées Philosophie",
+            "Décolonisation"
+        ]
     },
     {
         "topic": "14000000",
@@ -924,7 +1376,20 @@
             "9781350035683",
             "1350035688"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Acting Physiological aspects",
+            "Actors Physiology",
+            "Performing arts Physiological aspects",
+            "Entertainers Physiology",
+            "Human anatomy Models",
+            "Models, Anatomic",
+            "Art dramatique Aspect physiologique",
+            "Acteurs Physiologie",
+            "Arts du spectacle Aspect physiologique",
+            "Artistes du spectacle Physiologie",
+            "Anatomie humaine Modèles"
+        ]
     },
     {
         "topic": "14000000",
@@ -944,7 +1409,19 @@
             "9781350144170",
             "1350144177"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Body art",
+            "Art corporel",
+            "body arts (discipline)",
+            "body art (visual works, performance)",
+            "Philosophy",
+            "Philosophy General",
+            "Philosophy Aesthetics",
+            "Art History General",
+            "Social Science Gender Studies",
+            "Philosophy Movements Critical Theory"
+        ]
     },
     {
         "topic": "14000000",
@@ -960,7 +1437,12 @@
             "9781879985438",
             "1879985438"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Bak, Samuel Themes, motives",
+            "Bak, Samuel",
+            "Themes, motives"
+        ]
     },
     {
         "topic": "14000000",
@@ -976,7 +1458,11 @@
             "9781643683935",
             "1643683934"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Universal design",
+            "Conception universelle"
+        ]
     },
     {
         "topic": "14000000",
@@ -996,7 +1482,12 @@
             "9781350061576",
             "1350061573"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Textile design",
+            "Textiles et tissus Dessins",
+            "Textile design & theory"
+        ]
     },
     {
         "topic": "14000000",
@@ -1012,7 +1503,18 @@
             "9781803274904",
             "1803274905"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Pottery Europe History Congresses",
+            "Leisure Europe History Congresses",
+            "Loisir Europe Histoire Congrès",
+            "Leisure",
+            "Pottery",
+            "Europe",
+            "Electronic books",
+            "Conference papers and proceedings",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1028,7 +1530,20 @@
             "9781789694239",
             "178969423X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Ancient",
+            "Architecture, Roman",
+            "Building History",
+            "Building materials History",
+            "Architecture antique",
+            "Architecture romaine",
+            "Construction Histoire",
+            "Construction Matériaux Histoire",
+            "Building",
+            "Building materials",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1044,7 +1559,17 @@
             "9781350015586",
             "135001558X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Graphic arts Social aspects",
+            "Arts graphiques Aspect social",
+            "Graphic design",
+            "Product design",
+            "History of art & design styles: from c 1900",
+            "ART Techniques Drawing",
+            "Gebrauchsgrafik",
+            "Kultur"
+        ]
     },
     {
         "topic": "14000000",
@@ -1060,7 +1585,16 @@
             "1648897428",
             "9781648897429"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Space (Art)",
+            "Space (Art) Cross-cultural studies",
+            "Space perception",
+            "Espace (Art)",
+            "Espace (Art) Études transculturelles",
+            "Perception spatiale",
+            "space perception"
+        ]
     },
     {
         "topic": "14000000",
@@ -1080,7 +1614,23 @@
             "1350068217",
             "9781350068209"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Fisker, Kay, 1893-1965 Criticism and interpretation",
+            "Fisker, Kay, 1893-1965",
+            "Architecture and society Denmark History 20th century",
+            "Architecture et société Danemark Histoire 20e siècle",
+            "Individual architects & architectural firms",
+            "History of art & design styles: from c 1900",
+            "Architecture History Modern (late 19th Century to 1945)",
+            "Architecture History Contemporary (1945-)",
+            "Architecture Individual Architects & Firms Monographs",
+            "Architecture and society",
+            "Denmark",
+            "Criticism, interpretation, etc",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1096,7 +1646,16 @@
             "9781527584877",
             "1527584879"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Modern 20th century Political aspects",
+            "Architecture Europe History 20th century",
+            "Architecture 20e siècle Aspect politique",
+            "Architecture",
+            "Europe",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1111,7 +1670,16 @@
         "isbns": [
             "9798888570319"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Building, Brick Egypt",
+            "Architecture Egypt",
+            "Construction en brique Égypte",
+            "Architecture Égypte",
+            "Architecture",
+            "Building, Brick",
+            "Egypt"
+        ]
     },
     {
         "topic": "14000000",
@@ -1127,7 +1695,13 @@
             "9781527582958",
             "1527582957"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Rowe, Colin, 1920-1999 Teachings",
+            "Rowe, Colin, 1920-1999",
+            "Architecture, Modern Study and teaching",
+            "Teachings"
+        ]
     },
     {
         "topic": "14000000",
@@ -1143,7 +1717,29 @@
             "0228015960",
             "9780228015963"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Brandtner, Fritz, 1896-1969 Criticism and interpretation",
+            "Eveleigh, Henry, 1909-1999 Criticism and interpretation",
+            "Scott, Marian Dale, 1906-1993 Criticism and interpretation",
+            "Webber, Gordon McKinley, 1909-1965 Criticism and interpretation",
+            "Brandtner, Fritz, 1896-1969",
+            "Scott, Marian Dale, 1906-1993",
+            "Painting, Abstract Québec (Province) Montréal History and criticism",
+            "Painting, Abstract Québec (Province) Montréal History 20th century",
+            "Painters Québec (Province) Montréal History 20th century",
+            "Peinture abstraite Québec (Province) Montréal Histoire et critique",
+            "Peinture abstraite Québec (Province) Montréal Histoire 20e siècle",
+            "Peintres Québec (Province) Montréal Histoire 20e siècle",
+            "ART / Canadian",
+            "Painters",
+            "Painting, Abstract",
+            "Québec Montréal",
+            "Electronic books",
+            "Criticism, interpretation, etc",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1159,7 +1755,22 @@
             "9780271095738",
             "0271095733"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "African American artists History 20th century",
+            "African American art 20th century",
+            "New Deal art",
+            "Federal aid to the arts United States History 20th century",
+            "Art and race",
+            "Artistes noirs américains Histoire 20e siècle",
+            "Art noir américain 20e siècle",
+            "Art et race",
+            "African American art",
+            "African American artists",
+            "Federal aid to the arts",
+            "United States",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1175,7 +1786,49 @@
             "0228011701",
             "9780228011705"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mosques Canada Design and construction History",
+            "Mosques Canada History",
+            "Islamic architecture Canada History",
+            "Mosques as community centers History",
+            "Architecture islamique Canada Histoire",
+            "Mosquées (Centres communautaires) Histoire",
+            "ARCHITECTURE / Buildings / Religious",
+            "Islamic architecture",
+            "Mosques",
+            "Mosques as community centers",
+            "Mosques Design and construction",
+            "Canada",
+            "History",
+            "Al Rashid",
+            "Canadian",
+            "Edmonton",
+            "Islam",
+            "Ismaili",
+            "Jamatkhana",
+            "Masjid Al Salaam",
+            "Noor",
+            "Room",
+            "architecture",
+            "charity",
+            "cube",
+            "declaration",
+            "epigraphy",
+            "fasting",
+            "gathering",
+            "mihrab",
+            "mosque",
+            "muslim",
+            "pilgrimage",
+            "prayer spaces",
+            "qibla",
+            "research creation",
+            "shahada",
+            "typology",
+            "women",
+            "worship"
+        ]
     },
     {
         "topic": "14000000",
@@ -1191,7 +1844,17 @@
             "1789941873",
             "9781789941876"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Artists' preparatory studies",
+            "Drawing",
+            "Artists Interviews",
+            "Esquisses (Art)",
+            "Artistes Entretiens",
+            "Artists",
+            "Electronic books",
+            "Interviews"
+        ]
     },
     {
         "topic": "14000000",
@@ -1209,7 +1872,22 @@
             "9780807180945",
             "0807180947"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Wright, Frank Lloyd, 1867-1959 Criticism and interpretation",
+            "Emerson, Ralph Waldo, 1803-1882 Influence",
+            "Emerson, Ralph Waldo, 1803-1882",
+            "Wright, Frank Lloyd, 1867-1959",
+            "Architecture and society United States History 20th century",
+            "Architecture et société États-Unis Histoire 20e siècle",
+            "Architecture and society",
+            "Influence (Literary, artistic, etc.)",
+            "United States",
+            "Electronic books",
+            "Criticism, interpretation, etc",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1225,7 +1903,19 @@
             "1784914797",
             "9781784914790"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Stone carving Greece Rhodes",
+            "Sculpture en pierre Grèce Rhodes",
+            "Antiquities",
+            "Stone carving",
+            "Rhodes (Greece) Antiquities",
+            "Rhodes (Greece) History To 1500",
+            "Rhodes (Grèce) Histoire Jusqu'à 1500",
+            "Greece Rhodes",
+            "History",
+            "To 1500"
+        ]
     },
     {
         "topic": "14000000",
@@ -1241,7 +1931,15 @@
             "9782763753713",
             "276375371X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture History Encyclopedias",
+            "Architecture Histoire Encyclopédies",
+            "PHILOSOPHY / History & Surveys / General",
+            "Architecture",
+            "Encyclopedias",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1259,7 +1957,39 @@
             "1526167816",
             "9781526167811"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Interior decoration History",
+            "Senses and sensation in interior decoration",
+            "Décoration intérieure Histoire",
+            "Sens et sensations en décoration intérieure",
+            "ARCHITECTURE / Interior Design / General",
+            "Interior decoration",
+            "Home & house maintenance",
+            "House and Home",
+            "Electronic books",
+            "History",
+            "1925 Paris Exhibition",
+            "Black Deco",
+            "Herrenzimmer",
+            "Nazi propaganda",
+            "Pierre Legrain",
+            "Terence Conran",
+            "design history",
+            "domestic interior",
+            "hearing",
+            "interior design",
+            "middle-class home",
+            "queer photography",
+            "sensory politics",
+            "sensory studies",
+            "sensual economies",
+            "sight",
+            "smell",
+            "synaesthesia",
+            "taste",
+            "touch"
+        ]
     },
     {
         "topic": "14000000",
@@ -1275,7 +2005,20 @@
             "9781527580596",
             "1527580598"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Foreign exchange China History",
+            "Money China History",
+            "Change Chine Histoire",
+            "Monnaie Chine Histoire",
+            "Humanities",
+            "Foreign exchange",
+            "International economic relations",
+            "Money",
+            "China Foreign economic relations History",
+            "China",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1293,7 +2036,17 @@
             "9781845414405",
             "1845414403"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Heritage tourism",
+            "Railroad travel",
+            "Tourisme culturel",
+            "Voyages en train",
+            "cultural tourism",
+            "Cultural studies",
+            "Railway transport industries",
+            "ARCHITECTURE Buildings Public, Commercial & Industrial"
+        ]
     },
     {
         "topic": "14000000",
@@ -1313,7 +2066,22 @@
             "1350154741",
             "9781350154742"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 20th century Philosophy",
+            "Art, Modern 21st century Philosophy",
+            "Art and society History 20th century",
+            "Art and society History 21st century",
+            "Art 20e siècle Philosophie",
+            "Art 21e siècle Philosophie",
+            "Art et société Histoire 21e siècle",
+            "Art et société Histoire 20e siècle",
+            "Philosophy: aesthetics",
+            "Art and society",
+            "Art, Modern Philosophy",
+            "History",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -1329,7 +2097,18 @@
             "9781906860868",
             "1906860866"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 20th century",
+            "Art 20e siècle",
+            "ART / Performance",
+            "ART / Reference",
+            "Art, Modern",
+            "Oxford (England) In art",
+            "England Oxford",
+            "Art",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1345,7 +2124,22 @@
             "1527585263",
             "9781527585263"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Women artists Social networks",
+            "Women art critics Social networks",
+            "Women art patrons Social networks",
+            "Women art dealers Social networks",
+            "Women and the arts",
+            "Femmes artistes Réseaux sociaux",
+            "Femmes critiques d'art Réseaux sociaux",
+            "Femmes mécènes Réseaux sociaux",
+            "Marchandes d'œuvres d'art Réseaux sociaux",
+            "Arts et femmes",
+            "Gender studies, gender groups",
+            "Art styles not defined by date",
+            "Literature: history & criticism"
+        ]
     },
     {
         "topic": "14000000",
@@ -1361,7 +2155,16 @@
             "1476636656",
             "9781476636658"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Coins History Encyclopedias",
+            "Money History Encyclopedias",
+            "Monnaies Histoire Encyclopédies",
+            "Coins",
+            "Money",
+            "Encyclopedias",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1377,7 +2180,17 @@
             "3775747982",
             "9783775747981"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Management",
+            "Museum directors",
+            "Electronic books",
+            "Musées Gestion",
+            "Directeurs de musée",
+            "Livres numériques",
+            "e-books",
+            "museum administration"
+        ]
     },
     {
         "topic": "14000000",
@@ -1393,7 +2206,11 @@
             "1803822910",
             "9781803822914"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Sustainable architecture",
+            "Architecture durable"
+        ]
     },
     {
         "topic": "14000000",
@@ -1409,7 +2226,40 @@
             "9780226409351",
             "022640935X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Teenagers' rooms United States",
+            "Teenagers United States Social conditions",
+            "Bedrooms United States",
+            "Teenagers Conduct of life",
+            "Teenage consumers United States",
+            "Self-realization",
+            "Chambres d'adolescents États-Unis",
+            "Adolescents États-Unis Conditions sociales",
+            "Chambres à coucher États-Unis",
+            "Adolescents Morale pratique",
+            "Adolescents consommateurs États-Unis",
+            "Réalisation de soi",
+            "ARCHITECTURE Decoration & Ornament",
+            "DESIGN Interior Decorating",
+            "Bedrooms",
+            "Manners and customs",
+            "Teenage consumers",
+            "Teenagers' rooms",
+            "Teenagers Social conditions",
+            "Männliche Jugend",
+            "Weibliche Jugend",
+            "Privatheit",
+            "Schlafzimmer",
+            "Kinderzimmer",
+            "Persönlichkeitsentwicklung",
+            "Pubertät",
+            "Erwachsenwerden",
+            "United States Social life and customs 20th century",
+            "États-Unis Mœurs et coutumes 20e siècle",
+            "United States",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1425,7 +2275,14 @@
             "152758366X",
             "9781527583665"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art criticism",
+            "Online authorship",
+            "Critique d'art",
+            "Internet Art d'écrire",
+            "art criticism"
+        ]
     },
     {
         "topic": "14000000",
@@ -1441,7 +2298,16 @@
             "9783838277639",
             "3838277635"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Nat︠s︡ionalʹnyĭ muzeĭ Revoli︠u︡t︠s︡iï Hidnosti History",
+            "Museums Ukraine Kyïv",
+            "Musées Ukraine Kiev",
+            "Museums",
+            "Ukraine History Revolution of Dignity, 2013-2014",
+            "Ukraine Kyïv",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1457,7 +2323,19 @@
             "9461665016",
             "9789461665010"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Women artists Netherlands 19th century",
+            "Women artists Netherlands 20th century",
+            "Nobility Netherlands 19th century",
+            "Nobility Netherlands 20th century",
+            "Femmes artistes Pays-Bas 19e siècle",
+            "Femmes artistes Pays-Bas 20e siècle",
+            "Nobility",
+            "Women artists",
+            "Netherlands",
+            "1800-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1473,7 +2351,18 @@
             "9781788019347",
             "1788019342"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museum conservation methods",
+            "Art objects Conservation and restoration",
+            "Antiques Conservation and restoration",
+            "Historic preservation",
+            "Musées Méthodes de conservation",
+            "Objets d'art Conservation et restauration",
+            "Antiquités (Objets anciens) Conservation et restauration",
+            "Préservation historique",
+            "historic preservation"
+        ]
     },
     {
         "topic": "14000000",
@@ -1488,7 +2377,17 @@
         "isbns": [
             "9798987228128"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Figurative painting, American 20th century Exhibitions",
+            "Modernism (Art) United States Exhibitions",
+            "Peinture figurative américaine 20e siècle Expositions",
+            "Modernisme (Art) États-Unis Expositions",
+            "Figurative art, American",
+            "Modernism (Art)",
+            "United States",
+            "Exhibition catalogs"
+        ]
     },
     {
         "topic": "14000000",
@@ -1504,7 +2403,38 @@
             "9781683350132",
             "1683350138"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mann, David (Founder of MR Architecture + Decor) Themes, motives",
+            "MR Architecture + Decor (Firm)",
+            "MR Architecture + Decor (Firm) Pictorial works",
+            "Architectural firms New York (State) New York",
+            "Architectural firms New York (State) New York Pictorial works",
+            "Interior decoration United States Pictorial works",
+            "Interior decorators United States",
+            "Architects United States",
+            "Architecture United States Themes, motives",
+            "Interior decoration United States Themes, motives",
+            "Architecture Details",
+            "Agences d'architecture New York (État) New York",
+            "Agences d'architecture New York (État) New York Ouvrages illustrés",
+            "Décoration intérieure États-Unis Ouvrages illustrés",
+            "Décorateurs d'intérieurs États-Unis",
+            "Architectes États-Unis",
+            "Architecture États-Unis Thèmes, motifs",
+            "Décoration intérieure États-Unis Thèmes, motifs",
+            "Architecture Détails",
+            "Architects",
+            "Architectural firms",
+            "Architecture Themes, motives",
+            "Interior decoration",
+            "Interior decoration Themes, motives",
+            "Interior decorators",
+            "Themes, motives",
+            "New York (State) New York",
+            "United States",
+            "Pictorial works"
+        ]
     },
     {
         "topic": "14000000",
@@ -1520,7 +2450,24 @@
             "9781978832732",
             "1978832737"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Rutgers University Students",
+            "Rutgers University",
+            "Posters, American New Jersey New Brunswick Exhibitions",
+            "Social problems Posters Exhibitions",
+            "Political poetry Exhibitions",
+            "Multilingualism Study and teaching (Higher) New Jersey New Brunswick",
+            "Affiches américaines New Jersey New Brunswick Expositions",
+            "Problèmes sociaux Affiches Expositions",
+            "Poésie politique Expositions",
+            "Political poetry",
+            "Posters, American",
+            "Social problems",
+            "Students",
+            "New Jersey New Brunswick",
+            "Exhibition catalogs"
+        ]
     },
     {
         "topic": "14000000",
@@ -1542,7 +2489,20 @@
             "9781315597119",
             "131559711X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Australia History",
+            "Museum exhibits Australia",
+            "Musées Australie Histoire",
+            "Objets exposés Australie",
+            "BUSINESS & ECONOMICS Museum Administration & Museology",
+            "REFERENCE General",
+            "TRAVEL Museums, Tours, Points of Interest",
+            "Museum exhibits",
+            "Museums",
+            "Australia",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1560,7 +2520,22 @@
             "9781838713959",
             "1838713956"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Animated films History and criticism",
+            "Motion picture music History and criticism",
+            "Animated films Japan",
+            "Animation (Cinematography) Japan",
+            "Animated films Japan History",
+            "Film, Musique de Histoire et critique",
+            "Animation (Cinéma) Japon",
+            "Animated films",
+            "Animation (Cinematography)",
+            "Motion picture music",
+            "Japan",
+            "Criticism, interpretation, etc",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -1580,7 +2555,23 @@
             "1350185213",
             "9781350185210"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture and society",
+            "Architecture and race",
+            "Dance Social aspects",
+            "Artists and architects",
+            "City planning Philosophy",
+            "Space (Architecture) Social aspects",
+            "Architecture et société",
+            "Architecture et race",
+            "Danse Aspect social",
+            "Artistes et architectes",
+            "Espace (Architecture) Aspect social",
+            "Performance art",
+            "Dance",
+            "Performing Arts Dance General"
+        ]
     },
     {
         "topic": "14000000",
@@ -1598,7 +2589,12 @@
             "1789941911",
             "9781789941906"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Prints Technique",
+            "Estampe Technique",
+            "printmaking"
+        ]
     },
     {
         "topic": "14000000",
@@ -1614,7 +2610,27 @@
             "0878467971",
             "9780878467976"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mariette, Auguste, 1821-1881",
+            "Warren, Edward Perry, 1860-1928 Private collections",
+            "Bonaparte, Napoléon-Joseph-Charles-Paul, Prince, 1822-1891",
+            "Saʻīd, Pasha, Viceroy of Egypt, 1822-1863",
+            "Warren, Edward Perry, 1860-1928",
+            "Museum of Fine Arts, Boston",
+            "Portrait sculpture, Egyptian",
+            "Priests Egypt Portraits",
+            "Excavations (Archaeology) Egypt History",
+            "Muohammad Saaid",
+            "Sculpture de portraits égyptienne",
+            "Prêtres Égypte Portraits",
+            "Excavations (Archaeology)",
+            "Priests",
+            "Private collections",
+            "Egypt",
+            "History",
+            "Portraits"
+        ]
     },
     {
         "topic": "14000000",
@@ -1630,7 +2646,18 @@
             "1350182400",
             "9781350182400"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Political aspects",
+            "Art, Modern 20th century",
+            "Art, Modern 21st century",
+            "Art Aspect politique",
+            "Art 20e siècle",
+            "Art 21e siècle",
+            "political art",
+            "Art, Modern",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -1650,7 +2677,13 @@
             "1350172936",
             "9781350172920"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Heidegger, Martin, 1889-1976 Influence",
+            "Heidegger, Martin, 1889-1976",
+            "Architecture, Domestic Philosophy",
+            "Influence (Literary, artistic, etc.)"
+        ]
     },
     {
         "topic": "14000000",
@@ -1670,7 +2703,50 @@
             "1350234206",
             "9781350234192"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Olympic Games (29th : 2008 : Beijing, China)",
+            "Olympic Games",
+            "Art, Chinese 20th century Themes, motives",
+            "Art and society China History 20th century",
+            "Art and society China History 21st century",
+            "Art Political aspects China",
+            "Art Economic aspects China",
+            "Motion pictures Political aspects China 20th century",
+            "Motion pictures China Hong Kong History 20th century",
+            "Motion pictures Taiwan History 20th century",
+            "Sex role in art",
+            "Sex workers Themes, motives",
+            "Olympics in art",
+            "Public art China Beijing",
+            "Art chinois 20e siècle Thèmes, motifs",
+            "Art et société Chine Histoire 20e siècle",
+            "Art et société Chine Histoire 21e siècle",
+            "Art Aspect politique Chine",
+            "Art Aspect économique Chine",
+            "Cinéma Chine Hongkong Histoire 20e siècle",
+            "Cinéma Taiwan Histoire 20e siècle",
+            "Rôle selon le sexe dans l'art",
+            "Jeux olympiques dans l'art",
+            "Cinéma Aspect politique Chine 20e siècle",
+            "Films, cinema",
+            "Performing Arts Film & Video General",
+            "Performing Arts Film & Video History & Criticism",
+            "History Asia China",
+            "Art and society",
+            "Art, Chinese Themes, motives",
+            "Art Economic aspects",
+            "Art Political aspects",
+            "Motion pictures",
+            "Motion pictures Political aspects",
+            "Public art",
+            "China",
+            "China Beijing",
+            "China Hong Kong",
+            "Taiwan",
+            "History",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -1688,7 +2764,12 @@
             "1350204455",
             "9781350204454"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Historiography",
+            "Theaters Stage-setting and scenery",
+            "Art Historiographie"
+        ]
     },
     {
         "topic": "14000000",
@@ -1708,7 +2789,21 @@
             "9781350152861",
             "1350152862"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Conrad, Theodore, 1910-1994 Criticism and interpretation",
+            "Architectural models United States History 20th century",
+            "Modèles architecturaux États-Unis Histoire 20e siècle",
+            "Theory of architecture",
+            "History of architecture",
+            "Architecture History General",
+            "Architecture Criticism",
+            "Architectural models",
+            "United States",
+            "Criticism, interpretation, etc",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -1728,7 +2823,24 @@
             "9781350192928",
             "1350192929"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Reflection (Optics) in art",
+            "Materials Appearance",
+            "Senses and sensation Psychological aspects",
+            "Popular culture Psychological aspects",
+            "Réflexion (Optique) dans l'art",
+            "Matériaux Apparence",
+            "Sens et sensations Aspect psychologique",
+            "Culture populaire Aspect psychologique",
+            "Precious metal, precious stones & jewellery: artworks & design",
+            "Decorative arts",
+            "Decorative wood & metalwork",
+            "Art & design styles: Modernist design & Bauhaus",
+            "Art General",
+            "Design Decorative Arts",
+            "Design Essays"
+        ]
     },
     {
         "topic": "14000000",
@@ -1746,7 +2858,14 @@
             "9781782114031",
             "1782114033"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 21st century Themes, motives",
+            "Art 21e siècle Thèmes, motifs",
+            "ART History General",
+            "Art, Modern Themes, motives",
+            "2000-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -1762,7 +2881,18 @@
             "9781527582217",
             "1527582213"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Hals, Frans, 1584-1666 Criticism and interpretation",
+            "Hals, Frans, 1584-1666",
+            "Art Collectors and collecting United States History 19th century",
+            "Art Collectionneurs et collections États-Unis Histoire 19e siècle",
+            "Art Collectors and collecting",
+            "United States",
+            "Criticism, interpretation, etc",
+            "History",
+            "1800-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -1778,7 +2908,16 @@
             "1501348418",
             "9781501348419"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art France History Revolution, 1789-1799",
+            "History of art / art & design styles",
+            "Art",
+            "France History Revolution, 1789-1799",
+            "France",
+            "History",
+            "1789-1799"
+        ]
     },
     {
         "topic": "14000000",
@@ -1798,7 +2937,24 @@
             "9781350177925",
             "135017792X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Aguéli, Ivan, 1869-1917 Criticism and interpretation",
+            "Aguéli, Ivan, 1869-1917 Religion",
+            "Aguéli, Ivan, 1869-1917 Political and social views",
+            "Aguéli, Ivan, 1869-1917",
+            "Politics in art",
+            "Anarchist artists",
+            "Politique dans l'art",
+            "History of art & design styles: c 1800 to c 1900",
+            "Anarchism",
+            "Sufism & Islamic mysticism",
+            "Religion Islam Sufi",
+            "Political Science Political Ideologies Anarchism",
+            "Religion",
+            "Political and social views",
+            "Criticism, interpretation, etc"
+        ]
     },
     {
         "topic": "14000000",
@@ -1814,7 +2970,26 @@
             "9783839473344",
             "3839473349"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Study and teaching",
+            "Art Research",
+            "Design Study and teaching",
+            "Art Étude et enseignement",
+            "Art Recherche",
+            "art education",
+            "ART / Criticism",
+            "Aesthetics",
+            "Ambiguity",
+            "Art",
+            "Artistic Research",
+            "Design",
+            "Education",
+            "Educational Research",
+            "Fine Arts",
+            "Practice-Based Research",
+            "University"
+        ]
     },
     {
         "topic": "14000000",
@@ -1830,7 +3005,21 @@
             "9783839473689",
             "3839473683"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Bauermeister, Mary, 1934-2023 Criticism and interpretation",
+            "ART / History / Contemporary (1945-)",
+            "Aesthetics",
+            "Art History of the 20th Century",
+            "Art History",
+            "Art",
+            "Assemblage",
+            "Culture",
+            "Female Art History",
+            "Fine Arts",
+            "Many-Valued Aesthetics",
+            "Postwar Art"
+        ]
     },
     {
         "topic": "14000000",
@@ -1846,7 +3035,15 @@
             "9781978840713",
             "1978840713"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Caricatures and cartoons United States History",
+            "American wit and humor, Pictorial History",
+            "Humour par l'image américain Histoire",
+            "LITERARY CRITICISM / General",
+            "Comics criticism",
+            "Critiques de bandes dessinées et de romans graphiques"
+        ]
     },
     {
         "topic": "14000000",
@@ -1864,7 +3061,14 @@
             "9781800087071",
             "1800087071"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Collection management",
+            "Museums Social aspects",
+            "Musées Gestion des collections",
+            "Musées Aspect social",
+            "collections management"
+        ]
     },
     {
         "topic": "14000000",
@@ -1882,7 +3086,15 @@
             "9781804294871",
             "180429487X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Internationale situationniste",
+            "Avant-garde (Aesthetics)",
+            "Art and society History 20th century",
+            "Art and society History 21st century",
+            "Art et société Histoire 20e siècle",
+            "Art et société Histoire 21e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -1898,7 +3110,13 @@
             "9781000957037",
             "1000957039"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architectural photography",
+            "Architecture and photography",
+            "Photographie d'architecture",
+            "Architecture et photographie"
+        ]
     },
     {
         "topic": "14000000",
@@ -1916,7 +3134,23 @@
             "9781683404477",
             "1683404475"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Muses (Greek deities) in art",
+            "Muses (Greek deities) in literature",
+            "Art, Mexican Women",
+            "Mexican literature Women",
+            "Women in art",
+            "Women in literature",
+            "Muses dans l'art",
+            "Muses dans la littérature",
+            "Art mexicain Femmes",
+            "Littérature mexicaine Femmes",
+            "Femmes dans l'art",
+            "Femmes dans la littérature",
+            "LITERARY CRITICISM / Caribbean & Latin American",
+            "LITERARY CRITICISM / Science Fiction & Fantasy"
+        ]
     },
     {
         "topic": "14000000",
@@ -1932,7 +3166,8 @@
             "9781040125380",
             "1040125387"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -1948,7 +3183,8 @@
             "9781394230075",
             "1394230079"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -1968,7 +3204,17 @@
             "1040034152",
             "9781040034156"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 21st century",
+            "Neurodiversity",
+            "Neurodivergent people",
+            "Art 21e siècle",
+            "Neurodiversité",
+            "ART / General",
+            "ART / Folk & Outsider Art",
+            "ART / Popular Culture"
+        ]
     },
     {
         "topic": "14000000",
@@ -1984,7 +3230,8 @@
             "9781003825241",
             "1003825249"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2000,7 +3247,8 @@
             "9781000956382",
             "1000956385"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2016,7 +3264,11 @@
             "9781351061964",
             "1351061968"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art criticism Great Britain History 20th century",
+            "Critique d'art Grande-Bretagne Histoire 20e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -2032,7 +3284,8 @@
             "9781003854951",
             "1003854958"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2048,7 +3301,8 @@
             "9781040045831",
             "1040045839"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2064,7 +3318,15 @@
             "9781800109919",
             "1800109911"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Wells, Joanna Mary, 1831-1861",
+            "Boyce, George Price, 1826-1897",
+            "Wells, Henry Tanworth, 1828-1903",
+            "Art, Victorian Great Britain",
+            "Art, British 19th century",
+            "Artists Great Britain Biography"
+        ]
     },
     {
         "topic": "14000000",
@@ -2080,7 +3342,11 @@
             "9781040023167",
             "1040023169"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Artists 20th century Biography",
+            "Artistes 20e siècle Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -2096,7 +3362,15 @@
             "9781984881403",
             "198488140X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Baker, Nicholson Knowledge and learning",
+            "Baker, Nicholson",
+            "Art Psychology",
+            "Art Technique",
+            "Art Psychologie",
+            "Learning and scholarship"
+        ]
     },
     {
         "topic": "14000000",
@@ -2116,7 +3390,13 @@
             "9781040222928",
             "1040222927"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture and society",
+            "Civil disobedience",
+            "Architecture et société",
+            "Désobéissance civile"
+        ]
     },
     {
         "topic": "14000000",
@@ -2132,7 +3412,44 @@
             "888158316X",
             "9788881583164"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Anselmo, Giovanni, 1934- Exhibitions",
+            "Boetti, Alighiero, 1940-1994 Expositions",
+            "Calzolari, Pier Paolo, 1943- Expositions",
+            "Fabro, Luciano, 1936-2007 Exhibitions",
+            "Kounellis, Jannis, 1936-2017 Expositions",
+            "Merz, Mario, 1925-2003 Expositions",
+            "Merz, Marisa Expositions",
+            "Paolini, Giulio, 1940- Expositions",
+            "Penone, Giuseppe, 1947- Expositions",
+            "Pistoletto, Michelangelo, 1933- Expositions",
+            "Zorio, Gilberto, 1944- Expositions",
+            "Arte povera Exhibitions",
+            "Conceptual art Exhibitions",
+            "Art, Italian 20th century Exhibitions",
+            "Arte povera",
+            "Conceptual art",
+            "Italian language materials Bilingual",
+            "Art pauvre Expositions",
+            "Art conceptuel Expositions",
+            "Art italien 20e siècle Expositions",
+            "Art pauvre",
+            "Art conceptuel",
+            "Arte Povera",
+            "Conceptual",
+            "Art, Italian",
+            "Arte povera Italie Catalogues d'exposition",
+            "v Exhibition catalogs",
+            "exhibition catalogs",
+            "Exhibition catalogs",
+            "Catalogues d'exposition",
+            "1900-1999",
+            "Exhibitions",
+            "Modern art",
+            "20th century",
+            "Italy"
+        ]
     },
     {
         "topic": "14000000",
@@ -2148,7 +3465,18 @@
             "0691258481",
             "9780691258485"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mural painting and decoration, Indic India, South History",
+            "Narrative art, Indic India, South History",
+            "Space (Architecture) India, South History",
+            "Art and society India, South History",
+            "Art narratif de l'Inde Inde (Sud) Histoire",
+            "Espace (Architecture) Inde (Sud) Histoire",
+            "Art et société Inde (Sud) Histoire",
+            "ART / Asian / Indian & South Asian",
+            "RELIGION / Hinduism / History"
+        ]
     },
     {
         "topic": "14000000",
@@ -2164,7 +3492,8 @@
             "9782728316137",
             "2728316139"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2180,7 +3509,14 @@
             "9782821850590",
             "282185059X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "histoire de l'art",
+            "historien",
+            "discipline",
+            "étude",
+            "sociologie"
+        ]
     },
     {
         "topic": "14000000",
@@ -2196,7 +3532,16 @@
             "9782728837922",
             "2728837929"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "esthétique",
+            "ornement",
+            "théorie des ornements",
+            "Saint-Paul de Rome",
+            "Saint-Pierre de Rome",
+            "goût (art)",
+            "Rome"
+        ]
     },
     {
         "topic": "14000000",
@@ -2209,7 +3554,13 @@
         "specificFormat": "Digital",
         "publisher": "",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "New York Public Library. Schomburg Center for Research in Black Culture",
+            "African Americans History Exhibitions",
+            "Harlem (N.Y.)",
+            "New York (State)"
+        ]
     },
     {
         "topic": "14000000",
@@ -2222,7 +3573,36 @@
         "specificFormat": "Digital",
         "publisher": "Maison des sciences de l'homme",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Denon, Vivant, 1747-1825",
+            "Art treasures in war Europe History 19th century",
+            "Napoleonic Wars, 1800-1815 Confiscations and contributions Germany",
+            "Art thefts Europe History 19th century",
+            "Art treasures in war Germany",
+            "Art objects Flight Germany History 18th century",
+            "Art objects Flight Germany History 19th century",
+            "Pillage Germany",
+            "Guerres napoléoniennes, 1800-1815 Confiscations et contributions Allemagne",
+            "Trésors artistiques durant la guerre Allemagne",
+            "Objets d'art Vol Allemagne Histoire 18e siècle",
+            "Objets d'art Vol Allemagne Histoire 19e siècle",
+            "Pillage Allemagne",
+            "Trésors artistiques durant la guerre Europe Histoire 19e siècle",
+            "Vol d'objets d'art Europe Histoire 19e siècle",
+            "Pillage",
+            "Art thefts",
+            "Art treasures in war",
+            "Confiscations",
+            "Kunstroof",
+            "Fransen",
+            "France Cultural policy",
+            "France Politique culturelle",
+            "Europe",
+            "Germany",
+            "History",
+            "1700-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -2235,7 +3615,32 @@
         "specificFormat": "Digital",
         "publisher": "Das Museum",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mary, Blessed Virgin, Saint Art Exhibitions",
+            "Marie, Sainte Vierge Art Expositions",
+            "Mary, Blessed Virgin, Saint",
+            "Suermondt-Ludwig-Museum Aachen Exhibitions",
+            "Suermondt-Ludwig-Museum Aachen",
+            "Prints, European Exhibitions",
+            "Prints, Medieval Exhibitions",
+            "Prints, Renaissance Exhibitions",
+            "Prints, Baroque Europe Exhibitions",
+            "Christian saints in art Exhibitions",
+            "Estampe européenne Expositions",
+            "Estampe de la Renaissance Expositions",
+            "Estampe baroque Europe Expositions",
+            "Saints chrétiens dans l'art Expositions",
+            "Art",
+            "Christian saints in art",
+            "Prints, Baroque",
+            "Prints, European",
+            "Prints, Renaissance",
+            "Prenten",
+            "Heiligen",
+            "Europe",
+            "Exhibition catalogs"
+        ]
     },
     {
         "topic": "14000000",
@@ -2251,7 +3656,16 @@
             "9786050715927",
             "6050715920"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Conservation and restoration",
+            "Cultural property Protection",
+            "Historic preservation",
+            "Art Conservation et restauration",
+            "Préservation historique",
+            "restoration (process)",
+            "historic preservation"
+        ]
     },
     {
         "topic": "14000000",
@@ -2267,7 +3681,18 @@
             "153812758X",
             "9781538127582"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Collection management",
+            "Art Provenance",
+            "Collectors and collecting History",
+            "Cultural property Protection",
+            "Musées Gestion des collections",
+            "collections management",
+            "provenance (history of ownership)",
+            "Collectors and collecting",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -2280,7 +3705,10 @@
         "specificFormat": "Digital",
         "publisher": "Presses universitaires de Rennes",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "book"
+        ]
     },
     {
         "topic": "14000000",
@@ -2296,7 +3724,26 @@
             "2916125353",
             "9782916125350"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "History & Archaeology",
+            "cimetière",
+            "Antiquité",
+            "archéologie",
+            "rempart",
+            "période moderne",
+            "période contemporaine",
+            "baptistère",
+            "groupe épiscopal",
+            "groupe cathédral",
+            "palais médiéval",
+            "crypte",
+            "habitats",
+            "temps modernes",
+            "remparts urbains",
+            "antiquité",
+            "cimetières"
+        ]
     },
     {
         "topic": "14000000",
@@ -2312,7 +3759,17 @@
             "9782916125312",
             "2916125310"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Moyen Âge",
+            "temps modernes",
+            "prospections",
+            "archives",
+            "ateliers de potier",
+            "céramique",
+            "production",
+            "consommation"
+        ]
     },
     {
         "topic": "14000000",
@@ -2328,7 +3785,15 @@
             "9789819953745",
             "981995374X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts Research Methodology",
+            "Arts in education",
+            "Walking Symbolic aspects",
+            "Arts Recherche Méthodologie",
+            "Arts en éducation",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -2344,7 +3809,20 @@
             "9783709108239",
             "3709108233"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Handbooks, manuals, etc",
+            "Architectural practice Handbooks, manuals, etc",
+            "Architecture Guides, manuels, etc",
+            "Ingénierie",
+            "Architectural practice",
+            "Architecture",
+            "Handbook",
+            "handbooks",
+            "Handbooks and manuals",
+            "Guides et manuels",
+            "Basics of Construction"
+        ]
     },
     {
         "topic": "14000000",
@@ -2360,7 +3838,21 @@
             "9783709108321",
             "3709108322"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Austria Linz 20th century Guidebooks",
+            "Architecture Austria Linz 21st century Guidebooks",
+            "Architecture Autriche Linz 20e siècle Guides",
+            "Architecture Autriche Linz 21e siècle Guides",
+            "ARCHITECTURE Criticism",
+            "ARCHITECTURE History General",
+            "ARCHITECTURE Regional",
+            "Ingénierie",
+            "Architecture",
+            "Austria Linz",
+            "Guidebooks",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -2380,7 +3872,16 @@
             "9781040119693",
             "1040119697"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Public spaces Psychological aspects",
+            "Social ecology",
+            "Espaces publics Aspect psychologique",
+            "Écologie sociale",
+            "human ecology",
+            "ARCHITECTURE / Interior Design / General",
+            "ART / Criticism"
+        ]
     },
     {
         "topic": "14000000",
@@ -2403,7 +3904,24 @@
             "9781317528562",
             "1317528565"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Philosophy",
+            "Architecture Human factors",
+            "Architecture and society History 18th century",
+            "Architecture Philosophie",
+            "Architecture Facteurs humains",
+            "Architecture et société Histoire 18e siècle",
+            "architectural theory",
+            "ARCHITECTURE Adaptive Reuse & Renovation",
+            "ARCHITECTURE Buildings Landmarks & Monuments",
+            "ARCHITECTURE Professional Practice",
+            "ARCHITECTURE Reference",
+            "Architecture and society",
+            "Electronic books",
+            "History",
+            "1700-1799"
+        ]
     },
     {
         "topic": "14000000",
@@ -2419,7 +3937,14 @@
             "9781606065228",
             "160606522X"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Art Conservation and restoration",
+            "Museum buildings Earthquake effects",
+            "Art Conservation et restauration",
+            "Musées (Édifices) Effets des tremblements de terre sur",
+            "restoration (process)"
+        ]
     },
     {
         "topic": "14000000",
@@ -2435,7 +3960,8 @@
             "9781954600256",
             "1954600259"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2453,7 +3979,23 @@
             "9780774866637",
             "0774866632"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Indigenous art",
+            "Photography",
+            "Political art",
+            "Photography Social aspects",
+            "Photography Political aspects",
+            "Indigenous peoples Portraits",
+            "Art autochtone",
+            "Photographie",
+            "Photographie Aspect social",
+            "Photographie Aspect politique",
+            "SOCIAL SCIENCE / Indigenous Studies",
+            "Indigenous peoples",
+            "Electronic books",
+            "Portraits"
+        ]
     },
     {
         "topic": "14000000",
@@ -2466,7 +4008,8 @@
         "specificFormat": "Digital",
         "publisher": "Sybex",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2482,7 +4025,11 @@
             "9780760385289",
             "0760385289"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Drawing Technique",
+            "Dessin Technique"
+        ]
     },
     {
         "topic": "14000000",
@@ -2495,7 +4042,8 @@
         "specificFormat": "Digital",
         "publisher": "Sybex",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2511,7 +4059,23 @@
             "9783631743485",
             "3631743483"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "History",
+            "Entwicklung",
+            "Handwerk",
+            "Handwerker",
+            "Handwerkspflege",
+            "Jahrhunderts",
+            "Mittel",
+            "Mobilität",
+            "Roth",
+            "Slavische Sprachwissenschaft",
+            "Südosteuropa",
+            "Vermittlung",
+            "Wandel",
+            "Zeitgeschichte"
+        ]
     },
     {
         "topic": "14000000",
@@ -2527,7 +4091,25 @@
             "9783876906515",
             "3876906512"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Society & social sciences",
+            "Eine",
+            "Éllis",
+            "Éllis als Lyriker",
+            "Éllis als Überseter",
+            "Kobylinskij",
+            "Leben",
+            "Nikołaj Gogol'",
+            "Rudolf Steiner",
+            "Sacra",
+            "Studie",
+            "Symbolismus",
+            "Über",
+            "Vladimir Solov'ev",
+            "Werk",
+            "Willich"
+        ]
     },
     {
         "topic": "14000000",
@@ -2543,7 +4125,13 @@
             "9783747503737",
             "374750373X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Lettering",
+            "Type and type-founding",
+            "Drawing",
+            "Lettrage"
+        ]
     },
     {
         "topic": "14000000",
@@ -2561,7 +4149,16 @@
             "1452968616",
             "9781452968605"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Smithson, Robert",
+            "Artists United States Biography",
+            "Artistes États-Unis Biographies",
+            "ART / Individual Artists / General",
+            "Artists",
+            "United States",
+            "Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -2577,7 +4174,23 @@
             "9783876906782",
             "3876906784"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Language",
+            "Linguistics",
+            "Eine",
+            "Empirische",
+            "Fleischer",
+            "Kollektivsymbole",
+            "Kollektivsymbolik",
+            "Kulturtheorie",
+            "Russischen",
+            "Russland",
+            "Semantisierung",
+            "Slavische Sprachwissenschaft",
+            "System",
+            "Untersuchung"
+        ]
     },
     {
         "topic": "14000000",
@@ -2593,7 +4206,8 @@
             "9783035806120",
             "3035806128"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2609,7 +4223,25 @@
             "9783876906850",
             "3876906857"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Literature & literary studies",
+            "Barock",
+            "Beispiel",
+            "Cnot",
+            "Erdmann",
+            "Funeralpanegyrik",
+            "Heraldische",
+            "Kossova",
+            "Linguistik",
+            "Literatur",
+            "Philologie",
+            "Slavische Sprachwissenschaft",
+            "Slavische Studien",
+            "Stolp",
+            "Ukrainischen",
+            "Vestra"
+        ]
     },
     {
         "topic": "14000000",
@@ -2625,7 +4257,8 @@
             "9789585478503",
             "9585478501"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2641,7 +4274,8 @@
             "9781643604572",
             "1643604570"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2657,7 +4291,22 @@
             "9783876903309",
             "3876903300"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Literature & literary studies",
+            "1885",
+            "1985",
+            "Chlebnikov",
+            "Festschrift",
+            "Futurismus",
+            "Geburtstag",
+            "Holthusen",
+            "Jubiläum",
+            "Russland",
+            "Velemir",
+            "Velimir",
+            "War"
+        ]
     },
     {
         "topic": "14000000",
@@ -2673,7 +4322,10 @@
             "9783839471777",
             "383947177X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -2689,7 +4341,13 @@
             "9781789381788",
             "1789381789"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Historic sites Conservation and restoration Syria Aleppo",
+            "Lieux historiques Conservation et restauration Syrie Alep",
+            "Historic sites Conservation and restoration",
+            "Syria Aleppo"
+        ]
     },
     {
         "topic": "14000000",
@@ -2705,7 +4363,15 @@
             "9789587253405",
             "958725340X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Colombia History 20th century",
+            "Architecture Colombie Histoire 20e siècle",
+            "Architecture",
+            "Colombia",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -2723,7 +4389,17 @@
             "9781118863015",
             "1118863011"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Autodesk Revit",
+            "Architectural drawing Computer-aided design",
+            "Architectural design Data processing",
+            "Design architectural Informatique",
+            "ARCHITECTURE Adaptive Reuse & Renovation",
+            "ARCHITECTURE Buildings Landmarks & Monuments",
+            "ARCHITECTURE Professional Practice",
+            "ARCHITECTURE Reference"
+        ]
     },
     {
         "topic": "14000000",
@@ -2741,7 +4417,8 @@
             "1040114326",
             "9781040114322"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2757,7 +4434,12 @@
             "9780500776063",
             "0500776067"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mythology, Greek, in art",
+            "Art, Greek",
+            "Mythologie grecque dans l'art"
+        ]
     },
     {
         "topic": "14000000",
@@ -2775,7 +4457,20 @@
             "0774866586",
             "9780774866576"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Miniature objects Northwest, Pacific",
+            "Miniature craft Northwest, Pacific",
+            "Indigenous art Northwest, Pacific",
+            "Objets miniatures Nord-Ouest, Côte (Amérique du Nord)",
+            "Objets miniatures Travaux d'amateurs Nord-Ouest, Côte (Amérique du Nord)",
+            "Art autochtone Nord-Ouest, Côte (Amérique du Nord)",
+            "SOCIAL SCIENCE / Indigenous Studies",
+            "Indigenous art",
+            "Miniature craft",
+            "Miniature objects",
+            "Pacific Northwest"
+        ]
     },
     {
         "topic": "14000000",
@@ -2791,7 +4486,25 @@
             "0500775346",
             "9780500775349"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Central European 20th century",
+            "Art, East European 20th century",
+            "Arts, Modern 20th century",
+            "Art, Central European 21st century",
+            "Art, East European 21st century",
+            "Arts, Modern 21st century",
+            "Art centre-européen 20e siècle",
+            "Art est-européen 20e siècle",
+            "Arts 20e siècle",
+            "Art centre-européen 21e siècle",
+            "Art est-européen 21e siècle",
+            "Arts 21e siècle",
+            "Art, Central European",
+            "Art, East European",
+            "Arts, Modern",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -2807,7 +4520,8 @@
             "9780500774939",
             "0500774935"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2825,7 +4539,14 @@
             "9781119059455",
             "1119059453"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Autodesk Revit",
+            "Architectural drawing Computer-aided design",
+            "Architectural design Data processing",
+            "Design architectural Informatique",
+            "ARCHITECTURE Design, Drafting, Drawing & Presentation"
+        ]
     },
     {
         "topic": "14000000",
@@ -2841,7 +4562,18 @@
             "9781789387025",
             "1789387027"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Punk culture and art Europe History",
+            "Art, European 20th century",
+            "Punk (Mouvement) et art Europe Histoire",
+            "Art, European",
+            "Punk culture and art",
+            "Europe",
+            "Electronic books",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -2857,7 +4589,10 @@
             "9783631741801",
             "3631741804"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Literature & literary studies"
+        ]
     },
     {
         "topic": "14000000",
@@ -2873,7 +4608,30 @@
             "9780226630656",
             "022663065X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Aesthetics",
+            "Sublime, The, in art",
+            "Art and science",
+            "Art and technology",
+            "Art Esthétique",
+            "Sublime dans l'art",
+            "Art et sciences",
+            "Art et technologie",
+            "ART General",
+            "ART Performance",
+            "ART Reference",
+            "Aesthetics",
+            "Artificial Intelligence",
+            "BioArts",
+            "Cognition",
+            "Inscrutability",
+            "Neuroethics",
+            "New Media",
+            "Romanticism",
+            "Techno-Utopia",
+            "Theology"
+        ]
     },
     {
         "topic": "14000000",
@@ -2889,7 +4647,8 @@
             "9789004416185",
             "9004416188"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2907,7 +4666,21 @@
             "9781119059851",
             "1119059852"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Maya (Computer file)",
+            "Maya (Computer file) Studies",
+            "Computer animation",
+            "Computer graphics",
+            "Three-dimensional display systems",
+            "Animation par ordinateur",
+            "Infographie",
+            "Affichage tridimensionnel",
+            "computer animation",
+            "computer graphics",
+            "three-dimensional",
+            "COMPUTERS Digital Media Video & Animation"
+        ]
     },
     {
         "topic": "14000000",
@@ -2923,7 +4696,28 @@
             "9781638408307",
             "1638408300"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture and society Exhibitions",
+            "Architecture, Modern 21st century Exhibitions",
+            "Architecture Environmental aspects Exhibitions",
+            "Architecture Human factors Exhibitions",
+            "Perspective Exhibitions",
+            "Architecture et société Expositions",
+            "Architecture 21e siècle Expositions",
+            "Architecture Aspect de l'environnement Expositions",
+            "Architecture Facteurs humains Expositions",
+            "Perspective Expositions",
+            "Perspective",
+            "Architecture, Modern",
+            "Architecture Human factors",
+            "Architecture Environmental aspects",
+            "Architecture and society",
+            "exhibition catalogs",
+            "Exhibition catalogs",
+            "Catalogues d'exposition",
+            "2000-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -2939,7 +4733,8 @@
             "9786073057813",
             "6073057814"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2955,7 +4750,15 @@
             "9780228013327",
             "0228013321"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Smeaton, Charles, 1838-1868",
+            "Smeaton, John, 1842-1904",
+            "Photographers Québec (Province) Biography",
+            "Photography Québec (Province) History 19th century",
+            "Photographes Québec (Province) Biographies",
+            "Photographie Québec (Province) Histoire 19e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -2971,7 +4774,8 @@
             "9789004511217",
             "9004511210"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -2987,7 +4791,8 @@
             "9781643602622",
             "1643602624"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3003,7 +4808,8 @@
             "9780500775080",
             "0500775087"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3023,7 +4829,28 @@
             "9780500771976",
             "0500771979"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Duchamp, Marcel, 1887-1968 Dictionaries",
+            "Duchamp, Marcel, 1887-1968 Criticism and interpretation",
+            "Duchamp, Marcel, 1887-1968",
+            "Artists France Biography",
+            "Surrealism France",
+            "Avant-garde (Aesthetics)",
+            "Artistes France Biographies",
+            "Surréalisme France",
+            "ART Individual Artist",
+            "Artists",
+            "Surrealism",
+            "France",
+            "Dictionary",
+            "Biography",
+            "dictionaries",
+            "Dictionaries",
+            "Biographies",
+            "Criticism, interpretation, etc",
+            "Dictionnaires"
+        ]
     },
     {
         "topic": "14000000",
@@ -3039,7 +4866,14 @@
             "9783839471043",
             "3839471044"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Ottoman",
+            "Architectural drawing, Medieval",
+            "Architecture ottomane",
+            "Dessin d'architecture médiéval",
+            "ART / History / General"
+        ]
     },
     {
         "topic": "14000000",
@@ -3055,7 +4889,14 @@
             "178914731X",
             "9781789147315"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and race History 19th century",
+            "Art et race Histoire 19e siècle",
+            "Art and race",
+            "History",
+            "1800-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -3073,7 +4914,14 @@
             "1040114504",
             "1003368328"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Photography Political aspects",
+            "Photography Social aspects",
+            "Photobooks",
+            "Livres photos",
+            "photobooks"
+        ]
     },
     {
         "topic": "14000000",
@@ -3089,7 +4937,36 @@
             "9780500773093",
             "0500773092"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Gurlitt, Cornelius, 1932-2014 Art collections",
+            "Gurlitt, Hildebrand",
+            "Gurlitt, Cornelius, 1932-2014",
+            "World War (1939-1945)",
+            "World War, 1939-1945 Destruction and pillage Germany",
+            "Art treasures in war Germany History 20th century",
+            "Art thefts Europe History 20th century",
+            "Jewish property Germany History 20th century",
+            "Guerre mondiale, 1939-1945 Destruction et pillage Allemagne",
+            "Trésors artistiques durant la guerre Allemagne Histoire 20e siècle",
+            "Vol d'objets d'art Europe Histoire 20e siècle",
+            "Art thefts History Europe 20th century",
+            "Art Collectors and collecting Europe 20th century",
+            "National socialism and art",
+            "Art treasures in war History Europe 20th century",
+            "World War, 1939-1945 Confiscations and contributions Europe",
+            "Art Collectors and collecting",
+            "Art thefts",
+            "Art treasures in war",
+            "Confiscations",
+            "History",
+            "Jewish property",
+            "Destruction and pillage",
+            "Art Private collections",
+            "Europe",
+            "Germany",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -3107,7 +4984,11 @@
             "9780500776865",
             "0500776865"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Raphael, 1483-1520",
+            "Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -3123,7 +5004,15 @@
             "9781789147278",
             "1789147271"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Public art History",
+            "Art Intégration à l'architecture Histoire",
+            "Art General",
+            "Public art",
+            "Electronic books",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -3138,7 +5027,8 @@
         "isbns": [
             "9798887192529"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3154,7 +5044,10 @@
             "9780500774649",
             "0500774641"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Bauhaus History"
+        ]
     },
     {
         "topic": "14000000",
@@ -3170,7 +5063,8 @@
             "9780500773420",
             "0500773424"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3186,7 +5080,13 @@
             "9781789386547",
             "1789386543"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and society",
+            "Disasters in art",
+            "Art et société",
+            "Catastrophes dans l'art"
+        ]
     },
     {
         "topic": "14000000",
@@ -3202,7 +5102,16 @@
             "1789148111",
             "9781789148114"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Eyck, Jan van, 1390-1440 Criticism and interpretation",
+            "Eyck, Jan van, 1390-1440",
+            "Painting, Belgian 15th century",
+            "Peinture belge 15e siècle",
+            "Painting, Belgian",
+            "Criticism, interpretation, etc",
+            "1400-1499"
+        ]
     },
     {
         "topic": "14000000",
@@ -3222,7 +5131,18 @@
             "1283592630",
             "9781283592635"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Commercial art Vocational guidance United States",
+            "Art publicitaire Orientation professionnelle États-Unis",
+            "ANTIQUES & COLLECTIBLES Paper Ephemera",
+            "DESIGN Clip Art",
+            "DESIGN Graphic Arts Branding & Logo Design",
+            "DESIGN Graphic Arts Commercial & Corporate",
+            "DESIGN Graphic Arts Illustration",
+            "Commercial art Vocational guidance",
+            "United States"
+        ]
     },
     {
         "topic": "14000000",
@@ -3242,7 +5162,19 @@
             "1118862848",
             "9781118862841"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Maya (Computer file)",
+            "Computer animation",
+            "Computer graphics",
+            "Three-dimensional display systems",
+            "Animation par ordinateur",
+            "Infographie",
+            "Affichage tridimensionnel",
+            "computer animation",
+            "computer graphics",
+            "three-dimensional"
+        ]
     },
     {
         "topic": "14000000",
@@ -3258,7 +5190,16 @@
             "1789147263",
             "9781789147261"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Anatomy, Artistic",
+            "Human anatomy Europe History",
+            "Anatomie artistique",
+            "Anatomie humaine Europe Histoire",
+            "Human anatomy",
+            "Europe",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -3274,7 +5215,8 @@
             "9788480219266",
             "8480219262"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3290,7 +5232,8 @@
             "9788468679334",
             "846867933X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3306,7 +5249,11 @@
             "0500773793",
             "9780500773796"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 21st century",
+            "Art 21e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -3328,7 +5275,18 @@
             "9781119414322",
             "1119414326"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Autodesk Revit",
+            "Architectural design Data processing",
+            "Architectural drawing Computer-aided design",
+            "Design architectural Informatique",
+            "ARCHITECTURE Adaptive Reuse & Renovation",
+            "ARCHITECTURE Buildings Landmarks & Monuments",
+            "ARCHITECTURE Professional Practice",
+            "ARCHITECTURE Reference",
+            "Electronic book"
+        ]
     },
     {
         "topic": "14000000",
@@ -3344,7 +5302,10 @@
             "9781643607245",
             "1643607243"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -3366,7 +5327,16 @@
             "9780500772171",
             "0500772177"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art criticism Authorship",
+            "Literature",
+            "Kunstkritik",
+            "Künste",
+            "Textproduktion",
+            "Formale Beschreibungstechnik",
+            "Electronic book"
+        ]
     },
     {
         "topic": "14000000",
@@ -3382,7 +5352,10 @@
             "9783959487900",
             "3959487908"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts"
+        ]
     },
     {
         "topic": "14000000",
@@ -3402,7 +5375,20 @@
             "9780854883035",
             "0854883037"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 20th century Themes, motives",
+            "Art, Modern 21st century Themes, motives",
+            "Aesthetics",
+            "Art, Modern Criticism and interpretation",
+            "Art 20e siècle Thèmes, motifs",
+            "Art 21e siècle Thèmes, motifs",
+            "Art, Modern",
+            "Art, Modern Themes, motives",
+            "Criticism, interpretation, etc",
+            "Essays",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -3418,7 +5404,17 @@
             "9789004501904",
             "9004501908"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts and globalization History To 1500 Congresses",
+            "Culture and globalization History To 1500 Congresses",
+            "Culture diffusion History To 1500 Congresses",
+            "Civilization, Medieval Congresses",
+            "Arts et mondialisation Histoire 500-1500 (Moyen Âge) Congrès",
+            "Culture et mondialisation Histoire 500-1500 (Moyen Âge) Congrès",
+            "Diffusion culturelle Histoire 500-1500 (Moyen Âge) Congrès",
+            "Civilisation médiévale Congrès"
+        ]
     },
     {
         "topic": "14000000",
@@ -3434,7 +5430,8 @@
             "9781647121709",
             "1647121701"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3454,7 +5451,23 @@
             "9781789386332",
             "1789386330"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, British 20th century Themes, motives",
+            "Art Study and teaching (Higher) Great Britain History 20th century",
+            "Punk culture and art Great Britain",
+            "Street art Themes, motives",
+            "Art britannique 20e siècle Thèmes, motifs",
+            "Punk (Mouvement) et art Grande-Bretagne",
+            "Art dans la rue Thèmes, motifs",
+            "Art, British Themes, motives",
+            "Art Study and teaching (Higher)",
+            "Punk culture and art",
+            "Great Britain",
+            "Electronic books",
+            "History",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -3470,7 +5483,26 @@
             "987719385X",
             "9789877193855"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Portrait painting History 19th century Psychological aspects",
+            "Portraits Latin America History 19th century",
+            "Portrait photography History 19th century Psychological aspects",
+            "Celebrities Latin America History 19th century Portraits",
+            "Peinture de portraits Histoire 19e siècle Aspect psychologique",
+            "Portraits Amérique latine Histoire 19e siècle",
+            "Portraits (Photographie) Histoire 19e siècle Aspect psychologique",
+            "Célébrités Amérique latine Histoire 19e siècle Portraits",
+            "Celebrities",
+            "Portrait painting Psychological aspects",
+            "Portraits",
+            "Latin America History Wars of Independence, 1806-1830 Pictorial works",
+            "Amérique latine Histoire 1806-1830 (Guerres d'indépendance) Ouvrages illustrés",
+            "Latin America",
+            "History",
+            "Pictorial works",
+            "1800-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -3486,7 +5518,8 @@
             "9781040135129",
             "1040135129"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3502,7 +5535,13 @@
             "9781119059639",
             "1119059631"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Maya (Computer file)",
+            "Computer animation",
+            "Animation par ordinateur",
+            "computer animation"
+        ]
     },
     {
         "topic": "14000000",
@@ -3520,7 +5559,18 @@
             "0500777691",
             "9780500777695"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Symbolism in art",
+            "Signs and symbols",
+            "Symbolisme dans l'art",
+            "Signes et symboles",
+            "symbols",
+            "Informational works",
+            "Documents d'information",
+            "Language And Languages",
+            "Language Arts & Disciplines"
+        ]
     },
     {
         "topic": "14000000",
@@ -3540,7 +5590,14 @@
             "1306908094",
             "9781306908092"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Dictionaries",
+            "Design Dictionaries",
+            "Art",
+            "Design",
+            "Dictionaries"
+        ]
     },
     {
         "topic": "14000000",
@@ -3556,7 +5613,13 @@
             "9780500772829",
             "0500772827"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Nochlin, Linda Interviews",
+            "Women artists",
+            "Femmes artistes",
+            "Electronic book"
+        ]
     },
     {
         "topic": "14000000",
@@ -3572,7 +5635,8 @@
             "9780500771488",
             "0500771480"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3588,7 +5652,19 @@
             "9789566048572",
             "9566048572"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Chilean 20th century",
+            "Exiled women authors",
+            "Expatriate artists Chile",
+            "Art chilien 20e siècle",
+            "Écrivaines exilées",
+            "Artistes expatriés Chili",
+            "Art, Chilean",
+            "Expatriate artists",
+            "Chile",
+            "1900-1999"
+        ]
     },
     {
         "topic": "14000000",
@@ -3606,7 +5682,21 @@
             "9781621904427",
             "1621904423"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Domestic Social aspects United States",
+            "Domestic space United States",
+            "Vernacular architecture United States",
+            "Architecture and society United States",
+            "Espace domestique États-Unis",
+            "Architecture vernaculaire États-Unis",
+            "Architecture et société États-Unis",
+            "Architecture and society",
+            "Architecture, Domestic Social aspects",
+            "Domestic space",
+            "Vernacular architecture",
+            "United States"
+        ]
     },
     {
         "topic": "14000000",
@@ -3624,7 +5714,20 @@
             "1350243493",
             "9781350243507"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Feminism and art",
+            "Women artists",
+            "Computer art",
+            "Art and society",
+            "Art and technology",
+            "Art and computers",
+            "Féminisme et art",
+            "Femmes artistes",
+            "Art et société",
+            "Art et technologie",
+            "Art et ordinateurs"
+        ]
     },
     {
         "topic": "14000000",
@@ -3640,7 +5743,23 @@
             "9781477329979",
             "1477329978"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Barnstone, Howard Catalogs",
+            "Barnstone, Howard",
+            "Architects United States Biography",
+            "Modern movement (Architecture)",
+            "Architectes États-Unis Biographies",
+            "Mouvement moderne (Architecture)",
+            "ARCHITECTURE / General",
+            "Architects",
+            "Intellectual life",
+            "Houston (Tex.) Intellectual life",
+            "Texas Houston",
+            "United States",
+            "Biographies",
+            "Catalogs"
+        ]
     },
     {
         "topic": "14000000",
@@ -3658,7 +5777,21 @@
             "9781119059899",
             "1119059895"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "3ds max (Computer file)",
+            "Computer animation",
+            "Computer graphics",
+            "Computer science",
+            "Computer Graphics",
+            "Electronic Data Processing",
+            "Animation par ordinateur",
+            "Infographie",
+            "Informatique",
+            "computer animation",
+            "computer graphics",
+            "COMPUTERS General"
+        ]
     },
     {
         "topic": "14000000",
@@ -3674,7 +5807,42 @@
             "9781442631007",
             "1442631007"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mussolini, Benito, 1883-1945",
+            "Fascism Italy History",
+            "Architecture Italy History 20th century",
+            "Fascist propaganda Italy",
+            "Fascism and architecture Italy",
+            "Fascisme Italie Histoire",
+            "Architecture Italie Histoire 20e siècle",
+            "Propagande fasciste Italie",
+            "Fascisme et architecture Italie",
+            "ARCHITECTURE History Modern (late 19th Century to 1945)",
+            "Fascist propaganda",
+            "Fascism and architecture",
+            "Fascism",
+            "Cultural policy",
+            "Architecture",
+            "Italy Cultural policy History 20th century",
+            "Italy",
+            "History",
+            "1900-1999",
+            "Benito Mussolini",
+            "Città Universitaria",
+            "E42",
+            "Hitler",
+            "Italian fascism",
+            "Pagano",
+            "Piacentini",
+            "Roman architecture",
+            "Rome",
+            "Terragni",
+            "classical architecture",
+            "dictatorship",
+            "history of architecture",
+            "totalitarianism"
+        ]
     },
     {
         "topic": "14000000",
@@ -3690,7 +5858,17 @@
             "9781119044581",
             "1119044588"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Autodesk Revit",
+            "Architectural drawing Computer-aided design",
+            "Architectural design Data processing",
+            "Design architectural Informatique",
+            "ARCHITECTURE Adaptive Reuse & Renovation",
+            "ARCHITECTURE Buildings Landmarks & Monuments",
+            "ARCHITECTURE Professional Practice",
+            "ARCHITECTURE Reference"
+        ]
     },
     {
         "topic": "14000000",
@@ -3706,7 +5884,14 @@
             "9780500775523",
             "0500775524"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Modern 19th century",
+            "Art 19e siècle",
+            "Art, Modern",
+            "Electronic book",
+            "1800-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -3724,7 +5909,17 @@
             "9781119059561",
             "1119059569"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Autodesk Revit",
+            "Architectural drawing Computer-aided design",
+            "Architectural design Data processing",
+            "Design architectural Informatique",
+            "ARCHITECTURE Adaptive Reuse & Renovation",
+            "ARCHITECTURE Buildings Landmarks & Monuments",
+            "ARCHITECTURE Professional Practice",
+            "ARCHITECTURE Reference"
+        ]
     },
     {
         "topic": "14000000",
@@ -3742,7 +5937,40 @@
             "0520968727",
             "9780520968721"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Rachana Sansad (College). Institute of Environmental Architecture",
+            "Sustainable architecture India Mumbai",
+            "Architects India Mumbai",
+            "Architecture Environmental aspects India Mumbai",
+            "Urban ecology (Sociology) India Mumbai",
+            "Architecture durable Inde Mumbai",
+            "Architectes Inde Mumbai",
+            "Architecture Aspect de l'environnement Inde Mumbai",
+            "Écologie urbaine Inde Mumbai",
+            "Anthropology",
+            "Environmental science, engineering and technology",
+            "Society and social sciences Society and social sciences",
+            "Sociology and anthropology",
+            "Technology, engineering, agriculture",
+            "SOCIAL SCIENCE / Anthropology / Cultural & Social",
+            "Architects",
+            "Architecture Environmental aspects",
+            "Sustainable architecture",
+            "Urban ecology (Sociology)",
+            "India Mumbai",
+            "Electronic books",
+            "Environmental anthropology",
+            "Environmental architecture",
+            "Green design",
+            "Mumbai",
+            "Resilience",
+            "Sustainability",
+            "Urban anthropology",
+            "Urban design",
+            "Urban ecology",
+            "Urban political ecology"
+        ]
     },
     {
         "topic": "14000000",
@@ -3758,7 +5986,8 @@
             "9789004518346",
             "9004518347"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3774,7 +6003,8 @@
             "9780989688543",
             "0989688542"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -3790,7 +6020,11 @@
             "9788415772934",
             "8415772939"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art History",
+            "Arte Historia"
+        ]
     },
     {
         "topic": "14000000",
@@ -3806,7 +6040,21 @@
             "9878384284",
             "9789878384283"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Jesuit architecture Conservation and restoration Paraguay",
+            "Spanish mission buildings Conservation and restoration Paraguay",
+            "Cultural property Protection Paraguay",
+            "Architecture jésuite Conservation et restauration Paraguay",
+            "Missions espagnoles (Édifices) Conservation et restauration Paraguay",
+            "Cultural property Protection",
+            "Jesuit architecture Conservation and restoration",
+            "Spanish mission buildings Conservation and restoration",
+            "Paraguay History",
+            "Paraguay Histoire",
+            "Paraguay",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -3822,7 +6070,15 @@
             "9789819737376",
             "9819737370"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Sustainable buildings Congresses",
+            "Sustainable architecture Congresses",
+            "Built environment Congresses",
+            "Constructions durables Congrès",
+            "Architecture durable Congrès",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -3838,7 +6094,12 @@
             "9789819761401",
             "9819761409"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Avant-garde (Aesthetics) China",
+            "Postmodernism China",
+            "Postmodernisme Chine"
+        ]
     },
     {
         "topic": "14000000",
@@ -3858,7 +6119,19 @@
             "9781040089514",
             "1040089518"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Women, Black, in art",
+            "Women artists, Black Latin America",
+            "Art, Latin American Themes, motives",
+            "Art, Black Latin America Themes, motives",
+            "Art and society Latin America",
+            "Femmes noires dans l'art",
+            "Femmes artistes noires Amérique latine",
+            "Art latino-américain Thèmes, motifs",
+            "Art et société Amérique latine",
+            "Art noir Amérique latine Thèmes, motifs"
+        ]
     },
     {
         "topic": "14000000",
@@ -3874,7 +6147,20 @@
             "9781800732384",
             "1800732384"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Collective memory in art",
+            "Collective memory in literature",
+            "Arts, Chinese 20th century Themes, motives",
+            "Arts, Chinese 21st century Themes, motives",
+            "Mémoire collective dans l'art",
+            "Mémoire collective dans la littérature",
+            "Arts chinois 20e siècle Thèmes, motifs",
+            "Arts chinois 21e siècle Thèmes, motifs",
+            "SOCIAL SCIENCE / Anthropology / Cultural",
+            "Arts, Chinese Themes, motives",
+            "1900-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -3890,7 +6176,24 @@
             "9781909492509",
             "1909492507"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Art Conservation and restoration Equipment and supplies Congresses",
+            "Colloids Congresses",
+            "Paint removers Congresses",
+            "Art Cleaning",
+            "Art Conservation and restoration Congresses",
+            "Art Nettoyage",
+            "Art Conservation et restauration Congrès",
+            "Colloïdes Congrès",
+            "6Décapants Congrès",
+            "Décapants Congrès",
+            "Art Conservation and restoration",
+            "Art Conservation and restoration Equipment and supplies",
+            "Colloids",
+            "Paint removers",
+            "Conference papers and proceedings"
+        ]
     },
     {
         "topic": "14000000",
@@ -3908,7 +6211,28 @@
             "9780271096124",
             "0271096128"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Safavid Iran Iṣfahān",
+            "City planning Iran Iṣfahān History 17th century",
+            "Urbanization Iran Iṣfahān History 17th century",
+            "Architecture séfévide Iran Ispahan",
+            "Urbanisation Iran Ispahan Histoire 17e siècle",
+            "Electronic books",
+            "Electronic book",
+            "Architecture",
+            "Dastūr al-ʿamal-i sayr-i Isfahān",
+            "Eurasia",
+            "Guide for Strolling in Isfahan",
+            "Mir Muhammad Mansur Semnani",
+            "Persian",
+            "Safavid Iran",
+            "Safavid dynasty",
+            "Urban Experience",
+            "Urbanism",
+            "eary modern Isfahan",
+            "global trade"
+        ]
     },
     {
         "topic": "14000000",
@@ -3924,7 +6248,18 @@
             "9780271096483",
             "0271096489"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Barricades (Military science)",
+            "Revolutions in art",
+            "Art, French 19th century Themes, motives",
+            "Barricades",
+            "Révolutions dans l'art",
+            "Art français 19e siècle Thèmes, motifs",
+            "ART / Art & Politics",
+            "Art, French Themes, motives",
+            "1800-1899"
+        ]
     },
     {
         "topic": "14000000",
@@ -3940,7 +6275,11 @@
             "1789149614",
             "9781789149616"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Falconry in art",
+            "Falconry History To 1500"
+        ]
     },
     {
         "topic": "14000000",
@@ -3958,7 +6297,17 @@
             "9781836240518",
             "1836240511"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Creation (Literary, artistic, etc.) Social aspects",
+            "Genius and mental illness",
+            "Deviant behavior",
+            "Crime Sociological aspects",
+            "Art and mental illness",
+            "Génie et maladies mentales",
+            "Criminalité Aspect sociologique",
+            "Art et maladies mentales"
+        ]
     },
     {
         "topic": "14000000",
@@ -3976,7 +6325,16 @@
             "9781836241362",
             "1836241364"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Quintanilla, Luis, 1895-1978",
+            "Artists Spain Biography",
+            "Expatriate artists United States Biography",
+            "Expatriate artists France Biography",
+            "Artistes Espagne Biographies",
+            "Artistes expatriés États-Unis Biographies",
+            "Artistes expatriés France Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -3992,7 +6350,10 @@
             "9781399079198",
             "1399079190"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -4014,7 +6375,20 @@
             "9781496851888",
             "1496851889"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Hanna, William, 1910-2001",
+            "Barbera, Joseph",
+            "Hanna-Barbera Productions History",
+            "Hanna-Barbera Cartoons",
+            "Hanna-Barbera Singers",
+            "Animated television programs United States History and criticism",
+            "Animated films United States History and criticism",
+            "Animated television music",
+            "Cartoon characters United States Songs and music",
+            "Personnages de bandes dessinées, dessins animés, etc. États-Unis Chants et musique",
+            "PERFORMING ARTS / Animation"
+        ]
     },
     {
         "topic": "14000000",
@@ -4027,7 +6401,13 @@
         "specificFormat": "Digital",
         "publisher": "Brill",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Painting Attribution",
+            "Painting Expertising",
+            "Peinture Attribution",
+            "Peinture Expertise"
+        ]
     },
     {
         "topic": "14000000",
@@ -4040,7 +6420,31 @@
         "specificFormat": "Digital",
         "publisher": "Hanley Wood",
         "isbns": "",
-        "newFormat": "eJournal/eMagazine"
+        "newFormat": "eJournal/eMagazine",
+        "subjects": [
+            "Architects Periodicals",
+            "Architects United States Periodicals",
+            "Architectural practice United States Periodicals",
+            "Architectural services marketing United States",
+            "Architecture United States Periodicals",
+            "Architectural services marketing United States Periodicals",
+            "Architectes États-Unis Périodiques",
+            "Architecture États-Unis Périodiques",
+            "Architectes Périodiques",
+            "Architecture Pratique États-Unis Périodiques",
+            "Services d'architecture Marketing États-Unis Périodiques",
+            "Architects",
+            "Architectural practice",
+            "Architectural services marketing",
+            "Architecture",
+            "Architektur",
+            "Architecte",
+            "United States",
+            "États-Unis",
+            "Electronic journals",
+            "Periodicals",
+            "Zeitschrift"
+        ]
     },
     {
         "topic": "14000000",
@@ -4053,7 +6457,10 @@
         "specificFormat": "Digital",
         "publisher": "Scheltema & Holkema; Universitaire Pers Leiden",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art"
+        ]
     },
     {
         "topic": "14000000",
@@ -4066,7 +6473,15 @@
         "specificFormat": "Digital",
         "publisher": "Rodopi",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Alchemy in art",
+            "Engraving Themes, motives",
+            "Alchimie dans l'art",
+            "Grafische kunst",
+            "Alchemisten",
+            "Prints to date Special subjects Alchemy"
+        ]
     },
     {
         "topic": "14000000",
@@ -4079,7 +6494,27 @@
         "specificFormat": "Digital",
         "publisher": "Art Monthly Australia Ltd.",
         "isbns": "",
-        "newFormat": "eJournal/eMagazine"
+        "newFormat": "eJournal/eMagazine",
+        "subjects": [
+            "Art Australia Periodicals",
+            "Art Australasia Periodicals",
+            "Art, Australian Periodicals",
+            "Art, Australasian Periodicals",
+            "Art Periodicals",
+            "Art Australasie Périodiques",
+            "Art australien Périodiques",
+            "Art australasien Périodiques",
+            "Art Périodiques",
+            "Art",
+            "Art, Australasian",
+            "Art, Australian",
+            "Australasia",
+            "Australia",
+            "Periodical",
+            "periodicals",
+            "Periodicals",
+            "Périodiques"
+        ]
     },
     {
         "topic": "14000000",
@@ -4092,7 +6527,19 @@
         "specificFormat": "PrintBook",
         "publisher": "兒童書局",
         "isbns": "",
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Children China Caricatures and cartoons",
+            "Children China Pictorial works",
+            "Enfants Chine Ouvrages illustrés",
+            "Children",
+            "China",
+            "drawings (visual works)",
+            "Caricatures and cartoons",
+            "Drawings",
+            "Pictorial works",
+            "Dessins"
+        ]
     },
     {
         "topic": "14000000",
@@ -4116,7 +6563,36 @@
             "1472425197",
             "9781472425195"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Museums Social aspects Europe",
+            "Museums Political aspects Europe",
+            "Immigrants Europe Social conditions",
+            "Immigrants Museums Europe",
+            "Group identity Europe",
+            "Ethnicity Europe",
+            "Multiculturalism Europe",
+            "Human geography Europe",
+            "Musées Aspect social Europe",
+            "Musées Aspect politique Europe",
+            "Identité collective Europe",
+            "Ethnicité Europe",
+            "Multiculturalisme Europe",
+            "Emigration and immigration Social aspects",
+            "Ethnic relations",
+            "Ethnicity",
+            "Group identity",
+            "Human geography",
+            "Immigrants Social conditions",
+            "Multiculturalism",
+            "Museums Political aspects",
+            "Museums Social aspects",
+            "Europe Emigration and immigration Social aspects",
+            "Europe Ethnic relations",
+            "Europe Émigration et immigration Aspect social",
+            "Europe Relations interethniques",
+            "Europe"
+        ]
     },
     {
         "topic": "14000000",
@@ -4140,7 +6616,18 @@
             "9781136493065",
             "1136493069"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art History",
+            "Art History Bibliography",
+            "Art Histoire",
+            "Art Histoire Bibliographie",
+            "art history",
+            "ART History General",
+            "Art",
+            "Bibliographies",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -4160,7 +6647,21 @@
             "9781040117606",
             "1040117600"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Korean Appreciation Western countries",
+            "Art Collectors and collecting Western countries",
+            "Pottery, Korean Koryŏ period, 935-1392",
+            "Celadon ware Korea",
+            "Art Economic aspects",
+            "Art coréen Appréciation Occident",
+            "Art Collectionneurs et collections Occident",
+            "Céramique coréenne 935-1392 (Époque de Koryŏ)",
+            "Céladon (Céramique) Corée",
+            "Art Aspect économique",
+            "ART / History / General",
+            "ART / Asian"
+        ]
     },
     {
         "topic": "14000000",
@@ -4176,7 +6677,19 @@
             "9781526157416",
             "1526157411"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Modernism (Art) Great Britain Exhibitions History 20th century",
+            "Art Great Britain Exhibitions History 20th century",
+            "Art Great Britain History 20th century",
+            "Exhibitions Great Britain History 20th century",
+            "Art Great Britain Exhibition techniques 20th century",
+            "Modernisme (Art) Grande-Bretagne Expositions Histoire 20e siècle",
+            "Art Grande-Bretagne Expositions Histoire 20e siècle",
+            "Art Grande-Bretagne Histoire 20e siècle",
+            "Expositions Grande-Bretagne Histoire 20e siècle",
+            "Art Grande-Bretagne Techniques d'exposition 20e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -4192,7 +6705,14 @@
             "9783031623363",
             "3031623363"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Neurosciences and the arts",
+            "Neurosciences in art",
+            "Neurosciences et arts",
+            "Neurosciences dans l'art",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -4208,7 +6728,8 @@
             "9781040094952",
             "1040094953"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4224,7 +6745,12 @@
             "9783111317557",
             "3111317552"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Avant-garde (Aesthetics) Asia History 20th century",
+            "Avant-garde (Aesthetics) Asia History 21st century",
+            "LITERARY CRITICISM / General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4240,7 +6766,8 @@
             "1639734856",
             "9781639734856"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4256,7 +6783,13 @@
             "9783111388472",
             "3111388476"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Textile fabrics, Ancient Catalogs",
+            "Textiles et tissus antiques Catalogues",
+            "HISTORY / Ancient / General",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -4272,7 +6805,30 @@
             "9781503639492",
             "1503639495"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and history Algeria",
+            "Decolonization Algeria",
+            "Monuments Algeria",
+            "Monuments France Colonies",
+            "War memorials Algeria",
+            "War memorials France Colonies",
+            "Art et histoire Algérie",
+            "Décolonisation Algérie",
+            "Monuments Algérie",
+            "Monuments aux morts Algérie",
+            "HISTORY / Africa / North",
+            "Algeria",
+            "Algerian War",
+            "France",
+            "Heritage Studies",
+            "Material Culture",
+            "Monuments",
+            "Settler colonialism",
+            "Statues",
+            "Statuomania",
+            "War Memorials"
+        ]
     },
     {
         "topic": "14000000",
@@ -4288,7 +6844,39 @@
             "9783035628319",
             "3035628319"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Alberto Bertagna",
+            "Architekturmonografie",
+            "Demogo Architects",
+            "Giovanni Corbellini",
+            "Italienische Architektur",
+            "Iwan Baan",
+            "Komplexe Bauaufgabe",
+            "Petra Blaisse",
+            "Pippo Ciorra",
+            "Sara Marini",
+            "dolomites",
+            "ARCHITECTURE / Individual Architects & Firms / Monographs",
+            "DEMOGO",
+            "Gembloux",
+            "Interpretation of places",
+            "adaptive design method",
+            "alps",
+            "architecture and landscape",
+            "bivouac Fanton",
+            "complexity",
+            "context",
+            "heritage",
+            "project communities",
+            "sense of place",
+            "sensitive design",
+            "spatial models",
+            "stratified city",
+            "theory of contexts",
+            "urban regeneration",
+            "visual relationships"
+        ]
     },
     {
         "topic": "14000000",
@@ -4304,7 +6892,26 @@
             "9780983463900",
             "0983463905"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Endocrine glands Diseases",
+            "Endocrine glands Abnormalities Social aspects History",
+            "Endocrine glands Abnormalities History",
+            "Diseases in art",
+            "Medicine in art",
+            "Abnormalities, Human, in art",
+            "Medicine in the Arts",
+            "Endocrine System Diseases",
+            "Endocrine System abnormalities",
+            "Glandes endocrines Maladies",
+            "Glandes endocrines Malformations Aspect social Histoire",
+            "Glandes endocrines Malformations Histoire",
+            "Maladies dans l'art",
+            "Médecine dans l'art",
+            "Medicine in Art",
+            "Electronic books",
+            "History"
+        ]
     },
     {
         "topic": "14000000",
@@ -4320,7 +6927,13 @@
             "9783111062624",
             "3111062627"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "RELIGION / Sacred Places",
+            "Sacred space",
+            "modern architecture",
+            "religious studies"
+        ]
     },
     {
         "topic": "14000000",
@@ -4336,7 +6949,29 @@
             "9780271095943",
             "0271095946"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Christian art and symbolism Middle East Medieval, 500-1500",
+            "Christian saints in art",
+            "Islamic art and symbolism Middle East",
+            "Saints chrétiens dans l'art",
+            "ART / History / Medieval",
+            "Byzantine",
+            "Caucasus",
+            "Christianity",
+            "Interfaith relations",
+            "Islam",
+            "Levant",
+            "Middle East History to 1500",
+            "Muslims",
+            "North Africa",
+            "Saint George",
+            "Syria",
+            "crusades",
+            "jihad",
+            "spiritual warfare",
+            "visual culture"
+        ]
     },
     {
         "topic": "14000000",
@@ -4352,7 +6987,13 @@
             "9781040033173",
             "1040033172"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Photography Digital techniques Handbooks, manuals, etc",
+            "Pharmacokinetics",
+            "Photographie numérique Guides, manuels, etc",
+            "Pharmacocinétique"
+        ]
     },
     {
         "topic": "14000000",
@@ -4370,7 +7011,13 @@
             "9780262373845",
             "026237384X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Design Social aspects",
+            "Design Human factors",
+            "Design Aspect social",
+            "Design Facteurs humains"
+        ]
     },
     {
         "topic": "14000000",
@@ -4386,7 +7033,12 @@
             "9780300277456",
             "0300277458"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture England London History",
+            "Architecture Angleterre Londres Histoire",
+            "ARCHITECTURE / History / General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4402,7 +7054,19 @@
             "9783986120948",
             "3986120947"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architektur",
+            "Neues soziales Wohnen",
+            "Stadtplanung",
+            "Wohnungsbau",
+            "Zukunft des Wohnens",
+            "soziale Qualitäten",
+            "sozialer Wohnungsbau",
+            "technische Qualitäten",
+            "ökologische Qualitäten",
+            "ARCHITECTURE / General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4418,7 +7082,42 @@
             "9783035627855",
             "3035627851"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Aldo Rossi",
+            "Baukultur",
+            "Denkmalpflege",
+            "Erhaltung",
+            "Fritz Haller",
+            "High-Tech Architektur",
+            "Ian Pollard",
+            "James Stirling",
+            "John Hejduk",
+            "Johnson-Marshall & Partners",
+            "Kohlhoff & Kohlhoff",
+            "Marco Polo House London",
+            "Postmoderne",
+            "Solarsiedlung Vauban",
+            "Studio B.B.P.R",
+            "Ulrich Junk und Matthias Abendroth",
+            "Umnutzung",
+            "ARCHITECTURE / Historic Preservation / General",
+            "Hans-Rudolf Meier",
+            "Kirsten Angermann",
+            "Matthias Brenner",
+            "Silke Langenberg",
+            "architectural monument",
+            "building culture",
+            "conversion",
+            "cultural heritage",
+            "high-tech architecture",
+            "historical monument",
+            "maintenance",
+            "monument preservation",
+            "postmodern architecture",
+            "postmodernism",
+            "preservation"
+        ]
     },
     {
         "topic": "14000000",
@@ -4434,7 +7133,18 @@
             "9781000996876",
             "1000996875"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Ocelot, Michel Criticism and interpretation",
+            "Animators France Biography",
+            "Animated films France History and criticism",
+            "Animateurs (Cinéma) France Biographies",
+            "Animated films",
+            "Animators",
+            "France",
+            "Biographies",
+            "Criticism, interpretation, etc"
+        ]
     },
     {
         "topic": "14000000",
@@ -4452,7 +7162,42 @@
             "9781772127652",
             "1772127655"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts Study and teaching (Graduate) Canada",
+            "Arts in education Canada",
+            "Graduate students Canada",
+            "Common good",
+            "Education, Higher",
+            "Political planning",
+            "Electronic books",
+            "Enseignement Réforme",
+            "Enseignement supérieur",
+            "Politique publique",
+            "Livres numériques",
+            "Arts Étude et enseignement (2e et 3e cycles) Canada",
+            "Arts en éducation Canada",
+            "Bien commun",
+            "higher education",
+            "e-books",
+            "EDUCATION / Administration / Higher",
+            "Arts in education",
+            "Arts Study and teaching (Graduate)",
+            "Graduate students",
+            "Canada",
+            "career planning",
+            "deliberate",
+            "efficient",
+            "graduate education",
+            "humanities",
+            "inclusive",
+            "post graduate",
+            "skill development",
+            "social sciences",
+            "student-focussed",
+            "talent development",
+            "wicked problems"
+        ]
     },
     {
         "topic": "14000000",
@@ -4468,7 +7213,15 @@
             "9783986120955",
             "3986120955"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architektur",
+            "Partizipation",
+            "Stadtplanung",
+            "Wohnungsbau",
+            "sozialer Wohnungsbau",
+            "ARCHITECTURE / Urban & Land Use Planning"
+        ]
     },
     {
         "topic": "14000000",
@@ -4484,7 +7237,29 @@
             "9783035628593",
             "3035628599"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Environmental aspects",
+            "Building materials Environmental aspects",
+            "Building, Clay",
+            "Sustainable architecture",
+            "Anadaloy",
+            "Architektur",
+            "Forum St. Michael Traunstein",
+            "Lehmarchitektur",
+            "Lehmbau",
+            "METI-School",
+            "Nachhaltig Bauen",
+            "RoSana Rosenheim",
+            "Stampflehm",
+            "Studio Anna Heringer",
+            "Ökologisch Bauen",
+            "Architecture Aspect de l'environnement",
+            "Construction en argile",
+            "Architecture durable",
+            "ARCHITECTURE / Individual Architects & Firms / General",
+            "Anadaloy, Architecture, Forum St. Michael Traunstein, Clay Architecture, Clay Building, METI-School, Sustainable Building, Intuitive Building, Ecological Building, RoSana Rosenheim, Rammed Earth"
+        ]
     },
     {
         "topic": "14000000",
@@ -4500,7 +7275,30 @@
             "9783035626773",
             "3035626774"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture, Tropical Nigeria British influences 20th century",
+            "Afrika",
+            "Architektur",
+            "Bauliche Kühltechniken",
+            "Demas Nwoko",
+            "Gillian Hopwood",
+            "John Godwin",
+            "Nigeria",
+            "Nigerianische Moderne",
+            "Ola Uduku",
+            "Tropical Architecture",
+            "Tropical Modernism",
+            "ARCHITECTURE / General",
+            "",
+            "John Godwin, Gillian Hopwood",
+            "Nigerian modernism",
+            "african architecture",
+            "modern african architecture",
+            "passive ventilation",
+            "structural cooling techniques",
+            "tropical modernism"
+        ]
     },
     {
         "topic": "14000000",
@@ -4516,7 +7314,21 @@
             "9781477328934",
             "1477328939"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture 20th century Political aspects Texas",
+            "Architecture 20th century Social aspects Texas",
+            "Architecture Texas 20th century Case studies",
+            "Architecture Texas 20th century Pictorial works",
+            "Architecture Texas 20th century",
+            "Architecture 20e siècle Aspect politique Texas",
+            "Architecture 20e siècle Aspect social Texas",
+            "Architecture Texas 20e siècle Études de cas",
+            "Architecture Texas 20e siècle Ouvrages illustrés",
+            "Architecture Texas 20e siècle",
+            "ARCHITECTURE / General",
+            "Texas architecture, modern architecture, oil industry, Little Chapel in the Woods, Antioch Baptist Church, Congregation Rodef Shalom, Texana, wealth, caregiving, government, typology, Texas geography"
+        ]
     },
     {
         "topic": "14000000",
@@ -4532,7 +7344,26 @@
             "9783422801820",
             "3422801820"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Auschwitz",
+            "Birkenau",
+            "Georges Didi-Huberman",
+            "Gerhard Richter",
+            "Holocaust",
+            "Kulturforum Berlin",
+            "Kulturspeicher Würzburg",
+            "Malerei",
+            "Shoah",
+            "Sonderkommando",
+            "St. Matthaus-Kirche",
+            "Werkverzeichnis",
+            "abstrakte Kunst",
+            "zeitgenössische Kunst",
+            "Übermalung",
+            "ART / History / Contemporary (1945-)",
+            "Holocaust, Birkenau, Auschwitz, contemporary art, painting, Gerhard Richter, overpainting, abstract art, Kulturspeicher Würzburg, St. Matthäus-Kirche, Kulturforum Berlin, Sonderkommando, Georges Didi-Huberman, Shoah"
+        ]
     },
     {
         "topic": "14000000",
@@ -4545,7 +7376,16 @@
         "specificFormat": "Digital",
         "publisher": "Universidade Federal de Santa Maria, Centro de Educação, Laboratório de Artes Visuais",
         "isbns": "",
-        "newFormat": "eJournal/eMagazine"
+        "newFormat": "eJournal/eMagazine",
+        "subjects": [
+            "Art Periodicals",
+            "Education Periodicals",
+            "Art",
+            "Education",
+            "Electronic journals",
+            "Periodicals",
+            "Visual Arts - General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4561,7 +7401,8 @@
             "9781793653871",
             "1793653879"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4577,7 +7418,15 @@
             "9783035627121",
             "3035627126"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "City planning United States History 20th century",
+            "City planning United States History 21st century",
+            "City planning Social aspects",
+            "Individuation (Philosophy)",
+            "Individu (Philosophie)",
+            "ARCHITECTURE / Urban & Land Use Planning"
+        ]
     },
     {
         "topic": "14000000",
@@ -4593,7 +7442,8 @@
             "9780711293199",
             "0711293198"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4609,7 +7459,19 @@
             "0691261520",
             "9780691261522"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Human factors",
+            "Architecture and society",
+            "City planning Social aspects",
+            "Well-being",
+            "Architecture Facteurs humains",
+            "Architecture et société",
+            "Bien-être",
+            "comfort (sensation)",
+            "ARCHITECTURE / Urban & Land Use Planning",
+            "POLITICAL SCIENCE / Public Policy / City Planning & Urban Development"
+        ]
     },
     {
         "topic": "14000000",
@@ -4625,7 +7487,14 @@
             "9783111388670",
             "3111388670"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Österreichische Nationalbibliothek. Papyrusmuseum Catalogs",
+            "Textile fabrics, Ancient Egypt",
+            "Dyes and dyeing Textile fibers Egypt History To 1500",
+            "Textiles et tissus antiques Égypte",
+            "Electronic books"
+        ]
     },
     {
         "topic": "14000000",
@@ -4641,7 +7510,11 @@
             "080700779X",
             "9780807007792"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Small houses United States History",
+            "Housing United States History"
+        ]
     },
     {
         "topic": "14000000",
@@ -4654,7 +7527,13 @@
         "specificFormat": "Digital",
         "publisher": "E.J. Brill",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts, Indic",
+            "Geese in art",
+            "Arts de l'Inde",
+            "Oies dans l'art"
+        ]
     },
     {
         "topic": "14000000",
@@ -4670,7 +7549,20 @@
             "0691263507",
             "9780691263502"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Brady's National Photographic Portrait Galleries",
+            "Images, Photographic Psychological aspects",
+            "Photography Social aspects United States History 19th century",
+            "Images photographiques Aspect psychologique",
+            "PHOTOGRAPHY Subjects & Themes Historical",
+            "ART American General",
+            "United States History Civil War, 1861-1865 Antiquities",
+            "United States History Civil War, 1861-1865 Photography",
+            "United States History Civil War, 1861-1865 Social aspects",
+            "États-Unis Histoire 1861-1865 (Guerre de Sécession) Photographie",
+            "États-Unis Histoire 1861-1865 (Guerre de Sécession) Aspect social"
+        ]
     },
     {
         "topic": "14000000",
@@ -4688,7 +7580,11 @@
             "9783111390031",
             "3111390039"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and religion History 18th century",
+            "Art et religion Histoire 18e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -4704,7 +7600,16 @@
             "9780711282681",
             "0711282684"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Gay artists",
+            "Homosexuality and art",
+            "Lesbian artists",
+            "Queer theory Influence",
+            "Homosexualité et art",
+            "Artistes lesbiennes",
+            "Théorie queer Influence"
+        ]
     },
     {
         "topic": "14000000",
@@ -4720,7 +7625,16 @@
             "1503640442",
             "9781503640443"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Arts and business logistics",
+            "Arts, Modern 20th century",
+            "Arts, Modern 21st century",
+            "Capitalism Moral and ethical aspects",
+            "Arts 20e siècle",
+            "Arts 21e siècle",
+            "ART / Criticism"
+        ]
     },
     {
         "topic": "14000000",
@@ -4733,7 +7647,24 @@
         "specificFormat": "Digital",
         "publisher": "Brill",
         "isbns": "",
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Sacraments in art",
+            "Holy cards",
+            "Christian art and symbolism",
+            "Sacramentals",
+            "Sacrements Histoire des doctrines",
+            "Sacramentaux",
+            "Sacrements dans l'art",
+            "Images religieuses",
+            "cult images",
+            "Ikonographie",
+            "Sakrament",
+            "Verehrung",
+            "Iconografie",
+            "Sacramenten",
+            "Devotieprenten"
+        ]
     },
     {
         "topic": "14000000",
@@ -4749,7 +7680,8 @@
             "9781040105399",
             "1040105394"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4765,7 +7697,8 @@
             "9781040111062",
             "1040111068"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -4781,7 +7714,15 @@
             "0585244154",
             "9780585244150"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Mysteries, Religious, in art",
+            "Mythology, Greek, in art",
+            "Art, Greek",
+            "Mystères religieux dans l'art",
+            "Mythologie grecque dans l'art",
+            "ART History General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4797,7 +7738,26 @@
             "9781400827008",
             "1400827000"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Aesthetics Economic aspects",
+            "Art and state United States",
+            "Culture Economic aspects",
+            "Federal aid to the arts United States",
+            "Art Politique gouvernementale États-Unis",
+            "ART Performance",
+            "ART Reference",
+            "BUSINESS & ECONOMICS Nonprofit Organizations & Charities",
+            "Art and state",
+            "Federal aid to the arts",
+            "Kunst",
+            "Öffentliche Förderung",
+            "Beeldende kunsten",
+            "Cultuurbeleid",
+            "Overheidssteun",
+            "United States",
+            "USA"
+        ]
     },
     {
         "topic": "14000000",
@@ -4813,7 +7773,24 @@
             "9781478059554",
             "1478059559"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "African American arts",
+            "African American artists",
+            "Art and music United States",
+            "Multimedia (Art) United States",
+            "Art and race",
+            "African Americans Race identity",
+            "Arts and society United States History 20th century",
+            "Arts noirs américains",
+            "Artistes noirs américains",
+            "Art et musique États-Unis",
+            "Œuvres multimédias (Art) États-Unis",
+            "Art et race",
+            "Noirs américains Identité ethnique",
+            "Arts et société États-Unis Histoire 20e siècle",
+            "ART / American / African American & Black"
+        ]
     },
     {
         "topic": "14000000",
@@ -4829,7 +7806,12 @@
             "1399525239",
             "9781399525237"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Richter, Gerhard, 1932- Criticism and interpretation",
+            "Painting Technique",
+            "ART / History / Contemporary (1945-)"
+        ]
     },
     {
         "topic": "14000000",
@@ -4845,7 +7827,18 @@
             "147805977X",
             "9781478059776"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Papunya Tula Artists' Company History",
+            "Painting, Aboriginal Australian Themes, motives",
+            "Painting, Aboriginal Australian Australia Papunya Native Settlement (N.T.)",
+            "Art, Aboriginal Australian 20th century",
+            "Peinture australienne (aborigène) Thèmes, motifs",
+            "Peinture australienne (aborigène) Australie Papunya (T. du N.)",
+            "Art australien (aborigène) 20e siècle",
+            "ART / Australian & Oceanian",
+            "SOCIAL SCIENCE / Ethnic Studies / Australian & Oceanian Studies"
+        ]
     },
     {
         "topic": "14000000",
@@ -4861,7 +7854,13 @@
             "9783035628470",
             "3035628475"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Architecture Designs and plans",
+            "Architecture Dessins et plans",
+            "architectural drawings (visual works)",
+            "ARCHITECTURE / Individual Architects & Firms / General"
+        ]
     },
     {
         "topic": "14000000",
@@ -4874,7 +7873,13 @@
         "specificFormat": "PrintBook",
         "publisher": "兒童書局",
         "isbns": "",
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Caricatures and cartoons China",
+            "Caricatures et dessins humoristiques Chine",
+            "Caricatures and cartoons",
+            "China"
+        ]
     },
     {
         "topic": "14000000",
@@ -4894,7 +7899,22 @@
             "9781848223875",
             "1848223870"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art museums History 21st century",
+            "Art Private collections",
+            "Art and society",
+            "Art Economic aspects",
+            "Electronic books",
+            "Art Collections privées",
+            "Art et société",
+            "Art Aspect économique",
+            "Livres numériques",
+            "e-books",
+            "Art museums",
+            "History",
+            "2000-2099"
+        ]
     },
     {
         "topic": "14000000",
@@ -4912,7 +7932,13 @@
             "9781000956436",
             "9781000956382"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Video journalism",
+            "Video recordings Production and direction",
+            "Vidéojournalisme",
+            "Vidéo Production et réalisation"
+        ]
     },
     {
         "topic": "14000000",
@@ -4927,7 +7953,15 @@
         "isbns": [
             "9798888142516"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Composition (Photography)",
+            "Photography, Artistic",
+            "Photography Technique",
+            "Composition (Photographie)",
+            "Photographie artistique",
+            "art photography"
+        ]
     },
     {
         "topic": "14000000",
@@ -4943,7 +7977,14 @@
             "9783031553127",
             "3031553128"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art and technology Congresses",
+            "Art and computers Congresses",
+            "Human-computer interaction Congresses",
+            "Art et technologie Congrès",
+            "Art et ordinateurs Congrès"
+        ]
     },
     {
         "topic": "14000000",
@@ -4959,7 +8000,13 @@
             "9789819729067",
             "9819729068"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art, Chinese 21st century Exhibitions",
+            "Art Exhibition techniques",
+            "Art chinois 21e siècle Expositions",
+            "Art Techniques d'exposition"
+        ]
     },
     {
         "topic": "14000000",
@@ -4979,7 +8026,30 @@
             "9781776710218",
             "1776710215"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Māori (New Zealand people) in art",
+            "Māori (New Zealand people) Portraits",
+            "Māori (New Zealand people) Material culture",
+            "Art, Māori Collectors and collecting",
+            "Portraits, New Zealand",
+            "Maoris Portraits",
+            "Maoris Culture matérielle",
+            "Art maori Collectionneurs et collections",
+            "Portraits néo-zélandais",
+            "ART Subjects & Themes General",
+            "Māori (New Zealand people)",
+            "Māori (New Zealand people) Antiquities",
+            "Whakaahua",
+            "Tāngata whenua",
+            "Iwi taketake",
+            "Waituhi",
+            "Taipūwhenuatanga",
+            "Taonga",
+            "Te Ao Tāwhito",
+            "Te Ao Hurihuri",
+            "Portraits"
+        ]
     },
     {
         "topic": "14000000",
@@ -4995,7 +8065,23 @@
             "9789004691094",
             "900469109X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Collective memory in art",
+            "Group identity in art",
+            "Art and society East Asia History 20th century",
+            "Art and society East Asia History 21st century",
+            "Art Political aspects East Asia",
+            "Historic sites Political aspects East Asia",
+            "Art, East Asian 20th century",
+            "Art, East Asian 21st century",
+            "Art, East Asian Themes, motives",
+            "Art extrême-oriental Thèmes, motifs",
+            "Mémoire collective dans l'art",
+            "Identité collective dans l'art",
+            "Art extrême-oriental 20e siècle",
+            "Art extrême-oriental 21e siècle"
+        ]
     },
     {
         "topic": "14000000",
@@ -5011,7 +8097,13 @@
             "0854810013",
             "9780854810017"
         ],
-        "newFormat": "Print Book"
+        "newFormat": "Print Book",
+        "subjects": [
+            "Warburg, Aby, 1866-1929",
+            "University of London. Warburg Institute. Library",
+            "Art historians England Biography",
+            "Historiens d'art Angleterre Biographies"
+        ]
     },
     {
         "topic": "14000000",
@@ -5026,7 +8118,15 @@
         "isbns": [
             "9798868804502"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Adobe Photoshop elements",
+            "Photography Digital techniques",
+            "Image processing Digital techniques",
+            "Photographie numérique",
+            "Traitement d'images Techniques numériques",
+            "digital imaging"
+        ]
     },
     {
         "topic": "14000000",
@@ -5042,7 +8142,16 @@
             "9783839473221",
             "3839473225"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Art Technique",
+            "Aesthetics",
+            "Chance in art",
+            "Respiration in art",
+            "Hasard dans l'art",
+            "Respiration dans l'art",
+            "ART / Film & Video"
+        ]
     },
     {
         "topic": "14000000",
@@ -5058,7 +8167,29 @@
             "9783839470589",
             "3839470587"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Fantasy fiction Illustrations History",
+            "Illustration of books 19th century",
+            "Illustration of books 20th century",
+            "Illustration of books 21st century",
+            "Fantasy in art",
+            "Illustration des livres 19e siècle",
+            "Illustration des livres 20e siècle",
+            "Illustration des livres 21e siècle",
+            "Fantasmes dans l'art",
+            "LITERARY CRITICISM / General",
+            "Iconography",
+            "Image",
+            "Literary Studies",
+            "Literature",
+            "Media",
+            "Middle Ages",
+            "Myth",
+            "Pictorial Aesthetics",
+            "Popular Culture",
+            "Visual Studies"
+        ]
     },
     {
         "topic": "14000000",
@@ -5071,7 +8202,14 @@
         "specificFormat": "Digital",
         "publisher": "Wiley Blackwell Blackwell Publishers",
         "isbns": "",
-        "newFormat": "eJournal/eMagazine"
+        "newFormat": "eJournal/eMagazine",
+        "subjects": [
+            "Museums Periodicals",
+            "Musées Périodiques",
+            "Museums",
+            "Periodicals",
+            "Art and design"
+        ]
     },
     {
         "topic": "14000000",
@@ -5089,7 +8227,67 @@
             "9780228021742",
             "022802174X"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Sound art Political aspects Canada",
+            "Sound art Social aspects Canada",
+            "Communication in art Canada",
+            "Art and literature Canada",
+            "Authors, Canadian Interviews",
+            "Artists Canada Interviews",
+            "Communication in art",
+            "Art sonore Aspect politique Canada",
+            "Art sonore Aspect social Canada",
+            "Communication dans l'art",
+            "Art et littérature Canada",
+            "Écrivains canadiens Entretiens",
+            "Artistes Canada Entretiens",
+            "LITERARY CRITICISM / Modern / 21st Century",
+            "2SIALGBTQ+",
+            "Acoustic",
+            "Aesthetics",
+            "Amateur",
+            "Audio",
+            "Aurality",
+            "Canadian",
+            "Collaboration",
+            "Communication",
+            "Creative",
+            "Culture",
+            "Curation",
+            "Decolonization",
+            "Difference",
+            "Disability",
+            "Elitism",
+            "Feminism",
+            "Identity",
+            "Indigenous",
+            "Lacan",
+            "Liberation",
+            "Literature",
+            "Liveness",
+            "Media",
+            "Nisga'a",
+            "Openness",
+            "Orality",
+            "Performance",
+            "Philosophy",
+            "Podcast",
+            "Politics",
+            "Practice",
+            "Public",
+            "Relationality",
+            "Resonance",
+            "Social",
+            "Speech",
+            "Stó:lō",
+            "TISH",
+            "Theory",
+            "Transcription",
+            "Utterance",
+            "Voice",
+            "poetry"
+        ]
     },
     {
         "topic": "14000000",
@@ -5105,7 +8303,8 @@
             "3856764240",
             "9783856764241"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": ""
     },
     {
         "topic": "14000000",
@@ -5121,6 +8320,14 @@
             "9781803277448",
             "1803277440"
         ],
-        "newFormat": "eBook"
+        "newFormat": "eBook",
+        "subjects": [
+            "Glassware, Roman Great Britain",
+            "Bottles Great Britain",
+            "Romans Great Britain",
+            "Verrerie romaine Grande-Bretagne",
+            "Romains Grande-Bretagne",
+            "Great Britain Antiquities"
+        ]
     }
 ]
