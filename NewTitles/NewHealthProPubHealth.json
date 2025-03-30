@@ -288,7 +288,7 @@
             "specificFormat": "",
             "publisher": "Medical Society of Virginia",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "Journal, Magazine",
             "subjects": [
                 "Medicine Periodicals",
                 "Medicine Virginia Periodicals",
@@ -1085,11 +1085,20 @@
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Clinical medicine",
+                "Physician and patient",
                 "Clinical Medicine",
                 "Communication",
                 "Physician-Patient Relations",
+                "Médecine clinique",
+                "Relations médecin-patient",
                 "Case Reports",
-                "Problems and Exercises"
+                "Problems and Exercises",
+                "exercise books",
+                "Case studies",
+                "Problems and exercises",
+                "Études de cas",
+                "Problèmes et exercices"
             ]
         },
         {
@@ -2403,10 +2412,12 @@
             "newFormat": "eBook",
             "subjects": [
                 "Great Britain. National Health Service",
+                "Medical policy",
                 "State Medicine organization & administration",
                 "Health Equity organization & administration",
                 "Health Inequities",
                 "Health Policy",
+                "Politique sanitaire",
                 "United Kingdom"
             ]
         },
@@ -3349,6 +3360,9 @@
                 "Artificial intelligence Medical applications",
                 "Internet of things",
                 "Medical informatics",
+                "Artificial intelligence",
+                "Clinical medicine",
+                "Wireless sensor networks",
                 "Artificial Intelligence",
                 "Informatics",
                 "Computing Methodologies",
