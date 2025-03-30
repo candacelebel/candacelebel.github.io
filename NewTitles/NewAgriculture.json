@@ -1,6 +1,6 @@
 {
     "period": "February 2025",
-    "updated": "As of 29 March 2025",
+    "updated": "As of 30 March 2025",
     "records": [
         {
             "topic": "10000000",
@@ -390,7 +390,10 @@
                 "Social integration",
                 "Médecine vétérinaire Aspect moral",
                 "Compétence culturelle",
-                "Intégration sociale"
+                "Intégration sociale",
+                "Veterinary Medicine",
+                "MEDICAL",
+                "Electronic books"
             ]
         },
         {
@@ -6451,19 +6454,11 @@
             "publisher": "CRC Press",
             "isbns": [
                 "9781003326915",
-                "1003326919",
-                "9781040262511",
-                "1040262511",
-                "9781040262498",
-                "104026249X"
+                "1003326919"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Plant diseases",
-                "Plantes Maladies et fléaux",
-                "SCIENCE / Life Sciences / Botany",
-                "SCIENCE / Life Sciences / General",
-                "TECHNOLOGY / Agriculture / General"
+                "Plant diseases"
             ]
         },
         {

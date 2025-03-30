@@ -1,6 +1,6 @@
 {
     "period": "February 2025",
-    "updated": "As of 29 March 2025",
+    "updated": "As of 30 March 2025",
     "records": [
         {
             "topic": "14000000",
@@ -502,8 +502,8 @@
                 "Hommes dans la culture populaire",
                 "Masculinité dans la culture populaire",
                 "Men",
-                "Illustrated works",
                 "illustrated books",
+                "Illustrated works",
                 "Ouvrages illustrés"
             ]
         },
@@ -23138,7 +23138,8 @@
                 "BIOGRAPHY & AUTOBIOGRAPHY",
                 "Popular Culture",
                 "SOCIAL SCIENCE",
-                "ART"
+                "ART",
+                "Electronic books"
             ]
         },
         {
@@ -23457,7 +23458,8 @@
                 "Business Aspects",
                 "ART",
                 "Nonprofit Organizations & Charities",
-                "BUSINESS & ECONOMICS"
+                "BUSINESS & ECONOMICS",
+                "Electronic books"
             ]
         },
         {
