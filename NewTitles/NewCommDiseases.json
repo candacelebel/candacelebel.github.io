@@ -1,5 +1,288 @@
 {
-    "period": "March 2025",
-    "updated": "As of 01 April 2025",
-    "records": []
+    "period": "April 2025",
+    "updated": "As of 02 May 2025",
+    "records": [
+        {
+            "topic": "44000000",
+            "oclcNumber": "123079921",
+            "title": "Obesity, business and public policy",
+            "creator": "Zoltán J. Ács",
+            "date": "©2007",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Edward Elgar",
+            "isbns": [
+                "9781847204066",
+                "1847204066"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Obesity Economic aspects United States",
+                "Obesity Government policy United States",
+                "Obesity economics",
+                "Public Policy",
+                "Obésité Aspect économique États-Unis",
+                "Obésité Politique gouvernementale États-Unis",
+                "MEDICAL Bariatrics",
+                "United States"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "967264346",
+            "title": "HIV and AIDS : a very short introduction",
+            "creator": "Alan Whiteside",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "0191793639",
+                "9780191793639",
+                "0191040975",
+                "9780191040979"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "HIV infections Epidemiology",
+                "HIV (Viruses)",
+                "AIDS (Disease)",
+                "HIV infections",
+                "HIV Infections",
+                "HIV",
+                "Acquired Immunodeficiency Syndrome",
+                "Infections à VIH Épidémiologie",
+                "Virus de l'immunodéficience humaine",
+                "Sida",
+                "Infections à VIH"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "14617056",
+            "title": "Looking up",
+            "creator": "Jane Boyle Needham",
+            "date": "[1959]",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Putnam",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Poliomyelitis",
+                "Poliomyélite",
+                "Personal Narrative",
+                "Biography",
+                "Personal narratives",
+                "Récits personnels"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "940964218",
+            "title": "Typhoid fever : a history",
+            "creator": "Rich Adler",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "McFarland & Company, Inc., Publishers",
+            "isbns": [
+                "9781476622095",
+                "1476622094"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Typhoid fever History",
+                "Typhoid Fever history",
+                "Fièvre typhoïde Histoire",
+                "HEALTH & FITNESS Diseases General",
+                "MEDICAL Clinical Medicine",
+                "MEDICAL Diseases",
+                "MEDICAL Evidence-Based Medicine",
+                "MEDICAL Internal Medicine",
+                "Typhoid fever",
+                "Typhus abdominalis",
+                "History"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "795516363",
+            "title": "Plague-making and the AIDS epidemic : a story of discrimination",
+            "creator": "Gina M. Bright",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9781137011220",
+                "113701122X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "HIV infections Europe Psychological aspects",
+                "HIV infections United States Psychological aspects",
+                "Prejudices",
+                "HIV Infections psychology",
+                "Prejudice",
+                "HIV Infections history",
+                "Plague psychology",
+                "Plague history",
+                "Infections à VIH Europe Aspect psychologique",
+                "Infections à VIH États-Unis Aspect psychologique",
+                "Préjugés",
+                "MEDICAL Forensic Medicine",
+                "MEDICAL Preventive Medicine",
+                "MEDICAL Public Health",
+                "HIV infections Psychological aspects",
+                "HIV-Infektion",
+                "Epidemie",
+                "Psychologie",
+                "Europe",
+                "United States",
+                "Europa",
+                "USA"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "768812919",
+            "title": "Animals, diseases, and human health : shaping our lives now and in the future",
+            "creator": "Radford G. Davis",
+            "date": "©2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Praeger",
+            "isbns": [
+                "9780313385308",
+                "0313385300"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Zoonoses",
+                "Human-animal relationships",
+                "Human ecology",
+                "Zoonoses transmission",
+                "Animal Assisted Therapy",
+                "Animal Welfare",
+                "Human-Animal Bond",
+                "Communicable Diseases, Emerging transmission",
+                "Communicable Diseases, Emerging veterinary",
+                "Relations homme-animal",
+                "Écologie humaine",
+                "human ecology",
+                "MEDICAL Forensic Medicine",
+                "MEDICAL Preventive Medicine",
+                "MEDICAL Public Health"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "934085451",
+            "title": "Infectious : a doctor's eye-opening insights into infectious diseases",
+            "creator": "Frank Bowden",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "NewSouth Publishing",
+            "isbns": [
+                "9781742242293",
+                "1742242294",
+                "9781742247663",
+                "1742247660"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Communicable diseases",
+                "Infection",
+                "Medical misconceptions",
+                "Drug resistance in microorganisms",
+                "Communicable Disease Control",
+                "Inappropriate Prescribing",
+                "Drug Resistance, Bacterial",
+                "Communicable Diseases",
+                "Infections",
+                "Maladies infectieuses",
+                "Superstitions et médecine",
+                "Bactéries pathogènes Résistance aux médicaments",
+                "POLITICAL SCIENCE Public Policy Social Security",
+                "POLITICAL SCIENCE Public Policy Social Services & Welfare",
+                "Australian"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "1080220768",
+            "title": "We all expected to die : Spanish Influenza in Labrador, 1918-1919",
+            "creator": "Anne Budgell",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "ISER Books",
+            "isbns": [
+                "1894725557",
+                "9781894725569",
+                "1894725565",
+                "9781894725552"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Influenza Epidemic, 1918-1919 Newfoundland and Labrador Labrador",
+                "Influenza Pandemic, 1918-1919 history",
+                "Influenza A Virus, H1N1 Subtype",
+                "Influenza, Human history",
+                "History, 20th Century",
+                "Épidémie de grippe espagnole, 1918-1919 Terre-Neuve-et-Labrador Labrador",
+                "Influenzavirus A (H1N1)",
+                "Médecine Histoire 20e siècle",
+                "MEDICAL / Forensic Medicine",
+                "MEDICAL / Preventive Medicine",
+                "MEDICAL / Public Health",
+                "Newfoundland and Labrador",
+                "Newfoundland and Labrador Labrador",
+                "1918-1919",
+                "Diseases",
+                "Influenza Epidemic, 1918-1919",
+                "Innu Indians",
+                "Labrador"
+            ]
+        },
+        {
+            "topic": "44000000",
+            "oclcNumber": "871634329",
+            "title": "Cholera : a worldwide history",
+            "creator": "S. L. Kotar",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "McFarland & Company, Inc., Publishers",
+            "isbns": [
+                "1306473888",
+                "9781306473880",
+                "9781476613642",
+                "1476613648"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cholera History",
+                "Cholera history",
+                "Choléra Histoire",
+                "MEDICAL Forensic Medicine",
+                "MEDICAL Preventive Medicine",
+                "MEDICAL Public Health",
+                "Cholera",
+                "Electronic books",
+                "History"
+            ]
+        }
+    ]
 }

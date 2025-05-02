@@ -1,1316 +1,366 @@
 {
-    "period": "March 2025",
-    "updated": "As of 01 April 2025",
+    "period": "April 2025",
+    "updated": "As of 02 May 2025",
     "records": [
         {
             "topic": "12000000",
-            "oclcNumber": "1474238866",
-            "title": "Consuming Bodies  : Body Commodification and Embodiment in Late Capitalist Societies",
-            "creator": "Jackie Hogan",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040258804",
-                "1040258808"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1472982150",
-            "title": "The Routledge Handbook of Health Communication and Popular Culture",
-            "creator": "Christina S. Beck",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040266199",
-                "1040266193"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1450102669",
-            "title": "Beyond Sentidiño  : New Diasporic Reflections on Galician Culture",
-            "creator": "Daniel Amarelo",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781000930290",
-                "1000930297"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1455116454",
-            "title": "The Routledge Handbook of Tourism Geographies",
-            "creator": "Julie Wilson",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040146101",
-                "1040146104",
-                "9781040146057",
-                "1040146058"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1456986498",
-            "title": "Religion in the Américas : trans-hemispheric and transcultural approaches",
-            "creator": "Christopher D. Tirres",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of New Mexico",
-            "isbns": [
-                "9780826367808",
-                "0826367801",
-                "9780826367792",
-                "0826367798"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Anthropology of religion Latin America Cross-cultural studies",
-                "Decolonization Latin America",
-                "Décolonisation Amérique latine",
-                "Latin America Religious life and customs"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1410140650",
-            "title": "Jew. The Eternal Enemy? The History of Antisemitism in Poland",
-            "creator": "Alina Cala",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Peter Lang International Academic Publishers",
-            "isbns": [
-                "9783653063318",
-                "3653063310",
-                "9783631670828",
-                "3631670826",
-                "9783631708460",
-                "3631708467",
-                "9783631708477",
-                "3631708475"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "History",
-                "Antisemitism",
-                "Antisemitism Studies",
-                "Antysemityzm",
-                "Cala",
-                "Enemy?",
-                "Eternal",
-                "History of Persecutions",
-                "Holocaust Studies",
-                "jego",
-                "Nisza",
-                "odwieczny?",
-                "Poland",
-                "Polsce",
-                "Trauma Studies",
-                "wróg",
-                "źródła"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1410132928",
-            "title": "Migration Between Mexico and the United States IMISCOE Regional Reader",
-            "creator": "Agustín. Escobar Latapí",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Nature",
-            "isbns": [
-                "9783030778101",
-                "303077810X",
-                "9783030778118",
-                "3030778118"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Migration, immigration & emigration",
-                "Public administration",
-                "Demographic dynamics of Mexico-U.S. migration",
-                "Hispanic population of the U.S",
-                "Mexican migrant families",
-                "Mexican migrants in the United States and Mexico",
-                "Mexico-United States migration",
-                "Migrant integration in Mexico and the United States",
-                "Migrant well-being",
-                "Migration and education in Mexico and the U.S",
-                "Migration and employment in Mexico and the U.S",
-                "Migration and fear in the United States",
-                "Migration and health in Mexico and the U.S",
-                "Migration from the United States to Mexico",
-                "Migration Policy in North America",
-                "Migration, violence and crime in Mexico",
-                "Reincorporation of Mexican returnees",
-                "Return migrants from the United States to Mexico",
-                "Social programs and migration in Mexico",
-                "U.S.-born immigrants in Mexico"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1289837081",
-            "title": "Religion, modernity, globalisation nation-state to market",
-            "creator": "Francois Gauthier",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781000725971",
-                "1000725979"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1048184849",
-            "title": "Politics of Identity : Emerging Indigeneity",
-            "creator": "Michelle Harris (Editor)",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "UTS ePRESS",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1463605872",
-            "title": "Antropologías visuales latinoamericanas : genealogías, investigación y enseñanza",
-            "creator": "Gisela Cánepa",
-            "date": "2024",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "FLACSO Ecuador",
-            "isbns": [
-                "9789978676837",
-                "997867683X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Visual anthropology Latin America",
-                "Anthropology Latin America",
-                "Motion pictures in ethnology",
-                "Anthropologie visuelle Amérique latine",
-                "Anthropologie Amérique latine",
-                "Cinéma en ethnologie"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1463606164",
-            "title": "Caminando con el tiempo",
-            "creator": "Francisco Rhon Dávila",
-            "date": "2024",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "FLACSO Ecuador",
-            "isbns": [
-                "9789978676776",
-                "9978676775"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Anthropologists Ecuador Biography",
-                "Ethnology Ecuador",
-                "Anthropologues Équateur Biographies",
-                "Ethnologie Équateur"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "928396294",
-            "title": "Food, national identity and nationalism : from everyday to global politics",
-            "creator": "Atsuko Ichijo",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan in the UK is an imprint of Macmillan Publishers Limited",
-            "isbns": [
-                "9781137483133",
-                "113748313X",
-                "1349561045",
-                "9781349561049"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Food habits Political aspects",
-                "Food habits Social aspects",
-                "National characteristics",
-                "Nationalism",
-                "Habitudes alimentaires Aspect politique",
-                "Habitudes alimentaires Aspect social",
-                "Caractéristiques nationales",
-                "Nationalisme",
-                "nationalism",
-                "Cultural studies",
-                "Development studies",
-                "Ethnic studies",
-                "Migration, immigration & emigration",
-                "Political science & theory",
-                "Sociology",
-                "SOCIAL SCIENCE Customs & Traditions"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1499902452",
-            "title": "An annotated corpus of three hundred proverbs, sayings, and idioms in Eastern Jibbali/Śḥərɛ̄́t",
-            "creator": "Giuliano Castagna",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Open Book Publishers",
-            "isbns": [
-                "9781805113867",
-                "1805113860"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Jibbali language History",
-                "Jibbali language Idioms",
-                "Jibbali language Oman",
-                "Proverbs, Arabic History and criticism"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1500763763",
-            "title": "Indigenous Statistics  : A Quantitative Research Methodology",
-            "creator": "Maggie Walter",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040298985",
-                "1040298982"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1049913998",
-            "title": "Kleidung und Geschlecht : Ethnographische Erkundungen Einer Alltagspraxis",
-            "creator": "Cordula Bachmann",
-            "date": "2015",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Transcript Verlag",
-            "isbns": [
-                "3839409209",
-                "9783839409206"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Women. Feminism",
-                "Cultural Studies",
-                "Fashion Studies",
-                "Gender Studies",
-                "Gender",
-                "Geschlecht",
-                "Kultur",
-                "Kulturwissenschaft",
-                "Mode",
-                "Praxis",
-                "Gender studies, gender groups",
-                "SOCIAL SCIENCE / Gender Studies"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1049913115",
-            "title": "Der Stoff, Aus Dem Konflikte Sind : Debatten Um das Kopftuch in Deutschland, Österreich und der Schweiz (unter Mitarbeit Von Alexander Nöhring)",
-            "creator": "Alexander Nöhring",
-            "date": "2015",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Transcript Verlag",
-            "isbns": [
-                "9783839409596",
-                "3839409594"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Democracy",
-                "Demokratie",
-                "Gender Studies",
-                "Geschlechterverhältnisse",
-                "Islam",
-                "Islamic Studies",
-                "Islamwissenschaft",
-                "Law",
-                "Migration",
-                "Politics",
-                "Politik",
-                "Recht",
-                "Rechtssystem",
-                "Sociology",
-                "Soziologie"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1049912929",
-            "title": "Kleidung Verändert : Mode Im Kreislauf der Kultur",
-            "creator": "Claudia C. Ebner",
-            "date": "2015",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Transcript Verlag",
-            "isbns": [
-                "3839406188",
-                "9783839406182"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Social sciences (General)",
-                "Circuit of Culture",
-                "Cultural Studies",
-                "Cultural Theory",
-                "Culture",
-                "Kleidung",
-                "Kultur",
-                "Kultursoziologie",
-                "Kulturtheorie",
-                "Kulturwissenschaft",
-                "Sociology of Culture",
-                "Cultural studies",
-                "SOCIAL SCIENCE / Popular Culture"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1485004659",
-            "title": "Sensing Islam  : Engaging and Contesting the Senses in Muslim Religiosity",
-            "creator": "Simon Stjernholm",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Bloomsbury Publishing Plc",
-            "isbns": [
-                "9781350324145",
-                "1350324140"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1151962081",
-            "title": "Devising Celebration : Engineers of the Imagination",
-            "creator": "Lachlan Simond",
-            "date": "2000",
-            "language": "eng",
-            "generalFormat": "Video",
-            "specificFormat": "Film",
-            "publisher": "Contemporary Arts Media",
-            "isbns": [
-                "9781921882586",
-                "1921882581"
-            ],
-            "newFormat": "",
-            "subjects": [
-                "Sports",
-                "Social aspects",
-                "Sport",
-                "Sports spectators Australia",
-                "Supporters Australie",
-                "sports",
-                "Sports spectators",
-                "Australia",
-                "Educational films",
-                "Films éducatifs"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1472986347",
-            "title": "Indigenous Knowledge : Australian Perspectives",
-            "creator": "Marcia Langton",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Melbourne University Publishing",
-            "isbns": [
-                "9780522880762",
-                "0522880762"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ethnoscience Australia",
-                "Ethnosciences Australie",
-                "Indigenous Studies",
-                "SOCIAL SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1427666937",
-            "title": "Everyday Rituals  : The Liberating Power of Our Routines",
-            "creator": "Pearl Katz",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Globe Pequot Press, The",
-            "isbns": [
-                "9781633889552",
-                "1633889556"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Manners and customs",
-                "Social psychology",
-                "Families",
-                "Dating (Social customs)",
-                "COVID-19 Pandemic, 2020-2023 Influence",
-                "Mœurs et coutumes",
-                "Psychologie sociale",
-                "Familles",
-                "Amours",
-                "customs (social concepts)",
-                "social psychology",
-                "courtships",
-                "Creativity",
-                "SELF-HELP",
-                "Happiness",
-                "Personal Growth",
-                "Success",
-                "PSYCHOLOGY"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1490382008",
-            "title": "Standing among the Spartans  : Institutions and Status Within the Spartiate Community",
-            "creator": "Philip John Victor Davies",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Bloomsbury Publishing Plc",
-            "isbns": [
-                "9781350171640",
-                "1350171646"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ancient history: to c 500 CE",
-                "Classical history / classical civilisation",
-                "Society & culture: general",
-                "Sparta (Extinct city) Civilization",
-                "Sparta (Extinct city) Social conditions",
-                "Sparte (Ville ancienne) Civilisation",
-                "Sparte (Ville ancienne) Conditions sociales"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1410148746",
-            "title": "Migration Research in a Digitized World Using Innovative Technology to Tackle Methodological Challenges",
-            "creator": "Steffen Pötzschke",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Nature",
-            "isbns": [
-                "9783031013195",
-                "3031013190"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Migration, immigration & emigration",
-                "Public administration",
-                "Absence of suitable sampling frames",
-                "Available administrative sources",
-                "Data collection",
-                "Forced migrants in the global North and South",
-                "General population surveys",
-                "Intercultural differences",
-                "Internally displaced persons",
-                "Internet survey",
-                "Migration research",
-                "Migratory flows and populations",
-                "Quantitative migration research",
-                "Reliable quantitative information",
-                "Sampling and data collection",
-                "Social networking sites",
-                "Survey design issues",
-                "Target population",
-                "Transnational human mobility"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1410136275",
-            "title": "Better Work The Impact of Automation, Flexibilization and Intensification of Work",
-            "creator": "Monique Kremer",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Nature",
-            "isbns": [
-                "9783030786823",
-                "303078682X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Globalization",
-                "Labour economics",
-                "Political economy",
-                "Sociology: work & labour",
-                "Flexibilization",
-                "Open Access",
-                "Social Dialogue",
-                "Technology (robots, AI)",
-                "Welfare State",
-                "Work"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1439880652",
-            "title": "Collective memory and oral text",
-            "creator": "Marta Wójcicka",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Peter Lang International Academic Publishing Group",
-            "isbns": [
-                "3631819056",
-                "9783631819050",
-                "3631819048",
-                "9783631819043"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Oral-formulaic analysis",
-                "Analyse des formules orales",
-                "FOREIGN LANGUAGE STUDY",
-                "LANGUAGE ARTS & DISCIPLINES",
-                "Linguistics",
-                "Collective",
-                "Collective memory",
-                "Cultural heritage",
-                "Genre memory and Genre non-memory",
-                "Memory",
-                "Memory figures",
-                "Memory in language",
-                "Oral",
-                "Style memory",
-                "Text",
-                "Text memory",
-                "Texts of culture",
-                "versus",
-                "Wojcicka"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "620351738",
-            "title": "Los cuentos populares o la tentativa de un texto infinito",
-            "creator": "Antonio Rodríguez Almodóvar",
-            "date": "1989",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Universidad de Murcia",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Fairy tales Classification",
-                "Tales Structural analysis",
-                "Contes de fées Classification",
-                "Contes Analyse structurale",
-                "Fairy tales",
-                "CUENTOS POPULARES ESPAÑA HISTORIA Y CRITICA",
-                "LITERATURA INFANTIL ESPAÑOLA",
-                "Classification"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1477932450",
-            "title": "Cinematic ethnography : experiencing cultures through some audio-visual practices",
-            "creator": "Laurent Van Lancker",
-            "date": "2025",
+            "oclcNumber": "16792306",
+            "title": "Maui-of-a-thousand-tricks : his oceanic and European biographers",
+            "creator": "Katharine Luomala",
+            "date": "1949",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "Manchester University Press",
+            "publisher": "Bernice P. Bishop Museum",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Māui (Polynesian deity)",
+                "Maui (Divinité polynésienne)"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "213005675",
+            "title": "Ethnobiology and the science of humankind",
+            "creator": "International Congress of Ethnobiology",
+            "date": "2006",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Blackwell ; Royal Anthropological Institute",
             "isbns": [
-                "1526175231",
-                "9781526175236"
+                "9781405145893",
+                "1405145897"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Motion pictures in ethnology",
-                "Visual anthropology",
-                "Ethnographic films",
-                "Ethnology",
-                "Cinéma en ethnologie",
-                "Anthropologie visuelle",
-                "Films ethnographiques",
-                "Ethnologie"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1195036689",
-            "title": "Salaula : the world of secondhand clothing and Zambia",
-            "creator": "Karen Tranberg Hansen",
-            "date": "2000",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Chicago Press",
-            "isbns": [
-                "9780226928753",
-                "0226928756"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Clothing and dress Zambia",
-                "Fashion Zambia",
-                "Used clothing industry Zambia",
-                "Clothing trade Economic aspects Zambia",
-                "Material culture Zambia",
-                "Costume Zambie",
-                "Mode Zambie",
-                "Vêtements d'occasion Industrie Zambie",
-                "Vêtements Industrie et commerce Aspect économique Zambie",
-                "Culture matérielle Zambie",
-                "BUSINESS & ECONOMICS / Development / Economic Development",
-                "Clothing and dress",
-                "Clothing trade Economic aspects",
-                "Economic history",
-                "Fashion",
-                "Material culture",
-                "Social conditions",
-                "Used clothing industry",
-                "Bekleidungshandel",
-                "Gebrauchtwarenhandel",
-                "Soziale Situation",
-                "Vêtements Industrie et commerce Zambie",
-                "Zambia Social conditions",
-                "Zambia Economic conditions",
-                "Zambie Conditions sociales",
-                "Zambie Conditions économiques",
-                "Zambia",
-                "Sambia"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1125111028",
-            "title": "Atlantic Perspectives : Places, Spirits and Heritage",
-            "creator": "Markus Balkenhol",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Berghahn Books, Incorporated",
-            "isbns": [
-                "9781789204841",
-                "1789204844"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Anthropology of religion",
-                "Ethnology",
-                "Social mobility",
-                "Anthropologie religieuse",
-                "Ethnologie",
-                "Mobilité sociale",
-                "anthropology of religion",
-                "social mobility",
-                "RELIGION / Religion, Politics & State",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1492916100",
-            "title": "Slavery and Bondage in Asia, 1550-1850  : Towards a Global History of Coerced Labour",
-            "creator": "Kate Ekama",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Walter de Gruyter GmbH",
-            "isbns": [
-                "9783110777246",
-                "311077724X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1485005438",
-            "title": "Utopías Ajenas  : Evolucionismo, Indios e Indigenistas. Miguel Triana y el Legado de Darwin y Spencer en Colombia",
-            "creator": "Carl Henrik Langebaek Rueda",
-            "date": "2014",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Universidad De Los Andes",
-            "isbns": [
-                "9789587740547",
-                "9587740548"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Triana, Miguel",
-                "Darwin, Charles, 1809-1882",
-                "Spencer, Herbert, 1820-1903",
-                "Social evolution",
-                "Indians of South America--Colombia",
-                "Positivism",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1340956476",
-            "title": "Space and Time in aṣ-Ṣāniʿ Arabic  : A Cross-Generational Study",
-            "creator": "Letizia Cerqueglini",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "BRILL",
-            "isbns": [
-                "9789004511125",
-                "9004511121"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1492986779",
-            "title": "The Russian Empire, Slaving and Liberation, 1480-1725  : Trans-Cultural Worldviews in Eurasia",
-            "creator": "Christoph Witzenrath",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Walter de Gruyter GmbH",
-            "isbns": [
-                "9783110696431",
-                "3110696436"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1472988305",
-            "title": "A Pre-Columbian Bestiary  : Fantastic Creatures of Indigenous Latin America",
-            "creator": "Ilan Stavans",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Pennsylvania State University Press",
-            "isbns": [
-                "9780271088198",
-                "0271088192"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Animals, Mythical Latin America",
-                "Indian mythology Latin America",
-                "Animaux fabuleux Amérique latine",
-                "Mythologie des Peuples autochtones Amérique latine",
-                "FICTION / Fantasy / Dragons & Mythical Creatures"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1505734343",
-            "title": "Head above Water  : Reflections on Illness",
-            "creator": "Shahd Alshammari",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Feminist Press at The City University of New York",
-            "isbns": [
-                "9781952177217",
-                "1952177219"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1399170012",
-            "title": "Inuit Worldviews  : An Introduction",
-            "creator": "Jarich Oosten",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nunavut Arctic College",
-            "isbns": [
-                "9781897568828",
-                "1897568827"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1344538676",
-            "title": "Transnational Palestine  : Migration and the Right of Return Before 1948",
-            "creator": "Nadim Bawalsa",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Stanford University Press",
-            "isbns": [
-                "9781503632271",
-                "150363227X"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1245669725",
-            "title": "Fashion as Cultural Translation  : Signs, Images, Narratives",
-            "creator": "Patrizia Calefato",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Anthem Press",
-            "isbns": [
-                "9781785272431",
-                "1785272438"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Fashion Social aspects"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1346943179",
-            "title": "Amazonian indigenous cultures in art and anthropological exhibitions",
-            "creator": "Cinthya Lana",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Anthem Press",
-            "isbns": [
-                "183998161X",
-                "9781839981609",
-                "1839981601",
-                "9781839981616"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Indigenous peoples Amazon River Region Exhibitions",
-                "Indigenous peoples Amazon River Region Ethnic identity",
-                "Museums Curatorship",
-                "Anthropological museums and collections",
-                "Anthropologie Musées et collections",
-                "Conservation (Muséologie)",
-                "curating",
-                "Museum Studies",
-                "Native American",
-                "HISTORY",
-                "Cultural",
+                "Ethnobiology",
+                "Ethnobotany",
                 "Anthropology",
-                "SOCIAL SCIENCE",
-                "ART",
-                "Indigenous peoples",
-                "Indigenous peoples Ethnic identity",
-                "Amazon River Region",
-                "Exhibition catalogs"
+                "Medicine, Traditional",
+                "Plants, Medicinal",
+                "Ethnobiologie",
+                "Ethnobotanique",
+                "Anthropologie",
+                "Plantes médicinales",
+                "anthropology",
+                "Etnobiologi",
+                "Human beings",
+                "Congress",
+                "proceedings (reports)",
+                "Conference papers and proceedings",
+                "Actes de congrès"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1458780068",
-            "title": "Knowledge for Justice : An Ethnic Studies Reader",
-            "creator": "David K. Yoo",
-            "date": "2021",
+            "oclcNumber": "69241969",
+            "title": "The logic of female succession : rethinking patriarchy and patrilineality in global and historical perspective",
+            "creator": "国際シンポジウム",
+            "date": "2003",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Washington Press",
-            "isbns": [
-                "0895512033",
-                "9780895512031"
-            ],
-            "newFormat": "eBook",
+            "specificFormat": "PrintBook",
+            "publisher": "International Research Center for Japanese Studies, 国際日本文化研究センター",
+            "isbns": "",
+            "newFormat": "Print Book",
             "subjects": [
-                "Ethnology Study and teaching",
-                "Ethnologie Étude et enseignement",
-                "African American Studies",
-                "SOCIAL SCIENCE",
-                "Electronic books",
-                "Ethnology",
-                "Social science"
+                "Matriarchy Congresses",
+                "Matrilineal kinship Congresses",
+                "Inheritance and succession Congresses",
+                "Patriarchy Congresses",
+                "Patrilineal kinship Congresses",
+                "Women Social conditions Congresses",
+                "Matriarcat Congrès",
+                "Filiation matrilinéaire Congrès",
+                "Successions et héritages Congrès",
+                "Patriarcat (Sociologie) Congrès",
+                "Filiation patrilinéaire Congrès",
+                "Femmes Conditions sociales Congrès",
+                "Inheritance and succession",
+                "Matriarchy",
+                "Matrilineal kinship",
+                "Patriarchy",
+                "Patrilineal kinship",
+                "Women Social conditions",
+                "Kazokuseido -- Rekishi",
+                "Katokusozoku -- Rekishi",
+                "Kazoku seido-Rekishi",
+                "Katoku sōzoku-Rekishi",
+                "Conference papers and proceedings"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1498446809",
-            "title": "Roman Funerary Rituals in Mutina (Modena, Italy) : A Multidisciplinary Approach",
-            "creator": "Federica Maria Riso",
-            "date": "2023",
+            "oclcNumber": "131721",
+            "title": "Human-wolves among the Navaho",
+            "creator": "William Morgan",
+            "date": "1970",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Archaeopress",
-            "isbns": [
-                "9781803274805",
-                "1803274808"
-            ],
-            "newFormat": "eBook",
+            "specificFormat": "PrintBook",
+            "publisher": "Human Relations Area Files Press",
+            "isbns": "",
+            "newFormat": "Print Book",
             "subjects": [
-                "Funeral rites and ceremonies Rome",
-                "Classical antiquities",
-                "Funeral rites and ceremonies",
-                "Modena (Italy) Antiquities, Roman",
-                "Italy Modena",
-                "Rome (Empire)",
-                "Rome",
+                "Navajo Indians Social life and customs",
+                "Witchcraft",
+                "Werewolves",
+                "Navajo Mœurs et coutumes",
+                "Sorcellerie",
+                "Loups-garous",
+                "witchcraft"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1255841",
+            "title": "Introduction to anthropology",
+            "creator": "Theodor Waitz",
+            "date": "1975",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "AMS Press",
+            "isbns": [
+                "040408267X",
+                "9780404082673"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Anthropology",
+                "Anthropologie",
+                "anthropology"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "804039062",
+            "title": "Unveiling fashion : business, culture, and identity in the most glamorous industry",
+            "creator": "Frédéric Godart",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9780230358355",
+                "0230358357"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Fashion Social aspects",
+                "Fashion Economic aspects",
+                "Fashion History",
+                "Fashion",
+                "Clothing trade",
+                "Fashion Sociological aspects",
+                "Industry",
+                "Mode",
+                "Bekleidungsindustrie",
+                "Kultur",
+                "Soziologie",
+                "Konfektionsindustri",
+                "Mode historia sociala aspekter",
+                "Mode ekonomiska aspekter",
                 "History"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "994694639",
-            "title": "LA ACTITUD CIENTIFICA COMO ESTILO DE VIDA",
-            "creator": "EZEQUIEL ANDER EGG",
-            "date": "2015",
+            "oclcNumber": "876137820",
+            "title": "Writing anthropology : a call for uninhibited methods",
+            "creator": "François Bouchetoux",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Palgrave Pivot",
+            "isbns": [
+                "9781137404169",
+                "1137404167",
+                "9781349487240",
+                "1349487244"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Anthropology Methodology",
+                "Anthropology Research",
+                "Anthropologie Méthodologie",
+                "Anthropologie Recherche",
+                "73.03 methods and techniques of ethnology",
+                "Ethnologie",
+                "Methode"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "220302284",
+            "title": "Primitive paternity : the myth of supernatural birth in relation to the history of the family",
+            "creator": "Edwin Sidney Hartland",
+            "date": "1967",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Kraus Reprint",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Childbirth Folklore",
+                "Childbirth Mythology",
+                "Paternity",
+                "Anthropology",
+                "Naissance Mythologie",
+                "Filiation",
+                "Homme primitif",
+                "Anthropologie",
+                "anthropology",
+                "Childbirth",
+                "Primitive societies",
+                "Familie",
+                "Geburt",
+                "Mythologie",
+                "Vaterschaft",
+                "Folklore"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1507697865",
+            "title": "Death and Burial Within the Ancient Levant (4500-550 BCE) Challenging the Normative",
+            "creator": "Jennie Bradbury",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Taylor & Francis Group",
+            "isbns": [
+                "9781040306284",
+                "1040306284"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1513491626",
+            "title": "Lecciones básicas de antropología",
+            "creator": "Sergio Arturo Alcántara Ferrer",
+            "date": "2020",
             "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "EDITORIAL BRUJAS",
-            "isbns": [
-                "9875916870",
-                "9789875916876"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1500763221",
-            "title": "Achieving Gender Justice Through Education  : The Hidden Curriculum and Its Implications in Indian Schools",
-            "creator": "Arpan Tulsyan",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040299142",
-                "1040299148"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1458761766",
-            "title": "Securing territory : state interests and Indigenous land titling in Latin America",
-            "creator": "Giorleny D. Altamirano Rayo",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780197770887",
-                "0197770886",
-                "9780197770894",
-                "0197770894",
-                "0197770878",
-                "9780197770870"
-            ],
+            "publisher": "El Colegio de Jalisco",
+            "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Indigenous peoples Land tenure Latin America",
-                "Land tenure Law and legislation Latin America",
-                "Land titles Latin America",
-                "Land reform Latin America",
-                "Privatization Latin America",
-                "Environmentalism Latin America Citizen participation",
-                "Autochtones Terres Amérique latine",
-                "Titres de propriété Amérique latine",
-                "Réforme agraire Amérique latine",
-                "Economics"
+                "Anthropology Study and teaching",
+                "Anthropology Methodology",
+                "Anthropologie Étude et enseignement",
+                "Anthropologie Méthodologie"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "960812033",
-            "title": "L'organisation à l'épreuve Autour du temps, de la sociabilité, de la rationalité et du métier",
-            "creator": "Cécile Caron",
-            "date": "2015",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Presses universitaires de Rennes",
-            "isbns": [
-                "9782753538061",
-                "2753538069"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "travail",
-                "sociologie du travail",
-                "histoire contemporaine",
-                "mobilisation sociale et politique",
-                "XXe siècle"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1470860263",
-            "title": "The Muses of Truth and Transformation  : A Jungian Perspective on Timeless Tales",
-            "creator": "Allan B. Chinen",
-            "date": "2024",
+            "oclcNumber": "1342137106",
+            "title": "Proverbs of the Pennsylvania Germans",
+            "creator": "Edwin Miller Fogel",
+            "date": "1995",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040226995",
-                "104022699X"
-            ],
+            "publisher": "Center for Pennsylvania German Studies, Millersville University",
+            "isbns": "",
             "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1463357504",
-            "title": "Human dispersal, human evolution, and the sea : the Palaeolithic seafaring debate",
-            "creator": "John F. Cherry",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "University Press of Colorado",
-            "isbns": [
-                "9781646426904",
-                "1646426908"
-            ],
-            "newFormat": "Print Book",
             "subjects": [
-                "Human beings Migrations",
-                "Land settlement patterns, Prehistoric",
-                "Navigation, Prehistoric",
-                "Boats, Prehistoric",
-                "Paleolithic period",
-                "Êtres humains Migrations",
-                "Colonisation intérieure Types préhistoriques",
-                "Navigation préhistorique",
-                "Bateaux préhistoriques"
+                "German American proverbs Pennsylvania",
+                "Pennsylvania German dialect",
+                "Pennsylvania Dutch",
+                "Pennsylvania Dutch (Dialecte)",
+                "Pennsylvania Dutch (Ethnie)",
+                "German American proverbs",
+                "Pennsylvania"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1451098920",
-            "title": "Humans : a monstrous history",
-            "creator": "Surekha Davies",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520388093",
-                "0520388097"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Monstrosity",
-                "Monsters History",
-                "Monsters Social aspects",
-                "Monstres Histoire",
-                "Monstres Aspect social"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1477999037",
-            "title": "Compromised bodies : cultural imperialism, agency, and the ban on \"female genital mutilation\" in Senegal",
-            "creator": "Sarah O'Neill",
-            "date": "2025",
+            "oclcNumber": "679940124",
+            "title": "Juniata memories : legends collected in central Pennsylvania",
+            "creator": "Henry W. Shoemaker",
+            "date": "©1916",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of Pennsylvania Press",
-            "isbns": [
-                "9781512827255",
-                "1512827258"
-            ],
+            "publisher": "John Joseph McVey",
+            "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Female genital mutilation Senegal",
-                "Female genital mutilation Law and legislation Senegal",
-                "Female genital mutilation Political aspects Senegal",
-                "Fula (African people) Senegal Attitudes",
-                "Fula (African people) Futa Toro (Kingdom) Attitudes",
-                "SOCIAL SCIENCE / Women's Studies",
-                "Electronic books"
+                "Folklore Pennsylvania Juniata River Valley",
+                "Legends Pennsylvania Juniata River Valley",
+                "Tales Pennsylvania Juniata River Valley",
+                "Folklore Pennsylvanie Juniata, Vallée de la",
+                "Légendes Pennsylvanie Juniata, Vallée de la",
+                "Contes Pennsylvanie Juniata, Vallée de la",
+                "Folklore",
+                "Legends",
+                "Manners and customs",
+                "Tales",
+                "Juniata River Valley (Pa.)",
+                "Pennsylvania Social life and customs",
+                "Juniata, Vallée de la (Penns.)",
+                "Pennsylvanie Mœurs et coutumes",
+                "Pennsylvania",
+                "Pennsylvania Juniata River Valley"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1402814942",
-            "title": "Voices in aerosol : youth culture, institutional attunement, and graffiti in urban Mexico",
-            "creator": "Caitlin Frances Bruce",
-            "date": "2024",
+            "oclcNumber": "562726607",
+            "title": "Beliefs and superstitions of the Pennsylvania Germans",
+            "creator": "Edwin Miller Fogel",
+            "date": "1915",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of Texas Press",
-            "isbns": [
-                "1477327681",
-                "9781477327685",
-                "9781477327692",
-                "147732769X"
-            ],
+            "publisher": "American Germanica Press",
+            "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Graffiti Political aspects Mexico León (Guanajuato)",
-                "Graffiti artists Mexico León (Guanajuato)",
-                "Public art spaces Mexico León (Guanajuato)",
-                "Art and state Mexico León (Guanajuato)",
-                "Art, Municipal Mexico León (Guanajuato)",
-                "Group work in art Mexico León (Guanajuato)",
-                "Graffiti Aspect politique Mexique León (Guanajuato)",
-                "Graffiteurs Mexique León (Guanajuato)",
-                "Espaces d'art public Mexique León (Guanajuato)",
-                "Art Politique gouvernementale Mexique León (Guanajuato)",
-                "Art Travail en équipe Mexique León (Guanajuato)",
-                "Mobilier urbain Mexique León (Guanajuato)",
-                "ART / General",
-                "Art and state",
-                "Art, Municipal",
-                "Graffiti artists",
-                "Graffiti Political aspects",
-                "Group work in art",
-                "Public art spaces",
-                "Mexico León (Guanajuato)"
+                "Folklore Pennsylvania",
+                "Folklore Germany",
+                "Pennsylvania Dutch",
+                "Superstition",
+                "Pennsylvania German dialect",
+                "Superstitions",
+                "Folklore Pennsylvanie",
+                "Folklore Allemagne",
+                "Pennsylvania Dutch (Ethnie)",
+                "Pennsylvania Dutch (Dialecte)",
+                "Folklore",
+                "Germany",
+                "Pennsylvania"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1452596896",
-            "title": "Humans : a monstrous history",
-            "creator": "Surekha Davies",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "0520388119",
-                "9780520388116"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Monstrosity",
-                "Monsters History",
-                "Monsters Social aspects",
-                "Monstres Histoire",
-                "Monstres Aspect social",
-                "HISTORY",
-                "Europe",
-                "Civilization",
-                "Social History",
-                "Colonialism & Post-Colonialism",
-                "POLITICAL SCIENCE",
-                "Folklore & Mythology",
-                "SOCIAL SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1484692394",
+            "oclcNumber": "1484694472",
             "title": "Seekers of wonder : women writing folk and fairy tales in nineteenth-century Italy and Ireland",
             "creator": "Elena Emma Sottilotta",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
+            "specificFormat": "PrintBook",
             "publisher": "Princeton University Press",
             "isbns": [
-                "9780691263854",
-                "069126385X"
+                "9780691263830",
+                "0691263833",
+                "9780691263847",
+                "0691263841"
             ],
-            "newFormat": "eBook",
+            "newFormat": "Print Book",
             "subjects": [
                 "Gonzenbach, Laura, 1842-1878",
                 "Deledda, Grazia, 1871-1936",
@@ -1330,338 +380,192 @@
         },
         {
             "topic": "12000000",
-            "oclcNumber": "858523019",
-            "title": "Evolution of mind, brain, and culture",
-            "creator": "Gary C. Hatfield",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Pennsylvania Museum of Archaeology and Anthropology",
-            "isbns": [
-                "9781934536605",
-                "1934536601"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Human evolution Congresses",
-                "Brain Evolution Congresses",
-                "Language and languages Origin Congresses",
-                "Evolution (Biology)",
-                "Brain",
-                "Language and languages",
-                "Culture",
-                "Biological Evolution",
-                "Language",
-                "Êtres humains Évolution Congrès",
-                "Langage et langues Origines Congrès",
-                "Évolution (Biologie)",
-                "Cerveau",
-                "Langage et langues",
-                "evolution",
-                "brains",
-                "languages (study discipline)",
-                "language (general communication)",
-                "culture note",
-                "culture (concept)",
-                "SOCIAL SCIENCE Archaeology",
-                "Brain Evolution",
-                "Human evolution",
-                "Language and languages Origin",
-                "Evolutionary psychology",
-                "Människans utveckling",
-                "Hjärna",
-                "Språk",
-                "Conference papers and proceedings"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "867741998",
-            "title": "Experiencing power, generating authority : cosmos, politics, and the ideology of kingship in ancient Egypt and Mesopotamia",
-            "creator": "Jane A. Hill",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Pennsylvania Museum of Archaeology and Anthropology",
-            "isbns": [
-                "9781934536650",
-                "1934536652"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Political anthropology",
-                "Power (Social sciences)",
-                "Political customs and rites",
-                "Divine right of kings",
-                "Kings and rulers Religious aspects",
-                "Anthropologie politique",
-                "Pouvoir (Sciences sociales)",
-                "Mœurs politiques",
-                "Droit divin des rois",
-                "Rois et souverains Aspect religieux",
-                "HISTORY Ancient Egypt",
-                "Kings and rulers",
-                "Iraq Kings and rulers",
-                "Egypt Kings and rulers",
-                "Egypt",
-                "Iraq",
-                "Electronic books",
-                "Ancient Studies",
-                "Archaeology"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "604851598",
-            "title": "The Symbolic role of animals in archaeology",
-            "creator": "Pam J. Crabtree",
-            "date": "1995",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "MASCA, University of Pennsylvania Museum of Archaeology and Anthropology",
-            "isbns": [
-                "9781949057003",
-                "1949057003"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Animals and civilization",
-                "Archaeology",
-                "Animal Population Groups",
-                "Symbolism",
-                "Animaux et civilisation",
-                "Archéologie",
-                "archaeology",
-                "HISTORY Ancient General",
-                "SOCIAL SCIENCE Archaeology",
-                "Dieren",
-                "Archeologie",
-                "Symbolen",
-                "Arqueologia e zoologia",
-                "Domesticacao de aninais (pre-historia)"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1484072916",
-            "title": "An Atmospheric History of Smoking in Modern Britain",
-            "creator": "Ivan Markovic",
+            "oclcNumber": "1482610389",
+            "title": "Visual studies : a social scientific perspective",
+            "creator": "Paolo S. H. Favero",
             "date": "2025",
             "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Bloomsbury Publishing Plc",
-            "isbns": [
-                "1350420255",
-                "9781350420267",
-                "1350420263",
-                "9781350420250"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Smoking Great Britain History 20th century",
-                "Smoking Great Britain History 21st century",
-                "Smoking Social aspects Great Britain",
-                "Tabagisme Aspect social Grande-Bretagne",
-                "Tabagisme Grande-Bretagne Histoire 20e siècle",
-                "Tabagisme Grande-Bretagne Histoire 21e siècle",
-                "British & Irish history",
-                "Social & cultural history"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "606865503",
-            "title": "Adventures in photography : expeditions of the University of Pennsylvania Museum of Archaeology and Anthropology",
-            "creator": "Alessandro Pezzati",
-            "date": "©2002",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Pennsylvania Museum of Archaeology and Anthropology",
-            "isbns": [
-                "9781934536223",
-                "1934536229"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "University of Pennsylvania. Museum of Archaeology and Anthropology Photograph collections",
-                "University of Pennsylvania. Museum of Archaeology and Anthropology Archives",
-                "University of Pennsylvania. Museum of Archaeology and Anthropology",
-                "Ethnological museums and collections Pennsylvania Philadelphia",
-                "Archaeological museums and collections Pennsylvania Philadelphia",
-                "Ethnological expeditions History Pictorial works",
-                "Archaeological expeditions History Pictorial works",
-                "Photography in ethnology Pennsylvania Philadelphia",
-                "Photography in archaeology Pennsylvania Philadelphia",
-                "Ethnologie Musées et collections Pennsylvanie Philadelphie",
-                "Archéologie Musées et collections Pennsylvanie Philadelphie",
-                "Expéditions ethnologiques Histoire Ouvrages illustrés",
-                "Expéditions archéologiques Histoire Ouvrages illustrés",
-                "Photographie en ethnologie Pennsylvanie Philadelphie",
-                "Photographie en archéologie Pennsylvanie Philadelphie",
-                "PHOTOGRAPHY Collections, Catalogs, Exhibitions General",
-                "Archaeological expeditions",
-                "Archaeological museums and collections",
-                "Ethnological expeditions",
-                "Ethnological museums and collections",
-                "Photograph collections",
-                "Photography in archaeology",
-                "Photography in ethnology",
-                "Pennsylvania Philadelphia",
-                "Archives",
-                "History",
-                "Pictorial works"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1456147730",
-            "title": "Gender, costume, textile, technique : women, clothing, cultural representation and modern Japan",
-            "creator": "Barbara Hartley",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Brill",
-            "isbns": [
-                "9004715460",
-                "9789004715462"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Women's clothing Social aspects Japan",
-                "Clothing and dress Japan",
-                "Women Japan Social conditions",
-                "Representation (Philosophy)",
-                "Cosplay Japan",
-                "Vêtements de femme Aspect social Japon",
-                "Femmes Japon Conditions sociales",
-                "Représentation (Philosophie)",
-                "Costumade Japon",
-                "Japan Social life and customs",
-                "Japon Mœurs et coutumes"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1444111115",
-            "title": "Collective bodies and individual experiences: The case of Chamber Tomb Four at Nikoleika Aigio, Achaea, Greece",
-            "creator": "Daniel David Dillon",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Mississippi State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "Achaeans Greece Achaia History",
-                "Bronze age Greece Achaia",
-                "Achéens Grèce Achaïe Histoire",
-                "Bronze final Grèce Achaïe",
-                "Achaia (Greece) Antiquities",
-                "Achaïe (Grèce) Antiquités",
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques",
-                "Bioarchaeology",
-                "Late Bronze Age",
-                "Mycenaean Greece",
-                "Osteobiography"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1294147530",
-            "title": "Food in memory and imagination : space, place and taste",
-            "creator": "Beth M. Forrest",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Bloomsbury Academic, Bloomsbury Publishing Plc",
-            "isbns": [
-                "9781350096172",
-                "1350096172",
-                "9781350096196",
-                "1350096199",
-                "9781350096189",
-                "1350096180"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Food Social aspects",
-                "Memory",
-                "Imagination",
-                "Food habits",
-                "Aliments Aspect social",
-                "Habitudes alimentaires"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "866876589",
-            "title": "增廣賢文 : 白話詳解",
-            "creator": "王照.",
-            "date": "2002",
-            "language": "chi",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "星輝圖書有限公司",
+            "publisher": "Routledge, Taylor & Francis Group",
             "isbns": [
-                "962388110X",
-                "9789623881104"
+                "9781350128910",
+                "1350128910",
+                "9781350128903",
+                "1350128902"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Aphorisms and apothegms",
-                "Aphorisms and Proverbs as Topic",
-                "Aphorismes et apophtegmes",
-                "aphorisms"
+                "Visual anthropology Study and teaching",
+                "Social sciences Study and teaching",
+                "Anthropologie visuelle Étude et enseignement",
+                "Sciences sociales Étude et enseignement"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1485655406",
-            "title": "Human dispersal, human evolution, and the sea : the Palaeolithic seafaring debate",
-            "creator": "John F. Cherry",
+            "oclcNumber": "1490380295",
+            "title": "Global Hong Kong  : Post-2019 Migration and the New Hong Kong Diaspora",
+            "creator": "Yuk Wah Chan",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University Press of Colorado",
+            "publisher": "Taylor & Francis Group",
             "isbns": [
-                "9781646426911",
-                "1646426916"
+                "9781040324523",
+                "1040324525"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1481785443",
+            "title": "Fashion under Fascism  : Beyond the Black Shirt",
+            "creator": "Eugenia Paulicelli",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Publishing USA",
+            "isbns": [
+                "9781350353381",
+                "1350353388"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "861679867",
+            "title": "Kwakiutl tales",
+            "creator": "Franz Boas",
+            "date": "1910",
+            "language": "wak",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Columbia University Press",
+            "isbns": [
+                "0665807279",
+                "9780665807275"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Human beings Migrations",
-                "Land settlement patterns, Prehistoric",
-                "Navigation, Prehistoric",
-                "Boats, Prehistoric",
-                "Paleolithic period",
-                "Êtres humains Migrations",
-                "Colonisation intérieure Types préhistoriques",
-                "Navigation préhistorique",
-                "Bateaux préhistoriques",
-                "SOCIAL SCIENCE / General"
+                "Kwakiutl language Texts",
+                "Indians of North America British Columbia Folklore",
+                "Kwakiutl Indians Folklore",
+                "Kwakiutl Folklore",
+                "Indiens Amérique du Nord Colombie-Britannique Folklore",
+                "Kwakiutl (Langue) Textes",
+                "Premières Nations Colombie-Britannique Folklore",
+                "Indians of North America",
+                "Kwakiutl Indians",
+                "Kwakiutl language",
+                "British Columbia",
+                "Folklore",
+                "Texts"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1035111978",
-            "title": "South Asian Focus",
-            "creator": "NewsBank, inc",
-            "date": "uuuu",
-            "language": "und",
+            "oclcNumber": "1455430976",
+            "title": "Aliens like us? : an anthropologist's field guide to intelligent extraterrestrial life",
+            "creator": "Anthony F. Aveni",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "University of New Mexico Press",
+            "isbns": [
+                "9780826367426",
+                "0826367429"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Extraterrestrial anthropology",
+                "Exobiology",
+                "Vie extraterrestre",
+                "Exobiologie",
+                "SOCIAL SCIENCE / Anthropology / General"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1371753337",
+            "title": "Reclaiming Space  : Progressive and Multicultural Visions of Space Exploration",
+            "creator": "James S. J. Schwartz",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press, Incorporated",
+            "isbns": [
+                "9780197604816",
+                "0197604811"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1514862587",
+            "title": "Histories of anthropology : interactions between centers and peripheries in the making of anthropological discourses",
+            "creator": "Gabriella D'Agostino",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9783031750526",
+                "3031750527"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology History",
+                "Anthropologists",
+                "Anthropologues",
+                "anthropologists"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1484881987",
+            "title": "Evolution and the fate of humankind",
+            "creator": "Peter A. Corning",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009613835",
+                "1009613839",
+                "9781009613804",
+                "1009613804"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Human evolution",
+                "Evolution (Biology)",
+                "Evolutionary psychology",
+                "Climatic changes Effect of human beings on",
+                "Êtres humains Évolution",
+                "Psychologie évolutionniste",
+                "Climat Changements Effets des êtres humains sur"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "676874829",
+            "title": "Tinkuy",
+            "creator": "Université de Montréal Département de littératures et de langues modernes Section d'études hispaniques",
+            "date": "2005-",
+            "language": "spa",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Torstar Syndication Services",
+            "publisher": "Section d'études hispaniques, Faculté des arts et des sciences, Départment de littératures et de langues modernes, Université de Montréal",
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
@@ -1670,77 +574,1975 @@
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1097152009",
-            "title": "Event",
-            "creator": "NewsBank, inc",
-            "date": "19uu",
-            "language": "und",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Haymarket Media Group Ltd",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "12000000",
-            "oclcNumber": "1483708514",
-            "title": "From triads to pentads : modelling myth and kinship in the work of N. J. Allen",
-            "creator": "N. J. Allen",
+            "oclcNumber": "1498521567",
+            "title": "Foodways in the twentieth-century city",
+            "creator": "Maria Aparecida Lopes",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Berghahn",
+            "publisher": "Cambridge University Press",
             "isbns": [
-                "9781805398967",
-                "1805398962",
-                "9781805398950",
-                "1805398954"
+                "9781009057516",
+                "1009057510",
+                "9781009076746",
+                "1009076744"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Kinship",
-                "Mythology, Indo-European",
-                "Parenté",
-                "Mythologie indo-européenne",
-                "kinship",
-                "SOCIAL SCIENCE / Anthropology / Cultural & Social",
+                "Food consumption History 20th century",
+                "Food habits History 20th century",
+                "Sociology, Urban",
+                "Nutritional anthropology",
+                "City dwellers",
+                "Aliments Consommation Histoire 20e siècle",
+                "Habitudes alimentaires Histoire 20e siècle",
+                "Sociologie urbaine",
+                "Anthropologie de l'alimentation",
+                "Citadins",
+                "urban sociology",
                 "Electronic books"
             ]
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1461011364",
-            "title": "Popular Culture, Social Media, and the Politics of Identity",
-            "creator": "William Clapton",
-            "date": "2024",
-            "language": "und",
+            "oclcNumber": "58841992",
+            "title": "社會發展簡史",
+            "creator": "解放社(China)",
+            "date": "1950",
+            "language": "chi",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "新華書店",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Anthropology",
+                "Capitalism",
+                "Communism",
+                "Homme primitif",
+                "Anthropologie",
+                "anthropology",
+                "Primitive societies"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "58967933",
+            "title": "A handbook of economic anthropology",
+            "creator": "James G. Carrier",
+            "date": "©2005",
+            "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor and Francis Group",
+            "publisher": "Edward Elgar",
             "isbns": [
-                "9781040223383",
-                "1040223389"
+                "1845423461",
+                "9781845423469"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Economic anthropology",
+                "Anthropologie économique",
+                "SOCIAL SCIENCE Anthropology Cultural",
+                "POLITICAL SCIENCE Public Policy Cultural Policy",
+                "SOCIAL SCIENCE Popular Culture",
+                "Economische antropologie"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1089574493",
+            "title": "A research agenda for economic anthropology",
+            "creator": "James G. Carrier",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Edward Elgar Publishing",
+            "isbns": [
+                "9781788116107",
+                "1788116100"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Economic anthropology Research",
+                "Anthropologie économique Recherche"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "794664080",
+            "title": "A handbook of economic anthropology",
+            "creator": "James G. Carrier",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Edward Elgar",
+            "isbns": [
+                "9781849809290",
+                "1849809291"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Economic anthropology",
+                "Anthropologie économique",
+                "POLITICAL SCIENCE Public Policy Cultural Policy",
+                "SOCIAL SCIENCE Anthropology Cultural",
+                "SOCIAL SCIENCE Popular Culture",
+                "Ökonomische Anthropologie"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1344099649",
+            "title": "A handbook of economic anthropology",
+            "creator": "James G. Carrier",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Edward Elgar Publishing",
+            "isbns": [
+                "9781839108921",
+                "1839108924"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Economic anthropology",
+                "Anthropologie économique"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1503845792",
+            "title": "Dismantling the Racism Machine  : A Manual and Toolbox",
+            "creator": "Karen Gaffney",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Taylor & Francis Group",
+            "isbns": [
+                "9781040319673",
+                "104031967X"
             ],
             "newFormat": "eBook",
             "subjects": ""
         },
         {
             "topic": "12000000",
-            "oclcNumber": "1420740518",
-            "title": "National Indigenous Times",
-            "creator": "",
-            "date": "uuuu",
-            "language": "und",
-            "generalFormat": "Jrnl",
+            "oclcNumber": "1446181793",
+            "title": "Pub",
+            "creator": "Philip Howell",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "National Indigenous Times News Pty Ltd",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
+            "publisher": "Bloomsbury Academic",
+            "isbns": [
+                "9798765102329",
+                "9798765102336",
+                "9798765102343"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Drinking customs Great Britain",
+                "Bars (Drinking establishments) Great Britain Psychological aspects",
+                "Boissons Fonctions sociales Grande-Bretagne",
+                "Literary theory",
+                "Material culture",
+                "Philosophy: aesthetics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1511102235",
+            "title": "Drax of Drax Hall How One British Family Got Rich (and Stayed Rich) from Sugar and Slavery",
+            "creator": "Paul Lashmar",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Pluto Press",
+            "isbns": [
+                "9780745350530",
+                "0745350534"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Slavery",
+                "Caribbean & West Indies",
+                "HISTORY",
+                "Colonialism & Post-Colonialism",
+                "POLITICAL SCIENCE",
+                "Genealogy & Heraldry",
+                "REFERENCE",
+                "Social Classes",
+                "SOCIAL SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1485004675",
+            "title": "In the Shadow of Islamophobia  : Identity and Belonging for British Turks",
+            "creator": "Özge Onay",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Taylor & Francis Group",
+            "isbns": [
+                "9781040319468",
+                "1040319467"
+            ],
+            "newFormat": "eBook",
             "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1458758413",
+            "title": "Old Norse Folklore : Magic, Witchcraft, and Charms in Medieval Scandinavia",
+            "creator": "Stephen A. Mitchell",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cornell University Press",
+            "isbns": [
+                "9781501777523",
+                "1501777521"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Folklore Scandinavia History To 1500",
+                "Mythology, Norse History",
+                "Old Norse literature History and criticism",
+                "Old Norse philology",
+                "Mythologie nordique Histoire",
+                "Littérature vieux norroise Histoire et critique",
+                "Philologie vieux norroise",
+                "Medieval",
+                "Scandinavian",
+                "European",
+                "LITERARY CRITICISM",
+                "Folklore & Mythology",
+                "SOCIAL SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1286806890",
+            "title": "Cultural Logics and Global Economies : Maya Identity in Thought and Practice",
+            "creator": "Edward F. Fischer",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Texas Press",
+            "isbns": [
+                "9780292798267",
+                "0292798261"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cakchikel Indians Ethnic identity",
+                "Cakchikel Indians Politics and government",
+                "Mayas Guatemala Ethnic identity",
+                "Mayas Guatemala Politics and government",
+                "Cakchiquel Identité ethnique",
+                "Mayas Identité ethnique Guatemala",
+                "SOCIAL SCIENCE / General",
+                "Mayas Ethnic identity",
+                "Mayas Politics and government",
+                "Guatemala"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "748533411",
+            "title": "From Trickster to Badman : the Black Folk Hero in Slavery and Freedom",
+            "creator": "Roberts, John",
+            "date": "1990",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Pennsylvania Press",
+            "isbns": [
+                "1283211955",
+                "9781283211956",
+                "9780812203110",
+                "0812203119"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "African Americans Folklore",
+                "Folklore United States History and criticism",
+                "Heroes United States Folklore",
+                "Héros États-Unis Folklore",
+                "Noirs américains Folklore",
+                "Tricksters États-Unis",
+                "Tricksters United States",
+                "Folklore États-Unis Histoire et critique",
+                "SOCIAL SCIENCE Folklore & Mythology",
+                "African Americans",
+                "Folklore",
+                "Heroes",
+                "Tricksters",
+                "United States",
+                "Electronic resource",
+                "Criticism, interpretation, etc"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1489595815",
+            "title": "Paris concealed : masks in the city of light",
+            "creator": "James H. Johnson",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The University of Chicago Press",
+            "isbns": [
+                "9780226836478",
+                "0226836479"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Masks France History",
+                "Masks Symbolic aspects France",
+                "Masks Political aspects France",
+                "Masks Social aspects France",
+                "Self (Philosophy) France",
+                "Self-presentation France History",
+                "Masks in art History",
+                "Masques France Histoire",
+                "Masques Aspect social France",
+                "Moi (Philosophie) France",
+                "Masques dans l'art Histoire",
+                "Masques Aspect symbolique France",
+                "Masques Aspect politique France",
+                "Présentation de soi France Histoire",
+                "HISTORY / Social History",
+                "HISTORY / Europe / France",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1482743236",
+            "title": "Black Feminist Anthropology, 25th Anniversary Edition Theory, Politics, Praxis, and Poetics",
+            "creator": "Irma McClaurin",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Rutgers University Press",
+            "isbns": [
+                "9781978843318",
+                "1978843313"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Feminist anthropology",
+                "African American anthropologists",
+                "Ethnology Philosophy",
+                "Féminisme et anthropologie",
+                "Anthropologues noirs américains",
+                "Ethnologie Philosophie",
+                "Cultural",
+                "Anthropology",
+                "Feminism & Feminist Theory",
+                "Women's Studies",
+                "Black Studies (Global)",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1513254274",
+            "title": "An analysis of gender and ethnic prejudices in Erasmus's Adagia and other writings",
+            "creator": "Nathan Ron",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9783031854170",
+                "3031854179"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Erasmus, Desiderius, -1536",
+                "Proverbs, Latin History and criticism"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "889971025",
+            "title": "Diaspora : a very short introduction",
+            "creator": "Kevin Kenny",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780199365913",
+                "0199365911",
+                "9780199858606",
+                "0199858608",
+                "9780199858583",
+                "0199858586"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Culture and globalization",
+                "Emigration and immigration",
+                "Human beings Migrations",
+                "Human geography",
+                "Transnationalism",
+                "Culture et mondialisation",
+                "Émigration et immigration",
+                "Êtres humains Migrations",
+                "Transnationalisme",
+                "emigration",
+                "Migration period (Medieval culture or period)",
+                "migrations (events)",
+                "immigration",
+                "HISTORY",
+                "Social History",
+                "Human Geography",
+                "SOCIAL SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1032505808",
+            "title": "Fairy tale : a very short introduction",
+            "creator": "Marina Warner",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191853500",
+                "019185350X",
+                "9780191060182",
+                "0191060186",
+                "9780191060199",
+                "0191060194"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fairy tales History and criticism",
+                "Fairy tales Adaptations",
+                "Contes de fées Histoire et critique",
+                "Fairy Tales",
+                "FICTION",
+                "Folklore & Mythology",
+                "SOCIAL SCIENCE",
+                "Fairy tales",
+                "Criticism, interpretation, etc",
+                "Adaptations"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1122765086",
+            "title": "Human evolution : a very short introduction",
+            "creator": "Bernard A. Wood",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191869600",
+                "0191869600"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Human evolution",
+                "Fossil hominids",
+                "Paleoanthropology",
+                "Êtres humains Évolution",
+                "Homme fossile",
+                "Paléoanthropologie",
+                "paleoanthropology"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1433129128",
+            "title": "Decolonizing anthropology : an introduction",
+            "creator": "Soumhya Venkatesan",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Polity Press",
+            "isbns": [
+                "9781509540600",
+                "1509540601",
+                "9781509540594",
+                "1509540598"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Anthropology Methodology",
+                "Anthropological ethics",
+                "Decolonization",
+                "Imperialism",
+                "Anthropologie Méthodologie",
+                "Décolonisation",
+                "Impérialisme"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1472584563",
+            "title": "Nomadic cinema : a cultural geography of the expedition film",
+            "creator": "Alison Griffiths",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Columbia University Press",
+            "isbns": [
+                "9780231192583",
+                "0231192584",
+                "9780231192590",
+                "0231192592"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Ethnographic films History and criticism",
+                "Documentary films History and criticism",
+                "Motion pictures in ethnology History",
+                "Travel in motion pictures",
+                "Films ethnographiques Histoire et critique",
+                "Documentaires Histoire et critique",
+                "Cinéma en ethnologie Histoire",
+                "Voyage au cinéma",
+                "Film criticism",
+                "Critiques cinématographiques"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1512826800",
+            "title": "What Does It Mean to Be Kazakhstani Power, Identity and Nation-Building",
+            "creator": "Diana T. Kudaibergen",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "0197834779",
+                "9780197834770"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Nationalism Kazakhstan",
+                "Nation-building Kazakhstan 21st century",
+                "Identity (Psychology) Kazakhstan",
+                "Nationalisme Kazakhstan",
+                "Reconstruction d'une nation Kazakhstan 21e siècle",
+                "Russia & the Former Soviet Union",
+                "Europe",
+                "HISTORY",
+                "POLITICAL SCIENCE",
+                "Sociology",
+                "SOCIAL SCIENCE",
+                "Kazakhstan Politics and government 1991-",
+                "Kazakhstan Politique et gouvernement 1991-"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1110434605",
+            "title": "Religionssoziologie",
+            "creator": "Volkhard Krech",
+            "date": "2015",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Transcript-Verlag",
+            "isbns": [
+                "9783839400074",
+                "3839400074"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Religion (General)",
+                "Sociology (General)",
+                "Religion: general",
+                "Religious groups: social & cultural aspects",
+                "SOCIAL SCIENCE / Sociology of Religion",
+                "Electronic books",
+                "Introduction",
+                "Religion",
+                "Religious Studies",
+                "Sociology"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "46447122",
+            "title": "中国狐文化",
+            "creator": "李剑国, 1943-",
+            "date": "2002",
+            "language": "chi",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "人民文学出版社",
+            "isbns": [
+                "7020033601",
+                "9787020033607"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Foxes China Folklore",
+                "Foxes in literature",
+                "Foxes in art",
+                "Renards Chine Folklore",
+                "Hu wen hua zhuan ti yan jiu zhong guo",
+                "Foxes",
+                "China",
+                "Folklore",
+                "Test data"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "872272526",
+            "title": "Les histoires du Petit Chaperon rouge : racontées dans le monde",
+            "creator": "Fabienne Morel",
+            "date": "2013",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Syros",
+            "isbns": [
+                "9782748507171",
+                "2748507177"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Perrault, Charles, 1628-1703",
+                "Conte folklorique",
+                "Loup",
+                "Grands-mères",
+                "Petits-enfants",
+                "Conte (Descripteur de forme)",
+                "[Contes]",
+                "[Livres d'images]",
+                "[Fictions]",
+                "[Ouvrages pour la jeunesse]"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1395954714",
+            "title": "Swamp People: Season 1",
+            "creator": "The History® Channel (Firm)",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "The History® Channel, Kanopy Streaming",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Mass media and culture",
+                "Science",
+                "Zoology",
+                "Television series",
+                "Médias et culture",
+                "Sciences",
+                "Zoologie",
+                "Séries télévisées",
+                "science (modern discipline)",
+                "zoology",
+                "Television programs",
+                "Émissions télévisées"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1501715180",
+            "title": "Evanira Mendes : A Voice from the Brazilian Folklore Movement",
+            "creator": "Eric A. Galm",
+            "date": "2025",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University Press of Mississippi",
+            "isbns": [
+                "9781496855961",
+                "1496855965"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mendes Birdman, Evanira",
+                "Women folklorists Brazil Biography",
+                "Folklore Brazil",
+                "Femmes folkloristes Brésil Biographies",
+                "Women",
+                "South America",
+                "Latin America",
+                "HISTORY",
+                "Ethnomusicology",
+                "MUSIC",
+                "Folklore & Mythology",
+                "SOCIAL SCIENCE",
+                "BIOGRAPHY & AUTOBIOGRAPHY"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1373675803",
+            "title": "RITES ET MUSIQUES DE POSSESSION A BAHIA",
+            "creator": "XAVIER VATIN",
+            "date": "2005",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "EDITIONS L'HARMATTAN",
+            "isbns": [
+                "229640121X",
+                "9782296401211"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1513129213",
+            "title": "Landscape learning in the Pleistocene Great Basin",
+            "creator": "David B. Hunt",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The University of Utah Press",
+            "isbns": [
+                "9781647692094",
+                "1647692091"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Hunting and gathering societies Decision making",
+                "Land settlement patterns, Prehistoric Great Basin",
+                "Excavations (Archaeology) Great Basin",
+                "Antiquities, Prehistoric Great Basin",
+                "Chasseurs-cueilleurs Prise de décision",
+                "Colonisation intérieure Types préhistoriques Grand Bassin",
+                "Fouilles (Archéologie) Grand Bassin",
+                "SOCIAL SCIENCE / General",
+                "Great Basin Antiquities",
+                "Grand Bassin Antiquités"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1391694837",
+            "title": "Arranged Marriage",
+            "creator": "Anoop Rangi",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "Premiere Digital, Kanopy Streaming",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Comedy",
+                "Comédie",
+                "Cinéma",
+                "Feature films"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1170748933",
+            "title": "Plurinational Afrobolivianity : Afro-Indigenous Articulations and Interethnic Relations in the Yungas of Bolivia",
+            "creator": "Moritz Heck",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "transcript-Verlag",
+            "isbns": [
+                "9783839450567",
+                "383945056X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Black people Bolivia",
+                "Black people Bolivia Politics and government",
+                "Black people Bolivia Ethnic relations",
+                "Spanish language Dialects Bolivia Determiners",
+                "Spanish language Dialects Bolivia Grammar",
+                "Spanish language Dialects Bolivia",
+                "Spanish language Bolivia Foreign elements African",
+                "Espagnol (Langue) Dialectes Bolivie Déterminants",
+                "Espagnol (Langue) Dialectes Bolivie Grammaire",
+                "Espagnol (Langue) Dialectes Bolivie",
+                "Demography",
+                "SOCIAL SCIENCE",
+                "Anthropology"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "35295025",
+            "title": "Little Red Riding Hood",
+            "creator": "Tricia Lee",
+            "date": "©1991",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Quality Books",
+            "isbns": [
+                "1879332086",
+                "9781879332089"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Fairy tales",
+                "Folklore",
+                "Contes de fées",
+                "fairy tales",
+                "folklore (culture-related concept)"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1512449912",
+            "title": "The art of orality : cultural aesthetics in the absence of writing",
+            "creator": "Declan Lloyd",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9783031854316",
+                "3031854314"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Folk literature History and criticism",
+                "Oral communication",
+                "Littérature populaire Histoire et critique",
+                "Communication orale"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1376466709",
+            "title": "[Deutsch-Afrika : Land und Leute, Handel und Wandel in unseren Kolonien",
+            "creator": "Richard Oberländer",
+            "date": "1885",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "W. Freidrich",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "German colonies",
+                "Germany Colonies Africa",
+                "Africa"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "39277805",
+            "title": "A pictorial history of costume = Illustrierte Kostümgeschichte = Histoire illustrée du costume = Storia illustrata del costume = Historia ilustrada del vestido = 絵で見る服裝史 = 服裝史畫册",
+            "creator": "Dorine van den Beukel",
+            "date": "1998",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Pepin Press ; Published in the USA by Costume & Fashion Press",
+            "isbns": [
+                "0896762270",
+                "9780896762275",
+                "9054960469",
+                "9789054960461"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Costume History Pictorial works",
+                "Fashion History Pictorial works",
+                "Costume",
+                "Fashion",
+                "Kostuums",
+                "Nonfiction",
+                "illustrated books",
+                "Illustrated works",
+                "History",
+                "Ouvrages illustrés"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1483262858",
+            "title": "Old ways, new people : anthropology and/as education",
+            "creator": "Tim Ingold",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Routledge, Taylor & Francis Group",
+            "isbns": [
+                "9781032623696",
+                "1032623691",
+                "9781032623672",
+                "1032623675"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Anthropology Philosophy",
+                "Education Philosophy",
+                "Anthropologie Philosophie",
+                "Éducation Philosophie"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "27054594",
+            "title": "Social anthropology: an inaugural lecture delivered before the University of Oxford on 4 February, 1948",
+            "creator": "E. E. Evans-Pritchard",
+            "date": "1948",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Clarendon Press",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Ethnology",
+                "Ethnologie",
+                "ethnology",
+                "social anthropology",
+                "Anthropologie"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "435729265",
+            "title": "Doing sensory ethnography",
+            "creator": "Sarah Pink",
+            "date": "©2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Sage Publications",
+            "isbns": [
+                "9781412948029",
+                "1412948029",
+                "9781412948036",
+                "1412948037"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Visual anthropology",
+                "Sensory evaluation",
+                "Anthropologie visuelle",
+                "Analyse sensorielle",
+                "73.03 methods and techniques of ethnology",
+                "Ethnography",
+                "Research",
+                "Sense organs",
+                "Ethnology Research Methodology",
+                "Ethnology Fieldwork",
+                "etnografie",
+                "ethnography",
+                "sociale antropologie",
+                "social anthropology",
+                "zintuigen",
+                "senses",
+                "perceptie",
+                "perception",
+                "gezichtsvermogen",
+                "vision",
+                "gehoor",
+                "hearing",
+                "onderzoek",
+                "research",
+                "methodologie",
+                "methodology",
+                "studieboeken",
+                "textbooks",
+                "Research Methods in Cultural Anthropology",
+                "Environmental Psychology",
+                "Onderzoeksmethoden in culturele antropologie",
+                "Omgevingspsychologie"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "3465561",
+            "title": "The folktale",
+            "creator": "Stith Thompson",
+            "date": "1977, ©1946",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "University of California Press",
+            "isbns": [
+                "0520033590",
+                "9780520033597",
+                "0520035372",
+                "9780520035379"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Tales History and criticism",
+                "Tales Classification",
+                "Folk literature Themes, motives",
+                "Mythology",
+                "Contes Histoire et critique",
+                "Contes Classification",
+                "Littérature populaire Thèmes, motifs",
+                "Mythologie",
+                "mythology (literary genre)",
+                "Tales",
+                "Sage",
+                "Volkserzählung",
+                "Classification",
+                "Criticism, interpretation, etc"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1500287971",
+            "title": "Bamboo and Chinese Culture",
+            "creator": "Min He",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": [
+                "9781433177705",
+                "1433177706"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Bamboo Social aspects China",
+                "Bamboo work China",
+                "Bambou Aspect social Chine",
+                "Travail du bambou Chine",
+                "Anthropology",
+                "Cultural",
+                "SOCIAL SCIENCE",
+                "Ethnic Studies",
+                "China Social life and customs",
+                "China Civilization",
+                "Chine Mœurs et coutumes",
+                "Chine Civilisation",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1407277540",
+            "title": "The Oxford handbook of the archaeology and anthropology of body modification",
+            "creator": "Franz Manni",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780197573433",
+                "0197573436"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Body marking",
+                "Marques corporelles"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1178868246",
+            "title": "Material literacy in eighteenth-century Britain : a nation of makers",
+            "creator": "Serena Dyer",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Visual Arts",
+            "isbns": [
+                "9781501349621",
+                "1501349627",
+                "1501349635",
+                "9781501349645",
+                "1501349643",
+                "9781501349638",
+                "1501349619",
+                "9781501349614"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Material culture England History 18th century",
+                "Textile crafts England History 18th century",
+                "Needleworkers England History 18th century",
+                "Consumers England History 18th century",
+                "Consumption (Economics) England History 18th century",
+                "Culture matérielle Angleterre Histoire 18e siècle",
+                "Travailleuses à l'aiguille Angleterre Histoire 18e siècle",
+                "Decorative arts",
+                "Consumers",
+                "Consumption (Economics)",
+                "Material culture",
+                "Needleworkers",
+                "Textile crafts",
+                "England",
+                "History",
+                "1700-1799"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1410913044",
+            "title": "Marx and Haiti Towards a Historical Materialist Theory of Racism",
+            "creator": "Wulf Hund",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "LIT Verlag",
+            "isbns": [
+                "9783643965189",
+                "3643965184"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "951594131",
+            "title": "The Hobbit Trap : How New Species Are Invented",
+            "creator": "Maciej Henneberg",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Taylor and Francis",
+            "isbns": [
+                "9781315418285",
+                "1315418282"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Hominids",
+                "Hominidés",
+                "Hominidae (family)",
+                "NATURE Animals Mammals",
+                "SCIENCE Life Sciences Zoology Mammals"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "855973152",
+            "title": "Anthropology and nature",
+            "creator": "Kirsten Hastrup",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Routledge",
+            "isbns": [
+                "9781134463213",
+                "1134463219",
+                "9781299792838",
+                "1299792839",
+                "9780203795361",
+                "0203795369"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology Philosophy",
+                "Philosophy of nature",
+                "Human ecology Philosophy",
+                "Anthropologie Philosophie",
+                "Philosophie de la nature",
+                "Écologie humaine Philosophie",
+                "SOCIAL SCIENCE Anthropology General",
+                "SOCIAL SCIENCE Regional Studies",
+                "SOCIAL SCIENCE Sociology General"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1352967116",
+            "title": "The sustainable dead : searching for the intolerable",
+            "creator": "Ruth McManus",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527590113",
+                "1527590119"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Funeral rites and ceremonies Environmental aspects",
+                "Funeral rites and ceremonies",
+                "Sustainability",
+                "Death Social aspects",
+                "Funérailles Rites et cérémonies Aspect de l'environnement",
+                "Funérailles Rites et cérémonies",
+                "Durabilité de l'environnement",
+                "funerals"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "951754375",
+            "title": "Processes in human evolution : the journey from early hominins to Neanderthals and modern humans",
+            "creator": "Francisco J. Ayala",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191060458",
+                "0191060453",
+                "9780191802836",
+                "0191802832"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Human evolution Textbooks",
+                "Fossil hominids Textbooks",
+                "Paleoanthropology Textbooks",
+                "Human beings Origin",
+                "Evolution (Biology)",
+                "Biological Evolution",
+                "Hominidae",
+                "Êtres humains Origines",
+                "Évolution (Biologie)",
+                "evolution",
+                "NATURE Animals Mammals",
+                "SCIENCE Life Sciences Zoology Mammals",
+                "Paleoanthropology",
+                "Fossil hominids",
+                "Human evolution",
+                "Evolució humana",
+                "Homínids fòssils",
+                "Paleoantropologia",
+                "Textbooks",
+                "Llibres electrònics"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1006381191",
+            "title": "Approaches to ethnography : analysis and representation in participant observation",
+            "creator": "Colin Jerolmack",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780190236069",
+                "019023606X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology Methodology",
+                "Participant observation",
+                "Anthropologie Méthodologie",
+                "SOCIAL SCIENCE Anthropology General",
+                "SOCIAL SCIENCE Regional Studies",
+                "SOCIAL SCIENCE Sociology General",
+                "Ethnologie",
+                "Teilnehmende Beobachtung",
+                "Forschungsmethode"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "844924435",
+            "title": "Transforming ethnography: user experience methods and practices",
+            "creator": "Sasanka V. Prabhala",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers, Incorporated",
+            "isbns": [
+                "9781626181540",
+                "1626181543"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Ethnology Methodology",
+                "Business anthropology Methodology",
+                "Ethnologie Méthodologie",
+                "Affaires Aspect anthropologique Méthodologie",
+                "SOCIAL SCIENCE Anthropology Cultural",
+                "SOCIAL SCIENCE Discrimination & Race Relations",
+                "SOCIAL SCIENCE Ethnic Studies General",
+                "SOCIAL SCIENCE Minority Studies",
+                "Ethnologie",
+                "Ökonomische Anthropologie",
+                "Methode"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "875573115",
+            "title": "The business of food",
+            "creator": "H.W. Wilson Company",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "H.W. Wilson, A Division of EBSCO Publishing, Inc.",
+            "isbns": [
+                "9780824213107",
+                "0824213106"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Food Social aspects",
+                "Food habits",
+                "Food consumption",
+                "Food Economic aspects",
+                "Feeding Behavior",
+                "Food",
+                "Aliments Aspect social",
+                "Habitudes alimentaires",
+                "Aliments Consommation",
+                "Aliments Aspect économique",
+                "food",
+                "BUSINESS & ECONOMICS Industries Hospitality, Travel & Tourism"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1372192607",
+            "title": "Photography and modern icons : the visual planning of myth",
+            "creator": "Federica Muzzarelli",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527590892",
+                "1527590895"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fashion Social aspects History 19th century",
+                "Fashion Social aspects History 20th century",
+                "Fashion photography History 19th century",
+                "Fashion photography History 20th century",
+                "Stereotypes (Social psychology) History 19th century",
+                "Stereotypes (Social psychology) History 20th century",
+                "Celebrities Portraits History 19th century",
+                "Celebrities Portraits History 20th century",
+                "Modernism (Art)",
+                "Celebrities Portraits 19th century",
+                "Celebrities Portraits 20th century",
+                "Célébrités Portraits 19e siècle",
+                "Célébrités Portraits 20e siècle",
+                "Modernisme (Art)",
+                "Photographie de mode Histoire 19e siècle",
+                "Photographie de mode Histoire 20e siècle",
+                "Stéréotypes Histoire 19e siècle",
+                "Stéréotypes Histoire 20e siècle",
+                "Celebrities Portraits",
+                "History",
+                "1800-1999"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "968513853",
+            "title": "Welsh folk tales",
+            "creator": "Peter Stevenson",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The History Press",
+            "isbns": [
+                "0750981903",
+                "9780750981903"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Tales Wales",
+                "Fairy tales",
+                "Contes Pays de Galles",
+                "Contes de fées",
+                "fairy tales",
+                "Folklore, myths & legends",
+                "SOCIAL SCIENCE Folklore & Mythology",
+                "Tales",
+                "Wales",
+                "Folklore",
+                "Fiction",
+                "Romans"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "860623672",
+            "title": "Anáil an bhéil bheo : orality and modern Irish culture",
+            "creator": "Nessa Cronin",
+            "date": "©2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars",
+            "isbns": [
+                "9781443803878",
+                "1443803871"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Folklore Ireland Congresses",
+                "Oral tradition Ireland Congresses",
+                "Oral history Ireland Congresses",
+                "Folklore Irlande Congrès",
+                "Tradition orale Irlande Congrès",
+                "Histoire orale Irlande Congrès",
+                "HISTORY Europe Great Britain",
+                "Civilization",
+                "Folklore",
+                "Manners and customs",
+                "Oral history",
+                "Oral tradition",
+                "Ireland Social life and customs Congresses",
+                "Ireland Civilization Congresses",
+                "Irlande Mœurs et coutumes Congrès",
+                "Irlande Civilisation Congrès",
+                "Ireland",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1407834831",
+            "title": "Panoramas de las antropologías mundiales. Tomo 1",
+            "creator": "Gustavo Lins Ribeiro",
+            "date": "2023",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Centro de lnvestigaciones y Estudios Superiores en Antropología Social : Universidad Autónoma Metropolitana : Universidad Iberoamericana",
+            "isbns": [
+                "9786078931262",
+                "6078931261",
+                "9786074866797",
+                "6074866791",
+                "9786072828674",
+                "6072828671"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology Encyclopedias",
+                "Anthropologie Encyclopédies"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1407834627",
+            "title": "Panoramas de las antropologías mundiales. Tomo 2",
+            "creator": "Gustavo Lins Ribeiro",
+            "date": "2023",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Centro de lnvestigaciones y Estudios Superiores en Antropología Social : Universidad Autónoma Metropolitana : Universidad Iberoamericana",
+            "isbns": [
+                "9786078931279",
+                "607893127X",
+                "9786074866803",
+                "6074866805",
+                "9786072828681",
+                "607282868X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology Encyclopedias",
+                "Anthropologie Encyclopédies"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1158506492",
+            "title": "Material lives : women makers and consumer culture in the 18th century",
+            "creator": "Serena Dyer",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Visual Arts",
+            "isbns": [
+                "1350127000",
+                "9781350127029",
+                "1350127027",
+                "9781350126985",
+                "1350126985",
+                "9781350127005"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Material culture England History 18th century",
+                "Women England Archives",
+                "Women England Biography",
+                "Women England Social conditions 18th century",
+                "Culture matérielle Angleterre Histoire 18e siècle",
+                "Femmes Angleterre Archives",
+                "Femmes Angleterre Biographies",
+                "Femmes Angleterre Conditions sociales 18e siècle",
+                "History of fashion",
+                "Material culture",
+                "Women",
+                "Women Archives",
+                "Women Social conditions",
+                "England",
+                "Biographies",
+                "History",
+                "1700-1799"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "951028474",
+            "title": "Arts dividend : why investment in culture pays",
+            "creator": "Darren Henley",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Elliott and Thompson Limited",
+            "isbns": [
+                "9781783962785",
+                "178396278X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Arts and society Great Britain",
+                "Culture",
+                "Culture Education",
+                "Arts et société Grande-Bretagne",
+                "POLITICAL SCIENCE Public Policy Cultural Policy",
+                "SOCIAL SCIENCE Anthropology Cultural",
+                "SOCIAL SCIENCE Popular Culture",
+                "Arts and society",
+                "Great Britain"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1206396951",
+            "title": "A Cultural History of Hair in Antiquity",
+            "creator": "Mary Harlow",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Publishing Plc",
+            "isbns": [
+                "9781350087910",
+                "1350087912",
+                "1350087904",
+                "9781350087903"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Hairstyles History",
+                "Civilization, Classical",
+                "Civilization, Ancient",
+                "Coiffures (Cheveux) Histoire",
+                "Civilisation ancienne",
+                "History of fashion",
+                "Hairstyles",
+                "History"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1225543726",
+            "title": "A Cultural History of Hair in the Age of Empire",
+            "creator": "Sarah Heaton",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Publishing Plc",
+            "isbns": [
+                "9781350087934",
+                "1350087939",
+                "1350087920",
+                "9781350087927"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Hairstyles History",
+                "Hair Social aspects",
+                "Coiffures (Cheveux) Histoire"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1086209620",
+            "title": "Restructuring relations : indigenous self-determination, governance, and gender",
+            "creator": "Rauna Johanna Kuokkanen",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780190913298",
+                "0190913290",
+                "9780190913311",
+                "0190913312"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Indigenous peoples Government relations",
+                "Indigenous peoples Politics and government",
+                "Indigenous women Civil rights",
+                "Indigenous peoples Legal status, laws, etc",
+                "Indigenous women Violence against",
+                "Self-determination, National",
+                "Feminist theory",
+                "Autochtones Relations avec l'État",
+                "Autochtones Politique et gouvernement",
+                "Femmes autochtones Droits",
+                "Femmes autochtones Violence envers",
+                "Droit des peuples à disposer d'eux-mêmes",
+                "Théorie féministe",
+                "Comparative Politics",
+                "POLITICAL SCIENCE",
+                "Public Policy",
+                "Geopolitics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1235903211",
+            "title": "Rethinking fashion globalization",
+            "creator": "Sarah Cheang",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Visual Arts",
+            "isbns": [
+                "9781350180086",
+                "1350180084",
+                "9781350181304",
+                "1350181307",
+                "1350180076",
+                "9781350180079"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fashion and globalization",
+                "Fashion Social aspects",
+                "Mode et mondialisation",
+                "Fashion & society"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1246486522",
+            "title": "The Emergence of modern humans : an archaeological perspective",
+            "creator": "Paul Mellars",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Edinburgh University Press",
+            "isbns": [
+                "9781474470957",
+                "1474470955"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Human evolution",
+                "Fossil hominids",
+                "Prehistoric peoples",
+                "Paleolithic period",
+                "Êtres humains Évolution",
+                "Homme fossile",
+                "SOCIAL SCIENCE / General",
+                "Humanökologie",
+                "Kulturelle Entwicklung",
+                "Steinzeit",
+                "Hominisation",
+                "Mensch",
+                "Entwicklung",
+                "Paleoantropologie",
+                "Archeologische aspecten",
+                "Homme Évolution",
+                "Hominidés fossiles",
+                "Paléolithique",
+                "Aufsatzsammlung"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1257316127",
+            "title": "The future of the corpse : changing ecologies of death and disposition",
+            "creator": "Karla Maria Rothstein",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Praeger",
+            "isbns": [
+                "1440869065",
+                "9781440869068"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Dead",
+                "Funeral rites and ceremonies United States",
+                "Death Social aspects United States",
+                "Morts",
+                "Funérailles Rites et cérémonies États-Unis",
+                "Mort Aspect social États-Unis",
+                "SOCIAL SCIENCE / Death & Dying",
+                "ARCHITECTURE / Sustainability & Green Design",
+                "Death Social aspects",
+                "Funeral rites and ceremonies",
+                "United States"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "667822718",
+            "title": "Holidays, festivals, and celebrations of the world dictionary : detailing more than 3,000 observances from all 50 states and more than 100 nations : a compendious reference guide to popular, ethnic, religious, national, and ancient holidays ...",
+            "creator": "Cherie D. Abbey",
+            "date": "©2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Omnigraphics",
+            "isbns": [
+                "9781849727006",
+                "1849727007",
+                "9780780811669",
+                "0780811666"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Holidays Dictionaries",
+                "Festivals Dictionaries",
+                "SOCIAL SCIENCE Holidays (non-religious)",
+                "Festivals",
+                "Holidays",
+                "Dictionaries"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1379259533",
+            "title": "The future of India's rural markets : a transformational opportunity",
+            "creator": "Kunal Sinha",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Emerald Publishing",
+            "isbns": [
+                "9781804558225",
+                "1804558222",
+                "1804558249",
+                "9781804558249"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Rural development India",
+                "Développement rural Inde",
+                "Rural conditions",
+                "Rural development",
+                "India Rural conditions 21st century",
+                "India",
+                "2000-2099"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1149150215",
+            "title": "Communicating the history of medicine : perspectives on audiences and impact",
+            "creator": "Solveig Jülich",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Manchester University Press",
+            "isbns": [
+                "9781526142474",
+                "1526142473"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Social medicine",
+                "Communication in medicine History",
+                "Communication en médecine Histoire",
+                "History Of Medicine",
+                "MEDICAL / History",
+                "Communication in medicine",
+                "Electronic books",
+                "History"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1276785149",
+            "title": "At duty's call : a study in obsolete patriotism",
+            "creator": "W. J. Reader",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Manchester University Press",
+            "isbns": [
+                "9781526119513",
+                "152611951X",
+                "9781526119506",
+                "1526119501"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Military service, Voluntary Social aspects Great Britain History 20th century",
+                "World War, 1914-1918 Social aspects Great Britain",
+                "Service militaire volontaire Aspect social Grande-Bretagne Histoire 20e siècle",
+                "Guerre mondiale, 1914-1918 Aspect social Grande-Bretagne",
+                "History",
+                "HISTORY / Social History",
+                "Social aspects",
+                "Great Britain",
+                "1900-1999"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "1321795480",
+            "title": "In search of us : adventures in anthropology",
+            "creator": "Lucy Moore",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Atlantic Books",
+            "isbns": [
+                "1786499169",
+                "9781786499165"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anthropology History",
+                "Anthropologists Biography",
+                "Anthropology History 19th century",
+                "Anthropology History 20th century",
+                "Anthropologie Histoire",
+                "Anthropologues Biographies",
+                "Anthropologie Histoire 19e siècle",
+                "Anthropologie Histoire 20e siècle",
+                "Anthropology",
+                "History",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "797848737",
+            "title": "Blowgun techniques : the definitive guide to modern and traditional blowgun techniques",
+            "creator": "Amante P. Marinas",
+            "date": "©2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Tuttle Pub.",
+            "isbns": [
+                "9781462905546",
+                "1462905544"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Blowguns",
+                "Martial arts",
+                "Sarbacanes",
+                "blowguns"
+            ]
+        },
+        {
+            "topic": "12000000",
+            "oclcNumber": "900937949",
+            "title": "No small change : the road to recognition for Indigenous Australia",
+            "creator": "Frank Brennan",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Queensland Press",
+            "isbns": [
+                "9780702254499",
+                "0702254495",
+                "9780702254505",
+                "0702254509"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Referendum Australia 1967",
+                "Aboriginal Australians Legal status, laws, etc. History",
+                "Aboriginal Australians Civil rights History",
+                "Torres Strait Islanders Legal status, laws, etc. History",
+                "Torres Strait Islanders Civil rights History",
+                "Indigenous peoples Government policy Australia",
+                "Indigenous peoples Australia Government relations",
+                "Australiens (Aborigènes) Droits Histoire",
+                "Insulaires du détroit de Torres Droits Histoire",
+                "Government policy - Assimilation - 1926-1950",
+                "Politics and Government - Referenda - Constitutional recognition",
+                "SOCIAL SCIENCE Discrimination & Race Relations",
+                "SOCIAL SCIENCE Minority Studies",
+                "SOCIAL SCIENCE Ethnic Studies General",
+                "Aboriginal Australians Civil rights",
+                "Aboriginal Australians Legal status, laws, etc",
+                "Indigenous peoples Government policy",
+                "Indigenous peoples Government relations",
+                "Referendum",
+                "Torres Strait Islanders Civil rights",
+                "Torres Strait Islanders Legal status, laws, etc",
+                "Australia",
+                "History",
+                "1967"
+            ]
         }
     ]
 }
