@@ -1,179 +1,252 @@
 {
-    "period": "May 2025",
-    "updated": "As of 03 June 2025",
+    "period": "June 2025",
+    "updated": "As of 01 July 2025",
     "records": [
         {
             "topic": "64000000",
-            "oclcNumber": "1436831720",
-            "title": "Men and Loss  : New Perspectives on Bereavement, Grief and Masculinity",
-            "creator": "Kerry Jones",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040092002",
-                "1040092004"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1227051109",
-            "title": "The Symbolic Quest Basic Concepts of Analytical Psychology - Expanded Edition",
-            "creator": "Edward C. Whitmont",
-            "date": "1991",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691213187",
-                "0691213186"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Jung, C. G. 1875-1961",
-                "Symbolism (Psychology)",
-                "Psychoanalysis",
-                "Jungian psychology",
-                "Archetype (Psychology)",
-                "Symbolism",
-                "Symbolisme (Psychologie)",
-                "Psychanalyse",
-                "Psychologie analytique",
-                "Archétype (Psychologie)",
-                "psychoanalysis",
-                "PSYCHOLOGY / Movements / Psychoanalysis"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1481796394",
-            "title": "99% Perspiration  : A New Working History of the American Way of Life",
-            "creator": "Adam Chandler",
+            "oclcNumber": "1521234309",
+            "title": "Environmental psychology and human well-being : effects of built and natural settings",
+            "creator": "Ann Sloan Devlin",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Knopf Doubleday Publishing Group",
+            "publisher": "Academic Press",
             "isbns": [
-                "9780593700587",
-                "0593700589"
+                "9780443235375",
+                "0443235376"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Success United States",
-                "Success in business United States",
-                "Self-reliance United States",
-                "Income distribution United States",
-                "Succès États-Unis",
-                "Succès dans les affaires États-Unis",
-                "Confiance en soi États-Unis",
-                "Revenu Répartition États-Unis",
-                "Economic Conditions",
-                "BUSINESS & ECONOMICS",
-                "Social Classes",
-                "SOCIAL SCIENCE"
+                "Environmental psychology"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1455114757",
-            "title": "Dear Institute...  : Candid Commentaries from Candidates in Psychoanalytic Training",
-            "creator": "Himanshu Agrawal",
-            "date": "2024",
+            "oclcNumber": "1523326806",
+            "title": "Nachhaltigkeitsbildende Erlebnispädagogik Theoretische Grundzüge und Einblicke in die Bildungspraxis",
+            "creator": "Yannick Liedholz",
+            "date": "2025",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Verlag Barbara Budrich",
+            "isbns": [
+                "9783847433071",
+                "3847433075"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Experiential learning",
+                "Outdoor education",
+                "Sustainability Study and teaching",
+                "Apprentissage expérientiel",
+                "Classes de nature",
+                "Durabilité de l'environnement Étude et enseignement",
+                "Electronic books",
+                "BNE",
+                "experiential education",
+                "Bildung für nachhaltige Entwicklung",
+                "education for sustainable development",
+                "sustainable outdoor education",
+                "transformative Bildung",
+                "Natur",
+                "transformative learning",
+                "anthropogenic nature",
+                "Naturerfahrung",
+                "nature experiences",
+                "Soziale Arbeit",
+                "Gestaltungskompetenz",
+                "social work",
+                "Nachhaltigkeit",
+                "sustainability"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1511815065",
+            "title": "Los demonios creativos y como acabar con ellos",
+            "creator": "Richar Holman",
+            "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "",
             "isbns": [
-                "9781040148334",
-                "1040148336"
+                "9788425235863",
+                "8425235863"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Psychoanalysis",
-                "Psychanalyse",
-                "psychoanalysis"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519503664",
-            "title": "Simbología del espíritu : estudios sobre fenomenología psíquica",
-            "creator": "C. G. Jung",
-            "date": "2025",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Fondo de Cultura Económica",
-            "isbns": [
-                "9786071682802",
-                "6071682800",
-                "9786071682529",
-                "6071682525"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychology, Religious",
-                "Symbolism (Psychology)",
-                "Archetype (Psychology)",
-                "Psychologie religieuse",
-                "Symbolisme (Psychologie)",
-                "Archétype (Psychologie)",
-                "psychology of religion"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1504560622",
-            "title": "Sé más feliz Los 7 secretos de la neurociencia para sentirte bien según tu tipo de cerebro",
-            "creator": "Daniel G. Amen",
-            "date": "2025",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Reverte-Management",
-            "isbns": [
-                "9788429198645",
-                "8429198644"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Happiness",
-                "Emotions",
-                "Mental health",
-                "Neurosciences",
-                "Bonheur",
-                "Cognitive Psychology & Cognition",
+                "Creative ability",
+                "Self-actualization (Psychology)",
+                "Créativité",
+                "creativity",
+                "Personal & Practical Guides",
+                "REFERENCE",
+                "ART",
                 "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1520584142",
-            "title": "6o Encuentro Nacional de Estudiantes de Psicología : una perspectiva desde la psicología a los retos contemporáneos",
-            "creator": "Encuentro Nacional de Estudiantes de Psicología",
-            "date": "2022",
-            "language": "spa",
+            "oclcNumber": "1521233386",
+            "title": "Bringing relationships into voice hearing : introducing a tripartite relationship theory",
+            "creator": "Rob Allison",
+            "date": "2025",
+            "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Universidad Católica de Pereira",
-            "isbns": "",
+            "publisher": "Routledge",
+            "isbns": [
+                "9781040382882",
+                "1040382886"
+            ],
             "newFormat": "eBook",
             "subjects": [
-                "Psychology Congresses",
-                "Psychology Study and teaching Congresses"
+                "Auditory hallucinations Treatment",
+                "Hallucinations auditives Traitement",
+                "Auditory hallucinations"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1520583911",
-            "title": "Psicología para Rocío",
-            "creator": "Rodrigo Robert",
+            "oclcNumber": "1520289163",
+            "title": "Solomonic magic : methodology, texts, and histories",
+            "creator": "Gal Sofer",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9789004730786",
+                "9004730788"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Solomon, King of Israel Legends",
+                "Grimoires Criticism, Textual",
+                "Manuscripts, Medieval Network analysis",
+                "Magic, Ancient Manuscripts",
+                "Jewish magic Manuscripts",
+                "Jewish demonology Manuscripts",
+                "Jewish magic History",
+                "Jewish demonology History",
+                "Magie ancienne Manuscrits",
+                "Magie juive Manuscrits",
+                "Démonologie juive Manuscrits",
+                "Magie juive Histoire",
+                "Démonologie juive Histoire",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1524214923",
+            "title": "Estudios de psicología : 25 años de contribuciones al desarrollo y bienestar de las personas",
+            "creator": "Lucio Rehbein",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "RiL editores",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Universidad de la Frontera. Grupo de Investigaciones en Psicología Económica y del Consumo",
+                "Psychology Chile"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1514623533",
+            "title": "Consciencia, Neurosis y Terapia",
+            "creator": "Fernando Rielo",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Dykinson, S.L.",
+            "isbns": [
+                "9791370060374",
+                "9789791370066",
+                "9791370060"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Consciousness",
+                "Neuroses",
+                "Conscience",
+                "Névroses",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1514623004",
+            "title": "El Libre Desarrollo de la Personalidad de Las Personas con Discapacidad",
+            "creator": "Nuria Martínez Sánchez",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Dykinson, S.L.",
+            "isbns": [
+                "9791370060497",
+                "9789791370066",
+                "9791370060"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Personality development",
+                "People with disabilities Psychology",
+                "Personnalité Développement",
+                "Personnes handicapées Psychologie",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1524214811",
+            "title": "Ser valiente",
+            "creator": "Jorge Silva Rodighiero",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "RiL editores",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Courage"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1524214722",
+            "title": "La inteligencia emocional en el contexto educativo",
+            "creator": "Jhon Estiwar Gómez Palacio",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial UTP",
+            "isbns": [
+                "9789587229738",
+                "9587229738"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Emotional intelligence",
+                "Intelligence émotionnelle"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1524214685",
+            "title": "El todo momentáneo : una psicología de la consciencia",
+            "creator": "Juan Arellano",
             "date": "2024",
             "language": "spa",
             "generalFormat": "Book",
@@ -182,72 +255,16 @@
             "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Psychology Popular works"
+                "Consciousness",
+                "Conscience"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1520583535",
-            "title": "Duelo por imagen corporal : una ruta hacia la aceptación del cuerpo",
-            "creator": "Ana María Gallardo Zaneta",
-            "date": "2024",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "RiL editores",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Body image in women",
-                "Self-perception in women",
-                "Body image Social aspects",
-                "Image du corps chez la femme",
-                "Perception de soi chez la femme"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1517208360",
-            "title": "La rebeldía de pensar",
-            "creator": "Óscar de la Borbolla y Rondero",
-            "date": "2025",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Fondo de Cultura Económica",
-            "isbns": [
-                "9786071686930",
-                "6071686938"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Thought and thinking",
-                "Ontology",
-                "Philosophical anthropology",
-                "Pensée",
-                "Ontologie",
-                "Anthropologie philosophique",
-                "thinking",
-                "ontology (metaphysics)",
-                "philosophical anthropology",
-                "Essays",
-                "PHILOSOPHY",
-                "Humanism",
-                "Movements",
-                "Modern",
-                "History & Surveys",
-                "Reference",
-                "Criticism",
-                "Hermeneutics",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1520583330",
-            "title": "Padres frente al bullying : una guía práctica y diferente",
+            "oclcNumber": "1524215861",
+            "title": "Manual para la prevención, identificación e intervención contra el acoso escolar",
             "creator": "Jorge Sevillano González",
-            "date": "2019",
+            "date": "2016",
             "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
@@ -255,2007 +272,984 @@
             "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Bullying Prevention",
-                "Aggressiveness in children Prevention",
-                "Bullying in schools",
-                "Cyberbullying",
-                "Parenting",
-                "Intimidation dans les écoles",
-                "Intimidation sur Internet",
-                "Rôle parental"
+                "Bullying",
+                "Intimidation"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "863715919",
-            "title": "7 preguntas claves para una excelente presentación",
-            "creator": "Ángel José. Olaz Capitán",
-            "date": "2013",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ECU",
-            "isbns": [
-                "9788499485706",
-                "8499485707"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Interpersonal communication",
-                "Communication interpersonnelle",
-                "Libros electronicos"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1483081642",
-            "title": "Psicoanálisis antropológico : actas del Congreso Internacional y Comunicaciones del Año 2023 centenario del Profesor Luis Cencillo",
-            "creator": "Virginia Aguayo Romero",
-            "date": "2024",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Ediciones Universidad de Salamanca",
-            "isbns": [
-                "9788410910324",
-                "8410910322"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychotherapy Spain",
-                "Psychologists Spain",
-                "Interdisciplinary approach to knowledge Congresses",
-                "Psychologues Espagne",
-                "Interdisciplinarité Congrès"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519595574",
-            "title": "Relaciones románticas constructivas durante la adolescencia",
-            "creator": "Martha Lucía Gómez González",
-            "date": "2020",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Fondo Editorial Universidad Católica de Oriente",
-            "isbns": [
-                "9789585518674",
-                "9585518678"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Love in adolescence",
-                "Affect (Psychology)",
-                "Interpersonal relations",
-                "Amour chez l'adolescent"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519595063",
-            "title": "Habilidades para la vida",
-            "creator": "Freddy Yoverti Álvarez Fonseca",
-            "date": "2020",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Fondo Editorial Universidad Católica de Oriente",
-            "isbns": [
-                "9789585518643",
-                "9585518643"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Emotional intelligence",
-                "Interpersonal relations Study and teaching",
-                "Intelligence émotionnelle"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1034986998",
-            "title": "La psicología en 100 preguntas",
-            "creator": "Vicente Caballero de la Torre",
+            "oclcNumber": "1051137768",
+            "title": "The Muslim Theology of Huzn : With a Foreword by Alparslan Açıkgenç",
+            "creator": "Mahshid Turner",
             "date": "2018",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nowtilus",
-            "isbns": [
-                "9788499679099",
-                "8499679099"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychology Miscellanea",
-                "Psychologie Miscellanées",
-                "PSYCHOLOGY Reference",
-                "Psychology",
-                "FAQs",
-                "Trivia and miscellanea",
-                "Foires aux questions"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1485514078",
-            "title": "Hacia una concepción integral de la mente : más allá del cognitivismo",
-            "creator": "David Pérez Chico",
-            "date": "2024",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Prensas de la Universidad de Zaragoza",
-            "isbns": [
-                "9788413407838",
-                "8413407834"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cognitive science",
-                "Cognition",
-                "Sciences cognitives",
-                "cognition"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519505393",
-            "title": "Un tweet para cada día",
-            "creator": "Joan Zapatero i Ballesteros",
-            "date": "2018",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ediciones carena",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Affirmations",
-                "Motivation (Psychology)",
-                "Microblogs",
-                "Formules autosuggestives",
-                "Motivation (Psychologie)"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519504371",
-            "title": "Yo soy creación",
-            "creator": "Elisabeth Giner",
-            "date": "2018",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ediciones carena",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Self-help techniques",
-                "Spiritual life",
-                "Autodéveloppement"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518927644",
-            "title": "Psychology of perception",
-            "creator": "Simon Grondin",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
-            "isbns": [
-                "9783031865190",
-                "3031865197"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Perception",
-                "Senses and sensation Psychological aspects",
-                "Cognitive psychology",
-                "Psychology",
-                "Sens et sensations Aspect psychologique",
-                "Psychologie cognitive"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1464023839",
-            "title": "Optimizing early auditory development for communication and education : strategies for ages 0-8",
-            "creator": "Kimberly A. Boynton",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781032647081",
-                "1032647086",
-                "9781032634005",
-                "1032634006"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Auditory perception in children",
-                "Developmental psychology",
-                "Perception auditive chez l'enfant",
-                "Psychologie du développement"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1431881761",
-            "title": "Authority : essays",
-            "creator": "Andrea Long Chu",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Farrar, Straus and Giroux",
-            "isbns": [
-                "9780374600334",
-                "0374600333"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Authority",
-                "Autorité",
-                "PSYCHOLOGY / General",
-                "Essays"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1463357472",
-            "title": "The psychology and science of pseudoscience",
-            "creator": "Terence Hines",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Rowman & Littlefield Publishers",
-            "isbns": [
-                "9781538194652",
-                "1538194651",
-                "9781538194669",
-                "153819466X"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Cognition History",
-                "Knowledge, Theory of Psychological aspects History",
-                "Pseudoscience Social aspects History",
-                "Belief and doubt History",
-                "Cognition Histoire",
-                "Croyance et doute Histoire",
-                "Théorie de la connaissance Aspect psychologique Histoire",
-                "Parasciences Aspect social Histoire"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518279240",
-            "title": "A Critical History of Psychology From Antiquity to Modernity",
-            "creator": "Thomas Hardy Leahey",
-            "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "Gerlach Press",
             "isbns": [
-                "9781040110690",
-                "104011069X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1520497553",
-            "title": "Mathematical essays on embodied cognition : insights from information and control theories",
-            "creator": "Rodrick Wallace",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031837098",
-                "3031837096"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cognition Mathematical models",
-                "Cognition Modèles mathématiques"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1520497769",
-            "title": "Collective irrationality",
-            "creator": "Fathali M. Moghaddam",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031918759",
-                "3031918754"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Reasoning (Psychology)",
-                "Collective behavior",
-                "Raisonnement (Psychologie)",
-                "Comportement collectif"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518922067",
-            "title": "Psychologie",
-            "creator": "Centre d'étude et de promotion de la lecture",
-            "date": "19uu",
-            "language": "fre",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Centre d'étude et de promotion de la lecture",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Psychology Periodicals",
-                "Psychologie Périodiques",
-                "Psychology",
-                "periodicals",
-                "Periodicals",
-                "Périodiques"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1515462397",
-            "title": "Psychology of Emotion",
-            "creator": "Paula M. Niedenthal",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040332924",
-                "1040332927"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1391238191",
-            "title": "Being Human Being Transforming the Race Discourse",
-            "creator": "Molefi Kete Asante",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Universal Write Publications LLC",
-            "isbns": [
-                "9781942774099",
-                "1942774095"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Race & Gender.0 Black Studies"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1342489829",
-            "title": "MODERN EGO PSYCHOLOGY AND HUMAN SEXUAL EXPERIENCE  : the meaning of treatment",
-            "creator": "ERIC R. MARCUS",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ROUTLEDGE",
-            "isbns": [
-                "9780429958786",
-                "0429958781",
-                "9780429958793",
-                "042995879X",
-                "9780429491733",
-                "0429491735"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sex (Psychology)",
-                "Sex",
-                "Ego (Psychology)",
-                "Sexualité (Psychologie)",
-                "Sexualité",
-                "Moi (Psychologie)",
-                "sexuality"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1468099616",
-            "title": "Picturing aura : a visual biography",
-            "creator": "Jeremy Stolow",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "The MIT Press",
-            "isbns": [
-                "9780262382472",
-                "0262382474"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Aura Pictorial works",
-                "Aura Ouvrages illustrés"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1468668854",
-            "title": "The cost of conviction : how our deepest values lead us astray",
-            "creator": "Steven A. Sloman",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "The MIT Press, Massachusetts Institute of Technology",
-            "isbns": [
-                "9780262383837",
-                "0262383837",
-                "9780262383820",
-                "0262383829"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Values",
-                "Decision making",
-                "Group identity",
-                "Decision making Psychological aspects",
-                "Prise de décision Aspect psychologique",
-                "Prise de décision",
-                "Identité collective",
-                "decision making",
-                "group identity",
-                "Cognitive Neuroscience & Cognitive Neuropsychology",
-                "PSYCHOLOGY",
-                "Neuroscience",
-                "Life Sciences",
-                "SCIENCE",
-                "PHILOSOPHY",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1451415051",
-            "title": "Essentials of evaluating bias in intelligence testing",
-            "creator": "Craig L. Frisby",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
-                "1394184492",
-                "9781394184507",
-                "1394184506",
-                "9781394184484",
-                "1394184484",
-                "9781394184491"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "California. Department of Education",
-                "Intelligence tests California",
-                "African American students California",
-                "Discrimination in education California",
-                "Educational equalization California",
-                "Intelligence Tests Californie",
-                "Discrimination en éducation Californie",
-                "Démocratisation de l'enseignement Californie",
-                "Education & Training",
-                "PSYCHOLOGY",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1520097146",
-            "title": "Emotional intelligence : second CSIG Conference, CEI 2024, Nanjing, China, December 6-8, 2024, proceedings",
-            "creator": "CSIG Conference on Emotional Intelligence",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819650842",
-                "9819650844"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Emotional intelligence Congresses",
-                "Intelligence émotionnelle Congrès"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1453619404",
-            "title": "The evolution of the unconscious : exploring persons, groups, nature and spirit",
-            "creator": "Susan Long",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Routledge, Taylor & Francis Group",
-            "isbns": [
-                "9781032907925",
-                "1032907924",
-                "9781032907918",
-                "1032907916"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Subconsciousness",
-                "Psychology History",
-                "Inconscient",
-                "unconscious"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518927472",
-            "title": "What is psychology about? : the philosophical foundations of its subject-matter",
-            "creator": "Alexander Nicolai Wendt",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Palgrave Macmillan, an imprint of Springer Nature Switzerland",
-            "isbns": [
-                "9783031811111",
-                "3031811119"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Psychology Philosophy",
-                "Psychologie Philosophie"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1492412614",
-            "title": "Explaining our Actions : A Critique of Common-Sense Theorizing",
-            "creator": "Carruthers",
-            "date": "2025",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009585781",
-                "1009585789"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Common sense",
-                "Psychology Philosophy",
-                "Sens commun",
-                "Psychologie Philosophie"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518029757",
-            "title": "Divination : a cognitive perspective",
-            "creator": "Ze Hong",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009541961",
-                "100954196X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Divination Psychological aspects",
-                "Divination",
-                "Divination Aspect psychologique",
-                "divination",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518007751",
-            "title": "The concept and ethics of manipulation",
-            "creator": "Shlomo Cohen",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009443432",
-                "1009443437"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Manipulative behavior",
-                "Manipulative behavior Moral and ethical aspects",
-                "Manipulation (Psychologie)",
-                "Manipulation (Psychologie) Aspect moral",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1461817938",
-            "title": "The meaning of paradoxes and paradoxical thinking",
-            "creator": "Ryszard Praszkier",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009448321",
-                "1009448323",
-                "9781009448314",
-                "1009448315"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Thought and thinking",
-                "Creative thinking",
-                "Paradox",
-                "Pensée",
-                "Paradoxe",
-                "thinking"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519355248",
-            "title": "Professional training of psychologists : dialogues of cultural psychology from Latin America to the world",
-            "creator": "Julio César Ossa",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031860836",
-                "3031860837"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychologists Training of Latin America",
-                "Psychology Study and teaching Latin America",
-                "Psychologues Formation Amérique latine"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519552056",
-            "title": "From metaphysics to culture : music as a factor in the emergence of modern psychology, 1750-1900",
-            "creator": "Sven Hroar Klempe",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031895951",
-                "3031895959"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychology History 18th century",
-                "Psychology History 19th century",
-                "Music Psychological aspects",
-                "Musique Aspect psychologique"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1506395213",
-            "title": "Magic's translations : reality politics in colonial Indonesia",
-            "creator": "Margaret J. Wiener",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Duke University Press",
-            "isbns": [
-                "9781478060710",
-                "1478060719"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Occultism Political aspects Indonesia History",
-                "Witches Indonesia Public opinion History",
-                "Occultisme Aspect politique Indonésie Histoire",
-                "Sorcières Indonésie Opinion publique Histoire",
-                "SOCIAL SCIENCE / Anthropology / Cultural & Social",
-                "Indonesia Colonization",
-                "Netherlands Colonies Asia Administration",
-                "Pays-Bas Colonies Administration",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1501212108",
-            "title": "The Rules of Success",
-            "creator": "Richard Templar",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "",
-            "isbns": [
-                "9781292742687",
-                "1292742682"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Success",
-                "Conduct of life",
-                "Succès",
-                "Morale pratique",
-                "ethics (philosophical concept)"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1480880808",
-            "title": "The Rules of Living Well: A Personal Code for a Healthier, Happier You, 2nd edition",
-            "creator": "Richard Templar",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "",
-            "isbns": [
-                "9781292435626",
-                "1292435623"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Self-actualization (Psychology)",
-                "Well-being",
-                "Conduct of life",
-                "Morale pratique",
-                "ethics (philosophical concept)"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1434025874",
-            "title": "RULES OF THINKING, THE  : a personal code to think yourself smarter, wiser and happier",
-            "creator": "Richard Templar",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "PEARSON EDUCATION LIMITED",
-            "isbns": [
-                "9781292435800",
-                "1292435801"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Thought and thinking",
-                "Decision making",
-                "Problem solving",
-                "Pensée",
-                "Prise de décision",
-                "Résolution de problème",
-                "thinking",
-                "decision making"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1454132449",
-            "title": "Wilhelm Reich versus the flying saucers : an American tragedy",
-            "creator": "James Reich",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Brainstorm Books",
-            "isbns": [
-                "9781685711856",
-                "1685711855"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Reich, Wilhelm, 1897-1957",
-                "Reich, Wilhelm, 1897-1957 Psychology",
-                "Day the earth stood still (Motion picture : 1951) Influence",
-                "Psychoanalysts United States Biography",
-                "Orgonomy",
-                "Unidentified flying objects Folklore",
-                "Extraterrestrial beings in popular culture",
-                "Psychanalystes États-Unis Biographies",
-                "Orgonomie",
-                "Extraterrestres dans la culture populaire"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1064043892",
-            "title": "Today is the day you change your life",
-            "creator": "Elaine Harrison",
-            "date": "2012",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Pearson Life",
-            "isbns": [
-                "9780273750420",
-                "0273750429"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Change (Psychology)",
-                "Self-realization",
-                "Changement (Psychologie)",
-                "Réalisation de soi"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1514980702",
-            "title": "The Art of Change Transforming Paradoxes into Breakthroughs",
-            "creator": "Jeff DeGraff",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "AudioBook",
-            "specificFormat": "Digital",
-            "publisher": "Ascent Audio",
-            "isbns": [
-                "9781663750877",
-                "1663750874"
-            ],
-            "newFormat": "eAudiobook",
-            "subjects": [
-                "Self-actualization (Psychology)",
-                "Change (Psychology)",
-                "Leadership",
-                "Decision-Making & Problem Solving",
-                "Self-Esteem",
-                "Personal Growth",
-                "SELF-HELP",
-                "Organizational Behavior",
-                "BUSINESS & ECONOMICS",
-                "Audiobooks",
-                "Livres audio"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1452764864",
-            "title": "Calgary's most haunted : urban hauntings and personal encounters in Stampede City",
-            "creator": "Ian Gibbs",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Touchwood",
-            "isbns": [
-                "9781771514002",
-                "1771514000"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ghosts Alberta Calgary",
-                "Haunted places Alberta Calgary",
-                "Lieux hantés Alberta Calgary",
-                "\"BODY",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1350915020",
-            "title": "The rules to break : a personal code for living your life your way",
-            "creator": "Richard Templar",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Pearson",
-            "isbns": [
-                "9781292441153",
-                "1292441151",
-                "9781292441160",
-                "129244116X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Self-control",
-                "Self-confidence",
-                "Responsibility",
-                "Maîtrise de soi",
-                "Confiance en soi",
-                "Responsabilité"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519374591",
-            "title": "52 secrets for goal-setting and goal-getting",
-            "creator": "Debra Eckerling",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "AudioBook",
-            "specificFormat": "Digital",
-            "publisher": "Ascent Audio",
-            "isbns": [
-                "9781663753434",
-                "1663753431"
-            ],
-            "newFormat": "eAudiobook",
-            "subjects": [
-                "Success",
-                "Goal (Psychology)",
-                "Succès",
-                "Audiobooks",
-                "Livres audio"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519374208",
-            "title": "Intentional ambition",
-            "creator": "Rha Goddess",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "AudioBook",
-            "specificFormat": "Digital",
-            "publisher": "Ascent Audio",
-            "isbns": [
-                "9781663752871",
-                "1663752877"
-            ],
-            "newFormat": "eAudiobook",
-            "subjects": [
-                "Self-actualization (Psychology)",
-                "Success",
-                "Succès",
-                "Audiobooks",
-                "Livres audio"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1266201332",
-            "title": "Stolen focus : why you can't pay attention--and how to think deeply again",
-            "creator": "Johann Hari",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Crown",
-            "isbns": [
-                "9780593138526",
-                "059313852X",
-                "9781526620248",
-                "1526620243",
-                "9781526647115",
-                "1526647117"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Attention",
-                "Distraction (Psychology)",
-                "Attention partagée",
-                "Creative Ability",
-                "PSYCHOLOGY",
-                "Memory Improvement",
-                "Personal Growth",
-                "SELF-HELP",
-                "Self-help publications",
-                "Livres de croissance personnelle"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1519372788",
-            "title": "Who says?",
-            "creator": "Joe Mechlinski",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "AudioBook",
-            "specificFormat": "Digital",
-            "publisher": "Ascent Audio",
-            "isbns": [
-                "9781663748256",
-                "166374825X"
-            ],
-            "newFormat": "eAudiobook",
-            "subjects": [
-                "Self-actualization (Psychology)",
-                "Creative thinking",
-                "Corporate culture",
-                "Audiobooks",
-                "Livres audio"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1463767012",
-            "title": "Ghosts and things : the material culture of nineteenth-century spiritualism",
-            "creator": "Aviva Briefel",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cornell University Press",
-            "isbns": [
-                "9781501780288",
-                "150178028X",
-                "9781501780271",
-                "1501780271"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Spiritualism Great Britain History 19th century",
-                "Spiritualism United States History 19th century",
-                "Material culture Social aspects",
-                "Spiritisme Grande-Bretagne Histoire 19e siècle",
-                "Spiritisme États-Unis Histoire 19e siècle",
-                "Culture matérielle Aspect social",
-                "HISTORY / Europe / Great Britain / Victorian Era (1837-1901)",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1226678955",
-            "title": "Wissenschaft als Grenzwissenschaft : Hans Bender (1907-1991) und die deutsche Parapsychologie",
-            "creator": "Anna Lux",
-            "date": "2020",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "De Gruyter Oldenbourg",
-            "isbns": [
-                "9783110670998",
-                "3110670992"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Parapsychology",
-                "Parapsychologie",
-                "HISTORY Modern General",
-                "Freiburg",
-                "parapsychology",
-                "science"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1517037725",
-            "title": "Garçonnières",
-            "creator": "Céline Pernet",
-            "date": "2022",
-            "language": "fre",
-            "generalFormat": "Video",
-            "specificFormat": "Digital",
-            "publisher": "Lightdox",
-            "isbns": "",
-            "newFormat": "eVideo",
-            "subjects": [
-                "Masculinity",
-                "Sex differences",
-                "Men Psychology",
-                "Generation Y",
-                "Masculinité",
-                "Hommes Psychologie",
-                "Génération Internet",
-                "documentary film",
-                "Documentary films",
-                "Nonfiction films",
-                "Documentaires",
-                "Films autres que de fiction"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1518031800",
-            "title": "Structure and dynamics of asymmetric interactions",
-            "creator": "Naohito Chino",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Singapore Pte Ltd.",
-            "isbns": [
-                "9789819782680",
-                "9819782686"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Multidimensional scaling",
-                "Graph theory",
-                "Differentiable dynamical systems",
-                "System theory Social aspects",
-                "Théorie des systèmes Aspect social",
-                "Échelle multidimensionnelle",
-                "Dynamique différentiable"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1430192017",
-            "title": "Essentials of social and emotional intelligences",
-            "creator": "Christopher J. Kazanjian",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "1009415107",
-                "9781009415101",
-                "1009415131",
-                "9781009415132"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Emotional intelligence",
-                "Emotions Social aspects",
-                "Intellect Social aspects",
-                "Interpersonal relations",
-                "Intelligence émotionnelle",
-                "Intelligence Aspect social"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1467186662",
-            "title": "Youth development in context : integrating multiple informants to assess behavior",
-            "creator": "Bridget A. Makol",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
-            "isbns": [
-                "3031805488",
-                "9783031805486"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Youth development",
-                "Youth Psychology",
-                "Jeunesse Développement",
-                "Jeunesse Psychologie"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1350915121",
-            "title": "Motivation science : controversies and insights",
-            "creator": "Mimi Bong",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780197662366",
-                "0197662366",
-                "9780197662380",
-                "0197662382",
-                "9780197662373",
-                "0197662374"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Motivation (Psychology)",
-                "Motivation (Psychologie)",
-                "Educational Psychology",
-                "EDUCATION",
-                "Child",
-                "Developmental",
-                "PSYCHOLOGY",
-                "Interpersonal Relations",
-                "Social Psychology",
-                "Psychology",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1496768411",
-            "title": "Unfair Emotions : Their Morality and Blameworthiness",
-            "creator": "Jonas Blatter",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781040323090",
-                "104032309X",
-                "9781003498032",
-                "1003498035",
-                "9781040323106",
-                "1040323103"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Emotions",
-                "Emotions Social aspects",
-                "Attitude (Psychology)",
-                "Fairness",
-                "Blame",
-                "Impartialité",
-                "Blâme"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "8481940",
-            "title": "The book of dreams and ghosts",
-            "creator": "Andrew Lang",
-            "date": "1897",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Longmans, Green",
-            "isbns": "",
-            "newFormat": "Print Book",
-            "subjects": [
-                "Ghosts",
-                "Dreams",
-                "Rêves",
-                "dreams",
-                "Short stories",
-                "Publishers' cloth bindings (Binding) England London 19th century",
-                "Blocked bindings (Binding) England 19th century",
-                "Publishers' advertisements England London 19th century"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "962862",
-            "title": "Autoconditioning : the new way to a successful life",
-            "creator": "Hornell Hart",
-            "date": "1956",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Prentice-Hall, Inc.",
-            "isbns": "",
-            "newFormat": "Print Book",
-            "subjects": [
-                "Success",
-                "Achievement",
-                "Succès",
-                "Self-help publications",
-                "Livres de croissance personnelle"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "844189",
-            "title": "The wish to fall ill : a study of psychoanalysis and medicine",
-            "creator": "Karin Stephen",
-            "date": "1960",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "University Press",
-            "isbns": "",
-            "newFormat": "Print Book",
-            "subjects": [
-                "Psychoanalysis",
-                "Psychology, Pathological",
-                "Psychopathology",
-                "Psychanalyse",
-                "Psychopathologie",
-                "psychoanalysis",
-                "Abnormal psychology"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "906174289",
-            "title": "The story of pain : from prayer to painkillers",
-            "creator": "Joanna Bourke",
-            "date": "2014",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780199689422",
-                "0199689423",
-                "9780191003547",
-                "0191003549"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "English language 18th century",
-                "Pain Psychological aspects",
-                "Pain history",
-                "Pain psychology",
-                "Pain Management history",
-                "History, Modern 1601-",
-                "History, Early Modern 1451-1600",
-                "Anglais (Langue) 18e siècle",
-                "Douleur Aspect psychologique",
-                "Médecine Histoire 1500-",
-                "77.01 history of psychology",
-                "Pain History",
-                "Pain Management History",
-                "Health and Fitness",
-                "English language",
-                "Schmerz",
-                "Soziale Wahrnehmung",
-                "Health and Wellbeing",
-                "History",
-                "1700 - 1799"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1290058539",
-            "title": "Witchcraft in post-colonial Africa : beliefs, techniques and containment strategies",
-            "creator": "Khaukanani Mavhungu",
-            "date": "2012",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Langaa Research & Pub. CIG",
-            "isbns": [
-                "9789956728206",
-                "9956728209",
-                "9789956728329",
-                "9956728322",
-                "9789956728084",
-                "995672808X",
-                "9789956003662",
-                "9956003662"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Witchcraft Africa",
-                "Sorcellerie Afrique",
-                "SOCIAL SCIENCE / Anthropology / Cultural & Social"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1514623692",
-            "title": "Imagining the Post-COVID Workplace  : Challenges and Opportunities",
-            "creator": "Neal M. Ashkanasy",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040347744",
-                "1040347746"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1500772840",
-            "title": "Rethinking Psychology  : Finding Meaning in Misconceptions",
-            "creator": "Michael W. Eysenck",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
-            "isbns": [
-                "9781040338124",
-                "1040338127"
+                "9783959940412",
+                "3959940416"
             ],
             "newFormat": "eBook",
             "subjects": ""
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1511109963",
-            "title": "Exploring Psychoanalytic Concepts Through Culture, the Arts and Contemporary Life  : Learning from Observation and Experience",
-            "creator": "Margaret Lush",
-            "date": "2025",
+            "oclcNumber": "1434178497",
+            "title": "How to Form a Group",
+            "creator": "Lynn S. Rapin",
+            "date": "2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "SAGE Publications, Incorporated",
             "isbns": [
-                "9781040273685",
-                "1040273688"
+                "9781483318172",
+                "1483318176"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1427147775",
+            "title": "Early trauma, loneliness, the indoctrinated self, and the need for compassionate empathy",
+            "creator": "Thomas G. Arizmendi",
+            "date": "2024",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527565302",
+                "1527565300"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Electronic books"
+                "Control (Psychology)",
+                "Psychic trauma",
+                "Loneliness",
+                "Contrôle (Psychologie)",
+                "Traumatisme psychique",
+                "Solitude"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1437528625",
-            "title": "Agency and cognitive development",
-            "creator": "Michael Tomasello",
-            "date": "2024",
+            "oclcNumber": "1382318399",
+            "title": "Labyrinth of Ayahuasca",
+            "creator": "Manuel Almendro",
+            "date": "2023",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "0198896573",
-                "9780198896579"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Cognition in children",
-                "Developmental psychology",
-                "Cognition chez l'enfant",
-                "Psychologie du développement"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1429723867",
-            "title": "Towards an integrated analytical psychology : return to freedom and dignity",
-            "creator": "Matthew Bennett",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Routledge, Taylor & Francis Group",
-            "isbns": [
-                "9781032708713",
-                "1032708719",
-                "9781032708737",
-                "1032708735"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Personality development",
-                "Psychotherapy",
-                "Personnalité Développement"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1467673849",
-            "title": "Established adulthood : navigating the complex years of the 30s and 40s",
-            "creator": "Clare M. Mehta",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780197777732",
-                "0197777732"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Adulthood Psychology aspects",
-                "Aging Psychological aspects",
-                "Vieillissement Aspect psychologique"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1113238557",
-            "title": "Российский психологический журнал",
-            "creator": "Российское психологическое общество",
-            "date": "2004",
-            "language": "rus",
-            "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Издательство Ростовского университета",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527505018",
+                "1527505014"
+            ],
+            "newFormat": "eBook",
             "subjects": [
-                "Psychology Periodicals",
-                "Psychology",
-                "Periodicals"
+                "Ayahuasca",
+                "Banisteriopsis caapi"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1280379102",
-            "title": "Psikoloji çalısmaları",
-            "creator": "İstanbul Üniversitesi Psikoloji Bölümü",
-            "date": "200u",
-            "language": "tur",
-            "generalFormat": "Jrnl",
+            "oclcNumber": "1084475073",
+            "title": "Minding dolls : an exercise in archetype and ideal",
+            "creator": "Lisa Pavlik-Malone",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "İstanbul Üniversitesi, Edebiyat Fakültesi, Psikoloji Bölümü",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527527454",
+                "152752745X"
+            ],
+            "newFormat": "eBook",
             "subjects": [
-                "Psychology Periodicals",
-                "Psychology",
-                "Periodicals"
+                "Object relations (Psychoanalysis)",
+                "Relation d'objet (Psychanalyse)",
+                "PSYCHOLOGY Reference"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1517931351",
-            "title": "The cyber-creativity process : how humans co-create with artificial intelligence",
-            "creator": "Giovanni E. Corazza",
+            "oclcNumber": "1410592791",
+            "title": "Love and violence : insights from Shakespeare on psychology, ethics, theater, and law",
+            "creator": "David A. J. Richards",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Ethics International Press Ltd., UK",
+            "isbns": [
+                "1804411280",
+                "9781804411285"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Shakespeare, William, 1564-1616 Criticism and interpretation",
+                "Freud, Sigmund, 1856-1939 Criticism and interpretation",
+                "Freud, Sigmund, 1856-1939",
+                "Shakespeare, William, 1564-1616",
+                "Violence Psychological aspects",
+                "Love Psychological aspects",
+                "Violence in literature",
+                "Love in literature",
+                "Psychoanalysis",
+                "Violence Aspect psychologique",
+                "Amour Aspect psychologique",
+                "Violence dans la littérature",
+                "Amour dans la littérature",
+                "Psychanalyse",
+                "psychoanalysis",
+                "Criticism, interpretation, etc"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1124594396",
+            "title": "Online Counselor Education : a Guide for Students",
+            "creator": "Carl J. Sheperis",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications",
+            "isbns": [
+                "9781506300931",
+                "1506300936"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "940559439",
+            "title": "How to select and apply change strategies in groups",
+            "creator": "Christine J. Schimmel",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Sage",
+            "isbns": [
+                "9781483318202",
+                "1483318206"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Social group work",
+                "Group counseling",
+                "Change (Psychology)",
+                "Counseling de groupe",
+                "Changement (Psychologie)",
+                "PSYCHOLOGY Applied Psychology",
+                "SELF-HELP Personal Growth General",
+                "SELF-HELP Personal Growth Happiness",
+                "SELF-HELP Personal Growth Success"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1524196999",
+            "title": "Psychosocial approaches to health and wellbeing in adulthood",
+            "creator": "Jennifer M. Waite-Jones",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Palgrave Macmillan",
             "isbns": [
-                "9783031845352",
-                "3031845358"
+                "9783031881770",
+                "303188177X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Creative ability",
-                "Artificial intelligence",
-                "Human-computer interaction",
-                "Créativité",
-                "Intelligence artificielle",
-                "creativity",
-                "artificial intelligence"
+                "Well-being",
+                "Health",
+                "Care of the sick Social aspects",
+                "Care of the sick Psychological aspects",
+                "Soins aux malades Aspect social",
+                "Soins aux malades Aspect psychologique",
+                "Santé",
+                "health"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1516252048",
-            "title": "A theological approach to vulnerability : towards a humane ethics",
-            "creator": "Carolina Montero Orphanopoulos",
+            "oclcNumber": "876298520",
+            "title": "Encyclopedia of deception",
+            "creator": "Timothy R. Levine",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Reference",
+            "isbns": [
+                "9781483306896",
+                "1483306895",
+                "9781483306902",
+                "1483306909",
+                "9781483388984",
+                "1483388980",
+                "1784025763",
+                "9781784025762"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Deception",
+                "Truthfulness and falsehood",
+                "Tromperie",
+                "Mensonge",
+                "FAMILY & RELATIONSHIPS Interpersonal Relations",
+                "Electronic encyclopedias",
+                "Electronic reference sources",
+                "Encyclopedias"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1311313709",
+            "title": "Mathematical modeling of the learning curve and its practical applications",
+            "creator": "Igor I. Stepanov",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers",
+            "isbns": [
+                "1685078516",
+                "9781685078515"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Learning curve (Psychometrics)",
+                "Learning Mathematical models",
+                "Learning curve (Psychometrics) Data processing",
+                "Courbe d'apprentissage (Psychométrie)",
+                "Apprentissage Modèles mathématiques",
+                "Courbe d'apprentissage (Psychométrie) Informatique"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1523876807",
+            "title": "Persuasive technology : 20th international conference, PERSUASIVE 2025, Limassol, Cyprus, May 5-7, 2025, proceedings",
+            "creator": "International Conference on Persuasive Technology for Human Well-Being",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783031844164",
-                "3031844165"
+                "9783031949593",
+                "3031949595"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Vulnerability (Personality trait) Religious aspects",
-                "Ethics",
-                "Vulnérabilité (Trait de personnalité) Aspect religieux",
-                "Morale",
-                "ethics (philosophy)"
+                "Persuasion (Psychology) Computer programs Congresses",
+                "Human-computer interaction Congresses",
+                "Ubiquitous computing Congresses",
+                "Informatique omniprésente Congrès",
+                "proceedings (reports)",
+                "Conference papers and proceedings",
+                "Actes de congrès"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1516246630",
-            "title": "Critical thinking across disciplines. Vol. 1, Theory and classroom practice",
-            "creator": "Robert J. Sternberg",
-            "date": "2025",
+            "oclcNumber": "893684481",
+            "title": "New directions in interpersonal communication research",
+            "creator": "Sandi W. Smith",
+            "date": "2010",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
+            "publisher": "SAGE",
             "isbns": [
-                "9783031826443",
-                "3031826442"
+                "9781483351452",
+                "1483351459",
+                "9781483349619",
+                "1483349616",
+                "1506320813",
+                "9781506320816"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Critical thinking",
-                "Pensée critique"
+                "Interpersonal communication",
+                "Interpersonal communication Research",
+                "Communication interpersonnelle",
+                "Communication interpersonnelle Recherche",
+                "PSYCHOLOGY Cognitive Psychology",
+                "SCIENCE Cognitive Science",
+                "Interpersonale Kommunikation",
+                "Kommunikation",
+                "Forschung"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1516237119",
-            "title": "Critical thinking across disciplines. Vol. 2, Applications in the digital age",
-            "creator": "Robert J. Sternberg",
-            "date": "2025",
+            "oclcNumber": "839389110",
+            "title": "Doing collaborative research in psychology : a team-based guide",
+            "creator": "Jerusha Beth Detweiler-Bedell",
+            "date": "©2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
+            "publisher": "Sage",
             "isbns": [
-                "9783031826405",
-                "303182640X"
+                "1483307069",
+                "9781483307060",
+                "9781452275345",
+                "1452275343"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Critical thinking",
-                "Pensée critique"
+                "Psychology Research",
+                "Psychologie Recherche",
+                "PSYCHOLOGY Reference"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1518426090",
-            "title": "A brief excursion into human cognition : the evolving influence of social media & artificial intelligence",
-            "creator": "Hans Kankam",
-            "date": "2025",
+            "oclcNumber": "1463302342",
+            "title": "Group Work Leadership : An Introduction for Helpers",
+            "creator": "Robert K. Conyne",
+            "date": "2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
+            "publisher": "SAGE Publications, Incorporated",
             "isbns": [
-                "9783031897528",
-                "3031897528"
+                "1071934171",
+                "9781071934173",
+                "1483300854",
+                "9781483300856",
+                "1483320812",
+                "9781483320816"
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Group counseling",
+                "Group problem solving",
+                "Group counseling Case studies",
+                "Group problem solving Case studies",
+                "Résolution de problème en groupe",
+                "Résolution de problème en groupe Études de cas"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "918559848",
+            "title": "The cognitive sciences : an interdisciplinary approach",
+            "creator": "Carolyn Panzer Sobel",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications, Inc",
+            "isbns": [
+                "9781483306193",
+                "1483306194"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cognitive science",
+                "Sciences cognitives"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "953658585",
+            "title": "La identitat personal",
+            "creator": "Juan Ignacio Pozo Municio",
+            "date": "2015",
+            "language": "cat",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial UOC",
+            "isbns": [
+                "9788490648759",
+                "8490648751"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Identity (Psychology)",
+                "Learning, Psychology of",
+                "Identité (Psychologie)",
+                "Psychologie de l'apprentissage"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "918559154",
+            "title": "Transforming historical trauma through dialogue",
+            "creator": "David S. Derezotes",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications, Inc",
+            "isbns": [
+                "9781483315911",
+                "1483315916"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychic trauma",
+                "Psychic trauma Patients Counseling of",
+                "Traumatisme psychique",
+                "Traumatisme psychique Patients Counseling"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "931606852",
+            "title": "Contemporary theory and practice in counseling and psychotherapy",
+            "creator": "Howard E. A. Tinsley",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE",
+            "isbns": [
+                "9781483313337",
+                "1483313336",
+                "9781483324784",
+                "1483324788"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling",
+                "Psychotherapy",
+                "Evidence-based medicine",
+                "Counseling methods",
+                "Evidence-Based Medicine",
+                "Evidence-Based Practice",
+                "Psychotherapy methods",
+                "Médecine factuelle"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "809773891",
+            "title": "21st century psychology : a reference handbook",
+            "creator": "Stephen F. Davis",
+            "date": "2008",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications",
+            "isbns": [
+                "9781452265704",
+                "1452265704"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychology",
+                "Psychologie",
+                "psychology",
+                "PSYCHOLOGY Reference"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1321797424",
+            "title": "New Horizons in Creativity",
+            "creator": "Shulamith Kreitler",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers, Incorporated",
+            "isbns": [
+                "9781685078225",
+                "1685078222"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "809773868",
+            "title": "Adult Personality Development : Volume 1: Theories and Concepts",
+            "creator": "Dr Lawrence S. S. Wrightsman",
+            "date": "1994",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications",
+            "isbns": [
+                "9781452265094",
+                "1452265097"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Personality",
+                "Adulthood Psychological aspects",
+                "Aging Psychological aspects",
+                "Personnalité",
+                "Adultes Psychologie",
+                "Vieillissement Aspect psychologique",
+                "Social Sciences",
+                "Psychology"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "311057558",
+            "title": "Encyclopedia of perception",
+            "creator": "E. Bruce Goldstein",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Sage Publications",
+            "isbns": [
+                "9781452266152",
+                "1452266158",
+                "1506332730",
+                "9781506332734"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Perception Encyclopedias",
+                "Senses and sensation Encyclopedias",
+                "Perception",
+                "Senses and sensation",
+                "Sensation",
+                "Perception Encyclopédies",
+                "Sens et sensations Encyclopédies",
+                "Sens et sensations",
+                "sensation",
+                "senses",
+                "PSYCHOLOGY Physiological Psychology",
+                "Encyclopedia",
+                "encyclopedias",
+                "Encyclopedias",
+                "Encyclopédies"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1340956412",
+            "title": "La força de la Gravitació Emocional  : Un Viatge Extraordinari per l'univers de les Emocions",
+            "creator": "M. Mercè. Conangla i Marín",
+            "date": "2016",
+            "language": "cat",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial UOC",
+            "isbns": [
+                "9788491165729",
+                "849116572X"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1274706761",
+            "title": "Twenty-Four Stories From Psychology",
+            "creator": "John D. Hogan",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications, Inc",
+            "isbns": [
+                "9781506378237",
+                "1506378234"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychology History"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1430331982",
+            "title": "Time representations in the perspective of human creativity",
+            "creator": "Anna Piata",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "John Benjamins Publishing Company",
+            "isbns": [
+                "9027257418",
+                "9789027257413"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Creative ability",
+                "Time perception",
                 "Cognition",
-                "Cognitive psychology",
-                "Social media Psychological aspects",
-                "Artificial intelligence Psychological aspects",
-                "Psychologie cognitive",
-                "Médias sociaux Aspect psychologique",
-                "Intelligence artificielle Aspect psychologique",
+                "Créativité",
+                "Perception du temps",
+                "creativity",
                 "cognition"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1518422889",
-            "title": "Trends in Latin American psychology : research published in Universitas psychologica",
-            "creator": "Wilson López-López",
-            "date": "2025",
+            "oclcNumber": "1427589017",
+            "title": "Ce que la psychanalyse nous enseigne, comment l'enseigner ? Une approche topologique",
+            "creator": "Jean-Gerard Bursztein",
+            "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "Hermann",
             "isbns": [
-                "9783031875540",
-                "3031875540"
+                "9791037038036"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Psychology Latin America"
+                "PSYCHOLOGY",
+                "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "38936788",
-            "title": "Treatise on the human mind (1664)",
-            "creator": "Louis de La Forge",
-            "date": "©1997",
+            "oclcNumber": "1305846753",
+            "title": "Looking for a Perfect World",
+            "creator": "Juan González Hernández",
+            "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Kluwer Academic Publishers",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers, Incorporated",
             "isbns": [
-                "0792347781",
-                "9780792347781"
+                "9781685077464",
+                "1685077463"
             ],
-            "newFormat": "Print Book",
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1251873752",
+            "title": "Origins of the Witches' Sabbath",
+            "creator": "Michael David Bailey",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The Pennsylvania State University Press",
+            "isbns": [
+                "0271089512",
+                "9780271089515"
+            ],
+            "newFormat": "eBook",
             "subjects": [
-                "Descartes, René, 1596-1650",
-                "LaForge, Louis de",
-                "Psychology Early works to 1850",
-                "Mind and body Early works to 1800",
+                "Sabbat Alps, Western History To 1500 Sources",
+                "Witchcraft Alps, Western History To 1500 Sources",
+                "HISTORY Medieval",
+                "HISTORY / Europe / Medieval",
+                "Sabbat",
+                "Witchcraft",
+                "Western Alps",
+                "History",
+                "Sources",
+                "To 1500",
+                "demonology",
+                "heresy",
+                "inquisition",
+                "sabbat",
+                "sabbath",
+                "witch-hunt",
+                "witch-trial"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1303084420",
+            "title": "Academia, Chernobyl, Expeditions and the Greeks  : A Research Psychologist on the Move",
+            "creator": "Gloria Leon",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Anthem Press",
+            "isbns": [
+                "9781839982743",
+                "1839982748"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Leon, Gloria Rakita",
+                "Women psychologists United States Biography",
+                "Psychologists United States Biography",
+                "Extreme environments",
+                "Femmes psychologues États-Unis Biographies",
+                "Psychologues États-Unis Biographies",
+                "Milieux extrêmes",
+                "Social Scientists & Psychologists",
+                "Research & Methodology",
+                "PSYCHOLOGY",
+                "Gender Studies",
+                "SOCIAL SCIENCE",
+                "BIOGRAPHY & AUTOBIOGRAPHY"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1347028605",
+            "title": "How Leaders Can Assess Group Counseling",
+            "creator": "Maria T. Riva",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Publications, Incorporated",
+            "isbns": [
+                "9781483318196",
+                "1483318192"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "873141074",
+            "title": "Encyclopedia of humor studies",
+            "creator": "Salvatore Attardo",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE Reference",
+            "isbns": [
+                "9781483346175",
+                "148334617X",
+                "9781483346182",
+                "1483346188",
+                "9781483364711",
+                "1483364712"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Laughter Encyclopedias",
+                "Wit and humor Encyclopedias",
+                "Rire Encyclopédies",
+                "Humour Encyclopédies",
+                "BIOGRAPHY & AUTOBIOGRAPHY Literary",
+                "Laughter",
+                "Wit and humor",
+                "Electronic encyclopedias",
+                "encyclopedias",
+                "Encyclopedias",
+                "Encyclopédies"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1492353125",
+            "title": "Understanding and Interaction in Clinical and Educational Settings",
+            "creator": "Barry Saferstein",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Toronto Press",
+            "isbns": [
+                "9781487569815",
+                "1487569815"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cognition and culture",
+                "Communication in medicine",
+                "Communication in education",
+                "Dialogue analysis Social aspects",
+                "Cognition et culture",
+                "Communication en médecine",
+                "Communication en éducation",
+                "Analyse du dialogue Aspect social",
+                "LANGUAGE ARTS & DISCIPLINES",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "945736639",
+            "title": "The SAGE encyclopedia of theory in psychology",
+            "creator": "Harold L. Miller",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "SAGE",
+            "isbns": [
+                "9781483346281",
+                "1483346285",
+                "9781506340104",
+                "1506340105"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
                 "Psychology",
-                "Mind-Body Relations, Metaphysical",
-                "Psychologie Ouvrages avant 1850",
-                "Esprit et corps Ouvrages avant 1800",
                 "Psychologie",
                 "psychology",
-                "Mind and body",
-                "Kommentar",
-                "Occasionalisme",
-                "Filosofie van de geest",
-                "Cartesianisme",
-                "Lichaam en geest",
-                "Lichaam en ziel",
-                "Emoties",
-                "Early works to 1850",
-                "Early works to 1800",
-                "Early works"
+                "PSYCHOLOGY Reference",
+                "encyclopedias",
+                "Encyclopedias",
+                "Encyclopédies"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1382526106",
-            "title": "On giving up",
-            "creator": "Adam Phillips",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Farrar, Straus, and Giroux",
-            "isbns": [
-                "9780374614140",
-                "0374614148"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Self-sacrifice",
-                "Sacrifice",
-                "Conduct of life",
-                "Dévouement",
-                "Morale pratique",
-                "ethics (philosophical concept)",
-                "PSYCHOLOGY / General",
-                "Essays"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "711642",
-            "title": "Perception; the basic process in cognitive development",
-            "creator": "Ronald H. Forgus",
-            "date": "[1966]",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "McGraw-Hill",
-            "isbns": "",
-            "newFormat": "Print Book",
-            "subjects": [
-                "Perception",
-                "Entwicklung",
-                "Psychologie",
-                "Wahrnehmung",
-                "Waarneming",
-                "Cognitieve ontwikkeling",
-                "Desenvolvimento Perceptivo",
-                "Perception sociale",
-                "Perception spatiale",
-                "Cognition",
-                "Information, Théorie de l', en psychologie"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1320",
-            "title": "The course of human life; a study of goals in the humanistic perspective",
-            "creator": "Charlotte Malachowski Buhler",
-            "date": "[1968]",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Pub. Co",
-            "isbns": "",
-            "newFormat": "Print Book",
-            "subjects": [
-                "Goal (Psychology)",
-                "Motivation (Psychology)",
-                "Motivation",
-                "Goals",
-                "But (Psychologie)",
-                "Motivation (Psychologie)",
-                "Motivatie",
-                "Doelgericht gedrag",
-                "Doelstellingen",
-                "Levensloop"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "467703130",
-            "title": "The role of play in human development",
-            "creator": "Anthony D. Pellegrini",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780195367324",
-                "0195367324"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Play Psychological aspects",
-                "Play Social aspects",
-                "Symbolic play",
-                "Child psychology",
-                "Child development",
-                "Child Development",
-                "Play and Playthings psychology",
-                "Psychology, Child",
-                "Child Behavior",
-                "Jeu Aspect psychologique",
-                "Jeu Aspect social",
-                "Jeu symbolique",
-                "Enfants Psychologie",
-                "Enfants Développement",
-                "Spiel",
-                "Phylogenie",
-                "Psychosoziale Entwicklung"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1463683145",
-            "title": "Thinking at the Speed of Bias: How to Shift Our Unconscious Filters",
-            "creator": "Sara Taylor",
-            "date": "2024",
+            "oclcNumber": "885008480",
+            "title": "Emotion",
+            "creator": "Annett Schirmer",
+            "date": "2014",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Berrett-Koehler Publishers, Inc. : Berrett-Koehler Publishers",
+            "publisher": "SAGE",
             "isbns": [
-                "9781523006786",
-                "1523006781"
+                "9781483311340",
+                "1483311341",
+                "1483378616",
+                "9781483378619"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Prejudices",
-                "Discrimination",
-                "Multiculturalism",
-                "Organizational change",
-                "Préjugés",
-                "Multiculturalisme",
-                "Changement organisationnel",
-                "multiculturalism",
-                "Human Resources & Personnel Management",
-                "BUSINESS & ECONOMICS",
-                "Discrimination & Race Relations",
+                "Emotions",
+                "PSYCHOLOGY Physiological Psychology",
+                "Gefühl",
+                "Kognition",
+                "Neurowissenschaften"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1424928146",
+            "title": "TOWARDS AWARENESS",
+            "creator": "HEMANT CHOPDA",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "PRINTS PUBLICATIONS PVT L",
+            "isbns": [
+                "8196577648",
+                "9788196577643"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1333082914",
+            "title": "Escritos Sobre Espiritualidad y Transcendencia",
+            "creator": "Carl Gustav Jung",
+            "date": "2021",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trotta, Editorial S.A.",
+            "isbns": [
+                "9788413640136",
+                "841364013X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books",
+                "Livres numériques",
+                "e-books",
+                "Spirituality",
+                "RELIGION",
+                "Movements",
+                "PSYCHOLOGY"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1420167952",
+            "title": "Atheisme psychanalytique et Bible hebraique Les Dix paroles",
+            "creator": "Jean-Gerard Bursztein",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Hermann",
+            "isbns": [
+                "9791037021090"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Bible Psychology",
+                "Bible Psychologie",
+                "Psychoanalysis and religion",
+                "Atheism",
+                "Psychanalyse Aspect religieux",
+                "Athéisme",
+                "atheism",
                 "SOCIAL SCIENCE",
                 "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1322255183",
-            "title": "European Journal of Psychology Open",
+            "oclcNumber": "1351894636",
+            "title": "LE REEL, CATEGORIE REFERENTIELLE DE LA PSYCHANALYSE",
             "creator": "",
-            "date": "uuuu",
-            "language": "und",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "[s.n.]",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "56520830",
-            "title": "度過生死的大海 : 人生最大的一件事",
-            "creator": "盧勝彥, 1945-",
-            "date": "2003",
-            "language": "chi",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "大燈文化事業股份有限公司",
-            "isbns": [
-                "9867903153",
-                "9789867903150"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Spiritualism",
-                "Buddhism China Miscellanea",
-                "Spiritisme",
-                "Bouddhisme Chine Miscellanées",
-                "spiritualism",
-                "Buddhism",
-                "China",
-                "Trivia and miscellanea"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1436519938",
-            "title": "Everything flirts : philosophical romances",
-            "creator": "Sharon Wahl",
-            "date": "2024",
+            "date": "2021",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of Iowa Press",
+            "publisher": "HERMANN",
             "isbns": [
-                "9781609389987",
-                "1609389980"
+                "9791037020703"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Love Psychological aspects",
-                "Love Philosophy",
-                "Amour Aspect psychologique",
-                "Amour Philosophie",
-                "FICTION / General",
+                "SOCIAL SCIENCE",
                 "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1193951439",
-            "title": "Grieving the death of a friend",
-            "creator": "Harold Ivan Smith",
-            "date": "c1996",
-            "language": "eng",
+            "oclcNumber": "1505733709",
+            "title": "La Finalité Interne de l'inconscient",
+            "creator": "Jean-Gérard BURSZTEIN",
+            "date": "2022",
+            "language": "fre",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Augsburg",
+            "publisher": "Hermann",
             "isbns": [
-                "9798889833956"
+                "9791037021076"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Bereavement Psychological aspects",
-                "Bereavement Religious aspects Christianity",
-                "Grief",
-                "Grief Religious aspects Christianity",
-                "Loss (Psychology)",
-                "Deuil Aspect psychologique",
-                "Chagrin",
-                "Chagrin Aspect religieux Christianisme",
-                "Perte (Psychologie)",
-                "grief"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1502071803",
-            "title": "The self-love mindset : why personal wellbeing is the ultimate business strategy",
-            "creator": "Lauri-Ann Ainsworth",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley",
-            "isbns": [
-                "9781907312786",
-                "1907312781",
-                "9781907312793",
-                "190731279X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Burn out (Psychology)",
-                "Self-actualization (Psychology)",
-                "Well-being",
-                "Self-help techniques",
-                "Épuisement professionnel",
-                "Autodéveloppement",
-                "Success",
-                "Personal Growth",
-                "SELF-HELP",
+                "Psychoanalysts Practice",
+                "Psychoanalysis Study and teaching",
+                "Psychanalystes Pratique",
+                "Psychanalyse Étude et enseignement",
+                "SOCIAL SCIENCE",
                 "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1455749203",
-            "title": "Expanding Psychoanalysis  : The Contributions of Susie Orbach",
-            "creator": "Brett Kahr",
-            "date": "2024",
-            "language": "eng",
+            "oclcNumber": "1141020753",
+            "title": "MELANCOLIA Y CREACION EN VINCENT VAN GOGH",
+            "creator": "Massimo Recalcati",
+            "date": "2019",
+            "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "NED EDICIONES",
             "isbns": [
-                "9781040157237",
-                "1040157238"
+                "8416737576",
+                "9788416737574"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -2266,270 +1260,1518 @@
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1511101055",
-            "title": "Producing Children  : Critical Studies in Childhood Creativity",
-            "creator": "Peter C. Kunze",
-            "date": "2025",
+            "oclcNumber": "1012158476",
+            "title": "Journeys to professional excellence : stories of courage, innovation, and risk-taking in the lives of noted psychologists and counselors",
+            "creator": "Fred Bemak",
+            "date": "2017",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Rutgers University Press",
+            "publisher": "SAGE",
             "isbns": [
-                "1978842341",
-                "9781978842342"
+                "9781506353470",
+                "1506353479"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Creative ability in children",
-                "Creation (Literary, artistic, etc.)",
-                "Child authors",
-                "Child actors",
-                "Child dancers",
-                "Créativité chez l'enfant",
-                "Enfants écrivains",
-                "Enfants acteurs",
-                "Enfants danseurs",
-                "Children's & Young Adult Literature",
-                "LITERARY CRITICISM",
-                "Children's Studies",
-                "Media Studies",
-                "Electronic books"
+                "Psychologists Biography",
+                "Psychology Vocational guidance",
+                "Psychology Practice",
+                "Psychologues Biographies",
+                "Psychologie Orientation professionnelle",
+                "Psychologie Pratique",
+                "Psychologists",
+                "Biographies"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "700423625",
-            "title": "\"Love, Lust, and Marriage: Why We Stay and Why We Stray.\"",
-            "creator": "Films on Demand",
-            "date": "1997",
-            "language": "eng",
-            "generalFormat": "Video",
-            "specificFormat": "Digital",
-            "publisher": "Films Media Group ; McIntyre Media [distributor]",
-            "isbns": "",
-            "newFormat": "eVideo",
-            "subjects": ""
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1455113499",
-            "title": "The creative self : beyond individualism",
-            "creator": "Mari Ruti",
-            "date": "2025",
+            "oclcNumber": "942387977",
+            "title": "A Groups in Community and Agency Settings",
+            "creator": "Nilofer Merchant",
+            "date": "2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Columbia University Press",
+            "publisher": "",
             "isbns": [
-                "9780231562508",
-                "0231562500"
+                "9781483318141",
+                "1483318141"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Self",
-                "Creative ability",
-                "Individualism",
-                "Moi (Psychologie)",
-                "Créativité",
-                "creativity",
-                "PSYCHOLOGY / Movements / Psychoanalysis",
-                "Electronic books"
+                "Group counseling",
+                "Social group work",
+                "Group work in education",
+                "Teaching teams",
+                "Counseling de groupe",
+                "Enseignement Travail en équipe"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1437527247",
-            "title": "The instability of truth : brainwashing, mind control, and hyper-persuasion",
-            "creator": "Rebecca M. Lemov",
+            "oclcNumber": "1523137379",
+            "title": "A theological approach to vulnerability : towards a humane ethics",
+            "creator": "Carolina Montero Orphanopoulos",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "W.W. Norton & Company",
+            "publisher": "Springer Nature Switzerland",
             "isbns": [
-                "9781324075264",
-                "1324075260"
+                "9783031844157",
+                "3031844157"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Brainwashing",
-                "Brainwashing History",
-                "Neurobiology",
-                "Control (Psychology)",
-                "Influence (Psychology)",
-                "Mental suggestion",
-                "Propaganda",
-                "Truthfulness and falsehood",
-                "Lavage de cerveau",
-                "Lavage de cerveau Histoire",
-                "Neurobiologie",
-                "Contrôle (Psychologie)",
-                "Influence (Psychologie)",
-                "Propagande",
-                "Informational works",
-                "Illustrated works",
-                "Documents d'information",
-                "Ouvrages illustrés"
+                "Vulnerability (Personality trait) Religious aspects Christianity",
+                "Ethics",
+                "Morale",
+                "ethics (philosophy)",
+                "Vulnerability (Personality trait)"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1466059197",
-            "title": "Rethinking psychology : finding meaning in misconceptions",
-            "creator": "Michael W. Eysenck",
+            "oclcNumber": "1513265250",
+            "title": "Fanon, psychoanalysis, and critical decolonial psychology : the mind of apartheid",
+            "creator": "Derek Hook",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
             "publisher": "Routledge, Taylor & Francis Group",
             "isbns": [
-                "9781032980119",
-                "1032980117",
-                "9781032978185",
-                "103297818X"
+                "9781032308029",
+                "1032308028",
+                "9781032308012",
+                "103230801X"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Psychology Social aspects",
-                "Psychology",
-                "Human behavior",
-                "Common fallacies",
-                "Comportement humain",
-                "Erreurs populaires",
-                "human behavior"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1468302456",
-            "title": "Atmospheric health, nature, and well-being : towards a philosophy of the garden",
-            "creator": "Paweł Jędrzejko",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Routledge, Taylor & Francis Group",
-            "isbns": [
-                "9781032357676",
-                "1032357673",
-                "9781032357683",
-                "1032357681"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Environmental psychology",
-                "Nature Psychological aspects",
-                "Human beings Effect of environment on",
-                "Well-being",
-                "Mind and body",
-                "Nature, Healing power of",
-                "Nature Aspect psychologique",
-                "Êtres humains Influence de l'environnement",
-                "Médecine naturelle"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1466056192",
-            "title": "The quest for significance : harnessing the need that makes the world go round",
-            "creator": "Arie W. Kruglanski",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Routledge, Taylor & Francis Group",
-            "isbns": [
-                "9781032531694",
-                "103253169X",
-                "9781032508788",
-                "1032508787"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Self-realization",
+                "Critical psychology",
+                "Postcolonialism",
+                "Apartheid",
                 "Social psychology",
-                "Réalisation de soi",
+                "Psychologie critique",
                 "Psychologie sociale",
                 "social psychology"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1458612997",
-            "title": "Ethics in participatory research on counselling and psychotherapy : justice, solidarity and care",
-            "creator": "John McLeod",
+            "oclcNumber": "1517999048",
+            "title": "The concept and ethics of manipulation",
+            "creator": "Shlomo Cohen",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "Routledge, Taylor & Francis Group",
+            "publisher": "Cambridge University Press",
             "isbns": [
-                "9781032522630",
-                "1032522631",
-                "9781032522616",
-                "1032522615"
+                "9781009443449",
+                "1009443445"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Counseling Moral and ethical aspects",
-                "Psychotherapy Moral and ethical aspects",
-                "Counseling Research Methodology",
-                "Psychotherapy Research Methodology",
-                "Counseling Aspect moral",
-                "Psychothérapie Recherche Méthodologie"
+                "Manipulative behavior",
+                "Manipulative behavior Moral and ethical aspects",
+                "Manipulation (Psychologie)",
+                "Manipulation (Psychologie) Aspect moral"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1484656360",
-            "title": "The witch studies reader",
-            "creator": "Soma Chaudhuri",
-            "date": "2025",
-            "language": "eng",
+            "oclcNumber": "844941013",
+            "title": "Conceptions de l'intelligence et pratiques éducatives : quelle est l'influence du constructivisme?",
+            "creator": "Caterina Fiorilli",
+            "date": "©2012",
+            "language": "fre",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Duke University Press",
+            "publisher": "Presses de l'Université du Québec",
             "isbns": [
-                "1478060360",
-                "9781478060369"
+                "9782760535251",
+                "2760535258"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Witchcraft",
-                "Witches",
-                "Feminist spirituality",
-                "Occultism Social aspects",
-                "Sorcellerie",
-                "Sorcières",
-                "Spiritualité féministe",
-                "Occultisme Aspect social",
-                "witchcraft",
-                "witches",
-                "RELIGION / Wicca",
+                "Intelligence tests",
+                "Teaching Attitudes",
+                "Apprentice Practice",
+                "Teaching Practice",
+                "Teachers Attitudes",
+                "Innate ideas (Philosophy)",
+                "Intellect",
+                "Learning strategies",
+                "Intelligence Tests",
+                "Intelligence",
+                "Enseignants Attitudes",
+                "Enseignement Pratique",
+                "Innéisme",
+                "Stratégies d'apprentissage",
+                "PSYCHOLOGY Cognitive Psychology",
+                "SCIENCE Cognitive Science",
+                "EDUCATION General",
                 "Electronic books"
             ]
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1516993607",
-            "title": "An interdisciplinary approach to vulnerability : towards a humane ethics",
-            "creator": "Carolina Montero Orphanopoulos",
+            "oclcNumber": "1523169443",
+            "title": "Monitoreo metacognitivo en el aula : calibración y juicios metacognitivos en el aprendizaje",
+            "creator": "Diana Marcela Montoya Londoño",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": [
+                "9789587596175",
+                "958759617X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Metacognition in children",
+                "Métacognition chez l'enfant",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1523965319",
+            "title": "Radical listening",
+            "creator": "Christian van Nieuwerburgh",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "AudioBook",
+            "specificFormat": "Digital",
+            "publisher": "Ascent Audio",
+            "isbns": [
+                "9781663750990",
+                "1663750998"
+            ],
+            "newFormat": "eAudiobook",
+            "subjects": [
+                "Listening",
+                "Interpersonal communication",
+                "Interpersonal relations",
+                "Écoute (Psychologie)",
+                "Communication interpersonnelle",
+                "Audiobooks"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1492240684",
+            "title": "The Perfect 100 Day Project How to Choose, Make, and Finish Your Creative Project",
+            "creator": "Rich Armstrong",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Rocky Nook",
+            "isbns": [
+                "9781681988214",
+                "1681988216",
+                "9781681988207",
+                "1681988208"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Creative ability Problems, exercises, etc",
+                "Success",
+                "Motivation (Psychology)",
+                "Créativité Problèmes et exercices",
+                "Succès",
+                "Motivation (Psychologie)",
+                "Creativity",
+                "Popular Culture",
+                "ART",
+                "CRAFTS & HOBBIES",
+                "SELF-HELP",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1519123685",
+            "title": "Invisible rivals : how we evolved to compete in a cooperative world",
+            "creator": "Jonathan R. Goodman",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Yale University Press",
+            "isbns": [
+                "9780300283181",
+                "0300283180"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Competition (Psychology)",
+                "Cooperativeness",
+                "Compétition (Psychologie)",
+                "Coopération (Psychologie)"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1474008057",
+            "title": "Understanding artificial minds through human minds : the psychology of artificial intelligence",
+            "creator": "Max Louwerse",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Routledge",
+            "isbns": [
+                "9781032792316",
+                "1032792310",
+                "9781032792293",
+                "1032792299"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Cognitive psychology",
+                "Psychologie cognitive"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1468294174",
+            "title": "Constructing experience : expectation and attention in perception",
+            "creator": "Jason Clarke",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009588560",
+                "1009588567",
+                "9781009588553",
+                "1009588559"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Perception",
+                "Attention",
+                "Expectation (Psychology)",
+                "Expectation (Psychologie)"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1472980493",
+            "title": "Philosophy meets the infant : how new research transforms the understanding of human existence",
+            "creator": "Stephen Langfur",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Routledge",
+            "isbns": [
+                "9781032895291",
+                "1032895292",
+                "9781032895277",
+                "1032895276"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Self-consciousness (Awareness)",
+                "Self-consciousness (Awareness) Philosophy",
+                "Infant psychology Philosophy",
+                "Conscience de soi Philosophie",
+                "Nourrissons Psychologie Philosophie",
+                "Conscience de soi"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1522819736",
+            "title": "Handbook of Diversity Competence : European Perspectives",
+            "creator": "Petia Genkova",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer Nature Switzerland : Imprint: Springer",
+            "isbns": [
+                "3031693086",
+                "9783031693083"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Positive psychology",
+                "Social work education",
+                "Industrial sociology",
+                "Psychology, Industrial",
+                "Diversity in the workplace",
+                "Personal coaching",
+                "Positive Psychology",
+                "Social Education",
+                "Sociology of Work",
+                "Work and Organizational Psychology",
+                "Diversity Management and Women in Business",
+                "Coaching",
+                "Psychologie positive",
+                "Service social Étude et enseignement",
+                "Sociologie industrielle",
+                "Psychologie du travail",
+                "Multiculturalisme en milieu de travail",
+                "Accompagnement (Psychologie)"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1506209988",
+            "title": "Perfekte Körper, perfektes Leben? : Selbstoptimierung aus der Perspektive von Geschlecht und Behinderung",
+            "creator": "Nadine Glade",
+            "date": "2022",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "transcript",
+            "isbns": [
+                "3839462258",
+                "9783839462256"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "SOCIAL SCIENCE / Gender Studies",
+                "Self-actualization (Psychology)",
+                "Body image",
+                "People with disabilities",
+                "Image du corps",
+                "Personnes handicapées",
+                "Body Modification",
+                "Body",
+                "Career",
+                "Disability Studies",
+                "Gender Studies",
+                "Gender",
+                "Health",
+                "Medicine",
+                "Motherhood",
+                "Nutrition",
+                "Parents",
+                "Performance",
+                "Sociology of Culture",
+                "Sociology of Medicine",
+                "Success"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1505924680",
+            "title": "RETOS Y RIESGOS DE LA PSICOLOGIA ACTUAL",
+            "creator": "AROA (COORDINADOR); THOMAS CURRAS ARCOS RODRIGUEZ",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "DYKINSON",
+            "isbns": [
+                "8410704471",
+                "9788410704473"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychology"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1511469764",
+            "title": "Tip of the tongue states : retrieval, metacognition, and experience",
+            "creator": "Anne Cleary",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009372060",
+                "1009372068"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Memory",
+                "Cognitive psychology",
+                "Recollection (Psychology)",
+                "Psychologie cognitive",
+                "Rappel (Psychologie)"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1523217348",
+            "title": "Culture of action : contributions to Ernest Edouard Boesch’s psychology",
+            "creator": "Enno Freiherr von Fircks",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783031844126",
-                "3031844122"
+                "9783031888083",
+                "3031888081"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Vulnerability (Personality trait) Religious aspects",
-                "Ethics",
-                "Vulnérabilité (Trait de personnalité) Aspect religieux",
-                "Morale",
-                "ethics (philosophy)"
+                "Boesch, Ernst E. 1916-2014",
+                "Action theory",
+                "Théorie de l'action"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1504427771",
+            "title": "The Sciences of the Soul The Early Modern Origins of Psychology",
+            "creator": "Fernando Vidal",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Chicago Press",
+            "isbns": [
+                "9780226855882",
+                "0226855880"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Europe",
+                "History",
+                "PSYCHOLOGY",
+                "SCIENCE",
+                "Psychology History 18th century",
+                "Psychology History",
+                "Soul",
+                "Âme",
+                "Psychology",
+                "Electronic books",
+                "1700-1799",
+                "psychology, science, history, madness, insanity, mental health, philosophy, human sciences, galenism, aristotelianism, de anima, soul, reason, rationality, mind and body, identity, anthropology, friedrich august carus, hebrew, homer, morals, metaphysics, logic, perfectibility, nonfiction, religion, rationalism, enlightenment, rudolph goclenius"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1402799685",
+            "title": "Masculinity in transition",
+            "creator": "K. Allison Hammer",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Minnesota Press",
+            "isbns": [
+                "9781452969916",
+                "1452969914",
+                "9781452969923",
+                "1452969922"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Masculinity",
+                "Men Psychology",
+                "Transgender men Psychology",
+                "Gay men Psychology",
+                "Masculinité",
+                "Hommes Psychologie",
+                "Transgenres masculins Psychologie",
+                "Homosexuels masculins Psychologie",
+                "SOCIAL SCIENCE / Gender Studies",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1288422783",
+            "title": "Solving modern problems with a stone-age brain : human evolution and the seven fundamental motives",
+            "creator": "Douglas T. Kenrick",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "APA LifeTools",
+            "isbns": [
+                "9781433834790",
+                "1433834790"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Evolutionary psychology",
+                "Self-actualization (Psychology)",
+                "Psychologie évolutionniste",
+                "SELF-HELP / Personal Growth / General"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1474679254",
+            "title": "Mattering as a core need in children and adolescents : theoretical, clinical, and research perspectives",
+            "creator": "Gordon L. Flett",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Psychological Association",
+            "isbns": [
+                "9781433842795",
+                "1433842793"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Adolescent psychology",
+                "Child psychology",
+                "Developmental psychology",
+                "Enfants Psychologie",
+                "Psychologie du développement",
+                "PSYCHOLOGY / Developmental / Adolescent"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "974035948",
+            "title": "The science of facial expression",
+            "creator": "José Miguel Fernández Dols",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780190613518",
+                "0190613513",
+                "9780190613525",
+                "0190613521"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Facial expression",
+                "Body language",
+                "Physionomie",
+                "Langage du corps",
+                "PSYCHOLOGY Cognitive Psychology",
+                "SCIENCE Cognitive Science"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1522485610",
+            "title": "World-class brain : the edge that helps top performers succeed, and how you can develop it",
+            "creator": "Harald S. Harung",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783031866678",
+                "3031866673"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Performance Psychological aspects",
+                "Neuropsychology",
+                "Success",
+                "Succès"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1516234833",
+            "title": "Space, time, and memory",
+            "creator": "Lynn Nadel",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191976810",
+                "0191976814"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Memory",
+                "Mind & Body",
+                "PHILOSOPHY",
+                "PSYCHOLOGY",
+                "Movements",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "69845408",
+            "title": "A dictionary of superstitions",
+            "creator": "Iona Archibald Opie",
+            "date": "1992, ©2002",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Superstition Great Britain Dictionaries",
+                "Folklore Great Britain Dictionaries",
+                "Superstition Ireland Dictionaries",
+                "Folklore Ireland Dictionaries",
+                "Folklore",
+                "Superstition",
+                "Great Britain",
+                "Ireland",
+                "Online resources",
+                "Dictionaries"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1521955085",
+            "title": "Beyond nature and nurture : perspectives on human multidimensionality",
+            "creator": "Javier Pérez-Jara",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783031877155",
+                "3031877152"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Nature and nurture",
+                "Nature and nurture Social aspects",
+                "Hérédité et milieu",
+                "Hérédité et milieu Aspect social"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1521935637",
+            "title": "Death, dying, and grief : theories, tools, and cases",
+            "creator": "Yan Z. Ciupak",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783031884672",
+                "3031884671"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Grief",
+                "Death Psychological aspects",
+                "Grief therapy",
+                "Chagrin",
+                "Mort Aspect psychologique",
+                "Travail de deuil",
+                "grief"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1472919940",
+            "title": "Echoes of trauma : meaning and identity in psychoanalysis",
+            "creator": "Marilyn Charles",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "American Psychological Association",
+            "isbns": [
+                "9781433841996",
+                "1433841991"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Identity (Psychology)",
+                "Psychic trauma",
+                "Psychoanalysis",
+                "Developmental psychology",
+                "Identité (Psychologie)",
+                "Traumatisme psychique",
+                "Psychanalyse",
+                "Psychologie du développement",
+                "psychoanalysis"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1463167888",
+            "title": "Oppressive praise",
+            "creator": "Jules Holroyd",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "019288316X",
+                "9780192883162"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Praise",
+                "Oppression (Psychology) Social aspects"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1289619202",
+            "title": "Procrastination : what it is, why it's a problem, and what you can do about it",
+            "creator": "Fuschia M. Sirois",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Psychological Association",
+            "isbns": [
+                "9781433840340",
+                "1433840340"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Procrastination",
+                "Emotions",
+                "PSYCHOLOGY",
+                "Personality",
+                "Self-Management",
+                "SELF-HELP"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1521403175",
+            "title": "Discovering heavenly mandate : astrology, numerology and ancient Chinese society",
+            "creator": "Yi-Long Huang",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan ; Sichuan People's Publishing House",
+            "isbns": [
+                "9789819638000",
+                "9819638003"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Astrology, Chinese",
+                "Numerology China",
+                "Astrologie chinoise",
+                "Numérologie Chine",
+                "China Civilization",
+                "Chine Civilisation",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "44234947",
+            "title": "Television and Children",
+            "creator": "",
+            "date": "uuuu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Child Development Institute",
+                "Parents Services for",
+                "Television and children",
+                "Child development"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1500737617",
+            "title": "Handbook of mindfulness  : theory, research, and practice",
+            "creator": "Kirk Warren Brown",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The Guilford Press",
+            "isbns": [
+                "1462557058",
+                "9781462557059",
+                "9781462557042",
+                "146255704X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Attention",
+                "Awareness",
+                "Meditation Therapeutic use",
+                "Prise de conscience",
+                "Méditation Emploi en thérapeutique",
+                "Psychiatry",
+                "MEDICAL",
+                "Social Work",
+                "SOCIAL SCIENCE",
+                "PSYCHOLOGY"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1516181284",
+            "title": "BIOLOGY BIAS  : the real reasons behind our decisions",
+            "creator": "GILL MERRILL",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BUSINESS EXPERT PRESS",
+            "isbns": [
+                "9781637428078",
+                "1637428073"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Conditioned response",
+                "Behavior modification",
+                "Learning, Psychology of",
+                "Réflexe conditionné",
+                "Modification du comportement",
+                "Psychologie de l'apprentissage",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1506211822",
+            "title": "Doing counseling : developing your clinical skills and style",
+            "creator": "Jude T. Austin",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394346875",
+                "1394346875",
+                "9781119907701",
+                "1119907705",
+                "1119907713",
+                "9781119907718"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Vocational guidance",
+                "Counseling Orientation professionnelle"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1506211382",
+            "title": "Introduction to crisis and trauma counseling",
+            "creator": "Thelma Duffey",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347216",
+                "1394347219",
+                "9781119685135",
+                "1119685133"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Crisis intervention (Mental health services)",
+                "Counseling",
+                "Crisis Intervention",
+                "Intervention en situation de crise (Santé mentale)",
+                "Counseling psychology",
+                "Counselor and client"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1506211193",
+            "title": "Interactive group work",
+            "creator": "Jane E. Atieno Okech",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394346691",
+                "1394346697"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Group counseling",
+                "Group psychotherapy",
+                "Psychothérapie de groupe"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1457638450",
+            "title": "Flow 2.0 : optimal experience in a complex world : honoring Mihaly Csikszentmihalyi's legacy",
+            "creator": "Stewart I. Donaldson",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Wiley",
+            "isbns": [
+                "9781394263028",
+                "1394263023",
+                "9781394263004",
+                "1394263007",
+                "1394263015",
+                "9781394263011"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Csikszentmihalyi, Mihaly",
+                "Positive psychology",
+                "Psychologie positive"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1432500833",
+            "title": "The science of personal power : how to build confidence, create success, and obtain freedom",
+            "creator": "Chris Lipp",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Wiley",
+            "isbns": [
+                "9781394308651",
+                "1394308655",
+                "9781394273652",
+                "1394273657",
+                "9781394273669",
+                "1394273665"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Self-actualization (Psychology)",
+                "Success"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1509780489",
+            "title": "Becoming a counselor : the light, the bright, and the serious",
+            "creator": "Samuel T. Gladding",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association Foundation",
+            "isbns": [
+                "9781394347360",
+                "1394347367"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling",
+                "Counselors",
+                "counseling"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1509780045",
+            "title": "Counselor self-care",
+            "creator": "Gerald Corey",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394346844",
+                "1394346840"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling psychologists Mental health",
+                "Counseling psychologists Job stress",
+                "Counselors Mental health",
+                "Counselors Job stress"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1509779546",
+            "title": "Integrating spirituality and religion into counseling : a guide to competent practice",
+            "creator": "Craig S. Cashwell",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347254",
+                "1394347251"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Religious aspects",
+                "Psychology and religion",
+                "Spirituality Psychology",
+                "Counseling Aspect religieux",
+                "Psychologie et religion",
+                "Spiritualité Psychologie"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1509780209",
+            "title": "The creative arts in counseling",
+            "creator": "Samuel T. Gladding",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347353",
+                "1394347359"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling psychology",
+                "Arts Therapeutic use",
+                "Art therapy",
+                "Mental illness Treatment",
+                "Arts Emploi en thérapeutique",
+                "Maladies mentales Traitement"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1509779371",
+            "title": "Counseling research : a practitioner-scholar approach",
+            "creator": "Richard S. Balkin",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394346899",
+                "1394346891"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling psychology Research Methodology",
+                "Counseling psychology Practice"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1504812222",
+            "title": "The sociology of boredom",
+            "creator": "Mariusz Finkielsztein",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-Blackwell",
+            "isbns": [
+                "9781394253364",
+                "1394253362",
+                "1394253354",
+                "9781394253340",
+                "1394253346",
+                "9781394253357"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Boredom Social aspects",
+                "Ennui (Lassitude) Aspect social",
+                "Sociology",
+                "SOCIAL SCIENCE"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1505884851",
+            "title": "Teaching and learning in counselor education",
+            "creator": "Javier Cavazos Vela",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347209",
+                "1394347200",
+                "1119685095",
+                "9781119685098",
+                "9781119685142",
+                "1119685141"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Study and teaching"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1505884314",
+            "title": "Surviving and thriving in your counseling program",
+            "creator": "Julius A. Austin",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347322",
+                "1394347324",
+                "1119686229",
+                "9781119686224"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Vocational guidance",
+                "Counseling Orientation professionnelle"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1505883295",
+            "title": "Critical incidents in counselor education : teaching, supervision, scholarship, leadership, and advocacy",
+            "creator": "Jacqueline M. Swank",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347391",
+                "1394347391",
+                "9781556204029",
+                "1556204027"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Study and teaching (Graduate) United States",
+                "Counseling psychology Study and teaching (Graduate) United States",
+                "Counselors Training of United States",
+                "College teaching United States",
+                "Universities and colleges United States Graduate work",
+                "Universités États-Unis Études des 2e et 3e cycles",
+                "College teaching",
+                "Counseling Study and teaching (Graduate)",
+                "Counselors Training of",
+                "Universities and colleges Graduate work",
+                "United States"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1505885636",
+            "title": "Neuroscience-informed counseling with children and adolescents",
+            "creator": "Thomas A. Field",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781394347230",
+                "1394347235",
+                "9781119684909",
+                "1119684900",
+                "1119684978",
+                "9781119684978"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Children Counseling of",
+                "Neurosciences",
+                "Enfants Counseling",
+                "Youth Counseling of"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1437544304",
+            "title": "Your values-based legacy : making a difference at every age and phase of life",
+            "creator": "Harry M. Jansen Kraemer",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Wiley",
+            "isbns": [
+                "9781394308811",
+                "1394308817",
+                "9781394271337",
+                "1394271336",
+                "9781394271344",
+                "1394271344"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Values",
+                "Self-realization",
+                "Self-actualization (Psychology)",
+                "Réalisation de soi"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1263025840",
+            "title": "Counseling leaders & advocates : strengthening the future of the profession",
+            "creator": "Cassandra Storlie",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781119814177",
+                "1119814170",
+                "9781119814160",
+                "1119814162",
+                "9781394346981",
+                "1394346980"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Counseling Moral and ethical aspects",
+                "Social advocacy",
+                "Counselors Professional ethics",
+                "Counseling Aspect moral",
+                "Défense des droits économiques et sociaux",
+                "Conseillers Déontologie"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1444148973",
+            "title": "Trauma bonding and interpersonal crimes",
+            "creator": "Joan A. Reid",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Wiley",
+            "isbns": [
+                "9781394182275",
+                "1394182279",
+                "9781394182251",
+                "1394182252",
+                "9781394182268",
+                "1394182260"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychic trauma",
+                "Interpersonal relations Psychological aspects",
+                "Interpersonal relations Psychic aspects",
+                "Violent crimes Psychological aspects",
+                "Psychological abuse",
+                "Traumatisme psychique",
+                "Relations humaines Aspect psychique",
+                "Crimes violents Aspect psychologique",
+                "Violence psychologique",
+                "Forensic Psychology",
+                "PSYCHOLOGY",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1316836909",
+            "title": "The quest for legitimacy : how children of prominent families discover their unique place in the world",
+            "creator": "Jamie Weiner",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "John Wiley & Sons, Inc.",
+            "isbns": [
+                "9781394320523",
+                "1394320523",
+                "9781119868286",
+                "1119868289",
+                "9781119868293",
+                "1119868297"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Self-actualization (Psychology)",
+                "Motivation (Psychology)",
+                "Families",
+                "Motivation (Psychologie)",
+                "Familles",
+                "Wealth Management",
+                "Financial Services",
+                "Industries",
+                "BUSINESS & ECONOMICS",
+                "Estates & Trusts",
+                "LAW",
+                "Finance",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1289504489",
+            "title": "Antiracist counseling in schools and communities",
+            "creator": "Cheryl Holcomb-McCoy",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "American Counseling Association",
+            "isbns": [
+                "9781119814818",
+                "1119814812",
+                "9781119814238",
+                "1119814235",
+                "9781394347414",
+                "1394347413"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cross-cultural counseling United States",
+                "Anti-racism United States",
+                "Social justice United States",
+                "Racism United States Psychological aspects",
+                "Counseling transculturel États-Unis",
+                "Antiracisme États-Unis",
+                "Justice sociale États-Unis",
+                "Racisme États-Unis Aspect psychologique",
+                "Anti-racism",
+                "Cross-cultural counseling",
+                "Racism Psychological aspects",
+                "Social justice",
+                "United States"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1135845514",
+            "title": "Environments of intelligence : from natural information to artificial interaction",
+            "creator": "Hajo Greif",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Routledge",
+            "isbns": [
+                "9780367348717",
+                "0367348713",
+                "9781138222328",
+                "1138222321",
+                "9781315408071",
+                "1315408074",
+                "9781315408095",
+                "1315408090",
+                "9781315408101",
+                "1315408104",
+                "9781315408088",
+                "1315408082"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cognition",
+                "Nature and nurture",
+                "Science",
+                "Hérédité et milieu",
+                "Sciences",
+                "cognition",
+                "sciences (philosophy)",
+                "science (modern discipline)",
+                "Computing & information technology",
+                "Humanities",
+                "Impact of science & technology on society",
+                "Philosophy of mind",
+                "Philosophy of science",
+                "Philosophy / Mind & Body",
+                "Science / Philosophy & Social Aspects",
+                "History",
+                "Alfred Nordmann,History of Science,History of Technology,History since 1800,Manipulation,Measurement,Modern History,Philosophy of Science,Philosophy of Technology,Rob Langham,Scientific Ethics,Visualisation"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1493521935",
+            "title": "The cost of conviction : how our deepest values lead us astray",
+            "creator": "Steven A. Sloman",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "The MIT Press",
+            "isbns": [
+                "9780262049825",
+                "0262049821"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Values",
+                "Decision making",
+                "Group identity",
+                "Prise de décision",
+                "Identité collective",
+                "decision making",
+                "group identity"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1484186264",
+            "title": "Handbook for behavioral skills training",
+            "creator": "Peter Sturmey",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Academic Press",
+            "isbns": [
+                "9780443160677",
+                "0443160678"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Behavior modification Handbooks, manuals, etc"
+            ]
+        },
+        {
+            "topic": "64000000",
+            "oclcNumber": "1513105231",
+            "title": "The unbuilt bench : experimental psychology on the verge of science",
+            "creator": "David Peterson",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Columbia University Press",
+            "isbns": [
+                "9780231561679",
+                "0231561679"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Psychology Research",
+                "Psychology, Experimental",
+                "Psychologie Recherche",
+                "Psychologie expérimentale",
+                "SOCIAL SCIENCE / Sociology / General"
             ]
         }
     ]
