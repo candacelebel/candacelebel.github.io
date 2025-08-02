@@ -1,554 +1,84 @@
 {
-    "period": "June 2025",
-    "updated": "As of 01 July 2025",
+    "period": "July 2025",
+    "updated": "As of 01 August 2025",
     "records": [
         {
             "topic": "18000000",
-            "oclcNumber": "1524214876",
-            "title": "Química organometálica : con ejercicios corregidos",
-            "creator": "D. Astruc",
-            "date": "2024",
-            "language": "spa",
+            "oclcNumber": "1472920586",
+            "title": "Natural and unnatural product chemistry : from molecules to systems",
+            "creator": "A. Bryan Hanley",
+            "date": "2025",
+            "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Editorial Reverté",
+            "specificFormat": "PrintBook",
+            "publisher": "Springer Nature Switzerland",
             "isbns": [
-                "9788429198522",
-                "8429198520"
+                "3031816978",
+                "9783031816970"
             ],
-            "newFormat": "eBook",
+            "newFormat": "Print Book",
             "subjects": [
-                "Organometallic chemistry",
-                "Organometallic chemistry Problems, exercises, etc",
-                "Metal complexes",
-                "Chimie organométallique",
-                "Chimie organométallique Problèmes et exercices",
-                "Complexes métalliques"
+                "Natural products",
+                "Chemistry, Technical",
+                "Produits naturels",
+                "Chimie industrielle"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1524214666",
-            "title": "Tabla periódica en espiral y propiedades zonales",
-            "creator": "Luis Alberto Bravo",
-            "date": "2024",
-            "language": "spa",
+            "oclcNumber": "1530058067",
+            "title": "化學入門: 二卷;十三章",
+            "creator": "厚美安, 著.",
+            "date": "1889",
+            "language": "chi",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Editorial Reverté",
-            "isbns": [
-                "9788429198539",
-                "8429198539"
-            ],
-            "newFormat": "eBook",
+            "specificFormat": "PrintBook",
+            "publisher": "",
+            "isbns": "",
+            "newFormat": "Print Book",
             "subjects": [
-                "Periodic law",
-                "Chemical elements",
-                "Loi périodique",
-                "Éléments chimiques",
-                "elements (chemical substances)"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1394121023",
-            "title": "The Chemistry of Elements",
-            "creator": "Larry L. Saenz",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9798891130258"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemical elements",
-                "Éléments chimiques",
-                "elements (chemical substances)"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1139895767",
-            "title": "Course Success in the Undergraduate General Chemistry Lab",
-            "creator": "Thomas Elert",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Logos Verlag Berlin",
-            "isbns": [
-                "9783832588403",
-                "383258840X"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1376934523",
-            "title": "Water in Biology",
-            "creator": "Michael E. Green",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9798886977547"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1296428115",
-            "title": "Terpenes and Terpenoids",
-            "creator": "Charles A. Davies",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9781685075958",
-                "1685075959"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1083467239",
-            "title": "Crystal Structure",
-            "creator": "Damon Richards",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9781536145489",
-                "1536145483"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1066188428",
-            "title": "An Experimental and Theoretical Mass Spectrometric Quantification of Non-Covalent Interactions in High Order Homogeneous Self-Associates of Nucleobases and Nucleosides",
-            "creator": "Bojidarka Ivanova",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9781536142433",
-                "1536142433"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1323251408",
-            "title": "Advancements in the science and technology of conjugated polymers",
-            "creator": "Nimisha Kaippamangalath",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers",
-            "isbns": [
-                "1685078982",
-                "9781685078980"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Conjugated polymers",
-                "Polymères conjugués"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1065765831",
-            "title": "Chemisorption : properties, reactions, and uses",
-            "creator": "Matthan Norup",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Inc.",
-            "isbns": [
-                "1536146951",
-                "9781536146950"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemisorption",
-                "Adsorption",
-                "Surface chemistry",
-                "Chimisorption",
-                "Chimie des surfaces",
-                "adsorption"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1407417545",
-            "title": "Superfoods, silkworms, and spandex : science and pseudoscience in everyday life",
-            "creator": "Joe Schwarcz",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ECW Press",
-            "isbns": [
-                "9781778522772",
-                "1778522777",
-                "9781778522765",
-                "1778522769"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Popular works",
-                "Pseudoscience Popular works",
-                "Sciences Ouvrages de vulgarisation",
-                "Parasciences Ouvrages de vulgarisation",
                 "Chemistry",
-                "Healthy Living",
-                "HEALTH & FITNESS",
-                "Nutrition",
-                "Diet & Nutrition",
-                "Biology",
-                "Life Sciences",
-                "SCIENCE",
-                "Pseudoscience",
-                "Science",
-                "Essays",
-                "essays",
-                "Popular works",
-                "Essais"
+                "Education",
+                "Zi bu xin xue lei hua xue zhi shu",
+                "Chimie",
+                "chemistry"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1407317839",
-            "title": "Coumarin-based Coinage Metal Complexes",
-            "creator": "Vanitha Reddy Naina",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cuvillier Verlag",
-            "isbns": [
-                "9783736968905",
-                "3736968906"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1429723321",
-            "title": "Nanostructured Materials for Photoelectrochemical Water Splitting",
-            "creator": "Jih-Hsing Chang",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Institute of Physics Publishing",
-            "isbns": [
-                "9780750345231",
-                "0750345233",
-                "9780750336987",
-                "0750336986"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1429723167",
-            "title": "Photocatalysts for Energy and Environmental Sustainability",
-            "creator": "Vijay B. Pawade",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Institute of Physics Publishing",
-            "isbns": [
-                "9780750357012",
-                "0750357010",
-                "9780750356978",
-                "0750356979"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Photocatalysis",
-                "Water Purification Photocatalysis",
-                "Photocatalyse",
-                "Eau Épuration Photocatalyse"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1083460357",
-            "title": "Solid-Phase Extraction",
-            "creator": "Ben Benson",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9781536145830",
-                "1536145831"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1397574838",
-            "title": "Catálisis Heterogénea",
-            "creator": "Alfonso Enrique Ramírez Sanabria",
-            "date": "2022",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Universidad del Cauca",
-            "isbns": [
-                "9789587325423",
-                "9587325427"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1163550201",
-            "title": "Visuelles Modellverständnis und Studienerfolg in der Chemie  : Zwei Seiten Einer Medaille",
-            "creator": "Thomas Dickmann Dickmann",
-            "date": "2019",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Logos Verlag Berlin",
-            "isbns": [
-                "9783832587383",
-                "3832587381"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Visualisierung",
-                "Studienerfolg",
-                "Chemiedidaktik",
-                "Multimediales Lernen"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1498444243",
-            "title": "Chemometrics",
-            "creator": "Larry D. Crenshaw",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9798886973112"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemometrics",
-                "Chimiométrie",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1143640982",
-            "title": "Photoelectrochemical water splitting materials and applications",
-            "creator": "Inamuddin",
+            "oclcNumber": "1266390271",
+            "title": "Ion chromatography : instrumentation, techniques and applications",
+            "creator": "Kannan Srinivasan",
             "date": "2020",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Materials Research Forum LLC",
+            "publisher": "Academic Press",
             "isbns": [
-                "9781644900734",
-                "1644900734"
+                "9780128130766",
+                "0128130768"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Photoelectrochemistry",
-                "Water Electrolysis",
-                "Photoélectrochimie",
-                "Eau Électrolyse"
+                "Ion exchange chromatography",
+                "Chromatography, Ion Exchange",
+                "Chromatographie par échange d'ions",
+                "ion-exchange chromatography"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1370220298",
-            "title": "A closer look at chemical kinetics",
-            "creator": "Victor Martinez-Luaces",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers",
-            "isbns": [
-                "9788886975810",
-                "8886975813",
-                "9798886975819"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemical kinetics",
-                "Chemical kinetics Mathematical models",
-                "Chemical kinetics Industrial applications",
-                "Cinétique chimique",
-                "Cinétique chimique Modèles mathématiques",
-                "Cinétique chimique Applications industrielles"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1524062734",
-            "title": "Electrode development for lithium-ion batteries",
-            "creator": "Xiu Li",
+            "oclcNumber": "1528962249",
+            "title": "Electronic Materials Innovations and Reliability in Advanced Memory Packaging",
+            "creator": "Chong Leong Gan",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9789819630219",
-                "9819630215"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Lithium ion batteries",
-                "Electrodes",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1055046937",
-            "title": "Oberflächenbeschichtungen Von Silizium, HOPG und Graphitanoden Mittels Thiol-En/in Click-Chemie, Deren Charakterisierung Mit XPS und ToF-SIMS Sowie Elektrochemische Untersuchung",
-            "creator": "Dominique Moock",
-            "date": "2018",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Logos Verlag Berlin",
-            "isbns": [
-                "9783832590666",
-                "3832590668"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1065066516",
-            "title": "Chalcogenides",
-            "creator": "Woodrow Phillips",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers, Incorporated",
-            "isbns": [
-                "9781536143720",
-                "1536143723"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1381096452",
-            "title": "Triazoles and their uses",
-            "creator": "Karl Roland",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers",
-            "isbns": [
-                "9798886978308"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Triazoles",
-                "Chemistry",
-                "Science"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1085168171",
-            "title": "Zum Wesen Von Theorien und Gesetzen in der Chemie : Begriffsanalyse und Förderung der Vorstellungen Von Lehramtsstudierenden",
-            "creator": "Karl Marniok",
-            "date": "2018",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Logos Verlag Berlin",
-            "isbns": [
-                "9783832590154",
-                "3832590153"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemistry, Physical and theoretical",
-                "Chimie physique et théorique",
-                "physical chemistry"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1523877438",
-            "title": "Natural compounds enabled therapies",
-            "creator": "Athanassios Giannis",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031940248",
-                "3031940245"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Natural products Biotechnology",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1505884872",
-            "title": "Advances in Heterocyclic Chemistry",
-            "creator": "Eric F. V. Scriven",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier Science & Technology",
-            "isbns": [
-                "9780443316616",
-                "0443316619",
-                "9780443316609",
-                "0443316600"
+                "9783031947957",
+                "3031947959"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -557,521 +87,377 @@
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1415903558",
-            "title": "11073-10417-2009 - Health informatics. Part 10417, Device specialization : Glucose meter ; Personal health device communication",
-            "creator": "IEEE Engineering in Medicine and Biology Society",
-            "date": "2009",
+            "oclcNumber": "970041837",
+            "title": "Electrochemistry of dihydroxybenzene compounds : carbon based electrodes and their uses in synthesis and sensors",
+            "creator": "Hanieh Ghadimi",
+            "date": "2017",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "IEEE",
+            "publisher": "Elsevier",
             "isbns": [
-                "0738158933",
-                "9780738158938"
+                "9780128134085",
+                "0128134089"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Glucose",
-                "Medical electronics Standards",
-                "Medical instruments and apparatus Standards",
-                "Électronique en médecine Normes"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1434241750",
-            "title": "Exploring chemical concepts through theory and computation",
-            "creator": "Shubin Liu",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527843435",
-                "3527843434",
-                "3527843418",
-                "9783527843428",
-                "3527843426",
-                "9783527843411"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemical bonds Mathematical models",
-                "Physical & Theoretical",
-                "Chemistry",
-                "SCIENCE",
-                "Mathematical & Computational",
-                "Physics",
+                "Electrodes, Carbon",
+                "Electrochemical analysis",
+                "Nanostructured materials",
+                "Électrodes de carbone",
+                "Analyse électrochimique",
+                "Nanomatériaux",
+                "SCIENCE Chemistry Analytic",
                 "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1425139555",
-            "title": "Catalysis for a sustainable environment : reactions, processes and applied technologies",
-            "creator": "Armando J. L. Pombeiro",
-            "date": "2024",
+            "oclcNumber": "930992330",
+            "title": "Forced-flow layer chromatography",
+            "creator": "Ernő Tyihák",
+            "date": "©2016",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley",
+            "publisher": "Elsevier",
             "isbns": [
-                "9781119870647",
-                "111987064X"
+                "9780124202122",
+                "0124202128"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Catalysis",
-                "Catalysis Environmental aspects",
-                "Catalyse",
-                "Catalyse Aspect de l'environnement"
+                "Thin layer chromatography",
+                "Chromatographic analysis",
+                "Chromatographie sur couches minces",
+                "Chromatographie",
+                "thin layer chromatography",
+                "chromatography",
+                "SCIENCE Chemistry Analytic"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1455332665",
-            "title": "Process gas chromatographs : advanced design and trouble shooting",
-            "creator": "Tony Waters",
-            "date": "2025",
+            "oclcNumber": "1286496863",
+            "title": "The crystalline states of organic compounds",
+            "creator": "Angelo Gavezzotti",
+            "date": "2021",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
+            "publisher": "Elsevier",
             "isbns": [
-                "9781119791492",
-                "1119791499",
-                "9781119791485",
-                "1119791480",
-                "9781119791508",
-                "1119791502"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Gas chromatography Equipment and supplies",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1425939671",
-            "title": "Ion exchange membranes : design, preparation, and applications",
-            "creator": "Tongwen Xu",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527841448",
-                "352784144X",
-                "9783527841424",
-                "3527841423"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ion exchange",
-                "Échange d'ions"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1508877407",
-            "title": "Ionic liquid catalyzed reactions : green concepts and sustainable applications",
-            "creator": "Zhiming Liu",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527838967",
-                "3527838961"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ionic solutions",
-                "Catalysis",
-                "Green chemistry",
-                "Solutions ioniques",
-                "Catalyse",
-                "Chimie verte"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1508877711",
-            "title": "Palladium and norbornene cooperative catalysis : fundamentals and applications",
-            "creator": "Guangbin Dong",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527842971",
-                "3527842977"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Palladium catalysts",
-                "Norbornene",
-                "Catalysis",
-                "Catalyseurs au palladium",
-                "Norbornène",
-                "Catalyse"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1508879322",
-            "title": "Supercritical adsorption for cleaner energy and the environment",
-            "creator": "Li Zhou",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527851676",
-                "3527851674"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Adsorption",
-                "Supercritical fluids",
-                "Fluides supercritiques",
-                "adsorption"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1419995862",
-            "title": "Electronic structure crystallography and functional motifs of materials",
-            "creator": "Guo-Cong Guo",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527842339",
-                "3527842330",
-                "9783527842315",
-                "3527842314",
-                "9783527842322",
-                "3527842322"
+                "9780128237489",
+                "0128237481"
             ],
             "newFormat": "eBook",
             "subjects": [
                 "Crystallography",
-                "Electronic structure",
+                "Organic compounds",
                 "Cristallographie",
-                "Structure électronique"
+                "Composés organiques",
+                "organic compounds"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1419995075",
-            "title": "Redox-active ligands : concepts and catalysis",
-            "creator": "Marine Desage-El Murr",
+            "oclcNumber": "945735386",
+            "title": "Organic nanoreactors : from molecular to supramolecular organic compounds",
+            "creator": "Samahe Sadjadi",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Academic Press, an imprint of Elsevier",
+            "isbns": [
+                "9780128018101",
+                "0128018100"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Organic compounds Synthesis",
+                "Nanochemistry",
+                "Nanotechnology",
+                "Composés organiques Synthèse",
+                "Nanochimie",
+                "Nanotechnologie",
+                "SCIENCE Chemistry Organic"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1520922063",
+            "title": "Superhydrophobic Coating : recent advances in theory and applications",
+            "creator": "Junfei Ou",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9783527830879",
-                "3527830871"
+                "0854662804",
+                "9780854662807"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Ligands",
-                "Oxidation-reduction reaction",
-                "Oxydoréduction"
+                "Hydrophobic surfaces",
+                "Surface chemistry",
+                "Surfaces hydrophobes",
+                "Chimie des surfaces",
+                "hydrophobicity"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1505727003",
-            "title": "Organocatalysts in polymer chemistry : synthesis and applications",
-            "creator": "Zhibo Li",
+            "oclcNumber": "921302081",
+            "title": "Transition metal catalyzed furans synthesis : transition metal catalyzed heterocycles synthesis series",
+            "creator": "Xiao-Feng Wu",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Elsevier",
+            "isbns": [
+                "9780128040720",
+                "0128040726"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Furans",
+                "Transition metal catalysts",
+                "Heterocyclic chemistry",
+                "Chemistry, Organic",
+                "Furanne",
+                "Catalyseurs à base de métaux de transition",
+                "Chimie des composés hétérocycliques",
+                "Chimie organique",
+                "furan",
+                "organic chemistry",
+                "SCIENCE Chemistry Organic",
+                "Chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1517990014",
+            "title": "Advanced experimental inorganic chemistry",
+            "creator": "V. K. Ahluwalia",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "9781040100608",
+                "1040100600",
+                "9781003490142",
+                "100349014X",
+                "9781040100561",
+                "1040100562"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Inorganic Experiments",
+                "Chimie inorganique Expériences",
+                "SCIENCE / Chemistry / Inorganic"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1518028189",
+            "title": "Practical chemistry : instrumental analysis and quantitative analytical chemistry",
+            "creator": "Kasaye Bahiru Tola",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "De Gruyter",
             "isbns": [
-                "9783527843077",
-                "3527843078",
-                "9783527843053",
-                "3527843051",
-                "9783527843060",
-                "352784306X"
+                "9783111702346",
+                "3111702340",
+                "9783111702261",
+                "311170226X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Polymerization",
-                "Polymérisation",
-                "polymerization",
-                "Materials Science",
+                "Chemistry Laboratory manuals",
+                "SCIENCE / Chemistry / Inorganic"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1517975265",
+            "title": "Synthetic organic chemistry and the Nobel Prize. Volume 3",
+            "creator": "John D'Angelo",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "9781040310298",
+                "104031029X",
+                "9781040310274",
+                "1040310273",
+                "9781003006879",
+                "1003006876"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Organic compounds Synthesis",
+                "Nobel Prizes",
+                "Nobel Prizes History",
+                "Nobel Prize winners",
+                "Chemistry, Organic Awards",
+                "Composés organiques Synthèse",
+                "Prix Nobel",
+                "Prix Nobel Histoire",
+                "Lauréats du Prix Nobel",
+                "MEDICAL / Pharmacology",
+                "SCIENCE / Chemistry / General",
+                "SCIENCE / Chemistry / Organic"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1518014088",
+            "title": "Oxadiazole in material and medicinal chemistry",
+            "creator": "Priya Ranjan Sahoo",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "9781040127216",
+                "1040127215",
+                "9781040127186",
+                "1040127185",
+                "9781003384441",
+                "1003384447"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Azoles",
+                "Azoles Industrial applications",
+                "Azoles Therapeutic use",
+                "Azoles Emploi en thérapeutique",
+                "Azoles Applications industrielles",
+                "SCIENCE / Chemistry / General",
+                "SCIENCE / Chemistry / Organic",
+                "SCIENCE / Life Sciences / General"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1518020055",
+            "title": "Coordination chemistry : molecular science of organic-inorganic complexes",
+            "creator": "Tomoaki Tanase",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781837673261",
+                "1837673268",
+                "9781837673254",
+                "183767325X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Coordination compounds",
+                "Composés de coordination",
+                "Inorganic",
                 "Organic",
                 "Chemistry",
                 "SCIENCE",
-                "Textiles & Polymers",
-                "TECHNOLOGY & ENGINEERING",
                 "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1423685564",
-            "title": "Analytical chemistry : a toolkit for scientists and laboratory technicians",
-            "creator": "Bryan M. Ham",
+            "oclcNumber": "1517993079",
+            "title": "Cerium : chemistry, technology, geology, soil science and economics",
+            "creator": "Michael Aide",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9781119894490",
-                "1119894492",
-                "9781119894476",
-                "1119894476"
+                "9780854661992",
+                "0854661999"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Analytical chemistry Handbooks, manuals, etc",
-                "Chimie analytique Guides, manuels, etc"
+                "Cerium",
+                "Cérium"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1425792498",
-            "title": "Organic reaction mechanisms 2020 : an annual survey covering the literature dated January to December 2020",
-            "creator": "Mark G. Moloney",
+            "oclcNumber": "1518004507",
+            "title": "Recent advances in montmorillonite",
+            "creator": "Gustavo Morari Do Nascimento",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9781119716846",
-                "1119716845",
-                "9781119716853",
-                "1119716853"
+                "9780854667246",
+                "0854667245"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Organic reaction mechanisms",
-                "Réactions organiques (Chimie) Mécanismes"
+                "Montmorillonite",
+                "montmorillonite"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1425354608",
-            "title": "Donor-acceptor cyclopropanes in organic synthesis",
-            "creator": "Prabal Banerjee",
-            "date": "2024",
+            "oclcNumber": "1515467908",
+            "title": "Organic Synthesis : A Nascent Relook",
+            "creator": "Belakatte Parameshwarappa Nandeshwarappa",
+            "date": "2020",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9783527835652",
-                "3527835652",
-                "9783527835645",
-                "3527835644"
+                "9781838806262",
+                "1838806261",
+                "9781789859447",
+                "1789859441"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Cyclopropane",
-                "Amino acids Synthesis",
-                "Amino acids Reactivity"
+                "Chemistry, Organic",
+                "Pharmaceutical chemistry",
+                "Chemistry, Pharmaceutical",
+                "Chimie organique",
+                "Chimie pharmaceutique",
+                "organic chemistry"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1425354696",
-            "title": "Water photo- and electro-catalysis : mechanisms, materials, devices, and systems",
-            "creator": "Shaohua Shen",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527831005",
-                "3527831002",
-                "9783527831012",
-                "3527831010"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Catalysis"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1464589394",
-            "title": "Principles of interferometric and polarimetric radiometry",
-            "creator": "Ignasi Corbella",
+            "oclcNumber": "1514684590",
+            "title": "Electronic Structure and Properties of Transition Metal Compounds : Theory and Applications",
+            "creator": "Isaac B. Bersuker",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
+            "publisher": "John Wiley & Sons, Incorporated",
             "isbns": [
-                "9781394255139",
-                "1394255136",
-                "9781394255115",
-                "139425511X",
-                "9781394255122",
-                "1394255128"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Radiation Measurement",
-                "Radiométrie",
-                "Signals & Signal Processing",
-                "Microwaves",
-                "TECHNOLOGY & ENGINEERING",
-                "Remote Sensing & Geographic Information Systems",
-                "Radiació Mesurament",
-                "Interferometria",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1464240863",
-            "title": "Organic transformations in water : principles and applications",
-            "creator": "Gopinathan Anilkumar",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527846849",
-                "3527846840",
-                "9783527846832",
-                "3527846832",
-                "9783527846825",
-                "3527846824"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Organic solvents Environmental aspects",
-                "Solvants organiques Aspect de l'environnement",
-                "Physical & Theoretical",
-                "Chemistry",
-                "SCIENCE",
-                "Organic"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1504243250",
-            "title": "Handbook of GC-MS : fundamentals and applications",
-            "creator": "Hans-Joachim Hübschmann",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527847648",
-                "3527847642",
-                "9783527847631",
-                "3527847634",
-                "9783527847624",
-                "3527847626"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Gas chromatography Handbooks, manuals, etc",
-                "Mass spectrometry Handbooks, manuals, etc",
-                "Gas chromatography",
-                "Mass spectrometry",
-                "Chromatographie en phase gazeuse",
-                "Spectrométrie de masse",
-                "gas chromatography",
-                "mass spectrometry"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1500482267",
-            "title": "Molecular basis of oxidative stress : chemistry, toxicology, disease pathogenesis, diagnosis, and therapeutics",
-            "creator": "Frederick A. Villamena",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
-                "9781119790419",
-                "1119790417",
-                "9781119790273",
-                "1119790271"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Oxidative stress",
-                "Oxidative Stress physiology",
-                "Reactive Oxygen Species adverse effects",
-                "Oxidative Stress",
-                "Stress oxydatif"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1477390957",
-            "title": "Principles of electrochemical conversion and storage devices",
-            "creator": "Kevin Huang",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527851638",
-                "3527851631",
-                "9783527838301",
-                "3527838309"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electrolytic cells",
-                "Cellules électrolytiques",
-                "Physical & Theoretical",
-                "Circuits",
-                "Electronics",
-                "TECHNOLOGY & ENGINEERING",
-                "Materials Science",
-                "Chemistry",
-                "SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1460295767",
-            "title": "Electronic structure and properties of transition metal compounds : theory and applications",
-            "creator": "I. B. Bersuker",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
+                "9781394178926",
+                "1394178921",
                 "9781394178919",
                 "1394178913",
                 "9781394178902",
-                "1394178905",
-                "9781394178926",
-                "1394178921"
+                "1394178905"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -1082,288 +468,750 @@
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1512301098",
-            "title": "Greene's protective groups in organic synthesis. Volume 1",
-            "creator": "Peter G. M. Wuts",
-            "date": "2025",
+            "oclcNumber": "813538932",
+            "title": "Хімія, фізика та технологія поверхні",
+            "creator": "Instytut khimiï poverkhni (Nat︠s︡ionalʹna akademii︠a︡ nauk Ukraïny)",
+            "date": "1992",
             "language": "eng",
-            "generalFormat": "Book",
+            "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
-                "9781394233199",
-                "1394233191",
-                "9781394233175",
-                "1394233175"
-            ],
-            "newFormat": "eBook",
+            "publisher": "Національна академія наук України, Інститут хімії поверхні ім. О.О. Чуйка",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Organic compounds Synthesis",
-                "Composés organiques Synthèse"
+                "Surface chemistry Periodicals",
+                "Surfaces (Physics) Periodicals",
+                "Surfaces (Technology) Periodicals",
+                "Chimie des surfaces Périodiques",
+                "Surfaces (Physique) Périodiques",
+                "Surfaces (Technologie) Périodiques",
+                "Surface chemistry",
+                "Surfaces (Physics)",
+                "Surfaces (Technology)",
+                "Periodicals"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1512377674",
-            "title": "Applied homogeneous catalysis : a tool for sustainable chemistry",
-            "creator": "Arno Behr",
+            "oclcNumber": "1515074953",
+            "title": "Principles, applications, and advances of organic reaction mechanisms",
+            "creator": "Rabab Nasser",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "IGI Global Scientific Publishing",
             "isbns": [
-                "9783527853205",
-                "3527853200",
-                "9783527840069",
-                "3527840060"
+                "9798369364758"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Catalysis",
-                "Homogeneous catalysis",
-                "Catalyse",
-                "Catalyse homogène"
+                "Organic reaction mechanisms",
+                "Réactions organiques (Chimie) Mécanismes",
+                "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1453752374",
-            "title": "Applied Polyoxometalate-based electrocatalysis",
-            "creator": "Diana M. Fernandes",
+            "oclcNumber": "1228005929",
+            "title": "Innovators in battery technology : profiles of 93 influential electrochemists",
+            "creator": "Kevin Desmond",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "McFarland & Company, Inc., Credo Reference",
+            "isbns": [
+                "9781787857414",
+                "1787857417"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemists Biography",
+                "Electrochemistry History",
+                "Electric batteries History",
+                "Energy storage Research",
+                "Électrochimie Histoire",
+                "Piles électriques Histoire",
+                "Énergie Stockage Recherche",
+                "Chemists",
+                "Electric batteries",
+                "Electrochemistry",
+                "Biographies",
+                "History"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "961691996",
+            "title": "50 chemistry ideas you really need to know",
+            "creator": "Hayley Birch",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Quercus, Credo Reference",
+            "isbns": [
+                "9781785397295",
+                "178539729X",
+                "1848666675",
+                "9781848666672"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry",
+                "Chimie",
+                "chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1485030571",
+            "title": "Five membered bioactive N and O-heterocycles : models and medical applications",
+            "creator": "Shrikaant Kulkarni",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "IGI Global",
             "isbns": [
-                "9783527842711",
-                "3527842713",
-                "9783527842698",
-                "3527842691"
+                "9798369372692"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Heterocyclic compounds Synthesis",
+                "Bioactive compounds Synthesis",
+                "Pharmaceutical chemistry",
+                "Composés hétérocycliques Synthèse",
+                "Composés bioactifs Synthèse",
+                "Chimie pharmaceutique"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1515534279",
+            "title": "Novel energy storage and conversion technologies for two-dimensional MXenes and MBenes",
+            "creator": "Vinaya Tari",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IGI Global Scientific Publishing",
+            "isbns": [
+                "9798369395486"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "MXenes",
+                "Two-dimensional materials",
+                "Transition metal carbides",
+                "MXènes",
+                "Carbures de métaux de transition",
+                "Electronic books",
+                "2D MXenes",
+                "Alkaline Hydrogen Evolution",
+                "Electrocatalytic Technologies",
+                "Energy Storage and Conversion (ECESC) Technologies",
+                "Fuel Cells",
+                "Green Hydrogen Production",
+                "Grid Integration",
+                "Hybrid Materials",
+                "Metal Ion Batteries",
+                "Metal Sulfur Battery Technologies",
+                "Nitrogen Reduction Reactions",
+                "Oxygen Evolution Reactions",
+                "Proton Exchange Membrane Water Electrolysis",
+                "Recycling Technologies",
+                "Selenium Battery Technologies",
+                "Supercapacitors",
+                "Two Dimensional (2D) MBenes",
+                "Value-Added Products"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1096834609",
+            "title": "Thermal Analysis in Practice",
+            "creator": "",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Hanser",
+            "isbns": [
+                "1569906440",
+                "9781569906446",
+                "1569906432",
+                "9781569906439"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Thermal analysis",
+                "Differential Thermal Analysis",
+                "Analyse thermique"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1528175642",
+            "title": "Practical organic chemistry workbook : beginner's guide to basics",
+            "creator": "Devanshi Magoo",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783031919862",
+                "3031919866"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Organic Laboratory manuals",
+                "Chemistry, Organic Problems, exercises, etc",
+                "Chimie organique Manuels de laboratoire",
+                "Chimie organique Problèmes et exercices",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "459004",
+            "title": "Chemistry of solids: an introduction to the chemistry of solids and solid surfaces",
+            "creator": "Andrew K. Galwey",
+            "date": "1967",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Chapman & Hall",
+            "isbns": "",
+            "newFormat": "Print Book",
+            "subjects": [
+                "Solid state chemistry",
+                "Crystallography",
+                "Solids",
+                "Solides",
+                "Cristallographie",
+                "Chimie de l'état solide",
+                "Festkörperchemie"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1505909312",
+            "title": "Per- and polyfluorinated alkyl substances : occurrence, toxicity and remediation of PFAS",
+            "creator": "R. Naidu",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "De Gruyter",
+            "isbns": [
+                "9783110796797",
+                "3110796791",
+                "3110796864",
+                "9783110796865"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Perfluorinated chemicals Environmental aspects",
+                "Alkylating agents",
+                "Alkylating Agents",
+                "Composés perfluorés Aspect de l'environnement",
+                "Alkylants",
+                "Chemistry",
+                "Sustainable Development",
+                "Development",
+                "BUSINESS & ECONOMICS",
+                "Public Health",
+                "MEDICAL",
+                "SCIENCE",
+                "Toxicology",
+                "Chemical & Biochemical",
+                "TECHNOLOGY & ENGINEERING",
+                "Power Resources",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1528551357",
+            "title": "Modulation strategies of Cu-based electrocatalysts for enhancing electrocatalytic CO2 conversion",
+            "creator": "Lei Wang",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783031980565",
+                "3031980565"
             ],
             "newFormat": "eBook",
             "subjects": [
                 "Electrocatalysis",
-                "Polyoxometalates",
+                "Copper catalysts",
+                "Carbon dioxide",
+                "Reduction (Chemistry)",
                 "Électrocatalyse",
-                "Polyoxométallates"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1451099942",
-            "title": "Salt crystallization in porous media",
-            "creator": "Hannelore Derluyn",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ISTE Ltd ; John Wiley & Sons, Inc.",
-            "isbns": [
-                "9781394312436",
-                "1394312431",
-                "9781394312412",
-                "1394312415"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Salt crystals",
-                "Crystal growth",
-                "Cristaux Croissance",
-                "Geophysics",
-                "Physics",
-                "SCIENCE",
-                "Crystallography",
+                "Catalyseurs au cuivre",
+                "Gaz carbonique",
+                "Réduction (Chimie)",
+                "carbon dioxide",
                 "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1427954342",
-            "title": "Transition metal carbides and nitrides (MXenes) handbook : synthesis, processing, properties and applications",
-            "creator": "Chuanfang Zhang",
+            "oclcNumber": "1453440736",
+            "title": "The scientific legacy of Har Gobind Khorana total synthesis and the genetic code",
+            "creator": "Sahotra Sarkar",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
+            "publisher": "Anthem Press",
             "isbns": [
-                "9781119869511",
-                "111986951X",
-                "9781119869504",
-                "1119869501",
-                "9781119869528",
-                "1119869528"
+                "9781839992339",
+                "1839992336",
+                "9781839992346",
+                "1839992344"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "MXenes",
-                "MXènes",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1427685539",
-            "title": "Carbohydrate chemistry in the total synthesis of naturally occurring glycosides",
-            "creator": "Biao Yu",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527817894",
-                "3527817891",
-                "9783527817924",
-                "3527817921",
-                "9783527817900",
-                "3527817905"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Glycosides",
-                "Glucosides",
-                "Physical & Theoretical",
-                "Biochemistry",
+                "Khorana, Har Gobind, 1922-2011",
+                "Chemists India Biography",
+                "Geneticists India Biography",
+                "Chemogenomics",
+                "Genetics",
+                "Généticiens Inde Biographies",
+                "Chémogénomique",
+                "Génétique",
+                "genetics",
+                "History",
+                "Molecular Biology",
                 "Life Sciences",
                 "SCIENCE",
-                "Organic",
-                "Chemistry",
+                "Philosophy & Social Aspects"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1136568297",
+            "title": "Evolved gas analysis",
+            "creator": "Nicolas Fedelich",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Hanser Publications",
+            "isbns": [
+                "9781569908105",
+                "1569908109"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Gases Analysis",
+                "Gaz Analyse",
                 "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1427685541",
-            "title": "Green chemical synthesis with microwaves and ultrasounds",
-            "creator": "Dakeshwar Kumar Verma",
-            "date": "2024",
+            "oclcNumber": "1137082439",
+            "title": "Applications of fluoropolymer films : properties, processing, and products",
+            "creator": "Jiri George Drobny",
+            "date": "©2020",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
+            "publisher": "William Andrew Publishing",
             "isbns": [
-                "9783527844494",
-                "352784449X",
-                "9783527844470",
-                "3527844473"
+                "9780128163023",
+                "012816302X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Organic compounds Synthesis",
-                "Composés organiques Synthèse"
+                "Fluoropolymers Industrial applications",
+                "Thin films",
+                "Couches minces",
+                "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1427684401",
-            "title": "The chemistry of diamondoids : building blocks for ligands, catalysts, materials, and pharmaceuticals",
-            "creator": "Andrey A. Fokin",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Wiley-VCH",
-            "isbns": [
-                "9783527812950",
-                "3527812954",
-                "9783527812943",
-                "3527812946"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Hydrocarbons",
-                "Diamonds",
-                "Hydrocarbures",
-                "Diamants",
-                "diamond (mineral)"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1427685352",
-            "title": "MXenes : next-generation 2D materials",
-            "creator": "Jay Singh",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
-                "9781119874027",
-                "1119874025",
-                "9781119874003",
-                "1119874009",
-                "1119874017",
-                "9781119874010"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "MXenes",
-                "MXènes"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1516983652",
-            "title": "R programming for mass spectrometry : effective and reproducible data analysis",
-            "creator": "Randall K. Julian",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Wiley & Sons, Inc.",
-            "isbns": [
-                "9781119872405",
-                "1119872405",
-                "1119872367",
-                "9781119872399",
-                "1119872391",
-                "9781119872368"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mass spectrometry Data processing",
-                "R (Computer program language)",
-                "Spectrométrie de masse Informatique",
-                "R (Langage de programmation)",
-                "Mass spectrometry"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1517996829",
-            "title": "Electrochemistry of organic and organometallic compounds : green sustainable process for chemical and environmental engineering and science (GSPCEES)",
-            "creator": "Tariq Altalhi",
-            "date": "2025",
+            "oclcNumber": "921302081",
+            "title": "Transition metal catalyzed furans synthesis : transition metal catalyzed heterocycles synthesis series",
+            "creator": "Xiao-Feng Wu",
+            "date": "2016",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Elsevier",
             "isbns": [
-                "9780443301254",
-                "0443301255"
+                "9780128040720",
+                "0128040726"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Electrochemistry",
-                "Organic compounds",
-                "Organometallic compounds",
-                "Électrochimie",
-                "Composés organiques",
-                "Composés organométalliques",
-                "organic compounds",
-                "organometallic compound"
+                "Furans",
+                "Transition metal catalysts",
+                "Heterocyclic chemistry",
+                "Chemistry, Organic",
+                "Furanne",
+                "Catalyseurs à base de métaux de transition",
+                "Chimie des composés hétérocycliques",
+                "Chimie organique",
+                "furan",
+                "organic chemistry",
+                "SCIENCE Chemistry Organic",
+                "Chemistry"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "905083070",
-            "title": "Research letters in organic chemistry",
+            "oclcNumber": "1456116218",
+            "title": "Stochastic differential equations for chemical transformations in white noise probability space : Wick products and computations",
+            "creator": "Don Kulasiri",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Springer Nature Singapore Pte Ltd.",
+            "isbns": [
+                "9789819793914",
+                "9819793912"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Biochemistry Mathematical models",
+                "Chemical reactions Mathematical models",
+                "Stochastic differential equations",
+                "Mathematical physics",
+                "Differential equations",
+                "Biomathematics",
+                "Équations différentielles stochastiques",
+                "Biochimie Modèles mathématiques",
+                "Physique mathématique",
+                "Équations différentielles",
+                "Biomathématiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1511496137",
+            "title": "Foundations of Crystallography with Computer Applications",
+            "creator": "Maureen M. Julian",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": [
+                "9781040164334",
+                "1040164331",
+                "9781040164310",
+                "1040164315"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "949865452",
+            "title": "Molecular structure and function",
+            "creator": "A. Malcolm Campbell",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Momentum Press",
+            "isbns": [
+                "9781944749064",
+                "1944749063"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Molecular structure",
+                "Cytology",
+                "Molecular Structure",
+                "Cell Biology",
+                "Structure moléculaire",
+                "Cytologie",
+                "molecular structure",
+                "protein",
+                "primary structure",
+                "side chains",
+                "covalent bonds",
+                "ionic bonds",
+                "H-bonds",
+                "secondary structures",
+                "alpha helices",
+                "beta strands",
+                "tertiary structure",
+                "quaternary structure",
+                "allosteric modulator",
+                "covalent modulators",
+                "phosphate",
+                "phosphorylation",
+                "kinase",
+                "signal transduction",
+                "receptor",
+                "ligand",
+                "G protein",
+                "adenylyl cyclase",
+                "cAMP",
+                "protein kinase",
+                "glycogen synthase",
+                "antagonist",
+                "transmembrane",
+                "double blind trial",
+                "placebo effect",
+                "endoplasmic reticulum",
+                "microtubules",
+                "kinesin"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "38523481",
+            "title": "Chemical physics letters",
             "creator": "",
-            "date": "2008",
+            "date": "1967",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Elsevier Science",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry, Physical and theoretical Periodicals",
+                "Chemistry",
+                "Chimie physique et théorique Périodiques",
+                "Chemistry, Physical and theoretical",
+                "Chemische natuurkunde",
+                "Electronic journals",
+                "Computer network resources",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "86105639",
+            "title": "Radiation physics and chemistry",
+            "creator": "",
+            "date": "1977-1985",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "[Pergamon Press]",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Radiation chemistry Periodicals",
+                "Physics",
+                "Radiation",
+                "Radiochemistry",
+                "Radiation chemistry",
+                "Electronic journals",
+                "Periodical",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "639907186",
+            "title": "Surface science letters",
+            "creator": "",
+            "date": "1980",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "North-Holland Pub. Co",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Surfaces (Physics) Periodicals",
+                "Surface chemistry Periodicals",
+                "Surfaces (Physique) Périodiques",
+                "Chimie des surfaces Périodiques",
+                "Surface chemistry",
+                "Surfaces (Physics)",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "714736288",
+            "title": "Journal of physical chemistry. C",
+            "creator": "American Chemical Society",
+            "date": "©2007-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "American Chemical Society",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry, Physical and theoretical Periodicals",
+                "Nanostructured materials Periodicals",
+                "Interfaces (Physical sciences) Periodicals",
+                "Catalysis Periodicals",
+                "Chimie physique et théorique Périodiques",
+                "Nanomatériaux Périodiques",
+                "Interfaces (Sciences physiques) Périodiques",
+                "Catalyse Périodiques",
+                "Catalysis",
+                "Chemistry, Physical and theoretical",
+                "Interfaces (Physical sciences)",
+                "Nanostructured materials",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "38934385",
+            "title": "Journal of crystal growth",
+            "creator": "",
+            "date": "1967",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "North-Holland",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystal growth Periodicals",
+                "Cristaux Croissance Périodiques",
+                "Crystal growth",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "224385763",
+            "title": "Progress in crystal growth and characterization",
+            "creator": "",
+            "date": "1977",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Pergamon Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystal growth Periodicals",
+                "Cristaux Croissance Périodiques",
+                "Crystal growth",
+                "Kristalgroei",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "39183592",
+            "title": "Progress in crystal growth and characterization of materials",
+            "creator": "",
+            "date": "1990-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Pergamon Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystal growth Periodicals",
+                "Cristaux Croissance Périodiques",
+                "Crystal growth",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1057923763",
+            "title": "Journal of chemical information and computer sciences",
+            "creator": "American Chemical Society",
+            "date": "1975",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "American Chemical Society",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Documentation",
+                "Chemistry Information services",
+                "Chemistry Periodicals",
+                "Chemical literature Periodicals",
+                "Communication in chemistry Periodicals",
+                "Chemistry Information services Periodicals",
+                "Chemistry",
+                "Electronic digital computers",
+                "Computers",
+                "Documentation",
+                "Information storage and retrieval systems",
+                "Chemical literature",
+                "Computers periodicals",
+                "Chemistry periodicals",
+                "Information Systems periodicals",
+                "Information systems Periodicals",
+                "Documentation periodicals",
+                "Documentation Periodicals",
+                "Information Systems Periodicals",
+                "Information Systems",
+                "Computers Periodicals",
+                "Comunicación en la química Publicaciones periódicas",
+                "Química Servicios de información Publicaciones periódicas",
+                "Chimie Documentation Périodiques",
+                "Communication en chimie Périodiques",
+                "Chimie Services d'information Périodiques",
+                "Chimie Documentation",
+                "Chimie Périodiques",
+                "Chimie",
+                "Ordinateurs",
+                "Systèmes d'information",
+                "chemistry",
+                "computers",
+                "documentation (activity)",
+                "information retrieval services",
+                "information storage",
+                "Communication in chemistry",
+                "Periodical",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1438986255",
+            "title": "Injection molds for beginners",
+            "creator": "Rainer Dangel",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Carl Hanser Verlag GmbH & Co. KG",
+            "isbns": [
+                "1569909245",
+                "9781569909249"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polymers",
+                "Polymères",
+                "polymers"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "958654651",
+            "title": "Spectroscopy: An International Journal",
+            "creator": "",
+            "date": "uuuu",
             "language": "eng",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
@@ -1371,242 +1219,272 @@
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Chemistry, Organic Periodicals",
-                "Chimie organique Périodiques",
-                "Chemistry, Organic",
+                "Spectroscopy"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1422076842",
+            "title": "Training in Plastics Technology",
+            "creator": "Christian Hopmann",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Carl Hanser Verlag GmbH & Co. KG",
+            "isbns": [
+                "1569909350",
+                "9781569909355"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polymers",
+                "Polymères",
+                "polymers"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "310133052",
+            "title": "Journal of near infrared spectroscopy",
+            "creator": "",
+            "date": "1993",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "[NIR Publications], [IM Publications] SAGE",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Near infrared spectroscopy Periodicals",
+                "Near infrared spectroscopy",
+                "Electronic journals",
                 "Periodicals"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1492568245",
-            "title": "Cellulose-based hydrogels : production, properties, and applications",
-            "creator": "Kalim Deshmukh",
+            "oclcNumber": "956138473",
+            "title": "Multiple Reactions Galore, Volume II : Free Radical Copolymerization and Biocatalysis",
+            "creator": "Kal Renganathan Sharma",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Momentum Press",
+            "isbns": [
+                "9781606509609",
+                "1606509608"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemical reactions"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1525275550",
+            "title": "Mein Mikrobiom, Meine Gene und Ich : Eine Grenzenlose Reise",
+            "creator": "Diana Kessler",
+            "date": "2025",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Walter de Gruyter GmbH",
+            "isbns": [
+                "9783111611143",
+                "3111611140"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "SCIENCE / Chemistry / General",
+                "Electronic books",
+                "Biochemistry",
+                "Cells",
+                "DNA",
+                "Evolution",
+                "Immune System",
+                "Immunsystem",
+                "Zelle"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510404773",
+            "title": "Entwicklung neuer Synthesemethoden zur Darstellung von Calotropin und verwandten Cardenoliden als Leitstrukturen für Potentielle Anti-Tumor-Wirkstoffe",
+            "creator": "Vanessa Koch",
+            "date": "2018",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Logos Verlag",
+            "isbns": [
+                "9783832590345",
+                "383259034X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Steroids Synthesis",
+                "Stéroïdes Synthèse"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510610047",
+            "title": "Reaktivität zweiwertiger Lanthanoidkomplexe gegenüber Elementen der Gruppe 15/16 und ihren Verbindungen",
+            "creator": "Christoph Schoo",
+            "date": "2018",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cuvillier Verlag",
+            "isbns": [
+                "3736988095",
+                "9783736988095"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Inorganic compounds Synthesis",
+                "Composés inorganiques Synthèse",
+                "German lanuage materials"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510398782",
+            "title": "Triumph-Wagen-Eine kleine Geschichte des Antimons",
+            "creator": "Hans Joachim Breunig",
+            "date": "2018",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cuvillier Verlag",
+            "isbns": [
+                "3736988435",
+                "9783736988439"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Antimony",
+                "Antimoine",
+                "antimony",
+                "German language materials"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510382064",
+            "title": "Hochauflösende Online-NMR-Spektroskopie für das Reaktions- und Prozessmonitoring : Beispiele zur Anwendung in der Verfahrenstechnik",
+            "creator": "Michael Maiwald",
+            "date": "2012",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cuvillier Verlag",
+            "isbns": [
+                "3736941366",
+                "9783736941366"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Nuclear magnetic resonance spectroscopy",
+                "Spectroscopie de la résonance magnétique nucléaire"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510393904",
+            "title": "Untersuchung thermoakustischer Instabilitäten von Sprayflammen",
+            "creator": "Enrico Bärow",
+            "date": "2018",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Logos Verlag",
+            "isbns": [
+                "3832590331",
+                "9783832590338"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Combustion",
+                "combustion",
+                "German lanuage materials"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1510381790",
+            "title": "Mathematical Modeling of Biofuel Synthesis and Storage",
+            "creator": "Karina Benassi Angilelli",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Universidade Estadual de Londrina. Editora",
+            "isbns": [
+                "9786589814443",
+                "6589814449"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Organic",
+                "Chimie organique",
+                "organic chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1484085897",
+            "title": "Parcours d'un prix Nobel",
+            "creator": "Zewail",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Éditions Rue d'Ulm",
+            "isbns": [
+                "2728812071",
+                "9782728812073"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1526851433",
+            "title": "Artificial intelligence in catalysis  : experimental and computational methodologies",
+            "creator": "Valentine P. Ananikov",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Wiley-VCH",
             "isbns": [
-                "9780443220500",
-                "0443220506"
+                "9783527847068",
+                "3527847065",
+                "9783527847044",
+                "3527847049",
+                "9783527847051",
+                "3527847057"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Colloids",
-                "Cellulose",
-                "cellulose (complex carbohydrate)"
+                "Catalysis Data processing",
+                "Materials Science",
+                "Intelligence (AI) & Semantics",
+                "COMPUTERS",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "TECHNOLOGY & ENGINEERING",
+                "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1510818946",
-            "title": "APPLIED RAMAN SPECTROSCOPY  : concepts, instrumentation, chemometrics, and life science applications",
-            "creator": "",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443218354",
-                "0443218358"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Raman spectroscopy",
-                "Spectroscopie Raman"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1472988382",
-            "title": "Electronic energy levels of transition metal complexes",
-            "creator": "Roman Boča",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443334177",
-                "044333417X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Transition metal complexes",
-                "Complexes de métaux de transition"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1506027187",
-            "title": "Inorganic chemistry",
-            "creator": "J. E. House",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Chemistry, Inorganic",
-                "Chimie inorganique",
-                "inorganic chemistry"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1506026723",
-            "title": "The elements of polymer science and engineering",
-            "creator": "Phillip Choi",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Polymers",
-                "Polymerization",
-                "Polymères",
-                "Polymérisation",
-                "polymers",
-                "polymerization"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1484678662",
-            "title": "Ionic liquid in process intensification",
-            "creator": "Suojiang Zhang",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Ionic solutions",
-                "Solutions ioniques"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1432172241",
-            "title": "Encyclopedia of polymer degradation",
-            "creator": "George Wypych",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ChemTec Publishing",
-            "isbns": [
-                "9781774670491",
-                "1774670496"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Polymers Deterioration Encyclopedias",
-                "Polymères Dégradation Encyclopédies",
-                "encyclopedias",
-                "Encyclopedias",
-                "Encyclopédies"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1432160510",
-            "title": "Chain mobility and progress in medicine, pharmaceutical, and polymer science and technology",
-            "creator": "George Wypych",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ChemTec Publishing",
-            "isbns": [
-                "9781774670514",
-                "1774670518"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Materials",
-                "Matter Properties",
-                "Matériaux",
-                "Matière Propriétés"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1509770201",
-            "title": "Organic syntheses based on name reactions : a practical encyclopedic guide to over 800 transformations",
-            "creator": "Alfred Hassner",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "0081029624",
-                "9780081029626"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Organic compounds Synthesis",
-                "Composés organiques Synthèse"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1492259947",
-            "title": "3D printing in analytical chemistry : sample preparation",
-            "creator": "",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "044315676X",
-                "9780443156762"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Analytical chemistry",
-                "Three-dimensional printing",
-                "Chimie analytique",
-                "Impression tridimensionnelle",
-                "chemical analysis",
-                "3-D printing"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "1492037086",
-            "title": "PRACTICAL SONOCHEMISTRY  : applications of power ultrasound in chemistry and processing",
-            "creator": "TIMOTHY J. MASON",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443220531",
-                "0443220530"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sonochemistry",
-                "Sonochimie"
-            ]
-        },
-        {
-            "topic": "18000000",
-            "oclcNumber": "244484300",
-            "title": "Research letters in physical chemistry",
+            "oclcNumber": "244299929",
+            "title": "Research letters in organic chemistry",
             "creator": "",
             "date": "2008",
             "language": "eng",
@@ -1616,207 +1494,2205 @@
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Chemistry, Physical and theoretical Periodicals",
-                "Chemistry, Physical and theoretical",
-                "Chemistry, Physical",
-                "Chimie physique et théorique",
-                "Chimie physique et théorique Périodiques",
-                "physical chemistry",
-                "Periodicals",
+                "Chemistry, Organic Periodicals",
+                "Chimie organique Périodiques",
+                "Chemistry, Organic",
                 "Electronic journals",
-                "Physical & Theoretical Chemistry"
+                "Periodicals",
+                "Organic Chemistry"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1500761248",
-            "title": "Organic Mechanochemistry  : A New Tool for Sustainable Synthesis",
-            "creator": "Davor Margetic",
+            "oclcNumber": "1522944161",
+            "title": "Layered materials in photocatalysis : environmental purification and energy conversion",
+            "creator": "Liqun Ye",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Wiley-VCH",
             "isbns": [
-                "0443238359",
-                "9780443238352"
+                "9783527843985",
+                "3527843981",
+                "9783527352784",
+                "3527352783"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Mechanical chemistry",
+                "Photocatalysis Materials",
+                "Photocatalyse Matériaux"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1521897833",
+            "title": "Organic reaction mechanisms, 2021 : an annual survey covering the literature dated January to December 2021",
+            "creator": "Mark G. Moloney",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "John Wiley & Sons, Inc.",
+            "isbns": [
+                "9781119821984",
+                "1119821983",
+                "9781119821960",
+                "1119821967"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Organic reaction mechanisms Periodicals",
+                "Chemistry, Organic Periodicals",
+                "Réactions organiques (Chimie) Mécanismes Périodiques",
+                "Chimie organique Périodiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "244482725",
+            "title": "Research letters in inorganic chemistry",
+            "creator": "",
+            "date": "2008",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Hindawi Publ",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry, Inorganic Periodicals",
+                "Chemistry, Inorganic",
+                "Chimie inorganique Périodiques",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1507827523",
+            "title": "Infrared Spectroscopy of Archaeological Sediments",
+            "creator": "Toffolo",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009387590",
+                "1009387596"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Infrared spectroscopy",
+                "Imaging systems in archaeology",
+                "Spectroscopie infrarouge",
+                "Imagerie en archéologie",
+                "infrared spectroscopy"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1507832956",
+            "title": "Polymers at surfaces and interfaces",
+            "creator": "Richard A. L. Jones",
+            "date": "1999",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9780511623196",
+                "0511623194"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polymers Surfaces",
+                "Interfaces (Physical sciences)",
+                "Polymères Surfaces",
+                "Interfaces (Sciences physiques)"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1507829785",
+            "title": "Palladium and Norbornene Cooperative Catalysis : Fundamentals and Applications",
+            "creator": "Guangbin Dong",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "John Wiley & Sons, Incorporated",
+            "isbns": [
+                "9783527842971",
+                "3527842977",
+                "9783527842964",
+                "3527842969",
+                "9783527842957",
+                "3527842950"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Materials Science",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "Industrial & Technical",
+                "TECHNOLOGY & ENGINEERING",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1112882709",
+            "title": "Acta crystallographica. Section C Structural chemistry",
+            "creator": "International Union of Crystallography",
+            "date": "2014-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-Blackwell",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystallography Periodicals",
+                "Crystallography",
+                "Chemical Phenomena",
+                "Cristallographie Périodiques",
+                "Cristallographie",
+                "Periodical",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1112868067",
+            "title": "Acta crystallographica. Section A Foundations and advances",
+            "creator": "International Union of Crystallography",
+            "date": "2014-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-Blackwell",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystallography Periodicals",
+                "Crystallography",
+                "Cristallographie Périodiques",
+                "Cristallographie",
+                "Periodical",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "38142572",
+            "title": "Journal of mass spectrometry",
+            "creator": "Wiley InterScience (Online service)",
+            "date": "1995",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "John Wiley & Sons",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Mass spectrometry Periodicals",
+                "Spectrométrie de masse Périodiques",
+                "Mass spectrometry",
+                "Electronic journals",
+                "Periodicals",
+                "Analytical Chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "746582475",
+            "title": "Crystal research and technology",
+            "creator": "",
+            "date": "©1981-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Akademie-Verlag",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystallography Periodicals",
+                "Cristallographie Périodiques",
+                "Crystallography",
+                "Kristalliner Stoff",
+                "Zeitschrift",
+                "Online-Ressource",
+                "Kristallographie",
+                "Kristallografie",
+                "Electronic journals",
+                "Periodical",
+                "Computer network resources",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "608978866",
+            "title": "Journal of the Chinese Chemical Society",
+            "creator": "中國化學會 (Taipei, Taiwan)",
+            "date": "1933",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Periodicals",
+                "Chimie Périodiques",
+                "Chemistry",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques",
+                "chemie",
+                "chemistry",
+                "Chemistry (General)",
+                "Chemie (algemeen)"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "809579274",
+            "title": "Acta crystallographica section B",
+            "creator": "",
+            "date": "1997",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "International Union of Crystallography",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "44075420",
+            "title": "Journal of peptide science",
+            "creator": "European Peptide Society",
+            "date": "©1995-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "European Peptide Society : John Wiley & Sons, European Peptide Society : John Wiley & Sons",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Peptides Periodicals",
+                "Peptides",
+                "Peptides Périodiques",
+                "Electronic journals",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "960811649",
+            "title": "Histoire de la thermochimie Prélude à la thermodynamique chimique",
+            "creator": "Louis Médard",
+            "date": "2013",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Presses universitaires de Provence",
+            "isbns": [
+                "9782821827660",
+                "2821827660"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "thermochimie",
+                "thermodynamique (histoire de la)",
+                "physique (histoire de la)"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1058382773",
+            "title": "Macromolecular bioscience",
+            "creator": "",
+            "date": "2001-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-VCH Verlag GmbH",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Biomedical materials Periodicals",
+                "Biomolecules Periodicals",
+                "Macromolecules Periodicals",
+                "Biopolymers Periodicals",
+                "Life sciences",
+                "Biopolymers",
+                "Biomedical materials",
+                "Polymers",
+                "Biological Science Disciplines",
+                "Macromolecular Substances",
+                "Biocompatible Materials",
+                "Macromolécules Périodiques",
+                "Biopolymères Périodiques",
+                "Biomolécules Périodiques",
+                "Biomatériaux Périodiques",
+                "Sciences de la vie",
+                "Biopolymères",
+                "Biomatériaux",
+                "Polymères",
+                "biological sciences",
+                "polymers",
+                "Biomolecules",
+                "Macromolecules",
+                "Periodical",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "779527356",
+            "title": "Angewandte Chemie : international edition",
+            "creator": "Gesellschaft Deutscher Chemiker",
+            "date": "1998-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-VCH",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Periodicals",
+                "Chimie Périodiques",
+                "Chemistry",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "45745048",
+            "title": "Chemphyschem",
+            "creator": "Société française de chimie",
+            "date": "2000",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Wiley-VCH",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry, Physical and theoretical Periodicals",
+                "Chimie physique et théorique Périodiques",
+                "Chemistry, Physical and theoretical",
+                "Química física",
+                "Electronic journals",
+                "Periodicals",
+                "Revistes electròniques",
+                "Science"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1113085806",
+            "title": "Acta crystallographica. Section A Foundations and advances",
+            "creator": "International Union of Crystallography",
+            "date": "1983",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Blackwell Pub. on behalf of the International Union of Crystallography",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Crystallography Periodicals",
+                "Cristallographie Périodiques",
+                "Crystallography",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1126113783",
+            "title": "Canadian journal of chemistry = Revue candienne de chimie",
+            "creator": "National Research Council of Canada",
+            "date": "[1951]-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "National Research Council, Canadian Science Publishing",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Periodicals",
+                "Chemistry Research Periodicals",
+                "Chimie Périodiques",
+                "Chimie Recherche Périodiques",
+                "Chemistry",
+                "Chemistry Research",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1413903835",
+            "title": "Russian journal of organic chemistry",
+            "creator": "",
+            "date": "1993",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Kluwer Academic-Plenum-Human Sciences Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry, Organic Periodicals",
+                "Chimie organique Périodiques",
                 "Chemistry, Organic",
-                "Mécanochimie",
+                "Electronic journals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "49236757",
+            "title": "Russian journal of general chemistry",
+            "creator": "",
+            "date": "1993",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Kluwer Academic-Plenum-Human Sciences Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Periodicals",
+                "Chimie Périodiques",
+                "Chemistry",
+                "Electronic journals",
+                "Periodicals",
+                "Zeitschrift"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "315914492",
+            "title": "Doklady physical chemistry",
+            "creator": "Akademii︠a︡ nauk SSSR",
+            "date": "uuuu",
+            "language": "und",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Kluwer Academic Publishers Group",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1056458723",
+            "title": "Doklady chemistry",
+            "creator": "Consultants Bureau",
+            "date": "1956-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Consultants Bureau Enterprises",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Periodicals Translations",
+                "Chemistry Periodicals",
+                "Chimie Périodiques Traductions",
+                "Chimie Périodiques",
+                "Chemistry",
+                "Periodicals",
+                "Translations"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "233137705",
+            "title": "Brazilian journal of chemical engineering",
+            "creator": "Associação Brasileira de Engenharia Química",
+            "date": "1984",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Associação Brasileira de Engenharia Química",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemical engineering Periodicals",
+                "Génie chimique Périodiques",
+                "Chemical engineering",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "262698303",
+            "title": "Journal of thermal analysis and calorimetry",
+            "creator": "Akadémiai Kiadó.",
+            "date": "©1998-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Kluwer Academic Publishers ; Akadémiai Kiadó",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Calorimetry Periodicals",
+                "Thermal analysis Periodicals",
+                "Analyse thermique Périodiques",
+                "Calorimétrie Périodiques",
+                "Calorimetry",
+                "Thermal analysis",
+                "Thermodynamica",
+                "Calorimetrie",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1179358915",
+            "title": "Science China. Chemistry",
+            "creator": "",
+            "date": "1997",
+            "language": "und",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Science China Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry - General"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "795953602",
+            "title": "Microchimica acta",
+            "creator": "",
+            "date": "1997",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "743254186",
+            "title": "Combustion, explosion, and shock waves",
+            "creator": "Consultants Bureau",
+            "date": "1965",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Consultants Bureau",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Combustion Periodicals",
+                "Explosions Periodicals",
+                "Shock waves Periodicals",
+                "Combustion Périodiques",
+                "Explosions Périodiques",
+                "Ondes de choc Périodiques",
+                "Combustion",
+                "Explosions",
+                "Shock waves",
+                "Electronic journals",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1295218006",
+            "title": "Chemistry Africa",
+            "creator": "",
+            "date": "uuuu",
+            "language": "und",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Springer Science+Business Media B.V",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1097310453",
+            "title": "Journal of solid state electrochemistry",
+            "creator": "",
+            "date": "©1997-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Springer-Verlag",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Electrochemistry Periodicals",
+                "Solid state chemistry Periodicals",
+                "Électrochimie Périodiques",
+                "Chimie de l'état solide Périodiques",
+                "Electrochemistry",
+                "Solid state chemistry",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "746941413",
+            "title": "Dmitry Ivanovich Mendeleyev",
+            "creator": "",
+            "date": "uuuu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Great Neck Publishing",
+            "isbns": [
+                "9781429808668",
+                "1429808667"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mendeleyev, Dmitry Ivanovich, 1834-1907",
+                "Chemists Russia (Federation) Biography",
+                "Chemists",
+                "Russia (Federation)",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "746941168",
+            "title": "Sir Humphry Davy",
+            "creator": "",
+            "date": "uuuu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Great Neck Publishing",
+            "isbns": [
+                "9781429808361",
+                "1429808365"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Davy, Humphry, Sir, 1778-1829",
+                "Chemists Biography",
+                "Chemists",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "994608599",
+            "title": "Antoine Lavoisier",
+            "creator": "Ellen Bailey",
+            "date": "2006",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Great Neck Publishing",
+            "isbns": [
+                "1429806966",
+                "9781429806961"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Lavoisier, Antoine Laurent, 1743-1794",
+                "Chemists France Biography",
+                "Chemists",
+                "Chemistry",
+                "Physical Sciences & Mathematics",
+                "Chemistry - General",
+                "France",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1002008505",
+            "title": "Marie Curie",
+            "creator": "Jamie Aronson",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Great Neck Publishing",
+            "isbns": [
+                "9781429814034",
+                "1429814039"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Curie, Marie, 1867-1934",
+                "Women chemists Poland Biography",
+                "Femmes chimistes Pologne Biographies",
+                "Women chemists",
+                "Chemistry",
+                "Physical Sciences & Mathematics",
+                "Chemistry - General",
+                "Poland",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1428263357",
+            "title": "Flexible Metal-Organic Frameworks  : Structural Design, Synthesis and Properties",
+            "creator": "Susumu Kitagawa",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry, The",
+            "isbns": [
+                "9781839166617",
+                "1839166614",
+                "9781839166624",
+                "1839166622"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Metal-organic frameworks"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1311330740",
+            "title": "WJEC Chemistry for A2 Level - Revision Workbook",
+            "creator": "David Ballard",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Illuminate Publishing",
+            "isbns": [
+                "9781913963712",
+                "1913963713"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1378030932",
+            "title": "The chemical biology of carbon",
+            "creator": "Christopher Walsh",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839169502",
+                "1839169508",
+                "1839169516",
+                "9781839169519"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Carbon",
+                "Carbone",
+                "Organic",
+                "Biochemistry",
+                "Life Sciences",
+                "SCIENCE",
+                "Biology",
+                "Chemistry",
+                "Molecular Biology"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1347028739",
+            "title": "Life Science, Materials and Applied Chemistry",
+            "creator": "Ahmad Kusumaatmaja",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "3035736847",
+                "9783035736847"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry",
+                "Chimie",
+                "chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1393220329",
+            "title": "Physical chemistry : a problem solving approach",
+            "creator": "Ramprasad Misra",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Alpha Science International",
+            "isbns": [
+                "9781783320806",
+                "178332080X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Physical and theoretical",
+                "Chemistry, Physical and theoretical Problems, exercises, etc",
+                "Chimie physique et théorique",
+                "Chimie physique et théorique Problèmes et exercices",
+                "physical chemistry",
+                "Problems and exercises"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1388225624",
+            "title": "Gas chromatography-mass spectrometry : how do I get the best results?",
+            "creator": "Diane C. Turner",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839160042",
+                "1839160047"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Gas chromatography",
+                "Mass spectrometry",
+                "Chromatographie en phase gazeuse",
+                "Spectrométrie de masse",
+                "gas chromatography",
+                "mass spectrometry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1227387272",
+            "title": "Supramolecular protein chemistry : assembly, architecture and application",
+            "creator": "Peter B. Crowley",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788019804",
+                "1788019806",
+                "9781788019798",
+                "1788019792"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Supramolecular chemistry",
+                "Proteins",
+                "Electronic books",
+                "Chimie supramoléculaire",
+                "Protéines",
+                "Livres numériques",
+                "protein",
+                "e-books",
+                "Physical & Theoretical",
+                "Biochemistry",
+                "Life Sciences",
+                "SCIENCE",
+                "Organic",
+                "Chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1222785374",
+            "title": "The chemical biology of phosphorus",
+            "creator": "Christopher Walsh",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839162312",
+                "1839162317",
+                "9781839162329",
+                "1839162325"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Phosphorus",
+                "Phosphorus Metabolism",
+                "Phosphorus Physiological effect",
+                "Phosphore",
+                "Phosphore Métabolisme",
+                "Phosphore Effets physiologiques",
+                "Organic",
+                "Biochemistry",
+                "Life Sciences",
+                "SCIENCE",
+                "Molecular Biology",
+                "Chemistry",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1428444752",
+            "title": "Mixed-anion compounds",
+            "creator": "Hiroshi Kageyama",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839166372",
+                "1839166371",
+                "183916638X",
+                "9781839166389"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Solid state chemistry",
+                "Chemistry, Inorganic",
+                "Anions",
+                "Chimie de l'état solide",
+                "Chimie inorganique",
+                "inorganic chemistry",
+                "Materials Science",
+                "Inorganic",
+                "Chemistry",
+                "SCIENCE",
+                "TECHNOLOGY & ENGINEERING"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1416590592",
+            "title": "Structural dynamics with x-ray and electron scattering",
+            "creator": "Kasra Amini",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781837671564",
+                "1837671567",
+                "1837671583",
+                "9781837671588"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Physical and theoretical",
+                "Atomic structure",
+                "X-rays Scattering",
+                "Electrons Scattering",
+                "Chimie physique et théorique",
+                "Structure atomique",
+                "Rayons X Diffusion",
+                "Électrons Diffusion",
+                "physical chemistry",
+                "x-ray scattering",
+                "Computational & Molecular Modeling",
+                "Analytic",
+                "Chemistry",
+                "SCIENCE",
+                "Physical & Theoretical",
+                "Atomic & Molecular",
+                "Physics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1410861882",
+            "title": "Chemistry of semiconductors",
+            "creator": "Sergio Pizzini",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781837671373",
+                "1837671370",
+                "9781837671366",
+                "1837671362"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Semiconductors",
+                "Nanostructured materials Development",
+                "Semi-conducteurs",
+                "Nanomatériaux Développement",
+                "semiconductor",
+                "Inorganic",
+                "Chemistry",
+                "SCIENCE",
+                "Physical & Theoretical",
+                "Materials Science",
+                "TECHNOLOGY & ENGINEERING",
+                "Electronics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1433307866",
+            "title": "Organic chemistry",
+            "creator": "Bindyarani Devi",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University Science Press, an imprint of Laxmi Publications Pvt Ltd",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Organic",
                 "Chimie organique",
                 "organic chemistry"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1518002509",
-            "title": "Handbook of translational transcriptomics : research, protocols and applications",
-            "creator": "Anton Buzdin",
-            "date": "2025",
+            "oclcNumber": "1381474448",
+            "title": "Water in biology : a molecular view",
+            "creator": "Michael E. Green",
+            "date": "2023",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Academic Press",
+            "publisher": "Nova Science Publishers",
             "isbns": [
-                "9780443237683",
-                "0443237689"
+                "9798886977547"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "RNA Analysis",
-                "ARN Analyse"
+                "Water Analysis",
+                "Molecular biology",
+                "Biological interfaces",
+                "Eau Analyse",
+                "Biologie moléculaire",
+                "Surfaces (Biologie)",
+                "molecular biology"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1473149349",
-            "title": "HOMOGENEOUS ISOMERIZATION, AMINATION AND SILICON COMPOUNDS reactions",
-            "creator": "",
+            "oclcNumber": "906180677",
+            "title": "Solid acid catalysis : from fundamentals to applications",
+            "creator": "Hideshi Hattori",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "9789814463294",
+                "9814463299",
+                "9780429076367",
+                "0429076363"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Acids",
+                "Catalysis",
+                "Acides",
+                "Catalyse",
+                "acid",
+                "SCIENCE Chemistry Physical & Theoretical"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1120782027",
+            "title": "Synthetic polymer chemistry : innovations and outlook",
+            "creator": "Zheng Zhao",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788018913",
+                "1788018915",
+                "9781788016469",
+                "1788016467"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polymers",
+                "Polymer engineering",
+                "Polymères",
+                "Génie des polymères",
+                "polymers",
+                "polymer science"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1412051577",
+            "title": "Metal ions and complexes in solution",
+            "creator": "Toshio Yamaguchi",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Royal Society of Chemistry",
             "isbns": [
-                "9780443157134",
-                "0443157138"
+                "9781839169601",
+                "1839169605",
+                "1839169613",
+                "9781839169618"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Homogeneous catalysis",
-                "Catalysts",
-                "Catalyse homogène",
-                "Catalyseurs",
-                "catalyst"
+                "Metal ions",
+                "Ions métalliques"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1494137807",
-            "title": "PHOTOCATALYSTS  : synthesis and characterization methods",
-            "creator": "Mohammad Mansoob Khan",
-            "date": "2025",
+            "oclcNumber": "1203038833",
+            "title": "Quantities, units and symbols in physical chemistry",
+            "creator": "Christopher M. A. Brett",
+            "date": "2023",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "ELSEVIER",
+            "publisher": "Royal Society of Chemistry",
             "isbns": [
-                "9780443289149",
-                "044328914X"
+                "9781839163180",
+                "1839163186"
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Chemistry, Physical and theoretical Notation",
+                "Chemistry, Physical and theoretical Terminology",
+                "Chimie physique et théorique Notation",
+                "Chimie physique et théorique Terminologie",
+                "Chemistry, Physical and theoretical",
+                "Terminology"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "932009116",
+            "title": "Nitroxide mediated polymerization : from fundamentals to applications in materials science",
+            "creator": "Didier Gigmes",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781782622635",
+                "1782622632"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polymerization",
+                "Nitroxides",
+                "Polymérisation",
+                "Radicaux aminoxyles",
+                "polymerization",
+                "Industrial applications of scientific research & technological innovation",
+                "Chemistry",
+                "SCIENCE Chemistry Industrial & Technical",
+                "TECHNOLOGY & ENGINEERING Materials Science General"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1430991416",
+            "title": "Physical chemistry",
+            "creator": "R. R. Dwivedi",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University Science Press, an imprint of Laxmi Publications Pvt Ltd",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Physical and theoretical",
+                "Chimie physique et théorique",
+                "physical chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1179002426",
+            "title": "Catalytic aerobic oxidations",
+            "creator": "J. S. J. Hargreaves",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839160332",
+                "1839160330",
+                "9781839160349",
+                "1839160349"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Catalysis",
+                "Oxidation",
+                "Catalyse",
+                "Oxydation",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1179002329",
+            "title": "Machine learning in chemistry : the impact of artificial intelligence",
+            "creator": "Hugh M. Cartwright",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839160233",
+                "1839160233",
+                "9781839160240",
+                "1839160241"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry Data processing",
+                "Machine learning",
+                "Cheminformatics",
+                "Machine Learning",
+                "Chimio-informatique",
+                "Apprentissage automatique",
+                "Physical & Theoretical",
+                "Intelligence (AI) & Semantics",
+                "COMPUTERS",
+                "Chemistry",
+                "SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1179002075",
+            "title": "NMR and MRI of gels",
+            "creator": "Yves de Deene",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788013178",
+                "1788013174",
+                "9781788019200",
+                "1788019202"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Colloids",
+                "Colloids Imaging",
+                "Colloids in medicine",
+                "Magnetic resonance imaging",
+                "Colloïdes en médecine",
+                "Imagerie par résonance magnétique",
+                "Analytic",
+                "Organic",
+                "Chemistry",
+                "SCIENCE",
+                "Polymer",
+                "Physics",
+                "Food Science",
+                "TECHNOLOGY & ENGINEERING",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1382832976",
+            "title": "Photocatalysts. Part II",
+            "creator": "Juan Manuel Peralta-Hernández",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "303641309X",
+                "9783036413099"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Photocatalysis Materials",
+                "Air Pollution",
+                "Carbon Quantum Dots",
+                "Cement",
+                "Composite",
+                "Concrete",
+                "Graphene",
+                "Green Synthesis",
+                "Light Absorption",
+                "Metal Oxide Semiconductor",
+                "Methanol",
+                "Nanocomposite",
+                "Nanoparticles",
+                "Organic Dye",
                 "Photocatalysis",
-                "Nanostructured materials Environmental aspects",
-                "Photocatalyse",
-                "Nanomatériaux Aspect de l'environnement"
+                "Photocatalyst",
+                "Photocatalytic Fuel Cell",
+                "Photocatalytic Hydrogen Production",
+                "Photodegradation",
+                "Pollutant",
+                "Polluted Building Components",
+                "Surface Modification",
+                "Ternary Composite Photocatalyst",
+                "Thin Film",
+                "Wastewater Treatment",
+                "Water Pollution",
+                "Photocatalyse Matériaux",
+                "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1470852327",
-            "title": "Synthesis of epoxides",
-            "creator": "Navjeet Kaur",
+            "oclcNumber": "967727014",
+            "title": "Cyclophanes",
+            "creator": "François Diederich",
+            "date": "1991",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788010924",
+                "1788010922"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Cyclophanes",
+                "Polycyclic aromatic compounds",
+                "Composés aromatiques polycycliques",
+                "Cyclophane",
+                "Chimie supramoléculaire",
+                "Composés aromatiques",
+                "Aromatic compounds"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1399457319",
+            "title": "Advances in superhydrophobic coatings",
+            "creator": "Viswanathan S. Saji",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Royal Society of Chemistry",
             "isbns": [
-                "9780443316012",
-                "0443316015",
-                "9780443316005",
-                "0443316007"
+                "9781837670031",
+                "183767003X",
+                "9781837670048",
+                "1837670048"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Epoxy compounds",
-                "Époxydes"
+                "Hydrophobic surfaces",
+                "Surfaces hydrophobes",
+                "hydrophobicity"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1468785068",
-            "title": "Natural and synthetic hydrogels : rational design, synthesis and biomedical applications",
-            "creator": "Ravin Narain",
-            "date": "2025",
+            "oclcNumber": "1376310346",
+            "title": "The fundamentals of electrochemistry",
+            "creator": "Yuliy D. Gamburg",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527501652",
+                "1527501655"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electrochemistry",
+                "Electrolytes",
+                "Électrochimie",
+                "Électrolytes"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1379472079",
+            "title": "Photocatalysts. Part I",
+            "creator": "Juan Manuel Peralta-Hernández",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "3036412999",
+                "9783036412993"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Photocatalysis Materials",
+                "Air Pollution",
+                "Antimicrobial Activity",
+                "Carbon Quantum Dots",
+                "Composite",
+                "Graphene",
+                "Green Synthesis",
+                "Heteroatom Doping",
+                "Light Absorption",
+                "Metal Oxide Semiconductor",
+                "Nanocomposite",
+                "Nanoparticles",
+                "Organic Dye",
+                "Photocatalysis",
+                "Photocatalyst",
+                "Photodegradation",
+                "Pollutant",
+                "Surface Modification",
+                "Ternary Composite Photocatalyst",
+                "Thin Film",
+                "Wastewater Treatment",
+                "Water Pollution",
+                "Photocatalyse Matériaux",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1434000904",
+            "title": "Bio-chemistry",
+            "creator": "Anshu Malik",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Laxmi Publications Pvt. Ltd.",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Biochemistry",
+                "Biochimie",
+                "biochemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "900798567",
+            "title": "Handbook of crystal growth",
+            "creator": "Tatau Nishinaga",
+            "date": "2015",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Elsevier",
             "isbns": [
-                "9780443161698",
-                "0443161690"
+                "9780444593764",
+                "0444593764",
+                "9780444633224",
+                "0444633227",
+                "9780444633231",
+                "0444633235"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Colloids"
+                "Crystal growth Handbooks, manuals, etc",
+                "Cristaux Croissance Guides, manuels, etc",
+                "SCIENCE Physics Crystallography",
+                "Crystal growth",
+                "Handbook",
+                "handbooks",
+                "Handbooks and manuals",
+                "Guides et manuels"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1515160209",
-            "title": "Bio-polymerized sulfur for sustainable practice in applied sciences and engineering",
-            "creator": "Abdel-Mohsen Onsy Mohamed",
-            "date": "2025",
+            "oclcNumber": "1139060709",
+            "title": "The handbook of continuous crystallization",
+            "creator": "Nima Yazdanpanah",
+            "date": "2020",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "The Royal Society of Chemistry",
             "isbns": [
-                "9780443135309",
-                "0443135304"
+                "9781788013581",
+                "1788013581",
+                "9781839161315",
+                "1839161310"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Crystallization",
+                "Cristallisation",
+                "crystallization",
+                "Materials science",
+                "Crystallography",
+                "Powder technology",
+                "Pharmaceutical technology",
+                "SCIENCE Chemistry Industrial & Technical",
+                "TECHNOLOGY & ENGINEERING Materials Science General",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "891387126",
+            "title": "Molecules that amaze us",
+            "creator": "Paul W. May",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "1466589612",
+                "1322632898",
+                "9781322632896",
+                "9781466589612",
+                "9780429168734",
+                "042916873X",
+                "1466589604",
+                "9781466589605"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry Popular works",
+                "Chemistry Humor",
+                "Chimie Ouvrages de vulgarisation",
+                "Chimie Humour",
+                "Chemistry",
+                "Humor",
+                "Popular works"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1111601728",
+            "title": "QUIMICA : um curso universitario",
+            "creator": "Bruce H. Mahan",
+            "date": "2018",
+            "language": "por",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BLUCHER",
+            "isbns": [
+                "8521217374",
+                "9788521217374"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry",
+                "Chimie",
+                "chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1365362077",
+            "title": "Introduction to contextual maths in chemistry",
+            "creator": "Fiona Dickinson",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839164163",
+                "1839164166"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry Mathematics",
+                "Chemistry",
+                "Physical & Theoretical",
+                "SCIENCE",
+                "Study & Teaching",
+                "Study Guides",
+                "STUDY AIDS"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "604846691",
+            "title": "Silicon-containing polymers",
+            "creator": "Richard G. Jones",
+            "date": "©1995",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781837672448",
+                "183767244X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Silicon polymers Congresses",
+                "Polymères silicium Congrès",
+                "Silicon polymers",
+                "proceedings (reports)",
+                "Conference papers and proceedings",
+                "Actes de congrès",
+                "Silicon compounds"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1425239083",
+            "title": "Rechargeable battery electrolytes : electrochemical energy storage from liquids to solids",
+            "creator": "Jianmin Ma",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839167577",
+                "1839167572",
+                "9781839167584",
+                "1839167580"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electrolytic cells",
+                "Storage batteries",
+                "Cellules électrolytiques",
+                "Accumulateurs",
+                "batteries (electrical)",
+                "Energy",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "Environmental (see also Environmental Science)",
+                "Environmental",
+                "TECHNOLOGY & ENGINEERING",
+                "Materials Science",
+                "Alternative & Renewable",
+                "Power Resources",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1135476301",
+            "title": "Physical chemistry : a laboratory manual",
+            "creator": "Shailendra K. Sinha",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Alpha Science International Ltd.",
+            "isbns": [
+                "9781783320790",
+                "1783320796"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry, Physical and theoretical",
+                "Chimie physique et théorique",
+                "physical chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "897444651",
+            "title": "Semiclassical mechanics with molecular applications",
+            "creator": "M. S. Child",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191783227",
+                "0191783226",
+                "0199672989",
+                "9780199672981",
+                "9780191653841",
+                "0191653845"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Molecular spectroscopy",
+                "Quantum chemistry",
+                "Spectroscopie moléculaire",
+                "Chimie quantique",
+                "SCIENCE Chemistry Physical & Theoretical",
+                "Chemistry",
+                "Physical Sciences & Mathematics",
+                "Analytical Chemistry"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1160208100",
+            "title": "The chemical biology of sulfur",
+            "creator": "Christopher Walsh",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839161841",
+                "1839161841",
+                "9781839161940",
+                "1839161949"
             ],
             "newFormat": "eBook",
             "subjects": [
                 "Sulfur",
-                "Green chemistry",
                 "Soufre",
-                "Chimie verte",
-                "sulfur (mineral)"
+                "sulfur (mineral)",
+                "Organic",
+                "Biochemistry",
+                "Life Sciences",
+                "SCIENCE",
+                "Molecular Biology",
+                "Chemistry",
+                "Electronic books"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1485493386",
-            "title": "Basic to modern strategies of synthetic organic chemistry",
-            "creator": "Hyun-Joon Ha",
+            "oclcNumber": "869096294",
+            "title": "Polymer Structure Characterization : From Nano to Macro Organization in Small Molecules and Polymers",
+            "creator": "Pethrick",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781849734332",
+                "184973433X"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1128699499",
+            "title": "Biogenic amines in food : analysis, occurrence and toxicity",
+            "creator": "Bahruddin Saad",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788015813",
+                "1788015819",
+                "9781788019194",
+                "1788019199"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Food Safety measures",
+                "Biogenic amines",
+                "Amines",
+                "Aliments Sécurité Mesures",
+                "Amines biogènes"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1128450436",
+            "title": "Analytical Electrogenerated Chemiluminescence : From Fundamentals to Bioassays",
+            "creator": "Neso Sojic",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781788015776",
+                "1788015770",
+                "9781839160066",
+                "1839160063"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemiluminescence",
+                "Electrochemistry",
+                "Chimiluminescence",
+                "Électrochimie",
+                "chemiluminescence"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1525860592",
+            "title": "Photochemical splitting of water : fundamentals to applications",
+            "creator": "Soney C. George",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Elsevier",
             "isbns": [
-                "9780443331275",
-                "0443331278"
+                "0443290652",
+                "9780443290657"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Organic compounds Synthesis",
-                "Composés organiques Synthèse"
+                "Photochemistry",
+                "Water Composition",
+                "Water chemistry",
+                "Photochimie",
+                "Eau Composition",
+                "Eau Chimie"
             ]
         },
         {
             "topic": "18000000",
-            "oclcNumber": "1474234437",
-            "title": "Surface modification and coating of fibers, polymers, and composites : techniques, properties, and applications",
-            "creator": "Rajeshkumar Lakshminarasimhan",
+            "oclcNumber": "1394912562",
+            "title": "Chemical Equilibrium",
+            "creator": "Infobase",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "ClickView/VEA",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Chemistry",
+                "Physical sciences",
+                "Natural Science Disciplines",
+                "Chimie",
+                "Sciences physiques",
+                "chemistry",
+                "physical sciences"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "990615825",
+            "title": "2010 IEEE International Conference on Robotics and Biomimetics",
+            "creator": "IEEE Staff",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "I E E E",
+            "isbns": [
+                "1424493196",
+                "9781424493197",
+                "1424493188",
+                "9781424493180"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Technology"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1395478606",
+            "title": "Essential Chemistry",
+            "creator": "Jerry Baber",
+            "date": "2009",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "Films Media Group",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Matter",
+                "Chemistry, Physical and theoretical",
+                "Organic compounds",
+                "Inorganic compounds",
+                "Chemical elements",
+                "Chemical bonds",
+                "Chemistry, Physical",
+                "Organic Chemicals",
+                "Inorganic Chemicals",
+                "Elements",
+                "Matière",
+                "Chimie physique et théorique",
+                "Composés organiques",
+                "Composés inorganiques",
+                "Éléments chimiques",
+                "physical chemistry",
+                "organic compounds",
+                "elements (chemical substances)",
+                "Educational films"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1181905336",
+            "title": "2019 Silicon Nanoelectronics Workshop  : 9-10 June 2019, Kyoto, Japan",
+            "creator": "IEEE Silicon Nanoelectronics Workshop",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Institute of Electrical and Electronics Engineers",
+            "isbns": [
+                "9781728105307",
+                "1728105307"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Silicon compounds Congresses",
+                "Nanoelectronics Congresses",
+                "Silicium Composés Congrès",
+                "Nanoélectronique Congrès",
+                "Nanoelectronics",
+                "Silicon compounds",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "990669475",
+            "title": "2009 IEEE International SOI Conference",
+            "creator": "IEEE Staff",
+            "date": "2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "I E E E",
+            "isbns": [
+                "1424442567",
+                "9781424442560",
+                "1424452325",
+                "9781424452323",
+                "150906866X",
+                "9781509068661"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Technology"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1253402433",
+            "title": "Biochemistry : a very short introduction",
+            "creator": "Mark Lorch",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191872235",
+                "0191872237",
+                "9780192570611",
+                "0192570617",
+                "9780192570628",
+                "0192570625"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Biochemistry",
+                "Biochimie",
+                "biochemistry",
+                "MEDICAL",
+                "Biology",
+                "Life Sciences",
+                "SCIENCE",
+                "Chemistry",
+                "Cell Biology"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "993472876",
+            "title": "UNESA journal of chemical education",
+            "creator": "Universitas Negeri Surabaya Program Studi Pendidikan Kimia",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Chemistry Department, Chemical Education Study Program, Faculty of Mathematics and Natural Sciences, Surabaya State University",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Chemistry Study and teaching Research Periodicals",
+                "Electronic journals",
+                "Periodicals",
+                "Chemistry - General"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1474239437",
+            "title": "The mage's images : Heinrich Khunrath in his oratory and laboratory. Volume 1, Prologue : bio-bibliography and introduction to Khunrath's images",
+            "creator": "Peter J. Forshaw",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Brill",
             "isbns": [
-                "9780443220302",
-                "0443220301"
+                "9789004691391",
+                "9004691391"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Surface chemistry",
-                "Chimie des surfaces"
+                "Khunrath, Heinrich, 1560-1605",
+                "Khunrath, Heinrich, 1560-1605. Illustrations",
+                "Alchemists Germany Biography",
+                "Theosophists Germany Biography",
+                "Hermetic philosophers Germany Biography",
+                "Physicians Germany Biography",
+                "Occultists Germany Biography",
+                "Alchemy Early works to 1800",
+                "Occultism Early works to 1800",
+                "Théosophes Allemagne Biographies",
+                "Philosophes hermétiques Allemagne Biographies",
+                "Occultistes Allemagne Biographies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1415215577",
+            "title": "The Summa Perfectionis of Pseudo-Geber : A Critical Edition, Translation, and Study",
+            "creator": "William R. Newman",
+            "date": "1991",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BRILL",
+            "isbns": [
+                "9004625720",
+                "9789004625723"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Alchemy Early works to 1800"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1525277925",
+            "title": "Hoofdstukken uit de geschiedenis van de scheikunde",
+            "creator": "H.A.M. Snelders",
+            "date": "1979",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9789004652422",
+                "9004652426"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry History",
+                "Chimie Histoire"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1463307965",
+            "title": "The Playfair Collection and the teaching of chemistry at the University of Edinburgh, 1713-1858",
+            "creator": "R.G.W. Anderson",
+            "date": "1978",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9004626743",
+                "9789004626744"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry Study and teaching (Higher) Scotland",
+                "Scientific apparatus and instruments Collectors and collecting",
+                "Appareils et instruments scientifiques Collectionneurs et collections"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1463285626",
+            "title": "Het Gezelschap der Hollandsche Scheikundigen : Amsterdamse chemici uit het einde van de achttiende eeuw",
+            "creator": "H.A.M. Snelders",
+            "date": "1980",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9004627413",
+                "9789004627413"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Chemistry societies"
+            ]
+        },
+        {
+            "topic": "18000000",
+            "oclcNumber": "1430331080",
+            "title": "Alchemy revisited : proceedings of the International Conference on the History of Alchemy at the University of Groningen, 17-19 April 1989",
+            "creator": "Z. R. W. M. von Martels",
+            "date": "1990",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9004625704",
+                "9789004625709"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Alchemy Congresses",
+                "Alchemy Early works to 1800",
+                "Alchimie Congrès",
+                "Alchimie Ouvrages avant 1800"
             ]
         }
     ]
