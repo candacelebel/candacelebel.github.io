@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "66000000",
@@ -4733,7 +4733,8 @@
                 "Sustainable Development",
                 "Development",
                 "BUSINESS & ECONOMICS",
-                "SOCIAL SCIENCE"
+                "SOCIAL SCIENCE",
+                "Electronic books"
             ]
         },
         {
@@ -4793,30 +4794,6 @@
                 "Sex role",
                 "Social change",
                 "Conference papers and proceedings"
-            ]
-        },
-        {
-            "topic": "66000000",
-            "oclcNumber": "1526850927",
-            "title": "MARRIAGE MATTERS imagining love and belonging in uganda",
-            "creator": "",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "UCL PRESS",
-            "isbns": [
-                "9781800088573",
-                "1800088574",
-                "9781800088580",
-                "1800088582"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Marriage Uganda",
-                "Mariage Ouganda",
-                "Marriage",
-                "Uganda"
             ]
         },
         {
@@ -9596,7 +9573,8 @@
                 "Pays socialistes Politique sociale",
                 "Anciens pays communistes Politique sociale",
                 "Communist countries",
-                "Former communist countries"
+                "Former communist countries",
+                "Electronic books"
             ]
         },
         {
@@ -11299,7 +11277,8 @@
                 "Social service",
                 "Gestalt therapy",
                 "Service social",
-                "Gestaltthérapie"
+                "Gestaltthérapie",
+                "Electronic books"
             ]
         },
         {
@@ -14672,28 +14651,6 @@
                 "SOCIAL SCIENCE Regional Studies",
                 "SOCIAL SCIENCE Sociology General",
                 "Cyprus Nicosia"
-            ]
-        },
-        {
-            "topic": "66000000",
-            "oclcNumber": "1152989056",
-            "title": "Resilience and the Re-Integration of Street Children and Youth in Sub-Saharan Africa : The Case of Cameroon",
-            "creator": "Sanji Walters Mudoh",
-            "date": "Oct. 2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789811320736",
-                "981132073X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cameroon History",
-                "Children Africa",
-                "History Africa West",
-                "Social Science Children's Studies"
             ]
         },
         {
@@ -22766,7 +22723,8 @@
                 "Poor families Europe Social conditions",
                 "Familles pauvres Europe",
                 "État providence Europe",
-                "Résilience (Trait de personnalité) Europe"
+                "Résilience (Trait de personnalité) Europe",
+                "Electronic books"
             ]
         },
         {
@@ -58470,6 +58428,7 @@
                 "Journalism Objectivity",
                 "Public relations",
                 "United States",
+                "Electronic books",
                 "dissertations",
                 "History",
                 "Academic theses",

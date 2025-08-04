@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "64000000",
@@ -1814,7 +1814,8 @@
                 "Psychiatry and religion",
                 "Psychotherapy Religious aspects Buddhism",
                 "Pleine conscience (Psychologie)",
-                "Psychiatrie et religion"
+                "Psychiatrie et religion",
+                "Electronic books"
             ]
         },
         {
@@ -1826,7 +1827,7 @@
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "Springer",
+            "publisher": "Springer Verlag GmbH, part of Springer Nature",
             "isbns": [
                 "3662707381",
                 "9783662707388"
@@ -1984,35 +1985,6 @@
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1203983136",
-            "title": "Approaching Consumer Culture  : Global Flows and Local Contexts",
-            "creator": "Evgenii︠a︡ Krŭsteva-Blagoeva",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint: Springer",
-            "isbns": [
-                "9783030002268",
-                "3030002268"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Economics Psychological aspects",
-                "Motivation research (Marketing)",
-                "Ethnology",
-                "Economic Psychology",
-                "Consumer Behavior",
-                "Cultural Anthropology",
-                "Économie politique Aspect psychologique",
-                "Études de motivation (Marketing)",
-                "Ethnologie",
-                "social anthropology",
-                "ethnology"
-            ]
-        },
-        {
-            "topic": "64000000",
             "oclcNumber": "1053834269",
             "title": "Collective attention on the Web",
             "creator": "Christian Bauckhage",
@@ -2140,37 +2112,6 @@
         },
         {
             "topic": "64000000",
-            "oclcNumber": "1050758328",
-            "title": "Empowering Engagement : Creating Learning Opportunities for Students from Challenging Backgrounds",
-            "creator": "Clarence Ng",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint : Springer",
-            "isbns": [
-                "9783319946528",
-                "3319946528"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychology",
-                "Education and state",
-                "ducation and state",
-                "Social service",
-                "Child psychology",
-                "School psychology",
-                "Social Work",
-                "Psychologie",
-                "Éducation Politique gouvernementale",
-                "Service social",
-                "Enfants Psychologie",
-                "Psychologie scolaire",
-                "psychology"
-            ]
-        },
-        {
-            "topic": "64000000",
             "oclcNumber": "1050755465",
             "title": "Developing Socio-Emotional Intelligence in Higher Education Scholars",
             "creator": "Camila Devis-Rozental",
@@ -2204,76 +2145,6 @@
                 "psychology",
                 "higher education",
                 "social psychology"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1226291892",
-            "title": "Male Eating Disorders  : Experiences of Food, Body and Self",
-            "creator": "Russell Delderfield",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint: Palgrave Pivot",
-            "isbns": [
-                "9783030025359",
-                "3030025357"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Critical psychology",
-                "Gender expression",
-                "Identity (Psychology)",
-                "Men",
-                "Personality",
-                "Self",
-                "Sex (Psychology)",
-                "Social psychology",
-                "Ego (Psychology)",
-                "Gender Studies",
-                "Critical Psychology",
-                "Men's Studies",
-                "Personality and Social Psychology",
-                "Self and Identity",
-                "Psychologie critique",
-                "Expression de l'identité de genre",
-                "Identité (Psychologie)",
-                "Hommes",
-                "Personnalité",
-                "Moi (Psychologie)",
-                "Sexualité (Psychologie)",
-                "Psychologie sociale",
-                "men (male humans)",
-                "social psychology"
-            ]
-        },
-        {
-            "topic": "64000000",
-            "oclcNumber": "1226233558",
-            "title": "Rethinking the Three R's in Animal Research  : Replacement, Reduction, Refinement",
-            "creator": "Jan Lauwereyns",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint: Palgrave Pivot",
-            "isbns": [
-                "9783319893006",
-                "3319893009"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Bioethics",
-                "Cognitive psychology",
-                "Neurosciences",
-                "Psychometrics",
-                "Psychology Methodology",
-                "Cognitive Psychology",
-                "Psychological Methods/Evaluation",
-                "Psychologie cognitive",
-                "Psychométrie",
-                "Psychologie Méthodologie"
             ]
         },
         {
@@ -3983,7 +3854,8 @@
                 "United States Religious life and customs",
                 "United States Politics and government",
                 "États-Unis Politique et gouvernement",
-                "Informational works"
+                "Informational works",
+                "Documents d'information"
             ]
         },
         {

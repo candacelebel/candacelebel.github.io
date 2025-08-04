@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "16000000",
@@ -1995,9 +1995,13 @@
                 "Hornworts (Bryophytes) Central America Catalogs",
                 "Hépatiques Amérique centrale Catalogues",
                 "Anthocérotales Amérique centrale Catalogues",
+                "technical reports",
+                "field guides",
                 "Technical reports",
                 "Classifications",
-                "Field guides"
+                "Field guides",
+                "Rapports techniques",
+                "Guides d'identification"
             ]
         },
         {

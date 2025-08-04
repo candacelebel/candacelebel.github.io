@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "58000000",
@@ -1344,6 +1344,12 @@
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Video games Authorship",
+                "Reference (Philosophy) in literature",
+                "Discourse analysis, Narrative",
+                "Jeux vidéo Art d'écrire",
+                "Référence (Philosophie) dans la littérature",
+                "Discours narratif",
                 "Electronic books"
             ]
         },

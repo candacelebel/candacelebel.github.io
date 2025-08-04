@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "24000000",
@@ -4759,7 +4759,8 @@
             "specificFormat": "Digital",
             "publisher": "IGI Global Scientific Publishing",
             "isbns": [
-                "9798369368510"
+                "9798369368510",
+                "9798369368527"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -25481,7 +25482,8 @@
                 "Apprentissage Travail en équipe",
                 "Langage et langues Étude et enseignement",
                 "Teaching Methods & Materials",
-                "EDUCATION"
+                "EDUCATION",
+                "Electronic books"
             ]
         },
         {

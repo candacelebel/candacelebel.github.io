@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "40000000",
@@ -99,7 +99,7 @@
             "specificFormat": "CD",
             "publisher": "Deutsche Grammophon",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas",
                 "CD"
@@ -132,7 +132,7 @@
             "specificFormat": "CD",
             "publisher": "London",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas",
                 "Compact discs",
@@ -150,7 +150,7 @@
             "specificFormat": "CD",
             "publisher": "Deutsche Grammophon",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas"
             ]
@@ -166,7 +166,7 @@
             "specificFormat": "CD",
             "publisher": "",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Theater music",
                 "Operas",
@@ -229,7 +229,7 @@
             "specificFormat": "CD",
             "publisher": "Deutsche Grammophon",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas",
                 "Music",
@@ -250,7 +250,7 @@
             "specificFormat": "CD",
             "publisher": "CBS Records",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Akhenaton, King of Egypt Drama",
                 "Akhenaton, King of Egypt",
@@ -271,7 +271,7 @@
             "specificFormat": "CD",
             "publisher": "Deutsche Grammophon",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas",
                 "Overtures",
@@ -1251,7 +1251,8 @@
                 "MUSIC",
                 "Music",
                 "Hill District (Pittsburgh, Pa.) History 20th century",
-                "Hill District (Pittsburgh, Pa.) Social life and customs"
+                "Hill District (Pittsburgh, Pa.) Social life and customs",
+                "Electronic books"
             ]
         },
         {
@@ -2173,7 +2174,7 @@
             "specificFormat": "CD",
             "publisher": "Naxos",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Operas",
                 "Operas Excerpts, Arranged",
@@ -9027,7 +9028,7 @@
             "specificFormat": "CD",
             "publisher": "Amadis",
             "isbns": "",
-            "newFormat": "",
+            "newFormat": "CD",
             "subjects": [
                 "Piano music",
                 "Piano, Musique de"
@@ -9831,7 +9832,8 @@
             "subjects": [
                 "Music Instruction and study",
                 "Music and older people",
-                "Musique Étude et enseignement"
+                "Musique Étude et enseignement",
+                "Electronic books"
             ]
         },
         {
@@ -9855,7 +9857,8 @@
                 "Children's rights",
                 "Musicothérapie pour enfants",
                 "Musicothérapie pour adolescents",
-                "Enfants Droits"
+                "Enfants Droits",
+                "Electronic books"
             ]
         },
         {
@@ -13797,6 +13800,7 @@
                 "Musique populaire Histoire et critique",
                 "Authenticité (Philosophie)",
                 "Popular music",
+                "Electronic books",
                 "Criticism, interpretation, etc",
                 "Literary criticism",
                 "Critiques littéraires"

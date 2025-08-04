@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "14000000",
@@ -926,9 +926,9 @@
                 "Célébrités dans l'art",
                 "Femelles Portraits",
                 "Portraits (Photographie)",
+                "ART / General",
                 "Celebrities",
                 "Females",
-                "ART / General",
                 "Electronic books",
                 "Portraits"
             ]
@@ -4758,7 +4758,8 @@
             "subjects": [
                 "Calligraphy, Chinese",
                 "Painting, Chinese",
-                "Peinture chinoise"
+                "Peinture chinoise",
+                "Electronic books"
             ]
         },
         {
@@ -9977,7 +9978,8 @@
                 "Évaluation Philosophie",
                 "Art Prix",
                 "Art Commercialisation",
-                "art market"
+                "art market",
+                "Electronic books"
             ]
         },
         {

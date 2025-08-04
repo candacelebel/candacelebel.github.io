@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "68000000",
@@ -7492,7 +7492,8 @@
                 "Astronautique",
                 "Mécanique des fluides",
                 "Outer space Exploration",
-                "Espace extra-atmosphérique Exploration"
+                "Espace extra-atmosphérique Exploration",
+                "Electronic books"
             ]
         },
         {
@@ -9461,7 +9462,8 @@
                 "Télécommunications",
                 "Transport Technologie",
                 "telecommunications",
-                "transportation engineering (civil engineering)"
+                "transportation engineering (civil engineering)",
+                "Electronic books"
             ]
         },
         {
@@ -13849,7 +13851,8 @@
                 "Coques (Ingénierie)",
                 "Assemblages (Technologie)",
                 "shell structures",
-                "joints (connections)"
+                "joints (connections)",
+                "Electronic books"
             ]
         },
         {
@@ -14519,7 +14522,8 @@
                 "Laundry Drama",
                 "Laundry workers Drama",
                 "Blanchissage États-Unis Histoire",
-                "Blanchisseurs et teinturiers États-Unis Histoire"
+                "Blanchisseurs et teinturiers États-Unis Histoire",
+                "Electronic books"
             ]
         },
         {
@@ -14931,7 +14935,8 @@
                 "Roches Fluage",
                 "Charbon Géologie",
                 "Charbon Mines et extraction",
-                "coal mines"
+                "coal mines",
+                "Electronic books"
             ]
         },
         {
@@ -23204,7 +23209,8 @@
                 "Computer graphics Mathematics",
                 "Infographie",
                 "Infographie Mathématiques",
-                "computer graphics"
+                "computer graphics",
+                "Electronic books"
             ]
         },
         {
@@ -62522,9 +62528,7 @@
             "isbns": "",
             "newFormat": "eBook",
             "subjects": [
-                "Integrated circuits Testing Congresses",
-                "Integrated circuits Testing",
-                "Conference papers and proceedings"
+                "Integrated circuits Testing Congresses"
             ]
         },
         {
@@ -88820,7 +88824,8 @@
                 "HISTORY / Military / Naval",
                 "HISTORY / General",
                 "United States History, Naval 20th century",
-                "États-Unis Histoire navale 20e siècle"
+                "États-Unis Histoire navale 20e siècle",
+                "Electronic books"
             ]
         },
         {

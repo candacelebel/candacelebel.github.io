@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "54000000",
@@ -1699,7 +1699,8 @@
                 "PHILOSOPHY",
                 "Philosophers",
                 "BIOGRAPHY & AUTOBIOGRAPHY",
-                "Language"
+                "Language",
+                "Electronic books"
             ]
         },
         {
@@ -6827,7 +6828,8 @@
                 "epistemology",
                 "Modern",
                 "History & Surveys",
-                "PHILOSOPHY"
+                "PHILOSOPHY",
+                "Electronic books"
             ]
         },
         {
@@ -7727,7 +7729,9 @@
                 "Mysticism",
                 "Psychology, clinical",
                 "Psychologie et religion",
-                "Psychologie appliquée"
+                "Psychologie appliquée",
+                "Mysticisme",
+                "mysticism"
             ]
         },
         {
@@ -12772,19 +12776,23 @@
             "specificFormat": "PrintBook",
             "publisher": "Oxford University Press",
             "isbns": [
-                "0197795765",
-                "9780197795767",
+                "9780197795774",
                 "0197795773",
-                "9780197795774"
+                "9780197795767",
+                "0197795765"
             ],
             "newFormat": "Print Book",
             "subjects": [
                 "Autonomy (Philosophy)",
+                "Oppression (Psychology)",
+                "Social interaction",
+                "Feminist theory",
                 "Authority Social aspects",
-                "Discrimination Social aspects",
-                "Interpersonal relations",
                 "Autonomie (Philosophie)",
-                "Autorité Aspect social"
+                "Autorité Aspect social",
+                "Oppression",
+                "Interaction sociale",
+                "Théorie féministe"
             ]
         },
         {
@@ -14013,20 +14021,6 @@
                 "Exhortation morale Ouvrages avant 1800",
                 "Electronic books"
             ]
-        },
-        {
-            "topic": "54000000",
-            "oclcNumber": "700420258",
-            "title": "Confucianism",
-            "creator": "Films on Demand",
-            "date": "1996",
-            "language": "eng",
-            "generalFormat": "Video",
-            "specificFormat": "Digital",
-            "publisher": "Films Media Group ; McIntyre Media [distributor]",
-            "isbns": "",
-            "newFormat": "eVideo",
-            "subjects": ""
         },
         {
             "topic": "54000000",
@@ -44392,7 +44386,8 @@
             "subjects": [
                 "Hirata, Atsutane, 1776-1843",
                 "Philosophy, Japanese 19th century",
-                "Philosophie japonaise 19e siècle"
+                "Philosophie japonaise 19e siècle",
+                "Electronic books"
             ]
         },
         {
@@ -77718,16 +77713,17 @@
                 "South (AL",
                 "State & Local",
                 "United States",
+                "HISTORY / General",
                 "Social reformers",
                 "Race relations Political aspects",
                 "Presbyterian Church Clergy",
                 "Fascism",
                 "Armed Forces Chaplains",
                 "African Americans Civil rights",
-                "HISTORY / General",
                 "Wilcox County (Ala.) Race relations Political aspects",
                 "Alabama Wilcox County",
                 "Alabama",
+                "Electronic books",
                 "History",
                 "Biographies"
             ]

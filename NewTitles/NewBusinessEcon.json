@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "22000000",
@@ -8960,7 +8960,8 @@
             "specificFormat": "Digital",
             "publisher": "IGI Global",
             "isbns": [
-                "9798369391808"
+                "9798369391808",
+                "9798369391815"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -13722,7 +13723,8 @@
                 "Artificial intelligence Financial applications",
                 "Finance Data processing",
                 "Intelligence artificielle Applications financières",
-                "Finances Informatique"
+                "Finances Informatique",
+                "Electronic books"
             ]
         },
         {
@@ -15155,7 +15157,10 @@
             "newFormat": "eBook",
             "subjects": [
                 "Personnel management",
-                "Artificial intelligence"
+                "Artificial intelligence",
+                "Personnel Direction",
+                "Intelligence artificielle",
+                "artificial intelligence"
             ]
         },
         {
@@ -23128,6 +23133,9 @@
                 "Environmental economics",
                 "Environmental economics Mathematical models",
                 "Climatic changes Economic aspects",
+                "Économie de l'environnement",
+                "Économie de l'environnement Modèles mathématiques",
+                "Climat Changements Aspect économique",
                 "Electronic books"
             ]
         },
@@ -36362,7 +36370,8 @@
             "newFormat": "eBook",
             "subjects": [
                 "Investments",
-                "Investissements"
+                "Investissements",
+                "Electronic books"
             ]
         },
         {
@@ -42544,7 +42553,8 @@
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Banks and banking Sweden History"
+                "Banks and banking Sweden History",
+                "Electronic books"
             ]
         },
         {
@@ -67706,7 +67716,8 @@
                 "Business Religious aspects Christianity",
                 "Affaires Aspect religieux Christianisme",
                 "Affaires Aspect religieux",
-                "Religion Aspect économique"
+                "Religion Aspect économique",
+                "Electronic books"
             ]
         },
         {

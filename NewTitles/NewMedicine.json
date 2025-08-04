@@ -1,6 +1,6 @@
 {
     "period": "July 2025",
-    "updated": "As of 01 August 2025",
+    "updated": "As of 03 August 2025",
     "records": [
         {
             "topic": "38000000",
@@ -5258,6 +5258,7 @@
                 "Women immigrants Medical care Great Britain",
                 "Women immigrants Legal status, laws, etc. Great Britain",
                 "Femmes enceintes Soins médicaux Grande-Bretagne",
+                "Immigrantes Soins médicaux Grande-Bretagne",
                 "Pregnant women Medical care",
                 "Pregnant women Legal status, laws, etc",
                 "Women immigrants Medical care",
@@ -5893,7 +5894,8 @@
                 "Biomedical materials",
                 "Smart materials",
                 "Biomatériaux",
-                "Matériaux intelligents"
+                "Matériaux intelligents",
+                "Electronic books"
             ]
         },
         {
@@ -6896,30 +6898,6 @@
         },
         {
             "topic": "38000000",
-            "oclcNumber": "1229945465",
-            "title": "Activity for mental health",
-            "creator": "Brad Bowins",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "0128209569",
-                "9780128209561",
-                "0128196254",
-                "9780128196250"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mental illness",
-                "Mental Disorders",
-                "Maladies mentales",
-                "mental disorders"
-            ]
-        },
-        {
-            "topic": "38000000",
             "oclcNumber": "1001324931",
             "title": "Selective reproduction in the 21st century",
             "creator": "Ayo Wahlberg",
@@ -7462,39 +7440,6 @@
         },
         {
             "topic": "38000000",
-            "oclcNumber": "1229739403",
-            "title": "Global Mental Health and Neuroethics",
-            "creator": "Ilina Singh",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780128150634",
-                "0128150637",
-                "9780128150641",
-                "0128150645"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mental health Moral and ethical aspects",
-                "Neurosciences Moral and ethical aspects",
-                "Medical ethics",
-                "Mental health",
-                "Neurosciences",
-                "Mental Health",
-                "Ethics, Medical",
-                "Santé mentale Aspect moral",
-                "Neurosciences Aspect moral",
-                "Éthique médicale",
-                "Santé mentale",
-                "mental health",
-                "neuroethics"
-            ]
-        },
-        {
-            "topic": "38000000",
             "oclcNumber": "1330973297",
             "title": "Biosimilars : design and analysis of follow-on biologics",
             "creator": "Shein-Chung Chow",
@@ -8021,46 +7966,6 @@
         },
         {
             "topic": "38000000",
-            "oclcNumber": "1097123716",
-            "title": "Play and social skills for children with autism spectrum disorder",
-            "creator": "Marjorie H. Charlop-Christy",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Science+Business Media",
-            "isbns": [
-                "3319725009",
-                "9783319725000",
-                "9783319724980",
-                "3319724983"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Autism spectrum disorders in children",
-                "Autistic children Behavior modification",
-                "Psychology",
-                "Rehabilitation",
-                "Social service",
-                "Child psychology",
-                "School psychology",
-                "Medical rehabilitation",
-                "Social Work",
-                "Child Behavior",
-                "Psychology, Child",
-                "Troubles du spectre de l'autisme chez l'enfant",
-                "Enfants autistes Modification du comportement",
-                "Psychologie",
-                "Réadaptation",
-                "Service social",
-                "Enfants Psychologie",
-                "Psychologie scolaire",
-                "psychology",
-                "pardons"
-            ]
-        },
-        {
-            "topic": "38000000",
             "oclcNumber": "1109830631",
             "title": "Controlling Your Blood Pressure",
             "creator": "",
@@ -8340,36 +8245,6 @@
                 "Literary Studies - American Literature",
                 "Literary Studies - Literary Criticism and Theory",
                 "Sexuality Studies"
-            ]
-        },
-        {
-            "topic": "38000000",
-            "oclcNumber": "1226270054",
-            "title": "Mental Health of Refugee and Conflict-Affected Populations  : Theory, Research and Clinical Practice",
-            "creator": "Nexhmedin Morina",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint: Springer",
-            "isbns": [
-                "9783319970462",
-                "3319970461"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Clinical health psychology",
-                "Human rights",
-                "Medicine Research",
-                "Positive psychology",
-                "Human Rights",
-                "Health Psychology",
-                "Positive Psychology",
-                "Quality of Life Research",
-                "Santé Psychologie clinique",
-                "Droits de l'homme (Droit international)",
-                "Médecine Recherche",
-                "Psychologie positive"
             ]
         },
         {
@@ -8693,38 +8568,6 @@
                 "MEDICAL Diseases",
                 "MEDICAL Evidence-Based Medicine",
                 "MEDICAL Internal Medicine"
-            ]
-        },
-        {
-            "topic": "38000000",
-            "oclcNumber": "1050719292",
-            "title": "Life History Evolution : a Biological Meta-Theory for the Social Sciences",
-            "creator": "Steven C. Hertler",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer International Publishing : Imprint : Palgrave Macmillan",
-            "isbns": [
-                "9783319901251",
-                "3319901257"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Psychology",
-                "Biotic communities",
-                "Evolution (Biology)",
-                "Physical anthropology",
-                "Demography",
-                "Psychobiology",
-                "Anthropology, Physical",
-                "Psychologie",
-                "Anthropologie physique",
-                "Démographie",
-                "Psychobiologie",
-                "psychology",
-                "physical anthropology",
-                "demography"
             ]
         },
         {
