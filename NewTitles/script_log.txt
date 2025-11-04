@@ -70,3 +70,15 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[master a4d2211] Automated update on Tue 11/04/2025 at 11:34:24.67
+ 31 files changed, 303668 insertions(+), 295198 deletions(-)
+To https://github.com/candacelebel/candacelebel.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/candacelebel/candacelebel.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
