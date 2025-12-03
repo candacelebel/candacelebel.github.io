@@ -13112,6 +13112,7 @@
             "newFormat": "eBook",
             "subjects": [
                 "Atmospheric physics",
+                "Physique de l'atmosphère",
                 "SCIENCE / Earth Sciences / Meteorology & Climatology",
                 "Air Pollution Dispersion",
                 "Atmospheric Flow Fields",
@@ -18366,7 +18367,7 @@
                 "9789535122456",
                 "9535122452"
             ],
-            "newFormat": "",
+            "newFormat": "eArticle",
             "subjects": [
                 "Perovskite (Mineral)",
                 "Pérovskite",
