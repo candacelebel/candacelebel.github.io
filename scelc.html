@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radio Logic Example</title>
+  <style>
+    .hidden {
+      display: none;
+    }
+    .box {
+      margin-top: 1em;
+      padding: 1em;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Please make a choice:</h2>
+
+  <label>
+    <input type="radio" name="choice" value="question">
+    I need to answer another question
+  </label><br>
+
+  <label>
+    <input type="radio" name="choice" value="info">
+    Just give me information
+  </label>
+
+  <!-- Follow-up question box -->
+  <div id="questionBox" class="box hidden">
+    <p><strong>Additional question:</strong> What is your library barcode?</p>
+    <input type="text" id="barcode">
+  </div>
+
+  <!-- Information box -->
+  <div id="infoBox" class="box hidden">
+    <p>Here is the information you requested:  
+    You do not need to provide additional details.</p>
+  </div>
+
+  <script>
+    // Get elements
+    const questionBox = document.getElementById("questionBox");
+    const infoBox = document.getElementById("infoBox");
+
+    // Listen for radio changes
+    document.querySelectorAll('input[name="choice"]').forEach(radio => {
+      radio.addEventListener('change', e => {
+        if (e.target.value === "question") {
+          // Show question box, hide info box
+          questionBox.classList.remove("hidden");
+          infoBox.classList.add("hidden");
+        } else if (e.target.value === "info") {
+          // Show info box, hide question box
+          infoBox.classList.remove("hidden");
+          questionBox.classList.add("hidden");
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>
