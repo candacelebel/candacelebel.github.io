@@ -15,62 +15,40 @@
 </head>
 <body>
 
+  <!-- INITIAL QUESTION -->
   <h3>Initial Question:</h3>
 
   <label>
     <input type="radio" name="initial" value="first">
-    First option (shows follow-up question)
+    First option (shows follow-up)
   </label><br>
 
   <label>
     <input type="radio" name="initial" value="second">
-    Second option (shows text answer)
+    Second option (shows text)
   </label>
 
-  <!-- Follow-up radio question -->
+  <!-- FOLLOW-UP QUESTION -->
   <div id="followUpBox" class="box hidden">
     <h4>Follow-up Question:</h4>
 
     <label>
-      <input type="radio" name="followUp" value="choice1">
-      Follow-up Choice A
+      <input type="radio" name="followUp" value="A">
+      Follow-up Choice A (shows another question)
     </label><br>
 
     <label>
-      <input type="radio" name="followUp" value="choice2">
-      Follow-up Choice B
+      <input type="radio" name="followUp" value="B">
+      Follow-up Choice B (shows text)
     </label>
   </div>
 
-  <!-- Textual answer -->
-  <div id="textAnswer" class="box hidden">
-    <p>
-      Here is the information you should see when selecting the second initial option.
-    </p>
-  </div>
+  <!-- THIRD-LEVEL QUESTION -->
+  <div id="thirdQuestion" class="box hidden">
+    <h4>Third-Level Question:</h4>
+    <p>This is the question that appears when the user chooses Follow-up Choice A.</p>
 
-
-<script>
-  const followUpBox = document.getElementById("followUpBox");
-  const textAnswer = document.getElementById("textAnswer");
-
-  document.querySelectorAll('input[name="initial"]').forEach(radio => {
-    radio.addEventListener('change', (e) => {
-      if (e.target.value === "first") {
-        // Show follow-up question
-        followUpBox.classList.remove("hidden");
-        // Hide text answer
-        textAnswer.classList.add("hidden");
-      } else if (e.target.value === "second") {
-        // Show text answer
-        textAnswer.classList.remove("hidden");
-        // Hide follow-up question & reset answers
-        followUpBox.classList.add("hidden");
-        document.querySelectorAll('input[name="followUp"]').forEach(f => f.checked = false);
-      }
-    });
-  });
-</script>
-
-</body>
-</html>
+    <label>
+      <input type="radio" name="third" value="one">
+      Third question choice 1
+    </label><br>
