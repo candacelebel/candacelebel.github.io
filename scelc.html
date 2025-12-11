@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Radio Logic Example</title>
   <style>
     .hidden {
       display: none;
@@ -16,50 +15,62 @@
 </head>
 <body>
 
-  <h2>Congratulations on getting your manuscript accepted.</h2>
-<p>Is the journal</p>
+  <h3>Initial Question:</h3>
+
   <label>
-    <input type="radio" name="choice" value="question">
-    Partial OA ("hybrid")
+    <input type="radio" name="initial" value="first">
+    First option (shows follow-up question)
   </label><br>
 
   <label>
-    <input type="radio" name="choice" value="info">
-    Fully OA journal
+    <input type="radio" name="initial" value="second">
+    Second option (shows text answer)
   </label>
 
-  <!-- Follow-up question box -->
-  <div id="questionBox" class="box hidden">
-    <p><strong>Additional question:</strong> What is your library barcode?</p>
-    <input type="text" id="barcode">
+  <!-- Follow-up radio question -->
+  <div id="followUpBox" class="box hidden">
+    <h4>Follow-up Question:</h4>
+
+    <label>
+      <input type="radio" name="followUp" value="choice1">
+      Follow-up Choice A
+    </label><br>
+
+    <label>
+      <input type="radio" name="followUp" value="choice2">
+      Follow-up Choice B
+    </label>
   </div>
 
-  <!-- Information box -->
-  <div id="infoBox" class="box hidden">
-    <p>Here is the information you requested:  
-    You do not need to provide additional details.</p>
+  <!-- Textual answer -->
+  <div id="textAnswer" class="box hidden">
+    <p>
+      Here is the information you should see when selecting the second initial option.
+    </p>
   </div>
 
-  <script>
-    // Get elements
-    const questionBox = document.getElementById("questionBox");
-    const infoBox = document.getElementById("infoBox");
 
-    // Listen for radio changes
-    document.querySelectorAll('input[name="choice"]').forEach(radio => {
-      radio.addEventListener('change', e => {
-        if (e.target.value === "question") {
-          // Show question box, hide info box
-          questionBox.classList.remove("hidden");
-          infoBox.classList.add("hidden");
-        } else if (e.target.value === "info") {
-          // Show info box, hide question box
-          infoBox.classList.remove("hidden");
-          questionBox.classList.add("hidden");
-        }
-      });
+<script>
+  const followUpBox = document.getElementById("followUpBox");
+  const textAnswer = document.getElementById("textAnswer");
+
+  document.querySelectorAll('input[name="initial"]').forEach(radio => {
+    radio.addEventListener('change', (e) => {
+      if (e.target.value === "first") {
+        // Show follow-up question
+        followUpBox.classList.remove("hidden");
+        // Hide text answer
+        textAnswer.classList.add("hidden");
+      } else if (e.target.value === "second") {
+        // Show text answer
+        textAnswer.classList.remove("hidden");
+        // Hide follow-up question & reset answers
+        followUpBox.classList.add("hidden");
+        document.querySelectorAll('input[name="followUp"]').forEach(f => f.checked = false);
+      }
     });
-  </script>
+  });
+</script>
 
 </body>
 </html>
