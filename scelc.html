@@ -16,40 +16,104 @@
 <body>
 
   <!-- INITIAL QUESTION -->
-  <h3>Congratulations on your manuscript acceptance!</h3>
-  <p>What type of journal is it?</p>
+  <h3>Initial Question:</h3>
 
   <label>
     <input type="radio" name="initial" value="first">
-    Partial OA (shows follow-up)
+    First option (shows follow-up)
   </label><br>
 
   <label>
     <input type="radio" name="initial" value="second">
-    Fully OA (shows text)
+    Second option (shows text)
   </label>
 
   <!-- FOLLOW-UP QUESTION -->
   <div id="followUpBox" class="box hidden">
-    <h4>Opt for . . .</h4>
+    <h4>Follow-up Question:</h4>
 
     <label>
       <input type="radio" name="followUp" value="A">
-      Open Access (shows another question)
+      Follow-up Choice A (shows another question)
     </label><br>
 
     <label>
       <input type="radio" name="followUp" value="B">
-      Closed Access (shows text)
+      Follow-up Choice B (shows text)
     </label>
   </div>
 
   <!-- THIRD-LEVEL QUESTION -->
   <div id="thirdQuestion" class="box hidden">
-    <h4>$1000 subsidy from Library subscription.</h4>
+    <h4>Third-Level Question:</h4>
     <p>This is the question that appears when the user chooses Follow-up Choice A.</p>
 
     <label>
       <input type="radio" name="third" value="one">
       Third question choice 1
     </label><br>
+
+    <label>
+      <input type="radio" name="third" value="two">
+      Third question choice 2
+    </label>
+  </div>
+
+  <!-- TEXT RESPONSE FOR INITIAL SECOND OPTION -->
+  <div id="initialText" class="box hidden">
+    <p>This is the text displayed when the user selects the second initial option.</p>
+  </div>
+
+  <!-- TEXT RESPONSE FOR FOLLOW-UP CHOICE B -->
+  <div id="followUpText" class="box hidden">
+    <p>This is the text displayed when the user selects Follow-up Choice B.</p>
+  </div>
+
+<script>
+  const followUpBox = document.getElementById("followUpBox");
+  const thirdQuestion = document.getElementById("thirdQuestion");
+  const initialText = document.getElementById("initialText");
+  const followUpText = document.getElementById("followUpText");
+
+  // INITIAL QUESTION LOGIC
+  document.querySelectorAll('input[name="initial"]').forEach(radio => {
+    radio.addEventListener('change', (e) => {
+
+      if (e.target.value === "first") {
+        followUpBox.classList.remove("hidden");
+        initialText.classList.add("hidden");
+      } else {
+        followUpBox.classList.add("hidden");
+        initialText.classList.remove("hidden");
+      }
+
+      // Reset later answers
+      followUpText.classList.add("hidden");
+      thirdQuestion.classList.add("hidden");
+      document.querySelectorAll('input[name="followUp"]').forEach(f => f.checked = false);
+      document.querySelectorAll('input[name="third"]').forEach(t => t.checked = false);
+    });
+  });
+
+  // FOLLOW-UP QUESTION LOGIC
+  document.querySelectorAll('input[name="followUp"]').forEach(radio => {
+    radio.addEventListener('change', (e) => {
+
+      if (e.target.value === "A") {
+        // Show third-level question
+        thirdQuestion.classList.remove("hidden");
+        followUpText.classList.add("hidden");
+      } else {
+        // Show textual answer
+        followUpText.classList.remove("hidden");
+        thirdQuestion.classList.add("hidden");
+      }
+
+      // Reset third-level answers when switching
+      document.querySelectorAll('input[name="third"]').forEach(t => t.checked = false);
+    });
+  });
+</script>
+
+</body>
+</html>
