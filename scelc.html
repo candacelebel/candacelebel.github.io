@@ -16,83 +16,116 @@
 <body>
 
   <!-- INITIAL QUESTION -->
-  <h3>Congratulations on getting your manuscript accepted!</h3>
-  <p>What type of journal is it being published in?</p>
+  <h3>Initial Question:</h3>
 
   <label>
     <input type="radio" name="initial" value="first">
-    Partial OA (shows follow-up)
+    First option (leads to follow-up)
   </label><br>
 
   <label>
     <input type="radio" name="initial" value="second">
-    Fully OA (shows text)
+    Second option (shows text)
   </label>
+
+  <!-- TEXT WHEN INITIAL SECOND OPTION IS CHOSEN -->
+  <div id="initialText" class="box hidden">
+    <p>This is the text shown when the second initial option is selected.</p>
+  </div>
+
 
   <!-- FOLLOW-UP QUESTION -->
   <div id="followUpBox" class="box hidden">
-    <h4>Opt for . . .</h4>
+    <h4>Follow-up Question:</h4>
 
     <label>
       <input type="radio" name="followUp" value="A">
-      Open Access (shows another question)
+      Follow-up Choice A (leads to third-level question)
     </label><br>
 
     <label>
       <input type="radio" name="followUp" value="B">
-      Closed Access (shows text)
+      Follow-up Choice B (shows text)
     </label>
   </div>
 
+  <!-- TEXT FOR FOLLOW-UP CHOICE B -->
+  <div id="followUpText" class="box hidden">
+    <p>This is text shown when Follow-up Choice B is selected.</p>
+  </div>
+
+
   <!-- THIRD-LEVEL QUESTION -->
   <div id="thirdQuestion" class="box hidden">
-    <h4>$1000 subsidy from Library subscription.</h4>
-    <p>Do you have grant funding for the APC remainder?</p>
+    <h4>Third-Level Question:</h4>
+    <p>Choose one of the following:</p>
 
     <label>
       <input type="radio" name="third" value="one">
-      Yes
+      Third choice 1 (shows text)
     </label><br>
 
     <label>
       <input type="radio" name="third" value="two">
-      No
+      Third choice 2 (shows text)
     </label>
   </div>
 
-  <!-- TEXT RESPONSE FOR INITIAL SECOND OPTION -->
-  <div id="initialText" class="box hidden">
-    <p>$750* subsidy from Library subscription.  Author pays APC remainder.</p>
+  <!-- TEXT FOR THIRD-LEVEL ANSWERS -->
+  <div id="thirdTextOne" class="box hidden">
+    <p>This is the text shown when Third Choice 1 is selected.</p>
   </div>
 
-  <!-- TEXT RESPONSE FOR FOLLOW-UP CHOICE B -->
-  <div id="followUpText" class="box hidden">
-    <p>No more questions.</p>
+  <div id="thirdTextTwo" class="box hidden">
+    <p>This is the text shown when Third Choice 2 is selected.</p>
   </div>
+
 
 <script>
   const followUpBox = document.getElementById("followUpBox");
-  const thirdQuestion = document.getElementById("thirdQuestion");
   const initialText = document.getElementById("initialText");
   const followUpText = document.getElementById("followUpText");
+  const thirdQuestion = document.getElementById("thirdQuestion");
+  const thirdTextOne = document.getElementById("thirdTextOne");
+  const thirdTextTwo = document.getElementById("thirdTextTwo");
+
+  // Hide all text results
+  function hideAllText() {
+    initialText.classList.add("hidden");
+    followUpText.classList.add("hidden");
+    thirdTextOne.classList.add("hidden");
+    thirdTextTwo.classList.add("hidden");
+  }
+
+  // Reset all follow-up selections
+  function resetFollowUp() {
+    document.querySelectorAll('input[name="followUp"]').forEach(f => f.checked = false);
+    followUpText.classList.add("hidden");
+  }
+
+  // Reset third-level selections
+  function resetThird() {
+    document.querySelectorAll('input[name="third"]').forEach(t => t.checked = false);
+    thirdTextOne.classList.add("hidden");
+    thirdTextTwo.classList.add("hidden");
+  }
 
   // INITIAL QUESTION LOGIC
   document.querySelectorAll('input[name="initial"]').forEach(radio => {
     radio.addEventListener('change', (e) => {
 
+      hideAllText();
+      resetFollowUp();
+      resetThird();
+
       if (e.target.value === "first") {
         followUpBox.classList.remove("hidden");
-        initialText.classList.add("hidden");
       } else {
         followUpBox.classList.add("hidden");
         initialText.classList.remove("hidden");
       }
 
-      // Reset later answers
-      followUpText.classList.add("hidden");
       thirdQuestion.classList.add("hidden");
-      document.querySelectorAll('input[name="followUp"]').forEach(f => f.checked = false);
-      document.querySelectorAll('input[name="third"]').forEach(t => t.checked = false);
     });
   });
 
@@ -100,18 +133,30 @@
   document.querySelectorAll('input[name="followUp"]').forEach(radio => {
     radio.addEventListener('change', (e) => {
 
-      if (e.target.value === "A") {
-        // Show third-level question
-        thirdQuestion.classList.remove("hidden");
-        followUpText.classList.add("hidden");
-      } else {
-        // Show textual answer
-        followUpText.classList.remove("hidden");
-        thirdQuestion.classList.add("hidden");
-      }
+      hideAllText();
+      resetThird();
 
-      // Reset third-level answers when switching
-      document.querySelectorAll('input[name="third"]').forEach(t => t.checked = false);
+      if (e.target.value === "A") {
+        thirdQuestion.classList.remove("hidden");
+      } else {
+        thirdQuestion.classList.add("hidden");
+        followUpText.classList.remove("hidden");
+      }
+    });
+  });
+
+  // THIRD-LEVEL ANSWERS → SHOW TEXT
+  document.querySelectorAll('input[name="third"]').forEach(radio => {
+    radio.addEventListener('change', (e) => {
+
+      thirdTextOne.classList.add("hidden");
+      thirdTextTwo.classList.add("hidden");
+
+      if (e.target.value === "one") {
+        thirdTextOne.classList.remove("hidden");
+      } else if (e.target.value === "two") {
+        thirdTextTwo.classList.remove("hidden");
+      }
     });
   });
 </script>
