@@ -16,57 +16,58 @@
 <body>
 
   <!-- INITIAL QUESTION -->
-  <h3>Initial Question:</h3>
+  <h3>Congratulations on getting your manuscript accepted!</h3>
+  <p>What type of journal is it being published in?</p>
 
   <label>
     <input type="radio" name="initial" value="first">
-    First option (shows follow-up)
+    Partial OA (shows follow-up)
   </label><br>
 
   <label>
     <input type="radio" name="initial" value="second">
-    Second option (shows text)
+    Fully OA (shows text)
   </label>
 
   <!-- FOLLOW-UP QUESTION -->
   <div id="followUpBox" class="box hidden">
-    <h4>Follow-up Question:</h4>
+    <h4>Opt for . . .</h4>
 
     <label>
       <input type="radio" name="followUp" value="A">
-      Follow-up Choice A (shows another question)
+      Open Access (shows another question)
     </label><br>
 
     <label>
       <input type="radio" name="followUp" value="B">
-      Follow-up Choice B (shows text)
+      Closed Access (shows text)
     </label>
   </div>
 
   <!-- THIRD-LEVEL QUESTION -->
   <div id="thirdQuestion" class="box hidden">
-    <h4>Third-Level Question:</h4>
-    <p>This is the question that appears when the user chooses Follow-up Choice A.</p>
+    <h4>$1000 subsidy from Library subscription.</h4>
+    <p>Do you have grant funding for the APC remainder?</p>
 
     <label>
       <input type="radio" name="third" value="one">
-      Third question choice 1
+      Yes
     </label><br>
 
     <label>
       <input type="radio" name="third" value="two">
-      Third question choice 2
+      No
     </label>
   </div>
 
   <!-- TEXT RESPONSE FOR INITIAL SECOND OPTION -->
   <div id="initialText" class="box hidden">
-    <p>This is the text displayed when the user selects the second initial option.</p>
+    <p>No more questions</p>
   </div>
 
   <!-- TEXT RESPONSE FOR FOLLOW-UP CHOICE B -->
   <div id="followUpText" class="box hidden">
-    <p>This is the text displayed when the user selects Follow-up Choice B.</p>
+    <p>$750* subsidy from Library subscription.  Author pays APC remainder.</p>
   </div>
 
 <script>
