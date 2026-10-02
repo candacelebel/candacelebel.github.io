@@ -1,1507 +1,1703 @@
 {
-    "period": "August 2026",
-    "updated": "As of 01 September 2026",
+    "period": "September 2026",
+    "updated": "As of 02 October 2026",
     "records": [
         {
             "topic": "58000000",
-            "oclcNumber": "1583184321",
-            "title": "La Seguridad Deportiva a Debate IV",
-            "creator": "Joana Costa",
+            "oclcNumber": "1616180803",
+            "title": "Historia de los mundiales de fútbol de Uruguay 1930 a Catar 2022",
+            "creator": "Brian Glanville",
             "date": "2026",
             "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Dykinson, S.L.",
-            "isbns": [
-                "9791370470623"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports Safety measures",
-                "Sports Sécurité Mesures"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1572420446",
-            "title": "From pixels to play : the art and science of video games",
-            "creator": "Tibor Guzsvinecz",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836353638",
-                "1836353634"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Video games Social aspects",
-                "Video games Design",
-                "Video games",
-                "Jeux vidéo Conception"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1577288885",
-            "title": "National Parks and protected areas : conservation, biodiversity, and climate action",
-            "creator": "Ilda Vagge",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836356431",
-                "1836356439"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Nature conservation",
-                "Protected areas",
-                "Nature Conservation",
-                "Aires protégées",
-                "protected areas"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1612726105",
-            "title": "Cognitive Athletic Training in Basketball Training Strength, Endurance, Speed, Coordination, and Cognitive Abilities",
-            "creator": "Daniel Memmert",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Berlin / Heidelberg",
-            "isbns": [
-                "9783032231321",
-                "3032231329"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "144519029",
-            "title": "竞报",
-            "creator": "北京日报社.",
-            "date": "2004",
-            "language": "chi",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "北京日报社",
+            "publisher": "Cult Books",
             "isbns": "",
-            "newFormat": "eJournal, eMagazine",
+            "newFormat": "eBook",
             "subjects": [
-                "Sports China Newspapers",
-                "Sports Chine Journaux",
-                "Sports",
-                "China",
-                "Newspapers"
+                "World Cup (Soccer) History"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1590083686",
-            "title": "Endgame of empire : Sultan Khan, Asia's first grandmaster",
-            "creator": "Ather Sultan",
+            "oclcNumber": "1616180106",
+            "title": "Pégale al del medio : crónica de una de las rivalidades más fascinantes de la historia del boxeo : Durán, Leonard, Hagler y Hearns",
+            "creator": "Juan Pérez Ortiz",
             "date": "2026",
-            "language": "eng",
+            "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Fordham University Press",
-            "isbns": [
-                "9781531513122",
-                "1531513123",
-                "9781531513115",
-                "1531513115"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Khan, Sultan",
-                "Chess players India Biography",
-                "Joueurs d'échecs Inde Biographies",
-                "Sports",
-                "BIOGRAPHY & AUTOBIOGRAPHY",
-                "India & South Asia",
-                "Asia",
-                "HISTORY",
-                "GAMES",
-                "Chess players",
-                "Pakistan",
-                "Electronic books",
-                "Biographies",
-                "Biography"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "979576118",
-            "title": "Globalizing Sport",
-            "creator": "Barbara J. Keys",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "9780674726635",
-                "0674726634"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Globalisierung",
-                "Nationalism and sports",
-                "Nationalismus",
-                "Sozialwissenschaften, Soziologie, Anthropologie",
-                "Sport",
-                "Sports and globalization",
-                "Sports History 20th century",
-                "Sports",
-                "Nationalisme et sports",
-                "Sports et mondialisation",
-                "Sports Histoire 20e siècle",
-                "sports",
-                "POLITICAL SCIENCE Public Policy Cultural Policy",
-                "SOCIAL SCIENCE Anthropology Cultural",
-                "SOCIAL SCIENCE Popular Culture",
-                "History",
-                "1900-1999"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1586514508",
-            "title": "Playing the game : how state colleges used athletics to expand educational opportunity",
-            "creator": "Marc A. VanOverbeke",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cornell University Press",
-            "isbns": [
-                "9781501787010",
-                "1501787012",
-                "9781501787003",
-                "1501787004"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Higher education and state United States",
-                "Educational equalization United States",
-                "Education, Higher Aims and objectives United States",
-                "College sports Economic aspects United States",
-                "State universities and colleges United States History 20th century",
-                "College sports United States History 20th century",
-                "Enseignement supérieur Politique gouvernementale États-Unis",
-                "Démocratisation de l'enseignement États-Unis",
-                "Enseignement supérieur Finalités États-Unis",
-                "Sports universitaires Aspect économique États-Unis",
-                "Universités d'État États-Unis Histoire 20e siècle",
-                "Social History",
-                "History",
-                "EDUCATION",
-                "College sports History",
-                "College sports Economic aspects",
-                "Education, Higher Aims and objectives",
-                "Educational equalization",
-                "Higher education and state",
-                "State universities and colleges",
-                "United States",
-                "Electronic books",
-                "1900-1999"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "567921894",
-            "title": "Children's nature : the rise of the American summer camp",
-            "creator": "Leslie Paris",
-            "date": "©2008",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "New York University Press",
-            "isbns": [
-                "9780814767504",
-                "0814767508",
-                "9780814767078",
-                "0814767079",
-                "9780814768426",
-                "0814768423"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Camps United States History",
-                "Children United States History",
-                "Colonies de vacances États-Unis Histoire",
-                "Enfants États-Unis Histoire",
-                "SPORTS & RECREATION Camping",
-                "Camps",
-                "Children",
-                "United States",
-                "Electronic books",
-                "Computer network resources",
-                "History"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1543543955",
-            "title": "Animal crossing: new horizons : can a game take care of us?",
-            "creator": "Noah Wardrip-Fruin",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "The University of Chicago Press",
-            "isbns": [
-                "9780226840710",
-                "0226840719"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Animal Crossing: New Horizons (Game)",
-                "Animal Crossing video games Social aspects",
-                "Video games Social aspects",
-                "Video & Electronic",
-                "Popular Culture",
-                "SOCIAL SCIENCE",
-                "Social Aspects",
-                "TECHNOLOGY & ENGINEERING",
-                "Animal Crossing video games",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1543543954",
-            "title": "Undertale : can a game give hope?",
-            "creator": "Anastasia Salter",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "The University of Chicago Press",
-            "isbns": [
-                "9780226830810",
-                "0226830810"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Undertale (Video game)",
-                "Video games Social aspects",
-                "Video games Psychological aspects",
-                "Violence in video games",
-                "Violence dans les jeux vidéo",
-                "Video & Electronic",
-                "Media Studies",
-                "SOCIAL SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1513310275",
-            "title": "Game Testing All in One",
-            "creator": "Robert Bryant",
-            "date": "[n.d.]",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "De Gruyter; Mercury Learning and Information",
-            "isbns": [
-                "9781501519802",
-                "1501519808",
-                "1501519824",
-                "9781501519826"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Video games Testing",
-                "Video games industry Vocational guidance",
-                "Video games Evaluation",
-                "Video games Design",
-                "Video games Programming",
-                "Video games industry",
-                "Jeux vidéo Conception",
-                "Jeux vidéo Programmation",
-                "Games",
-                "Programming",
-                "COMPUTERS",
-                "Computer Science",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1609541571",
-            "title": "Research handbook on sports management and marketing",
-            "creator": "Norm O'Reilly",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Edward Elgar Publishing",
-            "isbns": [
-                "9781035317226",
-                "1035317222"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports administration Research Handbooks, manuals, etc",
-                "Sports Marketing Research Handbooks, manuals, etc",
-                "Electronic books",
-                "Handbooks and manuals"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1610750583",
-            "title": "De la Neige à la Terre Battue : Des Sports Au Prisme du Patrimoine Culturel Immatériel",
-            "creator": "Mathilde Lamothe",
-            "date": "2026",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Les Presses de l'Université Laval",
-            "isbns": [
-                "9782766303984",
-                "2766303987"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Patrimoine culturel immatériel",
-                "Sports Anthropological aspects",
-                "Raquette (Sport) Québec (Province)",
-                "Quilles de 9 (Jeu) France Gascogne",
-                "Études ethnographiques",
-                "Sports Aspect anthropologique",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1111677811",
-            "title": "A Long Way From Home: The Untold Story of Baseball's Desegregation",
-            "creator": "Gaspar González",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Video",
-            "specificFormat": "Digital",
-            "publisher": "Giant Interactive, Kanopy Streaming",
+            "publisher": "Cult Books",
             "isbns": "",
-            "newFormat": "eVideo",
+            "newFormat": "eBook",
             "subjects": [
-                "African American athletes Biography",
-                "Baseball United States History 20th century",
-                "Civil rights United States History",
-                "Discrimination in sports United States",
-                "Hispanic American athletes Biography",
-                "Racism United States 20th century",
-                "Segregation United States History 20th century",
-                "Sportifs noirs américains Biographies",
-                "Droits de l'homme États-Unis Histoire",
-                "Discrimination dans les sports États-Unis",
-                "Sportifs américains d'origine latino-américaine Biographies",
-                "Ségrégation États-Unis Histoire 20e siècle",
-                "Documentary films",
-                "Documentaires"
+                "Duran, Roberto, 1951-",
+                "Leonard, Sugar Ray, 1956-",
+                "Hagler, Marvin, 1954-",
+                "Hearns, Thomas",
+                "Boxing History 20th century",
+                "Boxers (Sports)",
+                "Boxe Histoire 20e siècle"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1612226609",
-            "title": "The politics of the 2024 Paris Olympic Games",
-            "creator": "Daniel Stockemer",
+            "oclcNumber": "1579857466",
+            "title": "Partidos históricos de los Mundiales de Fútbol [1930-2022]",
+            "creator": "José Sámano",
+            "date": "2026",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Amarcord Ediciones",
+            "isbns": [
+                "9791399026771"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "World Cup (Soccer) History"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1612103626",
+            "title": "Juguetolandia : la influencia de los juguetes en la historia, la cultura y la tecnología",
+            "creator": "Alberto Lombo Montañés",
+            "date": "2026",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Prensas de la Universidad de Zaragoza",
+            "isbns": [
+                "9791370141028"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Toys",
+                "Toys History",
+                "Toys Social aspects",
+                "Toy industry",
+                "Jouets",
+                "Jouets Histoire",
+                "Jouets Aspect social",
+                "Jouets Industrie",
+                "toys (recreational artifacts)"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1611834028",
+            "title": "Prizefighter : Yankee Sullivan and the hands that built the modern world",
+            "creator": "Patrick Griffin",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
+            "publisher": "University of Virginia Press",
             "isbns": [
-                "9783032229816",
-                "3032229812"
+                "9780813955957",
+                "0813955955"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Olympic Games (33rd : 2024 : Paris, France)",
-                "Olympics Political aspects France Paris History 21st century",
-                "Jeux olympiques Aspect politique France Paris Histoire 21e siècle",
-                "Olympics Political aspects History",
-                "France",
-                "Electronic books",
-                "2000-2099",
-                "2024"
+                "Sullivan, James, 1813-1856",
+                "Social history 19th century",
+                "Industrial revolution History 19th century",
+                "Free trade History 19th century",
+                "Capital movements History 19th century",
+                "State, The History 19th century",
+                "Democracy History 19th century",
+                "Boxers (Sports)",
+                "Histoire sociale 19e siècle",
+                "Révolution industrielle Histoire 19e siècle",
+                "Libre-échange Histoire 19e siècle",
+                "Mouvements de capitaux Histoire 19e siècle",
+                "État Histoire 19e siècle",
+                "Démocratie locale Histoire 19e siècle",
+                "Boxeurs",
+                "Electronic books"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1612573379",
-            "title": "Performance neuroscience",
-            "creator": "Marcelo Bigliassi",
+            "oclcNumber": "1617303463",
+            "title": "Japanese game studies : a guide to studying Japanese games",
+            "creator": "Fumihiko Ikuine",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032215284",
-                "3032215285"
+                "9789819598571",
+                "9819598575"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Sports Psychological aspects",
-                "Electronic books"
+                "Video games Research Japan",
+                "Video games Japan"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1596820090",
-            "title": "Sport and sustainability in emerging nations",
-            "creator": "Brendon Knott",
-            "date": "2027",
+            "oclcNumber": "728644675",
+            "title": "Sport as a business : international, professional and commercial aspects",
+            "creator": "Harald Dolles",
+            "date": "2011",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Routledge",
+            "publisher": "Palgrave Macmillan",
             "isbns": [
-                "9781040537763",
-                "9781040653869",
-                "1040537766",
-                "1040653863"
+                "9780230306639",
+                "0230306632",
+                "1283124645",
+                "9781283124645",
+                "9786613124647",
+                "6613124648"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Sports Environmental aspects Developing countries",
-                "Sustainable development Developing countries",
-                "Sports Environmental aspects",
-                "Developing countries"
+                "Sports administration",
+                "Sports Economic aspects",
+                "Sports International cooperation",
+                "Management",
+                "Sports Gestion",
+                "Sports Aspect économique",
+                "Sports Coopération internationale",
+                "Gestion",
+                "management",
+                "sports",
+                "Sporting events & management",
+                "Sport & leisure industries",
+                "BUSINESS & ECONOMICS International General",
+                "BUSINESS & ECONOMICS Organizational Behavior",
+                "SPORTS & RECREATION Business Aspects",
+                "Sport",
+                "Hospitality & service industries"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1122454780",
-            "title": "Pilates Anatomy",
-            "creator": "Rael Isacowitz",
-            "date": "2019",
+            "oclcNumber": "934936709",
+            "title": "Leisure and positive psychology : linking activities with positiveness",
+            "creator": "Robert A. Stebbins",
+            "date": "2015",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Human Kinetics",
+            "publisher": "Palgrave Macmillan",
             "isbns": [
-                "9781492567714",
-                "149256771X"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1232722012",
-            "title": "The imperial game : Cricket, Culture and Society",
-            "creator": "Andrew Thompson",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Manchester University Press",
-            "isbns": [
-                "9781526123824",
-                "1526123827"
+                "9781137569950",
+                "1137569956",
+                "9781137569943",
+                "1137569948",
+                "113756993X",
+                "9781137569936"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Commonwealth",
-                "Cricket Great Britain",
-                "Cricket Great Britain Colonies",
-                "Culture diffusion Great Britain",
-                "Culture diffusion Great Britain Colonies",
-                "Cricket Grande-Bretagne",
-                "Cricket Grande-Bretagne Colonies",
-                "Diffusion culturelle Grande-Bretagne",
-                "Diffusion culturelle Grande-Bretagne Colonies",
-                "Cricket",
-                "SPORTS & RECREATION / Cricket",
-                "Culture diffusion British colonies",
-                "Cricket British colonies",
-                "Culture diffusion",
-                "Kricket",
-                "Geschichte",
-                "Cricket Aspect social",
-                "Great Britain",
-                "Electronic books"
+                "Leisure Psychological aspects",
+                "Positive psychology",
+                "Loisir Aspect psychologique",
+                "Psychologie positive",
+                "Clinical psychology",
+                "Psychology: emotions",
+                "Social work",
+                "Sociology",
+                "Sociology: sport & leisure",
+                "The self, ego, identity, personality",
+                "Psychology Clinical Psychology",
+                "Psychology Emotions",
+                "Psychology Personality",
+                "Social Science Social Work",
+                "Social Science Sociology General",
+                "Sports & Recreation Sociology of Sports"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1232716680",
-            "title": "Migrant races : Empire, Identity and K.S. Ranjitsinhji",
-            "creator": "Andrew Thompson",
-            "date": "2017",
+            "oclcNumber": "770580669",
+            "title": "Violence and Aggression in Sporting Contests : Economics, History and Policy",
+            "creator": "R. Todd Jewell",
+            "date": "2012",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Manchester University Press",
+            "publisher": "Springer Science+Business Media, LLC",
             "isbns": [
-                "9781526118653",
-                "1526118653"
+                "9781441966308",
+                "1441966307"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Ranjitsinhji Vibhaji, Maharaja of Nawanagar, 1872-1933",
-                "Ranjitsinhji Vibhaji Nawanagar, Maharadscha 1872-1933",
-                "Ranjitsinhji Vibhaji (Nawanagar, Maharadscha)",
-                "Group identity India",
-                "Identité collective Inde",
-                "Social & Cultural History",
-                "HISTORY / Social History",
-                "Group identity",
-                "India History British occupation, 1765-1947",
-                "Inde Histoire 1765-1947 (Occupation britannique)",
-                "India",
-                "Biographie",
-                "History",
-                "1765-1947"
+                "Economics",
+                "Labor economics",
+                "Industrial management",
+                "Economics/Management Science",
+                "Economics general",
+                "Management/Business for Professionals",
+                "Économie politique",
+                "Économie du travail",
+                "Gestion d'entreprise",
+                "economics"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1513586516",
-            "title": "Baseball before We Knew It : A Search for the Roots of the Game",
-            "creator": "David Block",
+            "oclcNumber": "649381018",
+            "title": "Football economics and policy",
+            "creator": "Stefan Szymanski",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9780230274266",
+                "0230274269",
+                "1349312592",
+                "9781349312597"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Soccer Economic aspects Great Britain",
+                "Soccer Great Britain Finance",
+                "Economics",
+                "Football (Soccer, Association football)",
+                "Sport & leisure industries",
+                "BUSINESS & ECONOMICS Industries General",
+                "Soccer Economic aspects",
+                "Soccer Finance",
+                "Fußball",
+                "Sportökonomie",
+                "Great Britain"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "649366295",
+            "title": "The comparative economics of sport",
+            "creator": "Stefan Szymanski",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9780230274273",
+                "0230274277"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sports Economic aspects",
+                "Professional sports Economic aspects",
+                "Sports Aspect économique",
+                "Sports professionnels Aspect économique",
+                "Economics Europe USA",
+                "Sport & leisure industries Europe USA",
+                "BUSINESS & ECONOMICS Industries General",
+                "Economics"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1515461017",
+            "title": "Get Your Tokens Ready  : The Late 1990s Road to the Subway Series",
+            "creator": "Chris Donnelly",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "University of Nebraska Press",
             "isbns": [
-                "9781496242716",
-                "1496242718"
+                "9781496243591",
+                "1496243595"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Baseball History",
+                "New York Mets (Baseball team) History 20th century",
+                "New York Yankees (Baseball team) History 20th century",
+                "World Series (Baseball) History 20th century",
+                "New York Mets (Baseball team)",
+                "New York Yankees (Baseball team)",
+                "Baseball New York (State) New York History 20th century",
+                "Sports rivalries New York (State) New York History 20th century",
+                "Base-ball New York (État) New York Histoire 20e siècle",
+                "Rivalité sportive New York (État) New York Histoire 20e siècle",
+                "Middle Atlantic (DC",
+                "State & Local",
+                "United States",
+                "HISTORY",
+                "21st Century",
+                "Modern",
                 "Baseball",
-                "History"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "316259808",
-            "title": "Weekend",
-            "creator": "",
-            "date": "2005-",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Hearst Communications",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Leisure Periodicals",
-                "Entertaining Periodicals",
-                "Travel Periodicals",
-                "Cooking Periodicals",
-                "Interior decoration Periodicals",
-                "Loisir Périodiques",
-                "Voyage Périodiques",
-                "Décoration intérieure Périodiques",
-                "Cooking",
-                "Entertaining",
-                "Interior decoration",
-                "Leisure",
-                "Travel",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1402351473",
-            "title": "La Voix des Sports",
-            "creator": "",
-            "date": "uuuu",
-            "language": "und",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": ""
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1262390721",
-            "title": "Player.One",
-            "creator": "",
-            "date": "uuuu",
-            "language": "und",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Newsweek Media Group",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "885205897",
-            "title": "Men's fitness",
-            "creator": "Zinio, LLC",
-            "date": "2001",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Weider Publications ; [Distributed by] RBdigital for Zinio magazines",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Physical fitness for men Periodicals",
-                "Men Health and hygiene Periodicals",
-                "Men",
-                "Condition physique des hommes Périodiques",
-                "Hommes Santé et hygiène Périodiques",
-                "men (male humans)",
-                "Men Health and hygiene",
-                "Physical fitness for men",
-                "Periodical",
-                "periodicals",
-                "Periodicals",
-                "Périodiques"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1077347917",
-            "title": "Glückspost",
-            "creator": "",
-            "date": "uuuu",
-            "language": "und",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "[publisher not identified]",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Electronic journals",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "883191893",
-            "title": "Men's journal",
-            "creator": "",
-            "date": "1992",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "[Straight Arrow Publishers] Wenner Media, Inc",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Outdoor recreation Periodicals",
-                "Men Recreation Periodicals",
-                "Sports Periodicals",
-                "Loisirs de plein air Périodiques",
-                "Hommes Loisirs Périodiques",
-                "Sports Périodiques",
-                "Men Recreation",
-                "Outdoor recreation",
-                "Sports",
-                "Periodical",
-                "periodicals",
-                "Periodicals",
-                "Périodiques"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1592928803",
-            "title": "Cultural game studies : critical approaches",
-            "creator": "Frans Mäyrä",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781003679851",
-                "1003679854",
-                "9781040750384",
-                "1040750389"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Games Cross-cultural studies",
-                "Digital humanities",
-                "Sciences humaines numériques",
-                "digital humanities"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1127940831",
-            "title": "Sport entrepreneurship and public policy",
-            "creator": "Vanessa Ratten",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Emerald Publishing Limited",
-            "isbns": [
-                "9781839095337",
-                "1839095334"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports sciences",
-                "Sciences du sport"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1144970984",
-            "title": "Lake Erie technical wreck diving guide",
-            "creator": "Erik Petkovic",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Dived Up Publications",
-            "isbns": [
-                "9781909455283",
-                "1909455288",
-                "9781909455290",
-                "1909455296"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Deep diving Erie, Lake",
-                "Shipwrecks Erie, Lake",
-                "Plongée sous-marine Érié, Lac",
-                "Naufrages Érié, Lac",
-                "Shipwrecks",
-                "Underwater exploration",
-                "Lake Erie"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1190722531",
-            "title": "Programming for parks, recreation, and leisure services : a servant leadership approach",
-            "creator": "Debra Jean Jordan",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore-Venture",
-            "isbns": [
-                "9781571679550",
-                "1571679553"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation leadership",
-                "Recreation Planning",
-                "Leisure industry Management",
-                "Loisirs Animation",
-                "Loisirs Planification",
-                "Loisirs Industrie Gestion"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1008775939",
-            "title": "Creative soccer training : 350 smart and practical games and drills to form intelligent players -- for advanced levels",
-            "creator": "Fabian Seeger",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Meyer & Meyer Sport (UK)",
-            "isbns": [
-                "9781782554530",
-                "178255453X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Soccer Coaching",
-                "Soccer Training",
-                "Soccer",
                 "SPORTS & RECREATION",
-                "Coaching"
+                "Sports rivalries",
+                "New York (State) New York",
+                "Electronic books",
+                "History",
+                "1900-1999"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1223091504",
-            "title": "Recreation and Leisure Programming  : A 21st Century Perspective",
-            "creator": "Christopher Edginton",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571678843",
-                "1571678840"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation leadership",
-                "Recreation Management",
-                "Loisirs Animation",
-                "Loisirs Gestion"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223088721",
-            "title": "A career with meaning : recreation, parks, sport management, hospitality, and tourism",
-            "creator": "Keri Schwab",
-            "date": "2014",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677730",
-                "1571677739"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation Vocational guidance United States",
-                "Parks Vocational guidance United States",
-                "Hospitality Vocational guidance United States",
-                "Tourism Vocational guidance United States",
-                "Leisure industry United States",
-                "Loisirs Orientation professionnelle États-Unis",
-                "Hospitalité Orientation professionnelle États-Unis",
-                "Loisirs Industrie États-Unis",
-                "Leisure industry",
-                "Parks Vocational guidance",
-                "Recreation Vocational guidance",
-                "Tourism Vocational guidance",
-                "United States"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223087986",
-            "title": "Facility planning and design for health, physical activity, recreation, and sport",
-            "creator": "Thomas Sawyer",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore-Venture",
-            "isbns": [
-                "9781571679581",
-                "1571679588"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physical education facilities Planning",
-                "Recreation areas Planning",
-                "Sports facilities Design and construction",
-                "Recreation areas Design and construction",
-                "Sports facilities United States Design",
-                "Sports facilities United States Planning",
-                "Physical education facilities United States Planning",
-                "Équipements d'éducation physique Planification",
-                "Zones de loisirs Planification",
-                "Équipements sportifs États-Unis Planification",
-                "Équipements d'éducation physique États-Unis Planification",
-                "Sports facilities Design",
-                "Sports facilities Planning",
-                "United States"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223087156",
-            "title": "Financial Resource Management : Sport, Tourism, and Leisure Services",
-            "creator": "Russell E. Brayley",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571679420",
-                "1571679421"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports Finance Management",
-                "Tourism Finance Management",
-                "Leisure industry Finance Management",
-                "Sports Finances Gestion",
-                "Loisirs Industrie Finances Gestion"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206394685",
-            "title": "Leisure Education Program Planning",
-            "creator": "John Dattilo",
+            "oclcNumber": "893672800",
+            "title": "National Basketball Association strategies : business expansions, relocations, and mergers",
+            "creator": "Frank P. Jozsa",
             "date": "2015",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
+            "publisher": "Springer Cham",
             "isbns": [
-                "9781571678263",
-                "1571678263"
+                "9783319100586",
+                "3319100580"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Positive psychology",
-                "Adult education"
+                "Basketball Offense",
+                "Basketball Coaching",
+                "Basket-ball Attaque",
+                "Basket-ball Entraînement"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "957436854",
-            "title": "Sport, Exercise, and Performance Psychology : Bridging Theory and Application",
-            "creator": "Jamie E., Dr, PhD Robbins",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Publishing Company",
-            "isbns": [
-                "9780826129697",
-                "0826129692"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports Psychological aspects"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "893079954",
-            "title": "Forward pass : the play that saved football",
-            "creator": "Philip L. Brooks",
-            "date": "2014",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "[publisher not identified]",
-            "isbns": [
-                "9781594165894",
-                "1594165890"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Passing (Football) History",
-                "Football Offense History",
-                "Football Offense",
-                "Passing (Football)",
-                "History"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1193116734",
-            "title": "A Social Psychology of Leisure",
-            "creator": "Gordon Walker",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571679390",
-                "1571679391"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Leisure Psychological aspects",
-                "Leisure Social aspects",
-                "Loisir Aspect psychologique",
-                "Loisirs Aspect social"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1193116202",
-            "title": "Recreational sport management : foundations and applications",
-            "creator": "Richard F. Mull",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore-Venture",
-            "isbns": [
-                "9781571679994",
-                "1571679995"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation leadership",
-                "Recreation Management",
-                "Sports administration",
-                "Loisirs Animation",
-                "Loisirs Gestion",
-                "Sports Gestion"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1244624978",
-            "title": "Leadership in Recreation",
-            "creator": "Ruth Russell",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571676801",
-                "1571676805"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation leadership",
-                "Recreation"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206402644",
-            "title": "Facility Management for Physical Activity and Sport",
-            "creator": "Thomas Sawyer",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677563",
-                "1571677569"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports facilities United States Management",
-                "Recreation centers United States Management",
-                "Équipements sportifs États-Unis Gestion",
-                "Centres de loisirs États-Unis Gestion",
-                "Recreation centers Management",
-                "Sports facilities Management",
-                "United States"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206401375",
-            "title": "Outdoor Recreation  : Enrichment for a Lifetime",
-            "creator": "Kathleen Cordes",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677785",
-                "157167778X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Outdoor recreation United States",
-                "Outdoor recreation",
-                "Loisirs de plein air États-Unis",
-                "Loisirs de plein air",
-                "United States"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206399206",
-            "title": "Sport management : an exploration of the field and its value",
-            "creator": "Matthew T. Bowers",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing",
-            "isbns": [
-                "9781571677273",
-                "1571677275"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sports administration",
-                "Sports Social aspects",
-                "Sports Gestion",
-                "Sports Aspect social"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206397541",
-            "title": "Introduction to Commercial Recreation and Tourism  : An Entrepreneurial Approach",
-            "creator": "John Crossley",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571679048",
-                "1571679049"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation United States Management",
-                "Recreation Economic aspects United States",
-                "Tourism United States",
-                "Loisirs Aspect économique États-Unis",
-                "Recreation Economic aspects",
-                "Recreation Management",
-                "Tourism",
-                "United States"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206397422",
-            "title": "Leisure Matters  : The State and Future of Leisure Studies",
-            "creator": "Gordon Walker",
-            "date": "2015",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571678294",
-                "1571678298"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Leisure",
-                "Cross-cultural studies"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223095845",
-            "title": "Community Parks and Recreation  : An Introduction",
-            "creator": "Christopher Edginton",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677907",
-                "1571677909"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Parks Management",
-                "Recreation Management"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223095771",
-            "title": "Recreation programming : designing, staging, and managing the delivery of leisure experiences",
-            "creator": "J. Robert Rossman",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore-Venture",
-            "isbns": [
-                "9781571679475",
-                "1571679472",
-                "9781571679482",
-                "1571679480"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation leadership",
-                "Recreation Management",
-                "Recreation Planning",
-                "Loisirs Animation",
-                "Loisirs Gestion",
-                "Loisirs Planification"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206397165",
-            "title": "Evaluating recreation services : making enlightened decisions",
-            "creator": "Karla A. Henderson",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Venture Publishing LLC",
-            "isbns": [
-                "9781571678485",
-                "1571678484"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation Evaluation",
-                "Recreation Research",
-                "Recreation Management Evaluation",
-                "Recreational surveys",
-                "Loisirs Évaluation",
-                "Loisirs Recherche",
-                "Loisirs Gestion Évaluation"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223095355",
-            "title": "Research methods : how to conduct research in recreation, parks, sport, and tourism",
-            "creator": "Carol Cutler Riddick",
-            "date": "2015",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677198",
-                "1571677194"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation Research",
-                "Leisure Research",
-                "Tourism Research",
-                "Loisirs Recherche",
-                "Loisir Recherche"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1206396941",
-            "title": "Diversity and inclusion in the recreation profession : organizational perspectives",
-            "creator": "Ingrid Eleanore Schneider",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing LLC",
-            "isbns": [
-                "9781571677297",
-                "1571677291"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation Social aspects",
-                "Leisure industry Social aspects",
-                "Multiculturalism",
-                "Minorities Recreation",
-                "Women Recreation",
-                "People with disabilities Recreation",
-                "Leisure Social aspects",
-                "Loisirs Aspect social",
-                "Loisirs Industrie Aspect social",
-                "Multiculturalisme",
-                "Femmes Loisirs",
-                "Personnes handicapées Loisirs",
-                "multiculturalism"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1223092412",
-            "title": "Managing Recreation, Parks, and Leisure Services  : An Introduction",
-            "creator": "Christopher Edginton",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Sagamore Publishing, L.L.C.",
-            "isbns": [
-                "9781571677457",
-                "1571677453"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Recreation Management",
-                "Recreation leadership",
-                "Leisure Management",
-                "Parks Management",
-                "Loisirs Gestion",
-                "Loisirs Animation",
-                "Loisir Gestion"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1609716781",
-            "title": "Analysis of Human Performance and Adaptation Through the Lens of Ecological Dynamics",
-            "creator": "David Smith",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Fachmedien Wiesbaden GmbH",
-            "isbns": [
-                "9783658524852",
-                "3658524855"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1587070978",
-            "title": "Dual Career Athletes Policy and Programs",
-            "creator": "Grzegorz M. Botwina",
+            "oclcNumber": "1511010593",
+            "title": "Racing's return from the brink : the incredible comeback of Old Rosebud and American horse racing",
+            "creator": "James C. Nicholson",
             "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "The University Press of Kentucky",
             "isbns": [
-                "9781040615393",
-                "1040615392"
+                "1985902540",
+                "1985902559",
+                "9781985902558",
+                "9781985902541",
+                "9781985902565",
+                "1985902567"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Electronic books"
+                "Old Rosebud (Race horse)",
+                "Race horses United States",
+                "Horse racing United States History",
+                "Chevaux de course États-Unis",
+                "Courses de chevaux États-Unis Histoire",
+                "Sports",
+                "BIOGRAPHY & AUTOBIOGRAPHY",
+                "Horse Racing",
+                "SPORTS & RECREATION",
+                "State & Local",
+                "United States",
+                "HISTORY",
+                "Horse racing History",
+                "Sports & active outdoor recreation",
+                "Sport",
+                "Electronic books",
+                "1900-1999"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1574010437",
-            "title": "Validation and efficacy of a novel external ankle support device for the prevention of lateral ankle sprains",
-            "creator": "Sally Kennon Barfield",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Mississippi State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques",
-                "Ankle bracing",
-                "Ankle sprains",
-                "BetterGuards",
-                "Performance"
-            ]
-        },
-        {
-            "topic": "58000000",
-            "oclcNumber": "1295924320",
-            "title": "The Road to Madness How the 1973-1974 Season Transformed College Basketball",
-            "creator": "J. Samuel Walker",
-            "date": "2016",
+            "oclcNumber": "854633205",
+            "title": "Managing the Olympics",
+            "creator": "Stephen Frawley",
+            "date": "2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of North Carolina Press",
+            "publisher": "Palgrave Macmillan",
             "isbns": [
-                "1469630249",
-                "9781469630243",
-                "1469630257",
-                "9781469630250",
-                "9798890851932"
+                "9780230389588",
+                "0230389589",
+                "9780230389571",
+                "0230389570"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "NCAA Basketball Tournament History",
-                "NCAA Basketball Tournament",
-                "Basketball United States History",
-                "Basketball Tournaments United States",
+                "Olympics Planning",
+                "Olympics Management",
+                "Jeux olympiques Planification",
+                "Jeux olympiques Gestion",
+                "Sports management & facilities",
+                "Olympic & Paralympic games",
                 "GAMES Gambling Sports",
                 "SPORTS & RECREATION Business Aspects",
                 "SPORTS & RECREATION Essays",
                 "SPORTS & RECREATION History",
                 "SPORTS & RECREATION Reference",
                 "TRAVEL Special Interest Sports",
-                "SPORTS & RECREATION Basketball",
-                "Basketball",
-                "Basketball Tournaments",
-                "United States",
-                "History"
+                "Sport",
+                "Electronic books"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1295898493",
-            "title": "Game Changers Dean Smith, Charlie Scott, and the Era That Transformed a Southern College Town",
-            "creator": "Art Chansky",
-            "date": "2016",
+            "oclcNumber": "1535356613",
+            "title": "A sports odyssey : my Ithaca journal",
+            "creator": "Grant Farred",
+            "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of North Carolina Press",
+            "publisher": "Temple University Press",
             "isbns": [
-                "1469630400",
-                "9781469630403",
-                "9781469630397",
-                "1469630397",
-                "9798890849236"
+                "9781439926963",
+                "1439926964"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Scott, Charlie, 1948-",
-                "Smith, Dean, 1931-2015",
-                "North Carolina Tar Heels (Basketball team) History",
-                "University of North Carolina at Chapel Hill Basketball History",
-                "Racism in sports North Carolina Chapel Hill History",
-                "African Americans Civil rights North Carolina Chapel Hill History 20th century",
-                "Basketball North Carolina Chapel Hill History",
-                "Basketball coaches North Carolina Chapel Hill",
-                "Racisme dans les sports Caroline du Nord Chapel Hill Histoire",
-                "Noirs américains Droits Caroline du Nord Chapel Hill Histoire 20e siècle",
-                "Basket-ball Entraîneurs Caroline du Nord Chapel Hill",
-                "SOCIAL SCIENCE General",
-                "SPORTS & RECREATION General",
-                "Social sciences",
+                "Farred, Grant Diaries",
+                "Liverpool Football Club",
+                "Cornell Big Red (Basketball team)",
+                "Sports Psychological aspects",
+                "Sports spectators New York (State) Ithaca Biography",
+                "Sports spectators",
+                "New York (State) Ithaca",
+                "Electronic books",
+                "Biographies",
+                "Diaries"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1224367260",
+            "title": "Seeing Stars  : Sports Celebrity, Identity, and Body Culture in Modern Japan",
+            "creator": "Dennis J. Frost",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Harvard University Asia Center",
+            "isbns": [
+                "9781684175048",
+                "1684175046"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Athletes Japan Public opinion",
+                "Sports in popular culture Japan",
+                "Celebrities Japan Public opinion",
+                "Athletes in mass media",
+                "Sports dans la culture populaire Japon",
+                "Sportifs dans les médias",
+                "Athletes Public opinion",
+                "Sports in popular culture",
+                "Japan"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "923345503",
+            "title": "Operational research applied to sports",
+            "creator": "Mike Wright",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "1137534672",
+                "9781137534675",
+                "9781137534668",
+                "1137534664"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sports administration Research",
+                "Sports administration Research Methodology",
+                "Sports",
+                "Sports Gestion Recherche",
+                "Sports Gestion Recherche Méthodologie",
+                "sports",
+                "Business & management",
+                "Business strategy",
+                "International economics",
+                "Management of specific areas",
+                "Operational research",
+                "Sports & outdoor recreation",
+                "GAMES Gambling Sports",
+                "SPORTS & RECREATION Business Aspects",
+                "SPORTS & RECREATION Essays",
+                "SPORTS & RECREATION History",
+                "SPORTS & RECREATION Reference",
+                "TRAVEL Special Interest Sports",
+                "International economic relations",
+                "Leadership",
+                "Operations research",
+                "Production management"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1239990113",
+            "title": "Innovación docente en actividad física, deporte y educación",
+            "creator": "Pablo Camacho Lazarraga",
+            "date": "2020",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Dykinson",
+            "isbns": [
+                "9788413246888",
+                "8413246881"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Physical education and training",
+                "Sports",
+                "Educational innovations",
+                "Physical Education and Training",
+                "Éducation physique",
+                "Enseignement Innovations",
+                "sports",
+                "EDUCATION / General"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1513138546",
+            "title": "1978 Baseball and America in the Disco Era",
+            "creator": "David Krell",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nebraska",
+            "isbns": [
+                "9781496243669",
+                "1496243668"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Baseball United States History 20th century",
+                "Baseball United States History Chronology",
+                "20th Century",
+                "United States",
+                "HISTORY",
+                "SPORTS & RECREATION",
+                "Baseball History",
+                "Nineteen seventy-eight, A.D",
+                "United States Civilization 1970- Anecdotes",
+                "États-Unis Civilisation 1970- Anecdotes",
+                "Electronic books",
+                "1900-1999",
+                "1978"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1493519447",
+            "title": "Interstate '85 : the Royals, the Cardinals, and the show-me World Series",
+            "creator": "Marshall Garvey",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Missouri Press",
+            "isbns": [
+                "0826275125",
+                "9780826275127"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Kansas City Royals (Baseball team)",
+                "St. Louis Cardinals (Baseball team)",
+                "World Series (Baseball) (1985)",
+                "World Series (Baseball)",
+                "Baseball Missouri History",
+                "Baseball",
+                "Missouri",
                 "Electronic books",
                 "History"
             ]
         },
         {
             "topic": "58000000",
-            "oclcNumber": "1241780336",
-            "title": "Born to Be Wild The Rise of the American Motorcyclist",
-            "creator": "Randy D. McBee",
-            "date": "2015",
+            "oclcNumber": "1604678888",
+            "title": "Fists of glory : the ancient origins of boxing",
+            "creator": "Jean-Manuel Roubineau",
+            "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "The University of North Carolina Press",
+            "publisher": "Oxford University Press",
             "isbns": [
-                "1469623323",
-                "9781469623320",
-                "9798890847614"
+                "9780197805589",
+                "0197805582",
+                "9780197805565",
+                "0197805566"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Motorcycle clubs United States History",
-                "Motorcyclists United States History",
-                "Motorcycling Social aspects United States History",
-                "Motorcycling United States History",
-                "Motocyclisme États-Unis Associations Histoire",
-                "Motorcycle clubs",
-                "Motorcycling",
-                "Motorcyclists",
+                "Boxing Greece History To 1500",
+                "Boxing Rome History",
+                "Boxing in art",
+                "Boxe Rome Histoire",
+                "Boxe dans l'art",
+                "Ancient",
+                "HISTORY",
+                "Greece",
+                "Rome",
+                "Boxing",
+                "Rome (Empire)",
+                "Electronic books",
+                "History",
+                "Translations",
+                "To 1500"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1223043566",
+            "title": "Jurnal pendidikan jasmani dan olahraga",
+            "creator": "",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Departemen Pendidikan Olahraga, Universitas Pendidikan Indonesia",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Physical education and training Periodicals",
+                "Sports Periodicals",
+                "Éducation physique Périodiques",
+                "Sports Périodiques",
+                "Sports",
+                "Physical education and training",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1041189290",
+            "title": "Gamer Theory",
+            "creator": "McKenzie Wark",
+            "date": "2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Harvard University Press",
+            "isbns": [
+                "9780674044838",
+                "0674044835"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Video games Social aspects",
+                "Computer games Social aspects",
+                "COMPUTERS / Social Aspects / Human-Computer Interaction",
+                "SOCIAL SCIENCE / Popular Culture"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1580965665",
+            "title": "(re)Pebbling : a story of Blackness & curling",
+            "creator": "Richard Norman",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Regina Press",
+            "isbns": [
+                "9781779401021",
+                "9781779401038",
+                "1779401027",
+                "1779401035"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Curling Canada Comic books, strips, etc",
+                "Racism in sports Canada Comic books, strips, etc",
+                "Winter sports Social aspects Canada Comic books, strips, etc",
+                "Athletes, Black Canada Comic books, strips, etc",
+                "Sports",
+                "Nonfiction",
+                "COMICS & GRAPHIC NOVELS",
+                "Minority Studies",
+                "SOCIAL SCIENCE",
+                "Manga",
+                "Athletes, Black",
+                "Curling",
+                "Racism in sports",
+                "Canada",
+                "Electronic books",
+                "Comics (Graphic works)",
+                "Graphic novels",
+                "Sports comics",
+                "Bandes dessinées de sport"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1066425026",
+            "title": "The Great Bike Race : The Classic, Acclaimed Book That Introduced a Nation to the Tour de France",
+            "creator": "Geoffrey Nicholson",
+            "date": "May 2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Velodrome Publishing Casemate Publishers & Book Distributors, LLC [distributor]",
+            "isbns": [
+                "9781911162087",
+                "191116208X",
+                "9781911162100",
+                "1911162101"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Tour de France (Bicycle race)",
+                "GAMES Gambling Sports",
+                "SPORTS & RECREATION Business Aspects",
+                "SPORTS & RECREATION Essays",
+                "SPORTS & RECREATION History",
+                "SPORTS & RECREATION Reference",
+                "TRAVEL Special Interest Sports"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1011551633",
+            "title": "Mad Dog : the Maurice Vachon story",
+            "creator": "Bertrand Hébert",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "ECW Press",
+            "isbns": [
+                "9781773050645",
+                "1773050648",
+                "9781773050652",
+                "1773050656"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Vachon, Mad Dog, 1929-2013",
+                "Vachon, Mad Dog 1929-2013",
+                "Wrestlers Québec (Province) Biography",
+                "Lutteurs Québec (Province) Biographies",
+                "SPORTS & RECREATION Wrestling",
+                "BIOGRAPHY & AUTOBIOGRAPHY Sports",
+                "GAMES Gambling Sports",
+                "SPORTS & RECREATION Business Aspects",
+                "SPORTS & RECREATION Essays",
+                "SPORTS & RECREATION History",
+                "SPORTS & RECREATION Reference",
+                "TRAVEL Special Interest Sports",
+                "Wrestlers",
+                "Québec",
+                "Biography",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1506333729",
+            "title": "TURBULENT SEASONS baseball in 1890-1891",
+            "creator": "CHARLES C. ALEXANDER",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "MCFARLAND",
+            "isbns": [
+                "9781476622453",
+                "1476622450"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "American Association (Baseball league : 1882-1891)",
+                "National League of Professional Baseball Clubs",
+                "Players League (Baseball league)",
+                "Baseball United States History 19th century",
+                "Baseball",
                 "United States",
+                "Electronic books",
+                "History",
+                "1800-1899"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1584006893",
+            "title": "Les athlètes africains sur la place Rouge : Jeux olympiques de Moscou, guerre froide et diplomatie sportive",
+            "creator": "Louis Brosseau",
+            "date": "2026",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Presses de l'Université Laval",
+            "isbns": [
+                "9782766309474",
+                "2766309470"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Jeux olympiques (22es : 1980 : Moscou, U.R.S.S.)",
+                "Detente",
+                "Sports and state Soviet Union",
+                "Olympics Participation, African Political aspects",
+                "Détente (Politique)",
+                "Sports Politique gouvernementale URSS",
+                "Jeux olympiques Participation africaine Aspect politique",
+                "HISTORY / Modern / 20th Century / General",
+                "SOCIAL SCIENCE / Sociology / General",
+                "POLITICAL SCIENCE / International Relations / General",
+                "Diplomatic relations",
+                "Sports and state",
+                "Africa Foreign relations Soviet Union",
+                "Soviet Union Foreign relations Africa",
+                "Soviet Union Foreign relations 1975-1985",
+                "Afrique Relations extérieures URSS",
+                "URSS Relations extérieures Afrique",
+                "URSS Relations extérieures 1975-1985",
+                "Africa",
+                "Soviet Union",
+                "Electronic books",
+                "1975-1985"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1370623530",
+            "title": "THERE'S A BULLDOZER ON HOME PLATE  : a 50 year journey in minor league baseball",
+            "creator": "MILES WOLFF",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "MCFARLAND",
+            "isbns": [
+                "9781476647852",
+                "1476647852"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Wolff, Miles",
+                "Durham Bulls (Baseball team)",
+                "Baseball team owners United States Biography",
+                "Baseball managers United States Biography",
+                "Baseball commissioners United States Biography",
+                "Minor league baseball United States History 20th century",
+                "Minor league baseball United States History 21st century",
+                "Base-ball Propriétaires d'équipes États-Unis Biographies",
+                "Base-ball Managers États-Unis Biographies",
+                "Ligues mineures (Base-Ball) États-Unis Histoire 20e siècle",
+                "Ligues mineures (Base-Ball) États-Unis Histoire 21e siècle",
+                "Baseball commissioners",
+                "Baseball managers",
+                "Baseball team owners",
+                "Minor league baseball",
+                "United States",
+                "Biographies",
+                "History",
+                "1900-2099"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1190722236",
+            "title": "GAME-CENTRED APPROACH TO SPORT LITERACY",
+            "creator": "",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "ROUTLEDGE",
+            "isbns": [
+                "9781000206623",
+                "1000206629",
+                "1000206645",
+                "9781000206630",
+                "1000206637",
+                "9781003007258",
+                "1003007252",
+                "9781000206647"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Physical education and training Study and teaching",
+                "Coaching (Athletics) Study and teaching",
+                "Éducation physique Étude et enseignement",
+                "Entraînement (Sports) Étude et enseignement",
+                "EDUCATION / Physical Education",
+                "SPORTS & RECREATION / Coaching / General",
+                "Educación física"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "189165685",
+            "title": "Backpacker tourism : concepts and profiles",
+            "creator": "Kevin Hannam",
+            "date": "©2007",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Channel View Publications",
+            "isbns": [
+                "9781845410797",
+                "1845410793"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Backpacking",
+                "Backpacking Social aspects",
+                "Sports and tourism",
+                "Randonnée sac au dos",
+                "Randonnée sac au dos Aspect social",
+                "Sports et tourisme",
+                "TRAVEL Hikes & Walks",
+                "SPORTS & RECREATION Walking",
+                "SPORTS & RECREATION Hiking",
+                "BUSINESS & ECONOMICS / Industries / Hospitality, Travel & Tourism"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1529631815",
+            "title": "Play with purpose : developing thinking players, a game sense resource for rugby union, league and touch : a teaching guide to the strengths-based and inquiry oriented game sense approach for rugby union, league and touch football",
+            "creator": "Shane Pill",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Australian Council for Health, Physical Education and Recreation (ACHPER)",
+            "isbns": [
+                "9780645221466",
+                "0645221465"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Rugby Union football Coaching",
+                "Touch football Coaching",
+                "Rugby League football Coaching"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1615518373",
+            "title": "Game engine culture(s)",
+            "creator": "Matteo Bittanti",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Mimesis International",
+            "isbns": [
+                "9788869775666",
+                "8869775666"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Video games Design Social aspects",
+                "Jeux vidéo Conception Aspect social",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1344535827",
+            "title": "WALES AND THE ALL BLACKS - AN OFF-FIELD HISTORY",
+            "creator": "Roger G. K. Penn",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Y LOLFA",
+            "isbns": [
+                "180099317X",
+                "9781800993174"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Wales Rugby Union Team History",
+                "All Blacks (Rugby team) History",
+                "All Blacks (Rugby team)",
+                "Wales Rugby Union Team",
+                "Rugby Union football Wales History",
+                "Rugby Union football New Zealand History",
+                "Rugby Union football matches Wales History",
+                "Rugby Union football matches New Zealand History",
+                "Rugby à quinze Pays de Galles Histoire",
+                "Rugby à quinze Nouvelle-Zélande Histoire",
+                "Rugby à quinze Matchs Pays de Galles Histoire",
+                "Rugby à quinze Matchs Nouvelle-Zélande Histoire",
+                "Rugby Union football",
+                "Rugby Union football matches",
+                "New Zealand",
+                "Wales",
                 "History"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1119065633",
+            "title": "Heritage and sport : an introduction",
+            "creator": "Gregory Ramshaw",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Channel View Publications",
+            "isbns": [
+                "9781845417055",
+                "1845417054",
+                "1845417038",
+                "9781845417048",
+                "1845417046",
+                "9781845417031"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sports Social aspects",
+                "Sports in popular culture",
+                "Sports museums",
+                "Sports facilities",
+                "Sports and tourism",
+                "Sports Aspect social",
+                "Sports dans la culture populaire",
+                "Sports Musées",
+                "Équipements sportifs",
+                "Sports et tourisme",
+                "sports buildings",
+                "athletic clubs",
+                "SPORTS & RECREATION / Business Aspects"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1080210953",
+            "title": "Self help : life lessons from the bizarre wrestling career of Al Snow",
+            "creator": "Al Snow",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "ECW Press",
+            "isbns": [
+                "9781773053035",
+                "1773053035",
+                "9781773053028",
+                "1773053027"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Snow, Al",
+                "Wrestlers United States Biography",
+                "Wrestling United States Anecdotes",
+                "Lutteurs États-Unis Biographies",
+                "Lutte États-Unis Anecdotes",
+                "SPORTS & RECREATION Wrestling",
+                "Wrestlers",
+                "Wrestling",
+                "United States",
+                "Electronic books",
+                "Autobiography",
+                "autobiographies (literary genre)",
+                "Autobiographies",
+                "Anecdotes",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1266167480",
+            "title": "Střední a dlouhé tratě : možnosti ovlivnění sportovní výkonnosti",
+            "creator": "Miroslav Semerád",
+            "date": "2021",
+            "language": "cze",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Univerzita Karlova, nakladatelství Karolinum",
+            "isbns": [
+                "9788024646183",
+                "8024646188"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Running Training",
+                "Running Coaching",
+                "Long-distance running Training",
+                "Long-distance running Coaching",
+                "Athletic ability",
+                "Course à pied Entraînement"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1480700564",
+            "title": "Baseball's Wildest Season",
+            "creator": "William J. Ryczek",
+            "date": "[n.d.]",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "McFarland and Company, Inc.; McFarland",
+            "isbns": [
+                "1476649251",
+                "9781476649252"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Union Association (Baseball league)",
+                "American Association (Baseball league : 1882-1891)",
+                "National League of Professional Baseball Clubs",
+                "Baseball United States History 19th century",
+                "Baseball",
+                "United States",
+                "History",
+                "1800-1899"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1517441702",
+            "title": "The Craft of Bouldering",
+            "creator": "Francis Sanzaro",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Saraband",
+            "isbns": [
+                "1916812309",
+                "9781916812307"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Rock climbing Philosophy",
+                "Rock climbing",
+                "Mind & Body",
+                "PHILOSOPHY",
+                "Sociology of Sports",
+                "SPORTS & RECREATION"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1532836361",
+            "title": "1978 : baseball and America in the disco era",
+            "creator": "David Krell",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Nebraska Press",
+            "isbns": [
+                "9781496243676",
+                "1496243676"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Baseball United States History 20th century",
+                "Baseball United States History Chronology",
+                "Baseball",
+                "Civilization",
+                "United States Civilization 1970- Anecdotes",
+                "États-Unis Civilisation 1970- Anecdotes",
+                "United States",
+                "Anecdotes",
+                "History",
+                "Since 1900"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1511366871",
+            "title": "Riding into battle : Canadian cyclists in the Great War",
+            "creator": "Ted Glenn",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Dundurn",
+            "isbns": [
+                "9781459742611",
+                "1459742613",
+                "9781459742635",
+                "145974263X",
+                "1459742621",
+                "9781459742628"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Canada. Canadian Army. Cyclist Battalion",
+                "Military cycling",
+                "Cyclisme militaire",
+                "HISTORY Military World War I",
+                "Regimental histories",
+                "Canada",
+                "History",
+                "1900-1999"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "905985415",
+            "title": "Dirt Track Auto Racing, 1919-1941 : a Pictorial History",
+            "creator": "Don Radbruch",
+            "date": "2004",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "McFarland & Company, Inc., Publishers",
+            "isbns": [
+                "1336183217",
+                "9781336183216",
+                "9781476613758",
+                "1476613753"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Automobile racing United States History Pictorial works",
+                "Automobile racing United States History",
+                "GAMES Gambling Sports",
+                "SPORTS & RECREATION Business Aspects",
+                "SPORTS & RECREATION Essays",
+                "SPORTS & RECREATION History",
+                "SPORTS & RECREATION Reference",
+                "TRAVEL Special Interest Sports",
+                "Automobile racing",
+                "United States",
+                "History",
+                "Pictorial works"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1535242619",
+            "title": "Aging playfully : reimagining the possibilities of age-friendly community planning",
+            "creator": "Maxwell Hartt",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "UBC Press",
+            "isbns": [
+                "9780774872652",
+                "0774872659",
+                "9780774872669",
+                "0774872667"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Older people Recreation",
+                "Older people Health and hygiene",
+                "Retirement communities Planning",
+                "Play Psychological aspects",
+                "Play Social aspects",
+                "Personnes âgées Loisirs",
+                "Personnes âgées Santé et hygiène",
+                "Villages-retraite Planification",
+                "Jeu Aspect psychologique",
+                "Jeu Aspect social",
+                "SOCIAL SCIENCE / Gerontology",
+                "SCIENCE / Earth Sciences / Geography",
+                "POLITICAL SCIENCE / General",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1531949112",
+            "title": "Animal genocide and its aftermath : the Tasmanian Tiger and the Newfoundland Wolf",
+            "creator": "Nicholas Chare",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Berghahn Books",
+            "isbns": [
+                "9781836951261",
+                "1836951264",
+                "9781836951278",
+                "1836951272"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Extinct mammals History 20th century",
+                "Bounties Moral and ethical aspects",
+                "Hunting Moral and ethical aspects",
+                "Thylacine Effect of hunting on Australia Tasmania",
+                "Gray wolf Effect of hunting on Newfoundland and Labrador",
+                "Animal declines Economic aspects",
+                "Genocide Australia Tasmania",
+                "Genocide Newfoundland and Labrador",
+                "Big game hunting",
+                "Thylacine Australia Tasmania",
+                "Chasse au gros gibier",
+                "Loup gris Terre-Neuve-et-Labrador",
+                "Loup marsupial Australie Tasmanie",
+                "Mammifères disparus Histoire 20e siècle",
+                "Primes Aspect moral",
+                "Chasse Aspect moral",
+                "Loup marsupial Effets de la chasse sur Australie Tasmanie",
+                "Loup gris Effets de la chasse sur Terre-Neuve-et-Labrador",
+                "Media Studies",
+                "Environmental)",
+                "SCIENCE",
+                "SOCIAL SCIENCE",
+                "Gray wolf",
+                "Thylacine",
+                "Australia",
+                "Newfoundland and Labrador",
+                "Tasmania",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1179343280",
+            "title": "Wildlife Society bulletin (2011)",
+            "creator": "",
+            "date": "2011",
+            "language": "und",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "On behalf of the Wildlife Society by Wiley Subscription Services, Inc",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Animal Sciences"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1615495926",
+            "title": "Ship your first Roblox game : a 3 hour crash course",
+            "creator": "Zander Brumbaugh",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "Packt Publishing",
+            "isbns": [
+                "9781808724275",
+                "1808724275"
+            ],
+            "newFormat": "eVideo",
+            "subjects": [
+                "Roblox (Computing platform)",
+                "Video games Design",
+                "Roblox (Plateforme informatique)",
+                "Jeux vidéo Conception",
+                "Instructional films",
+                "Nonfiction films",
+                "Internet videos",
+                "Films de formation",
+                "Films autres que de fiction",
+                "Vidéos sur Internet"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1434027405",
+            "title": "INDIVIDUALIDADE BIOLOGICA;AS IMPRESSOES DIGITAIS NOS ESPORTES E NA SAUDE",
+            "creator": "RUDY JOSE NODARI JUNIOR",
+            "date": "2024",
+            "language": "por",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "EDITORA DIALETICA",
+            "isbns": [
+                "6527008767",
+                "9786527008767"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sports sciences",
+                "Physical education and training"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1578194649",
+            "title": "Home team away : watching European football in urban China",
+            "creator": "Yuan Gong",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Michigan Press",
+            "isbns": [
+                "9780472906048",
+                "0472906046"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Soccer fans China",
+                "Soccer Social aspects China",
+                "Soccer Anthropological aspects China",
+                "Soccer Aspect social Chine",
+                "Soccer Anthropological aspects",
+                "Soccer fans",
+                "Soccer Social aspects",
+                "China"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1251933249",
+            "title": "Die Sprache der Bewegung Sportwissenschaft als Kulturwissenschaft",
+            "creator": "Monika Fikus",
+            "date": "2015",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "transcript",
+            "isbns": [
+                "9783839402610",
+                "3839402611"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Bewegungskultur; Sportwissenschaft; Ethnographie; Cultural Studies; Semantik; Körper; Sport; Soziologie; Sport Science; Body; Sociology"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1609388984",
+            "title": "Gambling on extinction",
+            "creator": "Jakob Kneser",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "Green Planet Films",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Poaching Africa Prevention",
+                "Ivory industry Corrupt practices Africa",
+                "Ivory industry Corrupt practices Asia",
+                "Ivory carving Asia",
+                "African elephant Conservation",
+                "Rhinoceroses Conservation",
+                "Wildlife conservation Africa",
+                "Endangered species Africa",
+                "Ivoire Industrie Pratiques déloyales Afrique",
+                "Ivoire Industrie Pratiques déloyales Asie",
+                "Ivoirerie Asie",
+                "Éléphant d'Afrique Conservation",
+                "Rhinocéros Conservation",
+                "Endangered species",
+                "Ivory carving",
+                "Ivory industry Corrupt practices",
+                "Poaching Prevention",
+                "Wildlife conservation",
+                "Africa",
+                "Asia",
+                "Documentary films",
+                "Nonfiction films",
+                "Films autres que de fiction"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1609388746",
+            "title": "Women & the wind",
+            "creator": "Alize Jireh",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "Green Planet Films",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Women sailors North Carolina",
+                "Plastic scrap Atlantic Ocean",
+                "Marine pollution Atlantic Ocean",
+                "Sailing Atlantic Ocean",
+                "Pollution marine Atlantique, Océan",
+                "Femmes marins Caroline du Nord",
+                "Matières plastiques Déchets Atlantique, Océan",
+                "Marine pollution",
+                "Plastic scrap",
+                "Sailing",
+                "Women sailors",
+                "Atlantic Ocean",
+                "North Carolina",
+                "Documentary films",
+                "Nonfiction films",
+                "Films autres que de fiction"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1610749969",
+            "title": "How to watch sports",
+            "creator": "Adam Rugg",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "New York University Press",
+            "isbns": [
+                "9781479830282",
+                "1479830283",
+                "9781479830275",
+                "1479830275"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sports in popular culture",
+                "Sports Sociological aspects",
+                "Sports Political aspects",
+                "Sports dans la culture populaire",
+                "Sports Aspect sociologique",
+                "Sports Aspect politique",
+                "SOCIAL SCIENCE / Media Studies",
+                "SPORTS & RECREATION / Cultural & Social Aspects",
+                "Electronic books",
+                "Essays"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1163493313",
+            "title": "Shots in the Dark : Japan, Zen, and the West",
+            "creator": "Shōji Yamada",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "The University of Chicago Press : International Research Center for Japanese Studies",
+            "isbns": [
+                "9780226784243",
+                "022678424X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Herrigel, Eugen, 1884-1955",
+                "Zen in der Kunst des Bogenschiessens (Herrigel, Eugen)",
+                "Zen Buddhism Study and teaching Europe",
+                "Civilization, Western 20th century Japanese influences",
+                "Archery Japan Religious aspects",
+                "Rock gardens, Japanese Religious aspects",
+                "Bouddhisme zen Étude et enseignement Europe",
+                "Civilisation occidentale 20e siècle Influence japonaise",
+                "Tir à l'arc Japon Aspect religieux",
+                "Rocailles japonaises Aspect religieux",
+                "Zen Buddhism Study and teaching",
+                "Ryōanji Teien (Kyoto, Japan)",
+                "Ryōanji Teien (Kyōto, Japon)",
+                "Europe",
+                "Japan",
+                "Japan Kyoto Ryōanji Teien",
+                "Electronic books",
+                "1900-1999"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1298713894",
+            "title": "The Tour de France  : a cultural history",
+            "creator": "Christopher S. Thompson",
+            "date": "c2006",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of California Press",
+            "isbns": [
+                "0520932854",
+                "1282359053",
+                "9781282359055",
+                "0520247604",
+                "9780520247604",
+                "9780520932852"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Tour de France (Bicycle race) History",
+                "Tour de France (Bicycle race)",
+                "Bicycle racing Social aspects France",
+                "Courses cyclistes Aspect social France",
+                "SPORTS & RECREATION / History",
+                "Bicycle racing Social aspects",
+                "France",
+                "History"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1611772693",
+            "title": "How Dungeons & Dragons changed the way we play",
+            "creator": "Aaron Trammell",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Duke University Press",
+            "isbns": [
+                "9781478062677",
+                "1478062673"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Dungeons and Dragons (Game)",
+                "Dungeons and Dragons (Game) Design",
+                "Dungeons and Dragons (Game) Social aspects",
+                "Fantasy games Design",
+                "Fantasy games Social aspects",
+                "Donjons et dragons",
+                "Donjons et dragons Aspect social",
+                "Jeux de rôle (Jeux) Aspect social",
+                "SOCIAL SCIENCE / Media Studies",
+                "SOCIAL SCIENCE / Sociology / General"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "713010188",
+            "title": "Market Oversight Games",
+            "creator": "Maarten Pieter Schinkel",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Amsterdam University Press",
+            "isbns": [
+                "9789048513987",
+                "9048513987",
+                "1283050501",
+                "9781283050500"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Game theory",
+                "Game Theory",
+                "Théorie des jeux",
+                "BUSINESS & ECONOMICS Banks & Banking",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "58000000",
+            "oclcNumber": "1001983764",
+            "title": "Surfing",
+            "creator": "Thomson Gale (Firm)",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Lopez Publications. Western Empire Publications. Sourceinterlink Media",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Surfing Periodicals",
+                "Surf Périodiques",
+                "Surfing",
+                "Periodicals"
             ]
         }
     ]

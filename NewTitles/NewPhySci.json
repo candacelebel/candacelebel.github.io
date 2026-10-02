@@ -1,420 +1,2269 @@
 {
-    "period": "August 2026",
-    "updated": "As of 01 September 2026",
+    "period": "September 2026",
+    "updated": "As of 02 October 2026",
     "records": [
         {
             "topic": "60000000",
-            "oclcNumber": "1608601905",
-            "title": "The Trinity Index : Radioactive Contamination and Photographic Inscription",
-            "creator": "Eva Castringius",
+            "oclcNumber": "1614867961",
+            "title": "La ciencia del mentor : el arte de acompañar en la formulación de la propuesta",
+            "creator": "Juan Sebastián Ramírez-Navas",
             "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "transcript Verlag",
-            "isbns": [
-                "9783839478080",
-                "3839478081"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Photographs Effect of radiation on",
-                "Photographs Radioactive contamination",
-                "Atomic bomb New Mexico Testing History",
-                "Media Studies",
-                "SOCIAL SCIENCE"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1406788914",
-            "title": "Statistical mechanics : a survival guide",
-            "creator": "A. M. Glazer",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9781383021844",
-                "1383021848",
-                "9780198508168",
-                "0198508166"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Statistical mechanics",
-                "Mécanique statistique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1224924195",
-            "title": "Gaseous Electronics",
-            "creator": "Gorur G. Raju",
-            "date": "2018",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CRC Press",
-            "isbns": [
-                "9781351833325",
-                "1351833324"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Plasma (Ionized gases) Conductivity",
-                "Electronic apparatus and appliances Materials",
-                "Electric discharges through gases",
-                "Gases Electric properties",
-                "Plasma (Gaz ionisés) Conductivité",
-                "Décharges électriques dans les gaz"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "51204698",
-            "title": "Science, technology, & human values",
-            "creator": "Harvard University Program on Science, Technology, and Public Policy",
-            "date": "1978-",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University, Program on Science, Technology, and Public Policy",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Science Social aspects Periodicals",
-                "Technology Social aspects Periodicals",
-                "Humanities Periodicals",
-                "Sciences Aspect social Périodiques",
-                "Humanities",
-                "Science Social aspects",
-                "Technology Social aspects",
-                "Ciències socials",
-                "Filosofia",
-                "Humanitats",
-                "Electronic journals",
-                "Periodicals",
-                "Revistes electròniques"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1613089503",
-            "title": "2027 JEE main physics. Volume II",
-            "creator": "Rahul Sardana",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Pearson India",
-            "isbns": [
-                "9789371360821",
-                "9371360828"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physics Examinations Study guides",
-                "Physics Problems, exercises, etc"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1564979819",
-            "title": "The voyage from vortex to helicity (1517-1969) : a brief history",
-            "creator": "John Z. Shi",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
-            "isbns": [
-                "9783032178527",
-                "3032178525"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Vortex-motion History",
-                "Vortex-motion Mathematics History",
-                "Fluid mechanics History",
-                "Physics History",
-                "Tourbillons (Mécanique des fluides) Histoire",
-                "Tourbillons (Mécanique des fluides) Mathématiques Histoire",
-                "Mécanique des fluides Histoire",
-                "1517-1969"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1565447509",
-            "title": "Thinking beyond materialism : a contemplative manifesto",
-            "creator": "Arthur Zajonc",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "State University Press of New York",
-            "isbns": [
-                "9798855808049",
-                "9798855808056",
-                "9788855808040",
-                "8855808044"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Physics Philosophy",
-                "Metaphysics",
-                "Physique Philosophie",
-                "Métaphysique",
-                "metaphysics"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1587350459",
-            "title": "Raman spectroscopy : advances and research frontiers",
-            "creator": "Touseef Para",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836356738",
-                "1836356730"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Raman spectroscopy",
-                "Spectroscopie Raman"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1585500527",
-            "title": "Plasma science : current developments, applications, and future directions",
-            "creator": "Javier Resta-López",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836356073",
-                "1836356072"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Plasma (Ionized gases)",
-                "Plasma (Gaz ionisés)"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1604677212",
-            "title": "Planetary science : explorations, missions, and mapping",
-            "creator": "Yann-Henri Chemin",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9780854669493",
-                "0854669493"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Planetary science",
-                "Planets Atmospheres",
-                "Planétologie",
-                "Planètes Atmosphères"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1582438984",
-            "title": "Nuclear fission energy : deployment, applications, and beyond",
-            "creator": "Pavel V. Tsvetkov",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9780850149111",
-                "0850149118"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Nuclear fission",
-                "Fission nucléaire"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "882795073",
-            "title": "Ciencia amazónica",
-            "creator": "Universidad Científica del Perú",
-            "date": "2011",
             "language": "spa",
-            "generalFormat": "Jrnl",
+            "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Universidad Científica del Perú",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
+            "publisher": "Pontificia Universidad Javeriana Cali",
+            "isbns": [
+                "9786287709966",
+                "6287709960",
+                "9786287709973",
+                "6287709979"
+            ],
+            "newFormat": "eBook",
             "subjects": [
-                "Science Peru Periodicals",
-                "Science Amazon River Region Periodicals",
-                "Natural history Peru Periodicals",
-                "Natural history Amazon River Region Periodicals",
-                "Natural history",
-                "Science",
-                "Amazon River Region",
-                "Peru",
-                "Periodicals"
+                "Research Methodology",
+                "Science Methodology",
+                "Mentoring in education",
+                "Dissertations, Academic",
+                "Sciences Méthodologie",
+                "Mentorat en éducation",
+                "Thèses et écrits académiques"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1609315137",
-            "title": "A booklet on piezoelectricity : essential principles, modeling and emerging technologies for energy harvesting and sensing",
-            "creator": "Massimo Mariello",
+            "oclcNumber": "1579860760",
+            "title": "El código del color Por qué la fiebre es amarilla, la sangre es azul y damos en el blanco",
+            "creator": "Paul Simpson",
             "date": "2026",
-            "language": "eng",
+            "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "IntechOpen",
+            "publisher": "Editorial GG",
             "isbns": [
-                "9781836340706",
-                "1836340702"
+                "9788425236341",
+                "8425236347"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Piezoelectric devices",
-                "Piezoelectricity",
-                "Dispositifs piézoélectriques",
-                "Piézoélectricité"
+                "Color",
+                "Color History",
+                "Color Social aspects",
+                "Couleur",
+                "Couleur Histoire",
+                "Couleur Aspect social",
+                "color (perceived attribute)",
+                "ART",
+                "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1587361114",
-            "title": "Perspectives on quantum technologies : modeling, simulation, and implementation",
-            "creator": "Eric Sakk",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836356523",
-                "1836356528"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Quantum theory Industrial applications",
-                "Quantum theory",
-                "Théorie quantique Applications industrielles",
-                "Théorie quantique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "862779539",
-            "title": "Acta Baltica historiae et philosophiae scientiarum",
-            "creator": "Baltic Association on the History and Philosophy of Science",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Estonian Association on the History and Philosophy of Science : Tallinn University of Technology",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Science History Periodicals",
-                "Science Philosophy Periodicals",
-                "Science",
-                "Science Philosophy",
-                "Electronic journals",
-                "History",
-                "Periodicals",
-                "Sciences - General"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1577289671",
-            "title": "Quantum theory meets gravity : from curved spacetime to black hole information",
-            "creator": "Oliver K. Baker",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836346012",
-                "1836346018"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Quantum theory",
-                "Théorie quantique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1587353028",
-            "title": "Cosmology research : addressing current problems with astrophysics",
-            "creator": "Michael L. Smith",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836348085",
-                "1836348088"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Astrophysics",
-                "Cosmology",
-                "Astrophysique",
-                "Cosmologie",
-                "astrophysics",
-                "cosmology"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1613530828",
-            "title": "God plays dice with the world : the history of quantum mechanics",
-            "creator": "G. Mussardo",
+            "oclcNumber": "1617424415",
+            "title": "Proceedings of the 2025 International Symposium of Space Optical Instruments and Applications : ISSOIA 2025, 15-17 August, Dunhuang, China",
+            "creator": "International Symposium of Space Optical Instruments and Applications",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032147394",
-                "3032147395"
+                "9789819243495",
+                "9819243491"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Quantum theory History",
-                "Mechanics History 20th century",
-                "Théorie quantique Histoire",
-                "Mécanique Histoire 20e siècle",
+                "Astronomical instruments Congresses",
+                "Optics Congresses",
+                "Astronomie Instruments Congrès",
+                "Optique Congrès"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1617301204",
+            "title": "Advances in quantum science. I, Theoretical and methodological approaches",
+            "creator": "Taku Onishi",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789819597178",
+                "981959717X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Quantum theory",
+                "Théorie quantique"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1617300830",
+            "title": "Advances in quantum science. II, Artificial intelligence, computational and experimental approaches",
+            "creator": "Taku Onishi",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789819597215",
+                "9819597218"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Quantum theory",
+                "Théorie quantique"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1607854911",
+            "title": "Alfonsine Astronomy : Computational Practices",
+            "creator": "Husson, Matthieu (ED)",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brepols Publishers",
+            "isbns": [
+                "9782503610788",
+                "2503610781"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Astronomy Spain 16th century",
+                "Astronomy Spain Manuscripts",
+                "Astronomy Charts, diagrams, etc",
+                "Astronomie Espagne 16e siècle",
+                "Astronomie Espagne Manuscrits"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616460207",
+            "title": "Projecting Knowledge : The Optical Lantern and Science Communication, 1880s-1940s",
+            "creator": "",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BREPOLS PUBLISHERS",
+            "isbns": [
+                "9782503612959",
+                "2503612954"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Social aspects",
+                "Science History",
+                "Sciences Aspect social",
+                "Sciences Histoire"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616456786",
+            "title": "Tabule resolute : the central european type of alfonsine tables",
+            "creator": "ALENA HADRAVOVA",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BREPOLS PUBLISHERS",
+            "isbns": [
+                "9782503617138",
+                "2503617131"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Astronomy Spain 16th century",
+                "Astronomy Charts, diagrams, etc",
+                "Astronomie Espagne 16e siècle"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "980876722",
+            "title": "Muthanna journal of pure science",
+            "creator": "Jāmiʻat al-Muthanná.",
+            "date": "2013",
+            "language": "mul",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "[Muthanna University] BM-Publisher College of Science, Al-Muthanna University",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Science",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1159137156",
+            "title": "Passer Journal",
+            "creator": "Zankoy Germiyān",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "University of Garmian",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Science",
+                "Periodicals",
+                "Zeitschrift"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1083617437",
+            "title": "Waves : a very short introduction",
+            "creator": "Mike Goldsmith",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191842092",
+                "0191842095",
+                "9780192525727",
+                "0192525727"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Waves",
+                "Wave mechanics",
+                "Ondes",
+                "Mécanique ondulatoire",
+                "Astronomy",
+                "SCIENCE",
+                "Electricity",
+                "Waves & Wave Mechanics",
                 "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1612730451",
-            "title": "The Forgotten Giants",
-            "creator": "Elżbieta Jung",
+            "oclcNumber": "1616482090",
+            "title": "Functional soft matter. II, Analytical methods and topics",
+            "creator": "Masahiro Funahashi",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789819201006",
+                "9819201004"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Soft condensed matter",
+                "Matière molle (Physique)"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616482029",
+            "title": "Electromagnetic wave innovations for sustainability. I, Foundation and energy production",
+            "creator": "Satoshi Horikoshi",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789819599691",
+                "9819599695"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electromagnetic waves",
+                "Electromagnetic waves Environmental aspects",
+                "Ondes électromagnétiques",
+                "Ondes électromagnétiques Aspect de l'environnement",
+                "electromagnetic radiation"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "637545281",
+            "title": "Nothing",
+            "creator": "F. E. Close",
+            "date": "2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780199225866",
+                "0199225869"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science History",
+                "Vacuum",
+                "Nothing (Philosophy)",
+                "Space and time",
+                "Beginning",
+                "Sciences Histoire",
+                "Vide (Physique)",
+                "Néant (Philosophie)",
+                "Commencement (Philosophie)",
+                "vacuum",
+                "Science",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "935188261",
+            "title": "Moons : a very short introduction",
+            "creator": "David A. Rothery",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191799495",
+                "0191799491",
+                "0198735278",
+                "9780198735274",
+                "9780191054211",
+                "0191054216",
+                "9780191054228",
+                "0191054224"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Satellites",
+                "Sky Observation",
+                "NATURE",
+                "SCIENCE",
+                "Physics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "815982255",
+            "title": "Ready For Change? : Transition Through Turbulence to Reformation and Transformation",
+            "creator": "Cora Lynn Lynn Heimer Heimer Rathbone",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9781137008404",
+                "1137008407"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Organizational change Management",
+                "Organizational change",
+                "Changement organisationnel",
+                "Management & management techniques",
+                "Business innovation",
+                "Business strategy",
+                "International business",
+                "BUSINESS & ECONOMICS Structural Adjustment",
+                "Business and Management"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "903405377",
+            "title": "Monte Carlo Diffusion Studies",
+            "creator": "D. J. Fisher",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "[Trans Tech Publications]",
+            "isbns": [
+                "9783038266501",
+                "3038266507"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Diffusion Mathematical models Abstracts",
+                "Monte Carlo method Abstracts",
+                "Solid state physics Mathematical models Abstracts",
+                "Diffusion (Physique) Modèles mathématiques Résumés analytiques",
+                "Méthode de Monte-Carlo Résumés analytiques",
+                "Physique de l'état solide Modèles mathématiques Résumés analytiques",
+                "Diffusion Mathematical models",
+                "Monte Carlo method",
+                "Solid state physics Mathematical models",
+                "Abstracts"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1463306701",
+            "title": "Advanced research in diffusion and 3D printing",
+            "creator": "Triwiyanto Triwiyanto",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "3036412476",
+                "9783036412474"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Diffusion Mathematical models",
+                "Heat Transmission",
+                "Mass Transmission",
+                "Three-dimensional printing",
+                "Diffusion (Physique) Modèles mathématiques",
+                "Chaleur Transmission",
+                "Messe Transmission",
+                "Impression tridimensionnelle",
+                "heat transmission",
+                "3-D printing"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "905855914",
+            "title": "Planar-defect energies",
+            "creator": "D. J. Fisher",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications",
+            "isbns": [
+                "9783038267164",
+                "3038267163"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Semiconductors Defects",
+                "Metal oxide semiconductors",
+                "Semi-conducteurs Défauts",
+                "MOS (Électronique)"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1378389260",
+            "title": "Économiser les Combustibles Avec la Méthode Pinch  : Guide Pratique",
+            "creator": "Jacques Woillez",
+            "date": "2023",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Hermes science publications",
+            "isbns": [
+                "9782746299535",
+                "2746299534"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Heat Transmission",
+                "Energy transfer",
+                "Chaleur Transmission",
+                "Transfert d'énergie",
+                "heat transmission"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "926240091",
+            "title": "Intimate violence and Victorian print culture : representational tensions",
+            "creator": "Suzanne Rintoul",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9781137491121",
+                "1137491124"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "English literature History and criticism 19th century",
+                "Abused women in literature",
+                "Violence in literature",
+                "Women Violence against Great Britain History 19th century",
+                "Littérature anglaise Histoire et critique 19e siècle",
+                "Femmes victimes de violence dans la littérature",
+                "Violence dans la littérature",
+                "Femmes Violence envers Grande-Bretagne Histoire 19e siècle",
+                "Domestic violence English United Kingdom, Great Britain",
+                "Literary studies: c 1800 to c 1900 English United Kingdom, Great Britain",
+                "English literature",
+                "Women Violence against",
+                "Domestic violence United Kingdom, Great Britain English 19th century, c 1800 to c 1899",
+                "Literary studies: c 1800 to c 1900 United Kingdom, Great Britain English 19th century, c 1800 to c 1899",
+                "Literature",
+                "Great Britain",
+                "Criticism, interpretation, etc",
+                "History",
+                "1800-1899"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1153879124",
+            "title": "Symposium of Materials Science and Chemistry II",
+            "creator": "Tutik Dwi Wahyuningsih",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "9783035736137",
+                "3035736138"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Absorption",
+                "absorption (physicochemical processes)"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1202475637",
+            "title": "Science and Technology in Post-Mao China",
+            "creator": "Denis Fred Simon",
+            "date": "1988",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "BRILL",
+            "isbns": [
+                "9781684171118",
+                "1684171113"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science China History 20th century",
+                "Science",
+                "China",
+                "History",
+                "1900-1999"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1080075806",
+            "title": "Sensory Evaluation of Sound",
+            "creator": "Nick Zacharov",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Chapman and Hall/CRC",
+            "isbns": [
+                "9780429769917",
+                "0429769911"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sound Measurement",
+                "Sensory evaluation",
+                "Son Mesure"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1415241562",
+            "title": "Advances in Mass and Thermal Transport in Engineering Materials IV",
+            "creator": "Andreas Öchsner",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "303641083X",
+                "9783036410838"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mass transfer",
+                "Heat Transmission",
+                "Diffusion",
+                "Liquid Phase",
+                "Mass Transport",
+                "Material Properties",
+                "Nanoscale",
+                "Numerical Investigation",
+                "Theoretical Investigations",
+                "Thermal Transport",
+                "Transfert de masse",
+                "Chaleur Transmission",
+                "heat transmission",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1121139148",
+            "title": "Transport Phenomena in Single and Multiphase Systems",
+            "creator": "João. Delgado",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "9783035735475",
+                "3035735476"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Transport theory",
+                "Théorie du transport"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1371240348",
+            "title": "La esperanza de Pandora : ensayos sobre la realidad de los estudios de la ciencia",
+            "creator": "Bruno Latour",
+            "date": "2021",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Gedisa Editorial",
+            "isbns": [
+                "9788418525377",
+                "8418525371"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Realism",
+                "Science Philosophy",
+                "Réalisme",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1202481213",
+            "title": "John Fryer  : The Introduction of Western Science and Technology into Nineteenth-Century China",
+            "creator": "Adrian Arthur Bennett",
+            "date": "1967",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Harvard University Asia Center",
+            "isbns": [
+                "9781684171552",
+                "1684171555"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fryer, John, 1839-1928",
+                "Science Translations into Chinese Bibliography",
+                "Civilization Western influences",
+                "China Civilization Western influences",
+                "Chine Civilisation Influence occidentale",
+                "China",
+                "Bibliographies"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1145787794",
+            "title": "Superconductors and Superconductivity",
+            "creator": "Stanislav Kolisnychenko",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "3035700931",
+                "9783035700930"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Superconductivity",
+                "Superconductors Research",
+                "High temperature superconductivity",
+                "Critical Temperature",
+                "High Temperature Superconductor",
+                "Microstructure",
+                "Production Technologies",
+                "Properties",
+                "Solid-State Reaction",
+                "Superconductor Characterization Techniques",
+                "Supraconductivité",
+                "Supraconducteurs Recherche",
+                "Supraconductivité à hautes températures",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "663094044",
+            "title": "The pedagogy of physical science",
+            "creator": "David Heywood",
+            "date": "©2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9781402052712",
+                "1402052715",
+                "9781402052705",
+                "1402052707"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Study and teaching",
+                "Critical pedagogy",
+                "Science teachers Training of",
+                "Sciences physiques Étude et enseignement",
+                "Professeurs de sciences Formation",
+                "Pédagogie critique",
+                "Sciences Étude et enseignement",
+                "SCIENCE Study & Teaching"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1602093495",
+            "title": "Problem Solving in Philosophy : How to Do Philosophy in the Age of Ultra-Intelligent AI",
+            "creator": "Louis Vervoort",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032177568",
+                "3032177561"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1504168372",
+            "title": "The 6th International Conference on Materials Science and Manufacturing Technology (ICMSMT)",
+            "creator": "Ramya Muthusamy",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "3036415807",
+                "9783036415802"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Materials science Congresses",
+                "Manufacturing processes Congresses",
+                "Alloys",
+                "Ceramics",
+                "Composites",
+                "Corrosion",
+                "Dielectrics",
+                "Electrodes",
+                "Electronic Devices",
+                "Fibers",
+                "Glasses",
+                "Liquid Crystals",
+                "Microhardness",
+                "Milling",
+                "Polymers",
+                "Reinforcement",
+                "Semiconductors",
+                "Science des matériaux Congrès",
+                "Fabrication Congrès",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "914151634",
+            "title": "Nanoscience, Nanotechnology, and Nanoengineering : Fundamentals and Applications",
+            "creator": "International Conference on Nanoscience, Nanotechnology and Nanoengineering",
+            "date": "©2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publishers",
+            "isbns": [
+                "9783038269168",
+                "3038269166"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Nanostructured materials Congresses",
+                "Nanoscience Congresses",
+                "Nanotechnology Congresses",
+                "Nanomatériaux Congrès",
+                "Nanosciences Congrès",
+                "Nanotechnologie Congrès",
+                "Nanoscience",
+                "Nanostructured materials",
+                "Nanotechnology",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1586550773",
+            "title": "Metodología de la Investigación y Estadística Aplicadas a Las Ciencias de la Salud",
+            "creator": "Samuel Ponce de León Rosales",
+            "date": "2026",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Universidad Nacional Autonoma de Mexico, Instituto de Investigaciones sobre la Universidad y la Educacion",
+            "isbns": [
+                "9786073099080",
+                "6073099088"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Medical sciences",
+                "Bioethics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1389332861",
+            "title": "The 2nd International Conference on Magnetism and its Applications",
+            "creator": "Agustinus Agung Nugroho",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications Ltd",
+            "isbns": [
+                "9783036410760",
+                "3036410767"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Magnetic materials Congresses",
+                "Magnetism Congresses",
+                "Adsorbent",
+                "Antibacterial Properties",
+                "Cuprate Superconductor",
+                "Dielectric Properties",
+                "Ferrite",
+                "Ferrofluid",
+                "Functional Materials",
+                "Iron Oxide",
+                "Magnetic Materials",
+                "Magnetic Moment",
+                "Magnetic Properties",
+                "Magnetocrystalline Anisotropy",
+                "Magnetoresistance Properties",
+                "Microstructure",
+                "Microwave Absorption",
+                "Modelling",
+                "Nanocomposite",
+                "Nanoparticle",
+                "Optical Properties",
+                "Photocatalytic Activity",
+                "Photoelectrochemical Water Splitting",
+                "Synthesis",
+                "Matériaux magnétiques Congrès",
+                "Magnétisme Congrès",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "936352580",
+            "title": "Experimental Economics : Volume 1: Economic Decisions",
+            "creator": "Pablo Branas-Garza",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan UK : Imprint : Palgrave Macmillan",
+            "isbns": [
+                "9781137538192",
+                "1137538198",
+                "9781349560448",
+                "1349560448"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science",
+                "Sciences",
+                "sciences (philosophy)",
+                "science (modern discipline)",
+                "BUSINESS & ECONOMICS Economics General",
+                "BUSINESS & ECONOMICS Reference"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1028181886",
+            "title": "Diffusion in Materials DIMAT-2017 : 10th International Conference on Diffusion in Materials",
+            "creator": "Eugen Rabkin",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "9783035731309",
+                "3035731306"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Diffusion Congresses",
+                "Materials Congresses",
+                "Diffusion (Physique) Congrès",
+                "Matériaux Congrès",
+                "Diffusion",
+                "Materials",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "936347310",
+            "title": "The Open Incubator Model: Entrepreneurship, Open Innovation, and Economic Development in the Periphery",
+            "creator": "Ilan Bijaoui",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan US : Imprint : Palgrave Pivot",
+            "isbns": [
+                "9781137492401",
+                "1137492406",
+                "1137492392",
+                "9781137492395",
+                "1137492414",
+                "9781137492418"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science",
+                "Sciences",
+                "sciences (philosophy)",
+                "science (modern discipline)",
+                "dissertations",
+                "Academic theses",
+                "Thèses et écrits académiques"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616390947",
+            "title": "The Palgrave handbook of science and technology studies in education",
+            "creator": "Lesley Gourlay",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9789819214839",
+                "9819214831"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Study and teaching",
+                "Technology Study and teaching",
+                "Sciences Étude et enseignement",
+                "Technologie Étude et enseignement"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616390685",
+            "title": "ZX-calculus for quantum circuits : a diagrammatic approach to quantum circuit analysis and optimization",
+            "creator": "Subhojit Halder",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Apress",
+            "isbns": [
+                "9798868828577"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Quantum theory Mathematics",
+                "Calculus Graphic methods",
+                "Théorie quantique Mathématiques",
+                "Calcul infinitésimal Méthodes graphiques"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "820849595",
+            "title": "Science education during early childhood : a cultural-historical perspective",
+            "creator": "Wolff-Michael Roth",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer Berlin Heidelberg",
+            "isbns": [
+                "9789400751866",
+                "9400751869"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Study and teaching",
+                "Sciences Étude et enseignement",
+                "EDUCATION Teaching Methods & Materials Science & Technology",
+                "Droit",
+                "Sciences sociales",
+                "Sciences humaines"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1616363824",
+            "title": "Fundamental interactions : a roadmap to classical and quantum field theories",
+            "creator": "Orlando Luongo",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032274137",
+                "3032274133"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Field theory (Physics)",
+                "Théorie des champs (Physique)"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1564197516",
+            "title": "Óptica básica Introducción a los fundamentos",
+            "creator": "Henry Riascos Landázuri",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial UTP",
+            "isbns": [
+                "9786285010057",
+                "6285010056"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Waves",
+                "Electromagnetic waves",
+                "Geometrical optics",
+                "Ondes",
+                "Ondes électromagnétiques",
+                "Optique géométrique",
+                "electromagnetic radiation",
+                "Physics",
+                "SCIENCE",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1425791704",
+            "title": "Filosofia de la Ciencia  : Problemas Contemporáneos",
+            "creator": "Germán. Guerrero Pino",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Programa Editorial Universidad Del Valle",
+            "isbns": [
+                "9786287617278",
+                "6287617276"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Philosophy",
+                "Electronic books",
+                "Philosophie",
+                "Livres numériques",
+                "philosophy",
+                "e-books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "943051434",
+            "title": "From Saviour to Guarantor : EU Member States' Economic Intervention During the Financial Crisis",
+            "creator": "Fabio Bassan",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan UK : Imprint : Palgrave Macmillan",
+            "isbns": [
+                "9781137441560",
+                "1137441569",
+                "9781349561353",
+                "1349561355",
+                "9781137441577",
+                "1137441577"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science",
+                "Sciences",
+                "sciences (philosophy)",
+                "science (modern discipline)",
+                "Political economy",
+                "Commercial law",
+                "Financial accounting",
+                "BUSINESS & ECONOMICS Finance"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1455141381",
+            "title": "El maestro que pintaba ecuaciones",
+            "creator": "Rubén Darío. Henao Ciro",
+            "date": "2022",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Institución Universitaria de Envigado",
+            "isbns": [
+                "9789585383692",
+                "9585383691"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Matemáticas Relatos",
+                "Matemáticos Reseñas biográficas",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "922662867",
+            "title": "Port Management",
+            "creator": "Hercules Haralambides",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": [
+                "9781137475770",
+                "1137475773",
+                "9781137475787",
+                "1137475781",
+                "9781349693016",
+                "1349693014"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Harbors Management",
+                "Infrastructure (Economics)",
+                "Ports Gestion",
+                "Economics of industrial organisation",
+                "Economic systems & structures",
+                "Industries/General",
+                "Economics/General"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1111457811",
+            "title": "Functional Materials and Technologies",
+            "creator": "Dessy Natalia",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "9783035735314",
+                "303573531X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Mathematics Congresses",
+                "Mathematical physics Congresses",
+                "Physique mathématique Congrès",
+                "Mathematical physics",
+                "Science Mathematics",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1514877171",
+            "title": "Poder, saber e Ilustración la disputa entre Sebastiàn José López Ruiz y José Celestino Mutis, 1774-1808",
+            "creator": "Diego Armando Varila Cajamarca",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial Universidad del Rosario",
+            "isbns": [
+                "9789585004542",
+                "9585004542",
+                "9789585004559",
+                "9585004550"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "López Ruiz, Sebastián José, 1741-1832",
+                "Mutis, José Celestino, 1732-1808",
+                "Science Colombia History",
+                "Sciences Colombie Histoire",
+                "Americas (North",
+                "Science",
+                "Colombia",
+                "Electronic books",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1484085404",
+            "title": "Materials Application in Quantum, Sensors and Mechatronics Systems",
+            "creator": "Michele Riccio",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Trans Tech Publications, Limited",
+            "isbns": [
+                "9783036416366",
+                "3036416366"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Silicon carbide",
+                "Quantum electronics",
+                "Nanotechnologie",
+                "Sensoren (techniek)"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "932062269",
+            "title": "Mobility in the Victorian Novel : Placing the Nation",
+            "creator": "Charlotte Mathieson",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9781137545480",
+                "1137545488",
+                "9781137545473",
+                "113754547X",
+                "9781349566860",
+                "1349566861"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science",
+                "Sciences",
+                "sciences (philosophy)",
+                "science (modern discipline)",
+                "Literature & literary studies",
+                "Literature: history & criticism",
+                "Literary studies: c 1800 to c 1900",
+                "European/General",
+                "General"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "885256431",
+            "title": "Electric potential, Part 2",
+            "creator": "Jason Gibson",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "TMW Media Group",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Electric currents",
+                "Electric fields",
+                "Electromotive force",
+                "Electrostatics",
+                "Physics Problems, exercises, etc",
+                "Courants électriques",
+                "Champs électriques",
+                "Physique Problèmes et exercices",
+                "Physics",
+                "Alexander Street Video",
+                "Instructional films",
+                "Problems and exercises",
+                "Films de formation"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "885256262",
+            "title": "Electric potential, Part 3",
+            "creator": "Jason Gibson",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Video",
+            "specificFormat": "Digital",
+            "publisher": "TMW Media Group",
+            "isbns": "",
+            "newFormat": "eVideo",
+            "subjects": [
+                "Electric currents",
+                "Electromotive force",
+                "Electrostatics",
+                "Physics Problems, exercises, etc",
+                "Symmetrical components (Electric engineering)",
+                "Courants électriques",
+                "Physique Problèmes et exercices",
+                "Méthode des composantes symétriques",
+                "Physics",
+                "Alexander Street Video",
+                "Instructional films",
+                "Problems and exercises",
+                "Films de formation"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1609541598",
+            "title": "Local quantum mechanics : Everett, many worlds, and reality",
+            "creator": "Alyssa Ney",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780197792766",
+                "0197792766"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Quantum theory",
+                "Théorie quantique",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1609146883",
+            "title": "Galileo's library : data, methods, and the humanities",
+            "creator": "Crystal Hall",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780197911204",
+                "019791120X",
+                "9780197911181",
+                "0197911188"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Galilei family Library",
+                "Galilei, Galileo, 1564-1642 Library",
+                "Galilei, Galileo, 1564-1642 Correspondence",
+                "Galilei, Galileo, 1564-1642 Books and reading",
+                "Galilei, Galileo, 1564-1642",
+                "Renaissance",
+                "HISTORY",
+                "Translating & Interpreting",
+                "LANGUAGE ARTS & DISCIPLINES",
+                "Ancient & Classical",
+                "LITERARY COLLECTIONS",
+                "History & Philosophy",
+                "MATHEMATICS"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1569678572",
+            "title": "Physical foundations of spectroscopy : remote sensing of gases, plasmas, and the cosmos",
+            "creator": "P. Gordon Judge",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780197906422",
+                "0197906427",
+                "9780197906439",
+                "0197906435"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Spectrum analysis",
+                "Gases Remote sensing",
+                "Plasma spectroscopy",
+                "Spectroscopie des plasmas",
+                "SCIENCE",
+                "Astronomy",
+                "Analytic",
+                "Chemistry",
+                "Quantum Theory",
+                "Physics",
+                "Astronomical spectroscopy",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "613515452",
+            "title": "2009 Annual IEEE Compound Semiconductor Integrated Circuit Symposium : integrated circuits in GaAs, InP, SiGe, GaN, and other compound semiconductors : technical digest 2009, Greensboro, NC, USA, 11-14 October 2009",
+            "creator": "IEEE Compound Semiconductor Integrated Circuit Symposium",
+            "date": "©2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IEEE",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Integrated circuits Congresses",
+                "Compound semiconductors Congresses",
+                "Circuits intégrés Congrès",
+                "Composés semi-conducteurs Congrès",
+                "Compound semiconductors",
+                "Integrated circuits",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1594642353",
+            "title": "Thermodynamics : a modern approach",
+            "creator": "Hal Tasaki",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780191878091",
+                "019187809X",
+                "9780192579270",
+                "0192579274"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Thermodynamics",
+                "Thermodynamique",
+                "thermodynamics",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "Physics",
+                "Mechanics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "35643533",
+            "title": "The search for Extraterrestrial Intelligence (SETI) in the optical spectrum",
+            "creator": "Society of Photo-Optical Instrumentation Engineers",
+            "date": "1993-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "",
+            "publisher": "SPIE",
+            "isbns": "",
+            "newFormat": "Journal, Magazine",
+            "subjects": [
+                "Life on other planets Congresses",
+                "Interstellar communication Congresses",
+                "Vie extraterrestre Congrès",
+                "Communications interstellaires Congrès",
+                "Interstellar communication",
+                "Life on other planets",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1033558274",
+            "title": "Buletin fisika",
+            "creator": "",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Department of Physics, Faculty of Mathematics and Natural Sciences, Udayana University",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Physics Periodicals",
+                "Physics",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1043603019",
+            "title": "Conexões  : ciência e tecnologia",
+            "creator": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+            "date": "2007",
+            "language": "por",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Science Study and teaching Periodicals",
+                "Technology Periodicals",
+                "Technology Study and teaching Periodicals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1014223380",
+            "title": "Wahana fisika : jurnal penelitian fisika dan terapannya",
+            "creator": "Universitas Pendidikan Indonesia Program Studi Fisika",
+            "date": "2016",
+            "language": "ind",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Kantor Program Studi Fisika FPMIPA Universitas Pendidikan Indonesia",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Physics Periodicals",
+                "Physics",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1115108786",
+            "title": "Mehmet Akif Ersoy Üniversitesi Fen Bilimleri Enstitüsü",
+            "creator": "Mehmet Akif Ersoy Üniversitesi",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "DergiPark",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Technology Periodicals",
+                "Engineering Periodicals",
+                "Architecture Periodicals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "962741540",
+            "title": "Süleyman demirel üniversitesi fen-edebiyat fakültesi fen dergisi",
+            "creator": "Süleyman Demirel Üniversitesi Fen-Edebiyat Fakültesi",
+            "date": "2006",
+            "language": "tur",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Sciences Périodiques",
+                "Science",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1048121217",
+            "title": "Cumhuriyet science journal",
+            "creator": "Cumhuriyet Üniversitesi Fen Fakültesi",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Cumhuriyet University",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Turkey Periodicals",
+                "Technology Turkey Periodicals",
+                "Ecology Turkey Periodicals",
+                "Ecology",
+                "Science",
+                "Technology",
+                "Turkey",
+                "Periodicals",
+                "Sciences - General"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "947093421",
+            "title": "Frontiers in Astronomy and Space Sciences",
+            "creator": "",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Frontiers Media S.A.",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Astronomy Periodicals",
+                "Astrophysics Periodicals",
+                "Astronomy",
+                "Astrophysics",
+                "Electronic journals",
+                "Periodicals",
+                "Astronomy - General"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1135643775",
+            "title": "Jurnal ilmu dasar",
+            "creator": "Universitas Negeri Jember Fakultas Matematika dan Ilmu Pengetahuan Alam",
+            "date": "2000",
+            "language": "ind",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Fakultas MIPA Universitas Jember",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Science",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1244449309",
+            "title": "Science Journal of University of Zakho",
+            "creator": "Zankoya Zaxo",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "University of Zakho",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Science Periodicals",
+                "Science",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1434741311",
+            "title": "Research methodology : best practices for rigorous, credible, and impactful research",
+            "creator": "Herman Aguinis",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Sage",
+            "isbns": [
+                "9781071871911",
+                "1071871919"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Research Methodology",
+                "Recherche Méthodologie"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1559752941",
+            "title": "How data need people : the social and epistemic practice of a data-rich science",
+            "creator": "Götz Hoeppe",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009686723",
+                "1009686720",
+                "9781009686730",
+                "1009686739"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Science Data processing",
+                "Science Social aspects",
+                "Technologie de l'information Aspect social",
+                "Sciences Aspect social",
+                "Sciences Informatique",
+                "Electronic data processing Social aspects"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1559777000",
+            "title": "It could be otherwise : science in the age of uncertainty",
+            "creator": "Stuart Firestein",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Basic Books",
+            "isbns": [
+                "9781541606739",
+                "1541606736"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Science Philosophy",
+                "Ambiguity in science",
+                "Uncertainty (Information theory)",
+                "Ambiguïté en sciences",
+                "Incertitude (Théorie de l'information)",
+                "SCIENCE / History",
+                "Science",
+                "Popular works"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1615980196",
+            "title": "Sinusoids : theory and technological applications",
+            "creator": "Prem K. Kythe",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC Press",
+            "isbns": [
+                "9781040071052",
+                "1040071058",
+                "9780429157097",
+                "0429157096",
+                "9781482221060",
+                "1482221063"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fourier transform optics",
+                "Fourier transformations",
+                "Signal processing",
+                "Optique de Fourier",
+                "Traitement du signal"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1610425565",
+            "title": "Global Aldrovandi : exchanging nature and material culture in the early modern world",
+            "creator": "",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill",
+            "isbns": [
+                "9789004764866",
+                "9004764860"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Aldrovandi, Ulisse, 1522-1605?",
+                "Naturalists History",
+                "Naturalistes Histoire"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1476690203",
+            "title": "Kepler's Dream  : With the Full Text and Notes of Somnium, Sive Astronomia Lunaris, Joannis Kepleri",
+            "creator": "John Lear",
+            "date": "1965",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of California Press",
+            "isbns": [
+                "9780520323209",
+                "0520323203"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Kepler, Johannes, 1571-1630",
+                "Somnium (Kepler, Johannes)",
+                "Astronomy History",
+                "Astronomie Histoire",
+                "SCIENCE",
+                "Astronomy",
+                "Electronic books",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "527733934",
+            "title": "Galileo's instruments of credit : telescopes, images, secrecy",
+            "creator": "Mario Biagioli",
+            "date": "2006",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Chicago Press",
+            "isbns": [
+                "9780226045634",
+                "0226045633",
+                "9786612426155",
+                "6612426152"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Galilei, Galileo, 1564-1642 Criticism and interpretation",
+                "Galilei, Galileo, 1564-1642",
+                "Galilei, Galileo 1564-1642",
+                "Galilei, Galileo",
+                "Research Moral and ethical aspects",
+                "Scientific apparatus and instruments History",
+                "Discoveries in science",
+                "Recherche Aspect moral",
+                "Appareils et instruments scientifiques Histoire",
+                "Découvertes scientifiques",
+                "SCIENCE Astronomy",
+                "Scientific apparatus and instruments",
+                "Physikalisches Gerät",
+                "Öffentliche Meinung",
+                "Florenz",
+                "Criticism, interpretation, etc",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "695991325",
+            "title": "Gravity's ghost : scientific discovery in the twenty-first century",
+            "creator": "H. M. Collins",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Chicago Press",
+            "isbns": [
+                "9780226113579",
+                "0226113574",
+                "1283058154",
+                "9781283058155",
+                "9786613058157",
+                "6613058157"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Gravitational waves Research History",
+                "Gravitational waves Experiments",
+                "Science Social aspects",
+                "Ondes gravitationnelles Recherche Histoire",
+                "Ondes gravitationnelles Expériences",
+                "Sciences Aspect social",
+                "SCIENCE Physics Relativity",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1149455016",
+            "title": "Astronomical Discovery",
+            "creator": "Herbert Hall Turner",
+            "date": "1963",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of California Press",
+            "isbns": [
+                "9780520316577",
+                "0520316576"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Astronomy History",
+                "Astronomie Histoire",
+                "NON-CLASSIFIABLE",
+                "Astronomy",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1135614456",
+            "title": "Gravity's Shadow : The Search for Gravitational Waves",
+            "creator": "Harry Collins",
+            "date": "2010",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Chicago Press",
+            "isbns": [
+                "9780226113791",
+                "0226113795"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Gravitational waves Research",
+                "Gravitational waves Measurement",
+                "Ondes gravitationnelles Recherche",
+                "SCIENCE / General",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "474997455",
+            "title": "Drawing theories apart : the dispersion of Feynman diagrams in postwar physics",
+            "creator": "David Kaiser",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Chicago Press",
+            "isbns": [
+                "9780226422657",
+                "0226422658",
+                "0226422666",
+                "9780226422664"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Feynman diagrams",
+                "Physics United States History 20th century",
+                "Physics History 20th century",
+                "Diagrammes de Feynman",
+                "Physique États-Unis Histoire 20e siècle",
+                "Physique Histoire 20e siècle",
+                "SCIENCE Physics General",
+                "SCIENCE Mechanics General",
+                "SCIENCE Energy",
+                "Physics",
+                "Feynman-Graph",
+                "Theoretische fysica",
+                "Feynman-diagrammen",
+                "United States",
+                "History",
+                "1900-1999"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1298715198",
+            "title": "Handbook of research on heat transfer",
+            "creator": "Suvanjan Bhattacharyya",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers",
+            "isbns": [
+                "9781685074593",
+                "1685074596",
+                "1685075428",
+                "9781685075422"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Heat Transmission",
+                "Chaleur Transmission",
+                "heat transmission"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1156738031",
+            "title": "ESSENTIAL GUIDE TO MAXWELL'S EQUATIONS",
+            "creator": "",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "NOVA SCIENCE",
+            "isbns": [
+                "9781536166996",
+                "1536166995"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Maxwell equations",
+                "Équations de Maxwell"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1530658766",
+            "title": "Non-oxide and heteroanionic materials",
+            "creator": "Duncan Gregory",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781839165924",
+                "1839165928",
+                "9781839165931",
+                "1839165936"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Anions",
+                "Materials Science",
+                "Inorganic",
+                "Chemistry",
+                "SCIENCE",
+                "TECHNOLOGY & ENGINEERING",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1371815878",
+            "title": "A nonlinear progress to modern soliton theory",
+            "creator": "Colin Rogers",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "1527591557",
+                "9781527591554",
+                "1042807272",
+                "9781042807277"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Solitons",
+                "Wave-motion, Theory of History",
+                "Théorie du mouvement ondulatoire Histoire",
+                "Wave-motion, Theory of",
+                "History"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1420865919",
+            "title": "Statistical models for nucleon structure function",
+            "creator": "Carlos Alberto Mirez Tarrillo",
+            "date": "2024",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge Scholars Publishing",
+            "isbns": [
+                "9781527569638",
+                "1527569632",
+                "1042880573",
+                "9781042880577"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Particles (Nuclear physics)",
+                "Nuclear structure",
+                "Particules (Physique nucléaire)",
+                "Structure nucléaire",
+                "particle physics",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1129196321",
+            "title": "Soviet scientists remember : oral histories of the Cold War generation",
+            "creator": "Maria A. Rogacheva",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Lexington Books",
+            "isbns": [
+                "9781498574358",
+                "1498574351"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Science Soviet Union History",
+                "Scientists Soviet Union Interviews",
+                "Sciences URSS Histoire",
+                "Science",
+                "Scientists",
+                "Chernogolovka (Russia) History",
+                "Russia (Federation) Chernogolovka",
+                "Soviet Union",
+                "History",
+                "Interviews"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1120981768",
+            "title": "Scientific knowledge and philosophic thought",
+            "creator": "HAROLD HIMSWORTH",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "JOHNS HOPKINS UNIV Press",
+            "isbns": [
+                "1421434768",
+                "9781421434766"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Problem solving",
+                "Knowledge, Theory of",
+                "Science Methodology",
+                "Science Philosophy",
+                "Problem Solving",
+                "Résolution de problème",
+                "Théorie de la connaissance",
+                "Sciences Méthodologie",
+                "epistemology"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1381711496",
+            "title": "Learning to succeed in science : stories of South Asian women in Britain",
+            "creator": "Saima Salehjee",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Bloomsbury Academic",
+            "isbns": [
+                "9781350232174",
+                "1350232173",
+                "9781350232181",
+                "1350232181",
+                "1350232165",
+                "9781350232167"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Women in science Great Britain",
+                "South Asians Great Britain",
+                "Minorities in science Great Britain",
+                "Science Study and teaching",
+                "Girls Education",
+                "Women in science South Asia",
+                "Girls Education South Asia",
+                "Minorities in science South Asia",
+                "Science Study and teaching South Asia",
+                "Filles Éducation Asie méridionale",
+                "Femmes dans les sciences Asie méridionale",
+                "Minorités dans les sciences Asie méridionale",
+                "Sciences Étude et enseignement Asie méridionale",
+                "Femmes dans les sciences Grande-Bretagne",
+                "Minorités dans les sciences Grande-Bretagne",
+                "Sciences Étude et enseignement",
+                "Filles Éducation",
+                "Educational: Sciences, general sciene",
+                "Gender studies: women",
+                "Moral & social purpose of education",
+                "Minorities in science",
+                "Women in science",
+                "South Asia"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1346887098",
+            "title": "Legacies of the Manhattan Project : reflections on 75 years of a nuclear world",
+            "creator": "Michael Mays",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Washington State University Press",
+            "isbns": [
+                "9781636820224",
+                "1636820220",
+                "163682076X",
+                "9781636820767"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Manhattan Project (U.S.) History",
+                "Manhattan Project (U.S.)",
+                "Atomic bomb United States History",
+                "Bombe atomique États-Unis Histoire",
+                "Atomic bomb",
+                "Manhattan-Projekt",
+                "United States",
+                "History",
+                "Konferenzschrift 2017"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1572196997",
+            "title": "Jsme Dnes Vsichni Vědečtí Experti?",
+            "creator": "Harry Collins",
+            "date": "2024",
+            "language": "cze",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Karolinum Press",
+            "isbns": [
+                "9788024656700",
+                "8024656701"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Expertise",
+                "Public opinion"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1615504774",
+            "title": "The forgotten giants : overlooked revolutions in natural philosophy",
+            "creator": "Elżbieta Jung-Palczewska",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
@@ -426,2610 +2275,282 @@
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Science Philosophy",
                 "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1613425940",
-            "title": "Two-dimensional nanostructured semiconductors for clean energy solutions",
-            "creator": "Gurpreet Singh Selopal",
-            "date": "2026",
+            "oclcNumber": "1344333596",
+            "title": "Light as experience and imagination from medieval to modern times",
+            "creator": "David Sten Herrstrom",
+            "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "Fairleigh Dickinson University Press",
             "isbns": [
-                "9783032214737",
-                "3032214734"
+                "9781683933649",
+                "1683933648"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Semiconductors Materials",
-                "Nanostructured materials",
-                "Semi-conducteurs Matériaux",
-                "Nanomatériaux",
-                "Electronic books"
+                "Light and darkness",
+                "Lumière et ténèbres"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1612726761",
-            "title": "Stelle Famose Caratteristiche, Stranezze e Unicità Delle Stelle Più Studiate in Astronomia",
-            "creator": "Walter Ferreri",
-            "date": "2026",
-            "language": "ita",
+            "oclcNumber": "1495140350",
+            "title": "À La Poursuite De L'horizon : Naissance Et Évolution Des Idées En Sciences",
+            "creator": "Jean-René Roy",
+            "date": "2024",
+            "language": "fre",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "Presses de l'Université Laval",
             "isbns": [
-                "9783032250742",
-                "3032250749"
+                "9782766304776",
+                "2766304770"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1613530550",
-            "title": "An invitation to relational research : constructing new horizons in knowledge, methodology and beyond",
-            "creator": "Celiane Camargo-Borges",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
-            "isbns": [
-                "9783032193063",
-                "3032193060"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
+                "Philosophy and society",
                 "Research Methodology",
+                "Science",
+                "Electronic books",
+                "Recherche Méthodologie",
+                "Sciences",
+                "Livres numériques",
+                "science (modern discipline)",
+                "e-books",
+                "Philosophy & Social Aspects",
+                "SCIENCE"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1535748767",
+            "title": "Packing problems in soft matter physics : fundamentals and applications",
+            "creator": "Ho-Kei Chan",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Royal Society of Chemistry",
+            "isbns": [
+                "9781837673940",
+                "1837673942",
+                "9781837673957",
+                "1837673950"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Soft condensed matter",
+                "Matière molle (Physique)",
+                "Condensed Matter",
+                "Computer Simulation",
+                "COMPUTERS",
+                "Physical & Theoretical",
+                "Chemistry",
+                "SCIENCE",
+                "Computational & Molecular Modeling",
+                "Physics",
                 "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1612725770",
-            "title": "Inverse Canonical Energy Flow in Laser Beams",
-            "creator": "Victor Kotlyar",
+            "oclcNumber": "1108782008",
+            "title": "An essential guide to electrodynamics",
+            "creator": "",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Nova Science Publishers",
+            "isbns": [
+                "9781536157161",
+                "1536157163"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electrodynamics",
+                "Maxwell equations",
+                "Electromagnetic fields Mathematical models",
+                "Électrodynamique",
+                "Équations de Maxwell",
+                "Champs électromagnétiques Modèles mathématiques"
+            ]
+        },
+        {
+            "topic": "60000000",
+            "oclcNumber": "1615328354",
+            "title": "Advances in nonlinear dynamics : proceedings of the fourth International Nonlinear Dynamics Conference (NODYCON 2025). Volume 3",
+            "creator": "International Nonlinear Dynamics Conference",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032272898",
-                "3032272890"
+                "9783032165329",
+                "3032165326"
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Nonlinear mechanics Congresses",
+                "Mécanique non linéaire Congrès",
                 "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1041149366",
-            "title": "Time and Chance",
-            "creator": "David Z. Albert",
-            "date": "2009",
+            "oclcNumber": "1333435000",
+            "title": "Emerging advancements in mathematical sciences",
+            "creator": "Bhagwati Prasad Chamola",
+            "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
+            "publisher": "Nova Science Publishers",
             "isbns": [
-                "9780674020139",
-                "0674020138"
+                "168507829X",
+                "9781685078294"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Physics Philosophy",
-                "Time reversal",
-                "SCIENCE / Physics / Quantum Theory",
-                "SCIENCE / Mechanics / Thermodynamics",
-                "SCIENCE / Philosophy & Social Aspects"
+                "Science Mathematics",
+                "Engineering mathematics",
+                "Mathematical models",
+                "Sciences Mathématiques",
+                "Mathématiques de l'ingénieur"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1041149203",
-            "title": "On Their Own Terms : Science in China, 1550-1900",
-            "creator": "Benjamin A. Elman",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "9780674036475",
-                "0674036476"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science China History 16th century",
-                "Science China History 17th century",
-                "Science China History 18th century",
-                "Science China History 19th century",
-                "Sciences Chine Histoire 16e siècle",
-                "Sciences Chine Histoire 17e siècle",
-                "Sciences Chine Histoire 18e siècle",
-                "Sciences Chine Histoire 19e siècle",
-                "HISTORY / Asia / China",
-                "SCIENCE / History",
-                "Science",
-                "China",
-                "History",
-                "1500-1899"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1041148643",
-            "title": "Cultural History of Modern Science in China",
-            "creator": "Benjamin A. Elman",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "9780674036482",
-                "0674036484"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science China History",
-                "Technology China History",
-                "Sciences Chine Histoire",
-                "Technologie Chine Histoire",
-                "Science",
-                "Technology",
-                "China",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1206398312",
-            "title": "Celestial Encounters  : The Origins of Chaos and Stability",
-            "creator": "Florin Diacu",
-            "date": "1996",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691221830",
-                "0691221839"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Many-body problem",
-                "Chaotic behavior in systems",
-                "Celestial mechanics",
-                "Problème des N corps",
-                "Chaos",
-                "Mécanique céleste",
-                "Applied",
-                "MATHEMATICS",
-                "Electronic books",
-                "Acceleration",
-                "Acta Mathematica",
-                "Alekseev, V. M",
-                "American Mathematical Society",
-                "Arnold diffusion",
-                "Asteroid",
-                "Benjamin Pierce lecturer",
-                "Bifurcation theory",
-                "Brown, Scott",
-                "Calculus of variations",
-                "Cantor set",
-                "Conservation law",
-                "Degrees of freedom",
-                "Dimension theory",
-                "Eccentricity",
-                "Ecology",
-                "Elasticity (theory)",
-                "Ellipse",
-                "Fields Medal",
-                "First return map",
-                "Fixed point",
-                "Four-body problem",
-                "Function",
-                "Gerver, Joseph",
-                "Gravitation",
-                "Harvard University",
-                "Hirsch, Morris",
-                "Hopf bifurcation",
-                "Independent integrals",
-                "Isoperimetric property",
-                "Isosceles problem",
-                "Jones, Vaughan",
-                "KAM theory",
-                "Kovalevskaia top",
-                "Lagrangian solutions",
-                "Legion of Honor",
-                "Lewis Institute",
-                "Major axis",
-                "Manifold",
-                "Mendelian laws",
-                "Mercury",
-                "Momentum",
-                "Morrison Prize",
-                "New York University",
-                "Operator theory",
-                "Orbit",
-                "Panthéon",
-                "Pendulum",
-                "Physical space",
-                "Quantum mechanics",
-                "Saddle"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1153541082",
-            "title": "The Research Foundations of Graduate Education : Germany, Britain, France, United States, Japan",
-            "creator": "Burton R. Clark",
-            "date": "1993",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520338715",
-                "0520338715"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Education, Higher Research",
-                "Research Europe",
-                "Research Japan",
-                "Research United States",
-                "Research",
-                "Universities and colleges Research",
-                "Enseignement supérieur Recherche",
-                "Recherche Europe",
-                "Recherche Japon",
-                "Recherche",
-                "Recherche universitaire",
-                "research (function)",
-                "NON-CLASSIFIABLE",
-                "Europe",
-                "Japan",
-                "United States"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1153536625",
-            "title": "Space, Time, and Spacetime",
-            "creator": "Lawrence Sklar",
-            "date": "1976",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520340701",
-                "0520340701"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Space and time",
-                "NON-CLASSIFIABLE",
-                "advanced contributions",
-                "advanced science",
-                "analytic philosophy",
-                "contemporary physics",
-                "epistemology",
-                "ethics of science",
-                "general relativity",
-                "geometry",
-                "math and science",
-                "maths language code",
-                "nature of space and time",
-                "philosophical discussions",
-                "philosophy and physics",
-                "philosophy ethics politics",
-                "philosophy of physics",
-                "philosophy of science",
-                "philosophy of time",
-                "physics and astrophysics",
-                "physics quantum mechanics",
-                "physics textbook",
-                "relativity",
-                "science and philosophy",
-                "science textbook",
-                "stem",
-                "temporal order"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1097521256",
-            "title": "Cosmogonies of our fathers : some theories of the seventeenth and the eighteenth centuries",
-            "creator": "Katharine Brownell Collier",
-            "date": "1934",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Columbia University Press",
-            "isbns": [
-                "9780231880381",
-                "0231880383"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Bible and science",
-                "Cosmogony",
-                "Bible et sciences",
-                "Cosmogonie",
-                "SCIENCE Cosmology"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1041151020",
-            "title": "Applicability of Mathematics as a Philosophical Problem",
-            "creator": "Mark Steiner",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "9780674043985",
-                "0674043987"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical physics",
-                "Mathematics Philosophy",
-                "MATHEMATICS / General"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1453645760",
-            "title": "Science and Immortality : The Eloges of the Paris Academy of Sciences (1699-1791)",
-            "creator": "Charles B. Paul",
+            "oclcNumber": "1432456334",
+            "title": "Speaking beyond Earth : perspectives on messaging across deep space and cosmic time",
+            "creator": "Paul E. Quast",
             "date": "2024",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of California Press",
+            "publisher": "McFarland & Company, Inc., Publishers",
             "isbns": [
-                "9780520378476",
-                "0520378474"
+                "9781476649863",
+                "1476649863"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Eulogies",
-                "Science",
-                "Scientists France Biography",
-                "Éloges",
-                "Sciences",
-                "eulogies (documents)",
-                "science (modern discipline)",
-                "SCIENCE / History",
-                "Scientists",
-                "France",
-                "Electronic books",
-                "Biographies",
-                "18th century scientists",
-                "biography of french scientists",
-                "eulogies for 18th century scientists",
-                "history of science in 18th century france",
-                "history of science",
-                "influence of pastoral literature on eulogy",
-                "life of french scientists",
-                "paris academy of sciences",
-                "plutarchan biography and eulogy",
-                "professionalization of science",
-                "rhetorical devices in 18th century eulogy",
-                "science and eulogy",
-                "science in 18th century france",
-                "scientist biographies",
-                "stylistic devices in 18th century eulogies"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1149395863",
-            "title": "The Theory of Atomic Structure and Spectra",
-            "creator": "Robert D. Cowan",
-            "date": "1981",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520906150",
-                "0520906152"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Atomic structure",
-                "Atomic spectroscopy",
-                "Structure atomique",
-                "Spectroscopie atomique",
-                "NON-CLASSIFIABLE"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1559038810",
-            "title": "The essential Einstein. Public writings",
-            "creator": "Albert Einstein",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691272191",
-                "0691272190"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Einstein, Albert, 1879-1955",
-                "Art and science",
-                "Atomic bomb",
-                "Pacifism",
-                "Religion and science",
-                "Science Philosophy",
-                "Art et sciences",
-                "Bombe atomique",
-                "Pacifisme",
-                "Religion et sciences",
-                "nuclear bombs",
-                "Physics",
-                "Science & Technology",
-                "BIOGRAPHY & AUTOBIOGRAPHY",
-                "History",
-                "SCIENCE",
-                "Essays",
+                "Interstellar communication",
+                "Communications interstellaires",
+                "SCIENCE / Space Science / General",
                 "Electronic books"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1569752416",
-            "title": "Quantum 2.0 : the weird physics driving a new revolution in technology",
-            "creator": "Paul Davies",
-            "date": "2025",
+            "oclcNumber": "1535223819",
+            "title": "Church and Galileo",
+            "creator": "Ernan McMullin",
+            "date": "[n.d.]",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of Chicago Press",
+            "publisher": "Lightning Source Inc. (Tier 3); University of Notre Dame Press",
             "isbns": [
-                "9780226849331",
-                "0226849333"
+                "0268087245",
+                "9780268087241"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Quantum theory",
-                "Quantum computers",
-                "Quantum cryptography",
-                "Quantum entanglement",
-                "Théorie quantique",
-                "Ordinateurs quantiques",
-                "Intrication quantique",
-                "SCIENCE / History",
-                "SCIENCE / Philosophy & Social Aspects",
-                "SCIENCE / Physics / Quantum Theory",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "952737116",
-            "title": "Einstein 1905 : the Standard of Greatness",
-            "creator": "John S. Rigden",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "0674021045",
-                "9780674021044",
-                "9780674042759",
-                "0674042751"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physicists Intellectual life",
-                "Quantum theory",
-                "Physiciens Vie intellectuelle",
-                "Théorie quantique",
-                "SCIENCE / History",
-                "SCIENCE / Physics / General",
-                "SCIENCE / Physics / Relativity"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1013938881",
-            "title": "Total Eclipses of the Sun",
-            "creator": "Jack B. Zirker",
-            "date": "1995",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9781400863990",
-                "1400863996"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Solar eclipses Research",
-                "Éclipses de Soleil Recherche",
-                "SCIENCE Astronomy"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1246233651",
-            "title": "The Supernova Story",
-            "creator": "Laurence Marschall",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691224909",
-                "0691224900"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Astronomy",
-                "Science",
-                "Electronic books",
-                "Astronomie",
-                "Sciences",
-                "Livres numériques",
-                "astronomy",
-                "science (modern discipline)",
-                "e-books",
-                "SCIENCE / Astronomy"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1229161958",
-            "title": "H. G. J. Moseley : The Life and Letters of an English Physicist, 1887-1915",
-            "creator": "J. L. Heilbron",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520311183",
-                "0520311183"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physicists Great Britain Correspondence",
-                "Physiciens Grande-Bretagne Correspondance",
-                "NON-CLASSIFIABLE",
-                "Physicists",
-                "Great Britain",
-                "Personal correspondence"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1402816594",
-            "title": "The Red System of the CN Molecule",
-            "creator": "Sumner P. Davis",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520316799",
-                "0520316797"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cyanides Spectra",
-                "Molecular spectra",
-                "Molécules Spectre",
-                "SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1476623420",
-            "title": "The Athenian Year",
-            "creator": "Benjamin D. Meritt",
-            "date": "1961",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520322967",
-                "0520322967"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Calendar, Greek",
-                "Chronology, Greek",
-                "Calendrier grec",
-                "Chronologie grecque",
-                "Ancient",
-                "Greece",
-                "United States",
-                "European",
-                "LITERARY CRITICISM",
-                "Ancient & Classical",
-                "History & Surveys",
-                "PHILOSOPHY",
-                "Ethics & Moral Philosophy",
-                "Political",
-                "History",
-                "ART",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "594464698",
-            "title": "Modern science and modern man",
-            "creator": "James Bryant Conant",
-            "date": "1952",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Columbia University Press",
-            "isbns": [
-                "9780231886673",
-                "0231886675"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science",
-                "Science Philosophy",
-                "Sciences",
-                "Sciences Philosophie",
-                "sciences (philosophy)",
-                "SCIENCE Philosophy & Social Aspects",
-                "Wetenschap",
-                "Technologie",
-                "Maatschappij"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612981820",
-            "title": "The Visual Elements--Abstraction A Handbook for Communicating Science and Engineering",
-            "creator": "Felice C. Frankel",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Chicago Press",
-            "isbns": [
-                "9780226848297",
-                "0226848299"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Visual communication in science",
-                "Information visualization",
-                "Graphic arts",
-                "Abstracting Audio-visual aids",
-                "Résumés analytiques Aides audiovisuelles",
-                "Communication visuelle en sciences",
-                "Visualisation de l'information",
-                "Arts graphiques",
-                "Digital Media",
-                "COMPUTERS",
-                "Reference",
-                "SCIENCE",
-                "Electronic books",
-                "diagram",
-                "table",
-                "visualization",
-                "information",
-                "public",
-                "officer",
-                "communication",
-                "comms",
-                "science",
-                "engineering",
-                "scientist",
-                "graphic",
-                "design",
-                "illustrat",
-                "illustration",
-                "augment",
-                "clarify",
-                "teach",
-                "learn",
-                "notation",
-                "photograph"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1609932604",
-            "title": "Philosophy of Science for Scientists",
-            "creator": "Lars-Göran Johansson",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032298690",
-                "3032298695"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Philosophy"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1513490489",
-            "title": "Retrying Galileo, 1633â€\"1992",
-            "creator": "Maurice A. Finocchiaro",
-            "date": "2005",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520941373",
-                "0520941373"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Galilei, Galileo, 1564-1642 Trials, litigation, etc",
                 "Galilei, Galileo, 1564-1642",
+                "Catholic Church Italy Rome History 17th century",
+                "Catholic Church Doctrines History 17th century",
+                "Catholic Church History 17th century",
+                "Église catholique Histoire 17e siècle",
+                "Église catholique Doctrines Histoire 17e siècle",
+                "Catholic Church",
                 "Religion and science Italy History 17th century",
-                "Science Philosophy",
-                "Europe",
-                "HISTORY",
+                "Astronomy Religious aspects Christianity History of doctrines 17th century",
+                "Science, Renaissance",
+                "Astronomie Aspect religieux Christianisme Histoire des doctrines 17e siècle",
+                "Sciences de la Renaissance",
+                "Catholic",
+                "Religion & Science",
+                "RELIGION",
+                "Blasphemy",
+                "Astronomy",
                 "SCIENCE",
-                "Religion and science",
-                "Italy",
-                "Electronic books",
                 "History",
-                "Trials, litigation, etc",
+                "Christianity",
+                "Astronomy Religious aspects Christianity History of doctrines",
+                "Religion and science",
+                "Theology, Doctrinal",
+                "Italy Church history 17th century",
+                "Italie Histoire religieuse 17e siècle",
+                "Italy",
+                "Italy Rome",
+                "Electronic books",
+                "Church history",
                 "1600-1699"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1149484959",
-            "title": "Proceedings of the Third Conference on Reactions Between Complex Nuclei : Held at Asilomar (Pacific Grove, California) April 14-18, 1963",
-            "creator": "H. E. Conzett",
-            "date": "1963",
-            "language": "eng",
+            "oclcNumber": "1546502222",
+            "title": "Markscheider im Oberharz : Bergbau und Vermessungskunst der Frühen Neuzeit im europäischen Kontext",
+            "creator": "Simone Hacke",
+            "date": "2025",
+            "language": "ger",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of California Press",
+            "publisher": "De Gruyter",
             "isbns": [
-                "9780520316836",
-                "0520316835"
+                "9783112205907",
+                "3112205901"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "NON-CLASSIFIABLE"
+                "HISTORY / General",
+                "HISTORY / Modern / General",
+                "Bergbau",
+                "Frühe Neuzeit",
+                "Oberharz",
+                "Upper Harz",
+                "mining",
+                "early modern period"
             ]
         },
         {
             "topic": "60000000",
-            "oclcNumber": "1592779389",
-            "title": "Ruđer Josip Bošković La philosophie naturelle et la connaissance de Dieu",
-            "creator": "Francis Brassard",
-            "date": "2026",
+            "oclcNumber": "1058573502",
+            "title": "La boîte à outils sur l'application des connaissances",
+            "creator": "Gavin Bennett",
+            "date": "2011",
             "language": "fre",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Presses de l'Université de Montréal",
+            "publisher": "Presses de l'Université du Québec",
             "isbns": [
-                "9782760656307",
-                "2760656306",
-                "9782760656291",
-                "2760656292"
+                "2760531341",
+                "9782760531345",
+                "1552505286",
+                "9781552505281"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Boscovich, Ruggero Giuseppe, 1711-1787",
-                "Science Italy History 18th century",
-                "Scientists Italy",
-                "Religion and science",
-                "Religion et sciences",
-                "Science",
-                "Scientists",
-                "Italy",
-                "Electronic books",
-                "History",
-                "1700-1799"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1125617997",
-            "title": "Journal of the National Science Foundation of Sri Lanka",
-            "creator": "National Science Foundation (Sri Lanka)",
-            "date": "1999-",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "The Foundation",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Science Periodicals",
-                "Engineering Periodicals",
-                "Sciences Périodiques",
-                "Ingénierie Périodiques",
-                "Engineering",
-                "Science",
-                "Periodical",
-                "periodicals",
-                "Periodicals",
-                "Périodiques"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610931495",
-            "title": "Advances in social simulation : proceedings of the 20th Social Simulation Conference, Delft, The Netherlands, 25-29 August, 2025",
-            "creator": "Social Simulation Conference",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032317124",
-                "3032317126"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Social sciences Computer simulation Congresses",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610929666",
-            "title": "Proceedings of the 11th IRC Conference on Science, Engineering and Technology : IRC-SET 2025, 16 August, Singapore",
-            "creator": "IRC Conference on Science, Engineering and Technology",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819596300",
-                "9819596300"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Congresses",
-                "Engineering Congresses",
-                "Ingénierie Congrès",
-                "Electronic books",
-                "proceedings (reports)",
-                "Conference papers and proceedings",
-                "Actes de congrès"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612045023",
-            "title": "Women laureates 1970 - 2007 : National Medal of Science and National Medal of Technology and Innovation winners",
-            "creator": "Jill S. Tietjen",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032231161",
-                "3032231167"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Women scientists United States",
-                "Femmes scientifiques États-Unis",
-                "Científicas Estados Unidos",
-                "Women scientists",
-                "United States",
-                "Electronic books",
-                "Biographies",
-                "Biografías"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610831377",
-            "title": "The physical and mathematical foundations of the theory of relativity : a critical analysis",
-            "creator": "Antonio Romano",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Birkhäuser",
-            "isbns": [
-                "9783032231796",
-                "3032231795"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "General relativity (Physics)",
-                "Relativité générale (Physique)"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610825537",
-            "title": "Three tales/tails of quantum gravity : from flying mirrors, wormhole bridges, to evaporation of black holes",
-            "creator": "Kuan-Nan Lin",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819587193",
-                "9819587190"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Quantum gravity",
-                "Gravité quantique",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610819428",
-            "title": "Geometric methods in mathematical physics. I, Tensors, special selativity, spinors",
-            "creator": "Valter Moretti",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032315120",
-                "3032315123"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical physics",
-                "Physique mathématique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610818789",
-            "title": "Proceedings of the 13th All-Russian Conference on Irreversible Processes in Nature and Technology. Volume 1 : IPNT 13, January 28-31, 2025, Moscow, Russia",
-            "creator": "All-Russian Conference on Irreversible Processes in Nature and Technology",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032306395",
-                "3032306396"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Irreversible processes Congresses",
-                "Processus irréversibles Congrès",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612216252",
-            "title": "Nucleation, fabrication, and competition in antiferromagnetic textures studied with coherent resonant soft x-ray scattering",
-            "creator": "Rourav Basak",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032191991",
-                "3032191998"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Antiferromagnetism",
-                "X-rays Scattering",
-                "Antiferromagnétisme",
-                "Rayons X Diffusion",
-                "x-ray scattering",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612216451",
-            "title": "Quantum control of hybrid spin-oscillator systems",
-            "creator": "Sebastian Saner",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032237750",
-                "3032237750"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Quantum optics",
-                "Quantum computing",
-                "Optique quantique",
-                "Informatique quantique",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610433020",
-            "title": "Differential Geometry and Group Theory",
-            "creator": "Alessio Zaccone",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "",
-            "isbns": [
-                "9783032275189",
-                "3032275180"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612205318",
-            "title": "Computational physics. I, Numerical methods",
-            "creator": "P. O. J. Scherer",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032078568",
-                "3032078563"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical physics",
-                "Physics Data processing",
-                "Physique mathématique",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612039559",
-            "title": "Science and society : understanding scientific methodology, energy, climate, and sustainability",
-            "creator": "Eric Scott Swanson",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032156747",
-                "3032156742"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Popular works",
-                "Science Social aspects",
-                "Sciences Aspect social",
-                "Ciencia Aspectos sociales",
-                "Tecnología Aspectos sociales",
-                "Technology Social aspects",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612435280",
-            "title": "Teaching science through science fiction : a story of innovation in the classroom and beyond",
-            "creator": "Jörg Matthias Determann",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032243539",
-                "303224353X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Study and teaching History",
-                "Science fiction",
-                "Sciences Étude et enseignement Histoire",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612816492",
-            "title": "Radiative transfer and remote sensing : Springer series in light scattering. Vol 11",
-            "creator": "Alexander A. Kokhanovsky",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032112026",
-                "3032112028"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Light Scattering",
-                "Remote sensing",
-                "Lumière Diffusion",
-                "Télédétection",
-                "remote sensing",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611912723",
-            "title": "Stamping through astronomy : a history of astronomy through stamps and philately",
-            "creator": "Renato Dicati",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031983153",
-                "3031983157"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Astronomy History Popular works",
-                "Astronomy on postage stamps",
-                "Astronomie Histoire Ouvrages de vulgarisation",
-                "Astronomie sur les timbres-poste",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611779966",
-            "title": "Advanced Nanomaterials and Composites Volume 3",
-            "creator": "Soney C. George",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819210343",
-                "9819210348"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611877950",
-            "title": "Scientific mistakes and mistaken science : malfunction, error, failure",
-            "creator": "Alexandra Karakas",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Switzerland",
-            "isbns": [
-                "9783032259257",
-                "3032259258"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Errors, Scientific",
-                "Science Philosophy",
-                "Erreurs scientifiques",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611877294",
-            "title": "Momento : Galilean studies",
-            "creator": "Paolo Galluzzi",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032350497",
-                "3032350492"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Galilei, Galileo, 1564-1642",
-                "Momentum (Mechanics)",
-                "Impulsion (Mécanique)"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611194746",
-            "title": "Radiative transfer and light scattering. (Volume 12)",
-            "creator": "Alexander Kokhanovsky",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032188670",
-                "3032188679"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Radiative transfer",
-                "Light Scattering",
-                "Transfert radiatif",
-                "Lumière Diffusion",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1613518284",
-            "title": "Measurement of electron antineutrino flux in super-kamiokande with gadolinium-loaded water",
-            "creator": "Shota Izumiyama",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819576104",
-                "9819576105"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Neutron counters",
-                "Neutrinos",
-                "Détecteurs de neutrons",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612226731",
-            "title": "Research as activism in education : community-oriented perspectives",
-            "creator": "Ardavan Eizadirad",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
-            "isbns": [
-                "9783032234834",
-                "3032234832"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Research",
-                "Activism",
-                "Education",
-                "Educational change",
-                "Enseignement Réforme",
-                "Recherche",
-                "Pédagogie",
-                "research (function)",
-                "educating",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611131403",
-            "title": "The power of the flat Earth idea : history from the marginalised",
-            "creator": "Edward Guimont",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
-            "isbns": [
-                "9783032239815",
-                "3032239818"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Errors, Scientific",
-                "Geodesy History",
-                "Erreurs scientifiques",
-                "Géodésie Histoire",
-                "Earth (Planet) Figure",
-                "Terre Figure",
-                "Earth (Planet)",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611115492",
-            "title": "Understanding quantum many-body theory : fundamental concepts and methods",
-            "creator": "Fabrizio Tafuri",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032178497",
-                "3032178495"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Many-body problem",
-                "Problème des N corps"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1202560676",
-            "title": "Breve história da ciência em Portugal",
-            "creator": "Carlos Fiolhais",
-            "date": "2010",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Coimbra University Press",
-            "isbns": [
-                "9789892601762",
-                "9892601769"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Portugal History",
-                "Sciences Portugal Histoire",
-                "Portugal",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611788499",
-            "title": "Chaos in Complex Dynamical System",
-            "creator": "Shutang Liu",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819577620",
-                "9819577624"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1612435071",
-            "title": "Proceedings of the 2025 International Conference of The Computational Social Science Society of the Americas",
-            "creator": "Computational Social Science Society of the Americas",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032215963",
-                "303221596X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Social sciences Data processing Congresses",
-                "Social sciences Mathematical models Congresses",
-                "Sciences sociales Informatique Congrès",
-                "Sciences sociales Modèles mathématiques Congrès",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1605658353",
-            "title": "From Inflation to Hot Big Bang : A Tutorial on Cosmological Perturbations",
-            "creator": "Mikko Laine",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032098931",
-                "3032098939"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1228608098",
-            "title": "Enrico Fermi's IEEE Milestone in Florence. For his Major Contribution to Semiconductor Statistics, 1924-1926",
-            "creator": "Gianfranco Manes",
-            "date": "2015",
-            "language": "und",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Firenze University Press",
-            "isbns": [
-                "8866558516",
-                "9788866558514"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1602098432",
-            "title": "Proceedings of the 12th World Conference on Neutron Radiography : WCNR-12, June 2-7, 2024, Idaho Falls, Idaho, USA",
-            "creator": "Aaron E. Craft",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032150035",
-                "3032150035"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611777508",
-            "title": "Quantum Mechanics Done Right : The Shortest Path from Novice to Researcher",
-            "creator": "James K. Freericks",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031878459",
-                "3031878450"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1492965520",
-            "title": "Sub-Wavelength Probing and Modification of Complex Photonic Structures",
-            "creator": "Silvia Vignolini",
-            "date": "2010",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Firenze University Press",
-            "isbns": [
-                "9788864531397",
-                "8864531394"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Nonlinear optics",
-                "Photonic crystals",
-                "Optique non linéaire",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1232709949",
-            "title": "Imperialism and the natural world",
-            "creator": "John M. MacKenzie",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Manchester University Press",
-            "isbns": [
-                "9781526123671",
-                "1526123673"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science History 19th century",
-                "Colonialism history",
-                "Science history",
-                "Sciences Histoire 19e siècle",
-                "Historical Geography",
-                "POLITICAL SCIENCE / Colonialism & Post-Colonialism",
-                "British colonies",
-                "Science",
-                "Geschichte",
-                "Imperialismus",
-                "Kolonialismus",
-                "Kolonie",
-                "Naturwissenschaften",
-                "Aufsatzsammlung",
-                "Natuurwetenschappen",
-                "Imperialisme",
-                "Britse koloniën",
-                "Franse koloniën",
-                "Great Britain Colonies History 19th century",
-                "Grande-Bretagne Colonies Histoire 19e siècle",
-                "Großbritannien",
-                "Student Collection",
-                "History",
-                "1800-1899"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1592919119",
-            "title": "Astronomy and philosophy : conceptual and methodological foundations and challenges",
-            "creator": "Steven J. Dick",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009621168",
-                "1009621165",
-                "9781009621175",
-                "1009621173"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Astronomy Philosophy",
-                "Astronomie Philosophie"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1591026709",
-            "title": "The philosophy of time reversal",
-            "creator": "Cristian López",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009667272",
-                "1009667270",
-                "9781009667258",
-                "1009667254"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Time reversal Philosophy",
-                "Time reversal",
-                "Time",
-                "Inversion du temps Philosophie",
-                "Inversion du temps",
-                "Temps",
-                "time"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1586921058",
-            "title": "Computational methods for quantum high-energy-density physics",
-            "creator": "Suxing Hu",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780198996095",
-                "0198996098"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Condensed matter Computer simulation",
-                "Particles (Nuclear physics) Computer simulation",
-                "Nuclear",
-                "Physics",
-                "SCIENCE",
-                "Quantum Theory",
-                "Condensed Matter",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1587400090",
-            "title": "Data-driven modeling & scientific computation : methods for complex systems & big data",
-            "creator": "Jose Nathan Kutz",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780198929116",
-                "0198929110"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "MATLAB",
-                "Differential equations",
-                "Numerical analysis",
-                "Science Data processing",
-                "Équations différentielles",
-                "Analyse numérique",
-                "Sciences Informatique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1294423323",
-            "title": "Galileo Goes to Jail and Other Myths about Science and Religion",
-            "creator": "John Brooke",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Harvard University Press",
-            "isbns": [
-                "9780674054394",
-                "0674054393"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Religion and science History",
-                "Religion and state History",
-                "Science History",
-                "Scientists History",
-                "Religion et sciences Histoire",
-                "Religion et État Histoire",
-                "Sciences Histoire",
-                "SCIENCE / History",
-                "Religion and science",
-                "Religion and state",
-                "Science",
-                "Scientists",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1579001255",
-            "title": "Dualities in physics",
-            "creator": "Sebastian De Haro",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009663168",
-                "100966316X",
-                "9781009203876",
-                "1009203878"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Dualism",
-                "Duality (Logic)",
-                "Dualisme",
-                "Dualité (Logique)",
-                "dualism"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1602049070",
-            "title": "Practical Work in Science Education in the Digital Era : Challenges and Opportunities",
-            "creator": "Laurinda Leite",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "3032137888",
-                "9783032137883"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1051842397",
-            "title": "Comets : nature and culture",
-            "creator": "P. Andrew Karam",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Reaktion Books",
-            "isbns": [
-                "9781780238586",
-                "1780238584"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Comets",
-                "Comètes",
-                "SCIENCE Astronomy",
-                "Kultur",
-                "Komet",
-                "Popular works"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1042319931",
-            "title": "Women of the Scientific Revolution",
-            "creator": "Jeri Freedman",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Rosen Publishing Group",
-            "isbns": [
-                "9781508174790",
-                "1508174792"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Women in science History",
-                "Women scientists History",
-                "Femmes dans les sciences Histoire",
-                "Biography & Autobiography",
-                "JUVENILE NONFICTION",
-                "Women in science",
-                "Women scientists",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1002698282",
-            "title": "Planet Hunters : the Search for Extraterrestrial Life",
-            "creator": "Lucas Ellerbroek",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Reaktion Books, Limited",
-            "isbns": [
-                "9781780238784",
-                "1780238789"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Life on other planets History",
-                "Vie extraterrestre Histoire",
-                "SCIENCE Astronomy",
-                "Life on other planets",
-                "Außerirdisches Leben",
-                "Erforschung",
-                "Extrasolarer Planet",
-                "Erdähnlicher Planet",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "475967420",
-            "title": "The Language Of Science",
-            "creator": "Carol Reeves",
-            "date": "2005",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Ltd.",
-            "isbns": [
-                "9780203597125",
-                "0203597125",
-                "1280251956",
-                "9781280251955"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science",
-                "Literature",
-                "Science Language",
+                "Research Social aspects",
+                "Knowledge management",
                 "Communication in science",
-                "Technical writing",
-                "Literature, Modern",
-                "Sciences",
-                "Littérature",
-                "Sciences Langage",
+                "Research Methodology",
+                "Knowledge Management",
+                "Recherche Aspect social",
                 "Information scientifique",
-                "Rédaction technique",
-                "sciences (philosophy)",
-                "technical writing",
-                "science (modern discipline)"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1201197161",
-            "title": "Time one  : understanding physics",
-            "creator": "Colin Gillespie",
-            "date": "2013",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "RosettaBooks",
-            "isbns": [
-                "9780795333521",
-                "0795333528"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science",
-                "Sciences",
-                "sciences (philosophy)",
-                "science (modern discipline)",
-                "SCIENCE / Physics / Quantum Theory",
+                "Gestion des connaissances",
+                "Recherche Méthodologie",
                 "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "898089138",
-            "title": "Monkeys, myths and molecules : separating fact from fiction in the science of everyday life",
-            "creator": "Joe Schwarcz",
-            "date": "2015",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ECW Press",
-            "isbns": [
-                "9781770907010",
-                "1770907017",
-                "9781770411913",
-                "1770411917"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Popular works",
-                "Science Miscellanea",
-                "Chemistry Popular works",
-                "Chemistry Miscellanea",
-                "Chimie Miscellanées",
-                "Chimie Ouvrages de vulgarisation",
-                "Sciences Miscellanées",
-                "Sciences Ouvrages de vulgarisation",
-                "Healthy Living",
-                "HEALTH & FITNESS",
-                "Chemistry",
-                "SCIENCE",
-                "Science",
-                "Electronic books",
-                "Trivia and miscellanea",
-                "Popular works"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "863718624",
-            "title": "The international journal of interdisciplinary social sciences",
-            "creator": "Common Ground Publishing",
-            "date": "2006",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Common Ground Publishing",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Interdisciplinary research Periodicals",
-                "Social sciences Periodicals",
-                "Interdisciplinary research",
-                "Social sciences",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1457095879",
-            "title": "Meltdown : the making and breaking of a field scientist",
-            "creator": "Sarah Boon",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Alberta Press",
-            "isbns": [
-                "9781772128031",
-                "9781772128024",
-                "1772128031",
-                "1772128023"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Boon, Sarah, 1977-",
-                "Women scientists Canada Biography",
-                "Scientists Canada Biography",
-                "Glaciologists Canada Biography",
-                "Earth scientists Canada Biography",
-                "Autobiographies",
-                "Glaciologues Canada Biographies",
-                "Femmes scientifiques Canada Biographies",
-                "Spécialistes des sciences de la terre Canada Biographies",
-                "Personal Memoirs",
-                "Science & Technology",
-                "BIOGRAPHY & AUTOBIOGRAPHY",
-                "Women",
-                "Scientists",
-                "Women scientists",
-                "Canada",
-                "Biographies"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1564493536",
-            "title": "Classical physics : concepts, applications, and interpretations",
-            "creator": "Harun Akon",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443338182",
-                "0443338183"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physics"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1606499897",
-            "title": "Condensed matter structural chemistry",
-            "creator": "Ran Jia",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443449222",
-                "0443449228"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Condensed matter Structure",
-                "Matière condensée Structure",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1527356120",
-            "title": "Handbook of UV degradation and stabilization",
-            "creator": "George Wypych",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "ChemTec Publishing",
-            "isbns": [
-                "9781774670798",
-                "1774670798"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ultraviolet radiation Handbooks, manuals, etc",
-                "Materials Deterioration Handbooks, manuals, etc",
-                "Materials Effect of radiation on Handbooks, manuals, etc",
-                "Stabilizing agents Handbooks, manuals, etc",
-                "Plastics Effect of radiation on",
-                "Plastics Deterioration",
-                "Plastics Additives",
-                "Stabilizing agents",
-                "Ultraviolet radiation",
-                "handbooks",
-                "Handbooks and manuals",
-                "Guides et manuels"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1581076548",
-            "title": "Naming the Universe : An Etymological Dictionary of Physics, Mathematics and Space Sciences",
-            "creator": "Lorenzo Iorio",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443458804",
-                "0443458804"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Physics Terminology",
-                "Astronomy Terminology",
-                "Astronomie Terminologie",
-                "Astronomy",
-                "Physics",
-                "dictionaries",
-                "Terminology",
-                "Dictionaries",
-                "Dictionnaires"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1572420325",
-            "title": "Handbook of electronic structure theory : methods and applications",
-            "creator": "Majdi Hochlaf",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "0443265976",
-                "9780443265976"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic structure",
-                "Relativistic quantum theory",
-                "Structure électronique",
-                "Théorie quantique relativiste"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1572420049",
-            "title": "Sensing : long-lived resonances",
-            "creator": "Léonard Dobrzynski",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "0443329451",
-                "9780443329456"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Resonance",
-                "Résonance",
-                "resonance (acoustics concept)"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1572418240",
-            "title": "Machine learning and Bayesian methods in inverse heat transfer",
-            "creator": "C. Balaji",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443454929",
-                "0443454922"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Bayesian statistical decision theory",
-                "Heat Transmission Mathematical models",
-                "Heat Transmission Data processing",
-                "Machine learning",
-                "Théorie de la décision bayésienne",
-                "Chaleur Transmission Modèles mathématiques",
-                "Apprentissage automatique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1582305715",
-            "title": "The theory of cosmic ray modulation",
-            "creator": "R. Du Toit Strauss",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443289828",
-                "0443289824"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cosmic rays",
-                "Rayonnement cosmique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1569979593",
-            "title": "Modern luminescence from fundamental concepts to materials and applications. Volume 4, Luminescence in solid state devices",
-            "creator": "Surender K. Sharma",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Woodhead Publishing",
-            "isbns": [
-                "9780323886383",
-                "0323886388"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Luminescence",
-                "luminescence"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1602065476",
-            "title": "Applied Nanoplasmonics : Applications in Chemical Sensing and Radiation Detection",
-            "creator": "Prasanta Mandal",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443292781",
-                "0443292787"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Nanotechnology",
-                "Plasmonics",
-                "Plasmons (Physics)",
-                "Nanotechnologie",
-                "Plasmons"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1602053473",
-            "title": "Broadband Dielectric Spectroscopy : Fundamentals and Applications",
-            "creator": "Carlos M. Costa",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443266072",
-                "0443266077"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Broadband dielectric spectroscopy",
-                "Spectroscopie diélectrique large bande"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1568742282",
-            "title": "The physics of cosmology",
-            "creator": "Fulvio Melia",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443452024",
-                "0443452024"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cosmology",
-                "Cosmologie",
-                "cosmology"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1333097654",
-            "title": "Ideas and methods of supersymmetry and supergravity, or, A walk through superspace",
-            "creator": "I. L. Buchbinder",
-            "date": "1998",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CRC Press",
-            "isbns": [
-                "0367802538",
-                "9780367802530",
-                "1420050516",
-                "9781420050516"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Supersymmetry",
-                "Supersymétrie"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1610427565",
-            "title": "Quantum mechanics done right : the shortest path from novice to researcher",
-            "creator": "James K. Freericks",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783031878459",
-                "3031878450"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Quantum theory",
-                "Théorie quantique"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1609863168",
-            "title": "Stability problems in mechanics of continua",
-            "creator": "D. V. Georgievskiĭ",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032310323",
-                "3032310326"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Continuum mechanics",
-                "Mécanique des milieux continus",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1591604941",
-            "title": "Philosophy of science : a unified approach",
-            "creator": "Gerhard Schurz",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781040621196",
-                "9781040554845",
-                "1040621198",
-                "1040554849"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Philosophy",
-                "Translations"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1059514271",
-            "title": "The geography of scientific collaboration",
-            "creator": "Agnieszka Olechnicka",
-            "date": "2019",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Routledge",
-            "isbns": [
-                "9781315471914",
-                "9781315471921",
-                "9781315471907",
-                "1315471914",
-                "1315471922",
-                "1315471906"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science International cooperation",
-                "Communication in science",
-                "Sciences Coopération internationale",
-                "Information scientifique",
-                "SCIENCE Study & Teaching"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1609122904",
-            "title": "Stabilization of wave-type equations with delay or memory",
-            "creator": "Kaïs Ammari",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Birkhäuser",
-            "isbns": [
-                "9783032284969",
-                "3032284961"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Ecuaciones de onda",
-                "Teoría de control",
-                "Wave equation",
-                "Control theory",
-                "Wave equation Numerical solutions",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1611196551",
-            "title": "Technological humanities : essays in honor of Ronald R. Kline",
-            "creator": "Jennifer L. Lieberman",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Palgrave Macmillan",
-            "isbns": [
-                "9783032247414",
-                "3032247411"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Technology History",
-                "Information science History",
-                "Engineering History",
-                "Ingénierie Histoire",
-                "Technologie Histoire",
-                "Electronic books",
-                "Festschriften"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1592176821",
-            "title": "To illuminate nature, from molecules to the cosmos : a narrated history of Caltech discovery from the 1920s to the 2020s",
-            "creator": "David Zierler",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "California Institute of Technology",
-            "isbns": [
-                "9781600490163",
-                "1600490166"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "California Institute of Technology History",
-                "California Institute of Technology",
-                "Research California Pasadena",
-                "Recherche Californie Pasadena",
-                "Research",
-                "California Pasadena",
-                "History"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1544714315",
-            "title": "The crosstalk between mechanical forces and intracellular pH in driving cancer phenotypes",
-            "creator": "Leah M. Lund",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "University of Notre Dame",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1465425112",
-            "title": "Investigation of public trust in science in connection with view about tentative nature of science and epistemological beliefs",
-            "creator": "Asghar Pervaiz Gill",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Western Michigan Univeristy",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "Communication in science Social aspects United States",
-                "Science news United States Public opinion",
-                "Science United States Philosophy",
-                "Science Study and teaching United States",
-                "Information scientifique Aspect social États-Unis",
-                "Sciences Vulgarisation États-Unis Opinion publique",
-                "Communication in science Social aspects",
-                "Science Philosophy",
-                "Science Study and teaching",
-                "United States",
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques",
-                "dissertation"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1338041965",
-            "title": "The novel roles of the Hippo pathway in regulating retinal regeneration in adult zebrafish",
-            "creator": "Meng Jia",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "University of Notre Dame",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1517005759",
-            "title": "Skyrmion lattice manipulation in bulk materials characterized with small-angle neutron scattering",
-            "creator": "Nathan Chalus",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "University of Notre Dame",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1452757544",
-            "title": "A Comprehensive Optimization of Rankine Cycles : Physical and Working Fluid Design Perspectives",
-            "creator": "Luis Angel Porto Hernandez",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Florida State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "Force and energy",
-                "Mechanical engineering",
-                "Force et énergie",
-                "Génie mécanique",
-                "mechanical engineering",
-                "Electronic Thesis or Dissertation"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1582336060",
-            "title": "Stellar Ages : Age Dating Stellar Populations to Constrain Which Stars Explode",
-            "creator": "Joseph Guzman",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Florida State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "Astrophysics",
-                "Astronomy",
-                "Physics",
-                "Astrophysique",
-                "Astronomie",
-                "astrophysics",
-                "astronomy",
-                "Electronic Thesis or Dissertation"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "1582322461",
-            "title": "Fast Emulation, Bayesian Optimization, and Simulation-Based Inference : A Modern End-to-End Toolkit for Particle Physics Analysis",
-            "creator": "Ali Al Kadhim",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Florida State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "Particles (Nuclear physics)",
-                "Particules (Physique nucléaire)",
-                "particle physics",
-                "Electronic Thesis or Dissertation"
-            ]
-        },
-        {
-            "topic": "60000000",
-            "oclcNumber": "967256478",
-            "title": "Philosophy of science : a very short introduction",
-            "creator": "Samir Okasha",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780191807640",
-                "0191807648",
-                "9780191062797",
-                "0191062790"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Science Philosophy"
             ]
         }
     ]

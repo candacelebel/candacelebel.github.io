@@ -1,151 +1,675 @@
 {
-    "period": "August 2026",
-    "updated": "As of 01 September 2026",
+    "period": "September 2026",
+    "updated": "As of 02 October 2026",
     "records": [
         {
             "topic": "36000000",
-            "oclcNumber": "892340722",
-            "title": "Fractals : a very short introduction",
-            "creator": "K. J. Falconer",
+            "oclcNumber": "973222173",
+            "title": "Taking action : implementing effective mathematics teaching practices in grades 9-12",
+            "creator": "Melissa Boston",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "National Council of Teachers of Mathematics",
+            "isbns": [
+                "0873539990",
+                "9780873539999"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching (Secondary) United States",
+                "Mathematics Study and teaching (Secondary)",
+                "United States"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "973222172",
+            "title": "Taking action : implementing effective mathematics teaching practices in K-grade 5",
+            "creator": "DeAnn Huinker",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "National Council of Teachers of Mathematics",
+            "isbns": [
+                "9781680540000",
+                "1680540009"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching (Elementary) United States",
+                "Mathematics Study and teaching (Elementary)",
+                "United States"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "883391215",
+            "title": "Bifurcations of planar vector fields and Hilbert's sixteenth problem",
+            "creator": "Robert H. Roussarie",
             "date": "2013",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
+            "publisher": "Birkhäuser",
             "isbns": [
-                "9780199675982",
-                "0199675988",
-                "9780191778599",
-                "0191778591",
-                "9780191663444",
-                "0191663441",
-                "9780191663451",
-                "019166345X"
+                "9783034807180",
+                "303480718X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Fractals",
-                "Fractales",
-                "fractals",
-                "MATHEMATICS",
-                "SCIENCE",
+                "Bifurcation theory",
+                "Vector fields",
+                "Théorie de la bifurcation",
+                "Champs vectoriels",
+                "Teoría de bifurcación",
+                "Campos vectoriales"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1618859128",
+            "title": "Delta-invariant theory for Hecke correspondences",
+            "creator": "Alexandru Buium",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032205711",
+                "3032205719"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Geometry, Algebraic",
+                "Hecke algebras",
+                "Géométrie algébrique",
+                "Algèbres de Hecke",
+                "Geometría algebraica"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1618859421",
+            "title": "Convergence in measure and in category",
+            "creator": "Władysław Wilczyński",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032231437",
+                "3032231434"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Categories (Mathematics)",
+                "Convergence",
+                "Measure theory",
+                "Catégories (Mathématiques)",
+                "Convergence (Mathématiques)",
+                "Théorie de la mesure",
+                "Categorías (Matemáticas)",
+                "Teoría de la medida"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1617485648",
+            "title": "Triangular bases of unimodular bilinear lattices and induced structures automorphism groups, vanishing cycles, monodromy groups, braid group actions and moduli spaces",
+            "creator": "Claus Hertling",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032259974",
+                "3032259975"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Lattice theory",
+                "Bilinear forms",
+                "Théorie des treillis",
+                "Formes bilinéaires",
+                "Teoría reticular",
+                "Formas bilineales",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1613378616",
-            "title": "Mathematics for Olympiad : RMO and INMO",
-            "creator": "Prashant Jain",
+            "oclcNumber": "1617485577",
+            "title": "Splitting and making explicit the de Rham complex of the Drinfeld space",
+            "creator": "Christophe Breuil",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Pearson India",
+            "publisher": "Springer",
             "isbns": [
-                "9789371361712",
-                "9371361719"
+                "9783032200952",
+                "3032200954"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Mathematics Study and teaching India Examinations, questions, etc",
-                "Mathematics Examinations, questions, etc",
-                "Mathématiques Étude et enseignement Inde Examens, questions, etc",
-                "Mathématiques Examens, questions, etc"
+                "Algebraic topology",
+                "Differential topology",
+                "Dimensions",
+                "Topologie algébrique",
+                "Topologie différentielle",
+                "size (general extent)",
+                "Topología algebraica",
+                "Topología diferencial",
+                "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1535851431",
-            "title": "Covariance analysis and beyond",
-            "creator": "Wei Lan",
+            "oclcNumber": "1587361666",
+            "title": "Lebesgue measure and integration theory : foundations and solved exercises",
+            "creator": "Alberto Cabada",
             "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Academic Press",
+            "isbns": [
+                "9780443403279",
+                "0443403279"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Measure theory",
+                "Théorie de la mesure"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1617328636",
+            "title": "Grokking statistics : a friendly guide for beginners",
+            "creator": "Thomas Nield",
+            "date": "2027",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Manning Publications",
+            "isbns": [
+                "9781633434769",
+                "1633434761"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Statistics Data processing",
+                "COMPUTERS / Data Science / Machine Learning"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "964502073",
+            "title": "Algebra",
+            "creator": "Michael Artin",
+            "date": "2018",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
+            "publisher": "Pearson",
             "isbns": [
-                "9783032087959",
-                "3032087953"
+                "9780134689609",
+                "0134689607"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Analysis of covariance",
-                "Analyse de covariance"
+                "Algebra",
+                "Algebra Textbooks",
+                "Mathematics",
+                "Algèbre",
+                "Mathématiques",
+                "algebra",
+                "Textbooks"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1602526016",
-            "title": "Bi-continuous operator semigroups : from theory to applications",
-            "creator": "Christian Budde",
-            "date": "2026",
+            "oclcNumber": "1438668658",
+            "title": "Diseño de Experimentos",
+            "creator": "Víctor Baldovino",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Universidad Industrial De Santander",
+            "isbns": [
+                "9789585188822",
+                "9585188821"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1373347626",
+            "title": "Los Escritos Matemáticos de George Berkeley y la Polémica Sobre el Analista",
+            "creator": "José A. Robles",
+            "date": "2023",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Universidad Nacional Autonoma de Mexico, Instituto de Investigaciones sobre la Universidad y la Educacion",
+            "isbns": [
+                "9786073058384",
+                "6073058381"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "688185104",
+            "title": "Info-gap economics : an operational introduction",
+            "creator": "Yakov Ben-Haim",
+            "date": "2010",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Birkhäuser, an imprint of Springer Nature Switzerland",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
             "isbns": [
-                "9783032129475",
-                "3032129478"
+                "9780230277328",
+                "0230277322"
             ],
-            "newFormat": "Print Book",
+            "newFormat": "eBook",
             "subjects": [
-                "Semigroups of operators",
-                "Semi-groupes d'opérateurs"
+                "Decision making",
+                "Uncertainty",
+                "Economic forecasting",
+                "Economics",
+                "Prise de décision",
+                "Incertitude",
+                "Prévision économique",
+                "Économie politique",
+                "decision making",
+                "economics",
+                "Monetary economics",
+                "BUSINESS & ECONOMICS Economics Theory",
+                "Modèles économiques",
+                "Probabilités",
+                "Entscheidung bei Unsicherheit",
+                "Prognose",
+                "Entscheidung",
+                "Unsicherheit",
+                "Wirtschaftswissenschaften",
+                "Decision making economic aspects",
+                "Uncertainty economic aspects"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1589181831",
-            "title": "Applied spatiotemporal data analytics and machine learning",
-            "creator": "Marko Maucec",
+            "oclcNumber": "1302010586",
+            "title": "Modellieren in der Schule  : Ein Lernbuch zu Theorie und Praxis des realitätsbezogenen Mathematikunterrichts",
+            "creator": "Jürgen Maaß",
+            "date": "2022",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "WTM-Stein",
+            "isbns": [
+                "9783959872027",
+                "395987202X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics",
+                "Mathématiques"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "701369427",
+            "title": "Lesson study research and practice in mathematics education : learning together",
+            "creator": "Lynn Cecilia Hart",
+            "date": "©2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789048199419",
+                "9048199417",
+                "9048199409",
+                "9789048199402"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching",
+                "Mathematics Study and teaching Research",
+                "Effective teaching",
+                "Lesson planning",
+                "Mathématiques Étude et enseignement",
+                "Mathématiques Étude et enseignement Recherche",
+                "Enseignement efficace",
+                "Préparation de cours",
+                "MATHEMATICS Study & Teaching",
+                "Sciences sociales",
+                "Droit",
+                "Sciences humaines",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "701369426",
+            "title": "Mapping equity and quality in mathematics education",
+            "creator": "Bill Atweh",
+            "date": "©2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789048198030",
+                "9048198038",
+                "1283085771",
+                "9781283085779",
+                "9786613085771",
+                "6613085774"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching",
+                "Mathematics Study and teaching Research",
+                "Mathematics",
+                "Mathématiques Étude et enseignement",
+                "Mathématiques Étude et enseignement Recherche",
+                "MATHEMATICS Study & Teaching",
+                "Sciences sociales",
+                "Droit",
+                "Sciences humaines",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "823384994",
+            "title": "Third International Handbook of Mathematics Education",
+            "creator": "M. A.",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9781461446842",
+                "1461446848"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching",
+                "Educational psychology",
+                "Psychology, Educational",
+                "Mathématiques Étude et enseignement",
+                "Psychopédagogie",
+                "MATHEMATICS",
+                "EDUCATION",
+                "Educational Psychology",
+                "Educational Policy & Reform",
+                "Philosophy",
+                "Comparative",
+                "SOCIAL SCIENCE",
+                "Sociology",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1616494499",
+            "title": "The mathematics of Monge-Kantorovich Optimal Transport : PIMS-IFDS-NSF Summer School, Seattle, Washington, USA, June 19-July 1, 2022",
+            "creator": "PIMS-IFDS-NSF Summer School on Optimal Transport",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "IntechOpen",
+            "publisher": "Springer",
             "isbns": [
-                "9781839685026",
-                "1839685026"
+                "9783032231468",
+                "3032231469"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Machine learning",
-                "Spatial analysis (Statistics) Data processing",
-                "Spatial analysis (Statistics)",
-                "Apprentissage automatique"
+                "Transportation problems (Programming) Congresses",
+                "Mathematical optimization Congresses",
+                "Problèmes de transport (Programmation)",
+                "Optimisation mathématique",
+                "Problemas de transporte (Programación)",
+                "Optimización matemática",
+                "Transportation problems (Programming)",
+                "Mathematical optimization",
+                "proceedings (reports)",
+                "Conference papers and proceedings",
+                "Actes de congrès",
+                "Conferencias"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1592919921",
-            "title": "Nonlinear systems : practical applications and contemporary challenges",
-            "creator": "Ricardo López-Ruiz",
+            "oclcNumber": "892484011",
+            "title": "Financial engineering with copulas explained",
+            "creator": "Jan-Frederik Mai",
+            "date": "2014",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [
+                "9781137346315",
+                "1137346310"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Copulas (Mathematical statistics)",
+                "Financial engineering",
+                "Finance",
+                "Financial Engineering",
+                "Risk Management",
+                "Management",
+                "Investments and Securities",
+                "Banking",
+                "Copules (Statistique mathématique)",
+                "Ingénierie financière",
+                "Credit & credit institutions",
+                "MATHEMATICS Applied",
+                "MATHEMATICS Probability & Statistics General",
+                "Finance and Accounting",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "700199678",
+            "title": "Expertise in mathematics instruction : an international perspective",
+            "creator": "Yeping Li",
+            "date": "©2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9781441977076",
+                "1441977074"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching Research Case studies",
+                "Mathématiques Étude et enseignement Recherche Études de cas",
+                "applied mathematics",
+                "mathematics",
+                "MATHEMATICS Study & Teaching",
+                "Sciences sociales",
+                "Droit",
+                "Sciences humaines",
+                "Mathematics Study and teaching Research",
+                "Matematikundervisning",
+                "Matematiklärare",
+                "Case studies",
+                "Études de cas"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1372399372",
+            "title": "Sprache im Mathematikunterricht  : Bausteine und Impulse für die Hochschuldidaktik",
+            "creator": "Nora Kühme",
+            "date": "2023",
+            "language": "ger",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "WTM-Stein",
+            "isbns": [
+                "9783959872348",
+                "3959872348"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics",
+                "Mathématiques"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1564198645",
+            "title": "Diagnóstico de los conocimientos y la actitud hacia la matemática en instituciones públicas de educación básica y media de la ciudad de Pereira",
+            "creator": "Robin Mario Escobar Escobar",
+            "date": "2022",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editorial UTP",
+            "isbns": [
+                "9789587227451",
+                "958722745X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching",
+                "High school students Attitudes",
+                "Mathematical analysis",
+                "Mathematics teachers",
+                "Mathématiques Étude et enseignement",
+                "Élèves du secondaire Attitudes",
+                "Analyse mathématique",
+                "Professeurs de mathématiques",
+                "Evaluation & Assessment",
+                "EDUCATION",
+                "MATHEMATICS",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1605662158",
+            "title": "Exploration of Spatio-Temporal Environmental Conditions : ECoST-DATA, Bari, Italy, July 3-4 2025",
+            "creator": "Sandra De Iaco",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "IntechOpen",
+            "publisher": "Springer",
             "isbns": [
-                "9781836356585",
-                "1836356587"
+                "9783032175267",
+                "3032175267"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Nonlinear systems",
-                "Systèmes non linéaires"
+                "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "680177238",
-            "title": "Opuscula mathematica",
-            "creator": "Akademia Górniczo-Hutnicza im S. Staszica w Krakowie",
-            "date": "1985-",
+            "oclcNumber": "741450226",
+            "title": "Early Algebraization",
+            "creator": "Jinfa Cai, Eric Knuth",
+            "date": "2011",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer-Verlag Berlin Heidelberg",
+            "isbns": [
+                "1283086638",
+                "9781283086639",
+                "9783642177354",
+                "3642177352"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Algebra Study and teaching (Early childhood)",
+                "Mathematics Study and teaching (Early childhood)",
+                "Algèbre Étude et enseignement (Première enfance)",
+                "Mathématiques Étude et enseignement (Première enfance)",
+                "Electronic resource"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1610426986",
+            "title": "Foundations of real analysis : expanding horizons beyond the click",
+            "creator": "William R. Brian",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Academic Press",
+            "isbns": [
+                "9780443485282",
+                "0443485283"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Algebra",
+                "Mathematical analysis",
+                "Algèbre",
+                "Analyse mathématique",
+                "algebra"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1591408663",
+            "title": "From Christoffel words to Markoff numbers",
+            "creator": "Christophe Reutenauer",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780197907535",
+                "0197907539"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Markov spectrum",
+                "Combinatorial analysis",
+                "Word problems (Mathematics)",
+                "Analyse combinatoire",
+                "Spectre de Markov",
+                "Problèmes des mots (Mathématiques)",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1276801481",
+            "title": "European journal of mathematics and applications",
+            "creator": "",
+            "date": "2021",
             "language": "eng",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie",
+            "publisher": "EUAP",
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
@@ -156,127 +680,165 @@
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1485515003",
-            "title": "Desarrollo y mejora de la inteligencia matemática en educación infantil",
-            "creator": "Concepción Sánchez Cortés",
-            "date": "2023",
-            "language": "und",
-            "generalFormat": "Book",
+            "oclcNumber": "1254088745",
+            "title": "The American journal of combinatorics",
+            "creator": "",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "LA LEY Soluciones Legales S.A",
-            "isbns": [
-                "9788499872322",
-                "8499872328"
-            ],
-            "newFormat": "eBook",
+            "publisher": "American Journal of Combinatorics American Journal of Combinatorics",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": ""
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1344162019",
+            "title": "Electronic journal of mathematics",
+            "creator": "",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Shahin Digital Publisher",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Mathematics Study and teaching (Early childhood)",
-                "Early childhood education Activity programs",
-                "Mathematical ability in children",
-                "Mathématiques Étude et enseignement (Première enfance)",
-                "Éducation de la première enfance Méthodes actives",
-                "Aptitude pour les mathématiques chez l'enfant"
+                "Mathematics Periodicals",
+                "Mathématiques Périodiques",
+                "Matemáticas Publicaciones periódicas",
+                "Mathematics",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques",
+                "Revistas"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1577290785",
-            "title": "Foundations and frontiers in decision science : theory, methods and applications",
-            "creator": "Dakshina Ranjan Kisku",
+            "oclcNumber": "819710690",
+            "title": "International journal of group theory",
+            "creator": "Dānishgāh-i Iṣfahān.",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "University of Isfahan",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Group theory Periodicals",
+                "Théorie des groupes Périodiques",
+                "Group theory",
+                "Electronic journals",
+                "Periodicals",
+                "Algebra"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1547694259",
+            "title": "Theory of statistical estimation : contributions to higher order asymptotics and non-regular cases",
+            "creator": "Masafumi Akahira",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
+            "specificFormat": "PrintBook",
+            "publisher": "Springer Nature Singapore Pte Ltd.",
             "isbns": [
-                "9781836341963",
-                "1836341962"
+                "9819553385",
+                "9789819553389"
             ],
-            "newFormat": "eBook",
+            "newFormat": "Print Book",
             "subjects": [
-                "Artificial intelligence",
-                "Decision making Mathematical models",
-                "Decision making Data processing",
-                "Decision making",
-                "Intelligence artificielle",
-                "Prise de décision Modèles mathématiques",
-                "Prise de décision",
-                "artificial intelligence",
-                "decision making"
+                "Estimation theory",
+                "Mathematical statistics Asymptotic theory",
+                "Théorie de l'estimation",
+                "Statistique mathématique Théorie asymptotique"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1587356847",
-            "title": "Number theory : classical foundations and modern perspectives",
-            "creator": "Bruno Carpentieri",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836356257",
-                "1836356250"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Number theory",
-                "Théorie des nombres"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1587351407",
-            "title": "Time series analysis : frontiers in research and practice",
-            "creator": "Jorge Rocha",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781836355045",
-                "1836355041"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Time-series analysis",
-                "Série chronologique"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1612732569",
-            "title": "Innovate for Impact A Roadmap to Sustainable Technology Beyond AI",
-            "creator": "Alessandro Crimi",
+            "oclcNumber": "1615515380",
+            "title": "Mathematics of epidemics on networks : from exact to approximate models",
+            "creator": "Istvan Z. Kiss",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032215635",
-                "3032215633"
+                "9783032148858",
+                "3032148855"
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Mathematical models",
+                "Mathematical statistics",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1612730548",
-            "title": "Advances in Applied and Computational Mathematics ICRAMCS 2025, Marrakech, Morocco, April 24-26",
-            "creator": "Youssef El foutayeni",
+            "oclcNumber": "1615515370",
+            "title": "Numerical analysis and scientific computing : an anthology : dedicated to the 50th Anniversary of the Woudschoten Conference",
+            "creator": "Barry Koren",
             "date": "2026",
             "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032334282",
+                "3032334284"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Woudschoten Conference History",
+                "Numerical analysis",
+                "Computer science Mathematics",
+                "Analyse numérique",
+                "Informatique Mathématiques",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1615503939",
+            "title": "Normative texts and occupational practices : towards new social histories of mathematics",
+            "creator": "Senthil Babu D.",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032284198",
+                "3032284198"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Philosophy",
+                "Mathematics History",
+                "Mathématiques Philosophie",
+                "Mathématiques Histoire"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1615015004",
+            "title": "Oltre la Cupola Architetture e Invenzioni Di Dante Bini",
+            "creator": "Alberto Pugnale",
+            "date": "2026",
+            "language": "ita",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer Basel AG",
             "isbns": [
-                "9783032193988",
-                "3032193982"
+                "9783032197856",
+                "3032197856"
             ],
             "newFormat": "eBook",
             "subjects": [
@@ -285,915 +847,1303 @@
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1596674775",
-            "title": "Making statistics work : information theory and Bayesian inference",
-            "creator": "Duncan K. Foley",
+            "oclcNumber": "1614462298",
+            "title": "Crelle Bicentennial Edition",
+            "creator": "Catherine Goldstein",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Columbia University Press",
+            "publisher": "De Gruyter",
             "isbns": [
-                "9780231564038",
-                "0231564031",
-                "9780231566131",
-                "0231566131"
+                "9783111260440",
+                "3111260445"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Bayesian statistical decision theory",
-                "Information theory",
-                "Statistics",
-                "Théorie de la décision bayésienne",
-                "Théorie de l'information",
-                "Statistique",
-                "statistics",
-                "BUSINESS & ECONOMICS / Statistics",
-                "COMPUTERS / Information Theory",
-                "MATHEMATICS / Probability & Statistics / Bayesian Analysis"
+                "MATHEMATICS / Algebra / General",
+                "MATHEMATICS / Geometry / General",
+                "Electronic books",
+                "Applied mathematics",
+                "elliptic curves",
+                "theory of algebras",
+                "Theory of Abelian Equations",
+                "Angewandte Mathematik",
+                "Theorie der Abelschen Gleichungen",
+                "Theorie der Algebren",
+                "Elliptic Curves",
+                "Applied mathematics, elliptic curves, theory of algebras, Theory of Abelian Equations"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1601190399",
-            "title": "Quasi-projective and formal-analytic arithmetic surfaces",
-            "creator": "Jean-Benoît Bost",
-            "date": "2026",
+            "oclcNumber": "1274227999",
+            "title": "Theory and applications of NeutroAlgebras as generalizations of classical algebras",
+            "creator": "Florentin Smarandache",
+            "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
+            "publisher": "Engineering Science Reference, an imprint of IGI Global",
             "isbns": [
-                "9780691287898",
-                "0691287899"
+                "9781668434970",
+                "1668434970",
+                "9781668434987",
+                "1668434989"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Arakelov theory",
-                "Diophantine analysis",
-                "Théorie d'Arakelov",
-                "Analyse diophantienne"
+                "Partial algebras",
+                "Neutrosophic logic",
+                "Group theory",
+                "Algèbres partielles",
+                "Théorie des groupes"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1202625343",
-            "title": "Studies in Inductive Logic and Probability. Volume 2",
-            "creator": "Richard C. Jeffrey",
-            "date": "2020",
+            "oclcNumber": "1527590171",
+            "title": "The mathematicians' library : the books that unlocked the power of numbers",
+            "creator": "Thomas K. Briggs",
+            "date": "2025",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of California Press",
+            "publisher": "Ivy Press",
             "isbns": [
-                "9780520318328",
-                "0520318323"
+                "1836004869",
+                "9781836004868"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "NON-CLASSIFIABLE"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "958522305",
-            "title": "Introduction to Tensor Products of Banach Spaces",
-            "creator": "Raymond A. Ryan",
-            "date": "2002",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer London",
-            "isbns": [
-                "9781447139034",
-                "1447139038"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "907363132",
-            "title": "Finite fields and applications",
-            "creator": "Gary L. Mullen",
-            "date": "2007",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "American Mathematical Society ; Mathematics Advanced Study Semesters",
-            "isbns": [
-                "9781470421502",
-                "147042150X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Finite fields (Algebra)",
-                "Coding theory",
-                "Cryptography",
-                "Corps finis",
-                "Cryptographie",
-                "MATHEMATICS Algebra Intermediate"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "870345091",
-            "title": "An imaginary tale : the story of √-1",
-            "creator": "Paul J. Nahin",
-            "date": "2010",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9781400833894",
-                "1400833892",
-                "0691146004",
-                "9780691146003"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Numbers, Complex",
-                "Nombres complexes",
+                "Mathematics Social aspects",
+                "Mathematical literature History and criticism",
+                "Mathematics History",
+                "Mathematics Bibliography",
+                "Mathématiques Aspect social",
+                "Mathématiques Documentation Histoire et critique",
+                "Mathématiques Histoire",
+                "Mathématiques Bibliographie",
                 "History & Philosophy",
-                "MATHEMATICS",
-                "Electronic books"
+                "Reference",
+                "Research",
+                "Mathematical literature",
+                "Mathematics",
+                "Electronic books",
+                "Bibliography"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "952754153",
-            "title": "Child's Understanding of Number",
-            "creator": "Rochel Gelman",
-            "date": "2009",
+            "oclcNumber": "1303567116",
+            "title": "Handbook of research on international approaches and practices for gamifying mathematics",
+            "creator": "Cristina A. Huertas-Abril",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Information Science Reference, an imprint of IGI Global",
+            "isbns": [
+                "9781799896623",
+                "1799896625",
+                "9781799896630",
+                "1799896633"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Games in mathematics education",
+                "Mathematics Study and teaching",
+                "Education, Bilingual",
+                "Jeux dans l'enseignement des mathématiques",
+                "Mathématiques Étude et enseignement",
+                "Bilingual Education",
+                "Cognitive Demands",
+                "E-Safety",
+                "Game-Based Learning",
+                "Gamification Strategies",
+                "Mathematical Reasoning",
+                "Multimodal Mathematics",
+                "Pre-Service Teachers",
+                "Problem Solving",
+                "Teacher Training",
+                "Video Games"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1191084926",
+            "title": "Neutrosophic Sets in Decision Analysis and Operations Research",
+            "creator": "",
+            "date": "2019",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Engineering Science Reference",
+            "isbns": [
+                "9781799825586",
+                "1799825582"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Neutrosophic logic"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1054881689",
+            "title": "Arithmetic",
+            "creator": "Paul Lockhart",
+            "date": "2017",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Harvard University Press",
             "isbns": [
-                "0674116372",
-                "9780674116375",
-                "9780674037533",
-                "0674037537"
+                "9780674981539",
+                "0674981537"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Number concept in children",
-                "Number concept",
-                "PSYCHOLOGY / General"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1246232187",
-            "title": "The Rise of Statistical Thinking, 1820-1900",
-            "creator": "Theodore M. Porter",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691210520",
-                "0691210527"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical statistics History",
-                "History",
-                "History & Philosophy",
-                "MATHEMATICS",
-                "SCIENCE",
-                "Mathematical statistics",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1129165366",
-            "title": "Pseudorandomness and Cryptographic Applications",
-            "creator": "Michael Luby",
-            "date": "1996",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9780691206844",
-                "0691206848"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1602628551",
-            "title": "Truth addict : how to ask questions, test ideas, and get answers in a data-driven world",
-            "creator": "John V. Kane",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520416604",
-                "0520416600"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Decision making Data processing",
-                "Research Statistical methods",
-                "Statistics",
-                "Reasoning Study and teaching",
-                "Critical thinking Study and teaching",
-                "Research Study and teaching",
-                "Truth Social aspects",
-                "Recherche Méthodes statistiques",
-                "Statistique",
-                "Argumentation Étude et enseignement",
-                "Pensée critique Étude et enseignement",
-                "Recherche Étude et enseignement",
-                "Vérité Aspect social",
-                "statistics",
-                "Research",
-                "EDUCATION",
-                "Logic",
-                "PHILOSOPHY",
-                "Research & Methodology",
-                "SCIENCE",
-                "SOCIAL SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1198930871",
-            "title": "The Basic Laws of Arithmetic",
-            "creator": "Gottlob Frege",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of California Press",
-            "isbns": [
-                "9780520312364",
-                "0520312368"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "NON-CLASSIFIABLE"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1396851095",
-            "title": "Intermittent Convex Integration for the 3D Euler Equations : (ams-217)",
-            "creator": "Tristan Buckmaster",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "0691249563",
-                "9780691249568"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Differential equations, Nonlinear Numerical solutions",
-                "Induction (Mathematics)",
-                "Convex functions",
-                "Fluid dynamics Mathematics",
-                "Équations différentielles non linéaires Solutions numériques",
-                "Induction (Mathématiques)",
-                "Fonctions convexes",
-                "Dynamique des fluides Mathématiques",
-                "MATHEMATICS / Applied",
-                "MATHEMATICS / General",
-                "Annals of Mathematics Studies",
-                "Euler equations",
-                "Intermittent Convex Integration for the 3D Euler Equations: (AMS-217)",
-                "Kolmogorov",
-                "Matthew Novack",
-                "Nader Masmoudi",
-                "Nash iteration",
-                "Navier-Stokes equations",
-                "Onsager conjecture",
-                "Onsager",
-                "Princeton university press",
-                "Tristan Buckmaster",
-                "Vlad Vicol",
-                "anomalous dissipation",
-                "convex integration",
-                "intermittency",
-                "math",
-                "mathematics",
-                "scholarly",
-                "structure functions",
-                "turbulence"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1413951755",
-            "title": "CULTIVATING MATHEMATICAL HEARTS : culturally responsive mathematics teaching in elementary... classrooms",
-            "creator": "MARIA DEL ROSARIO AGUIRRE, JULIA MARIA ZAVALA",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "SAGE PUBLICATIONS INC",
-            "isbns": [
-                "9781071850114",
-                "1071850113"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Study and teaching (Elementary)"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1587889173",
-            "title": "Algebra of the Tetralemma Truth Lattices and Logic Gates",
-            "creator": "Stephen A. Clark",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Walter de Gruyter GmbH",
-            "isbns": [
-                "9783112235812",
-                "3112235819"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "MATHEMATICS",
-                "Logic",
-                "PHILOSOPHY",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1587075482",
-            "title": "Linear algebra : a conceptual approach",
-            "creator": "Jim L. Brown",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Walter de Gruyter GmbH",
-            "isbns": [
-                "9783111526683",
-                "3111526682",
-                "9783111528298",
-                "3111528294"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Algebras, Linear",
-                "Algebras, Linear Textbooks",
-                "Algèbre linéaire",
-                "Algebra",
-                "Applied",
-                "MATHEMATICS",
-                "Geometry",
+                "Arithmetic",
+                "Arithmetic History",
+                "Arithmétique",
+                "Arithmétique Histoire",
+                "arithmetic",
+                "MATHEMATICS / Arithmetic",
                 "Electronic books",
-                "Textbooks"
+                "History"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1122714937",
-            "title": "A cornucopia of quadrilaterals",
-            "creator": "Claudi Alsina",
+            "oclcNumber": "1317840357",
+            "title": "The classes of higher dimensional polytopes in chemical, physical, and biological systems",
+            "creator": "G. V. Zhizhin",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Engineering Science Reference (an imprint of IGI Global)",
+            "isbns": [
+                "9781799883760",
+                "1799883760",
+                "9781799883777",
+                "1799883779"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Polytopes",
+                "Polygons",
+                "Molecules Models",
+                "Polygones",
+                "Molécules Modèles",
+                "polygons"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1145567352",
+            "title": "The language of mathematics : how the teacher's knowledge of mathematics affects instruction",
+            "creator": "Patrick M. Jenlink",
             "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Rowman & Littlefield",
+            "isbns": [
+                "9781475854817",
+                "1475854811"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics Study and teaching",
+                "Mathematics Language",
+                "Mathématiques Étude et enseignement",
+                "Mathématiques Langage",
+                "Curriculum planning & development",
+                "Educational psychology",
+                "Educational: Mathematics & numeracy",
+                "Learning Styles",
+                "EDUCATION",
+                "Standards (incl. Common Core)",
+                "Teaching Methods & Materials"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "908374461",
+            "title": "Constructive commutative algebra : projective modules over polynomial rings and dynamical Gröbner bases",
+            "creator": "Ihsen Yengui",
+            "date": "2015",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "PrintBook",
-            "publisher": "MAA Press, an imprint of the American Mathematical Society",
+            "publisher": "Springer",
             "isbns": [
-                "9781470453121",
-                "1470453126"
+                "9783319194936",
+                "3319194933"
             ],
             "newFormat": "Print Book",
             "subjects": [
-                "Quadrilaterals",
-                "Geometry",
-                "Quadrilatères",
-                "Géométrie",
-                "geometry",
-                "Geometry {For algebraic geometry, see 14-XX} Real and complex geometry Elementary problems in Euclidean geometries",
-                "Geometry {For algebraic geometry, see 14-XX} Real and complex geometry Euclidean geometries (general) and generalizations",
-                "Geometry {For algebraic geometry, see 14-XX} Real and complex geometry Geometric constructions"
+                "Polynomial rings",
+                "Gröbner bases",
+                "Commutative algebra",
+                "Anneaux de polynômes",
+                "Bases de Gröbner",
+                "Algèbre commutative",
+                "Gröbner bases"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1613533805",
-            "title": "Operator theory",
-            "creator": "Daniel Alpay",
+            "oclcNumber": "1134873916",
+            "title": "Measurement and meaning",
+            "creator": "Ferenc Csatári",
+            "date": "2020",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Lexington Books",
+            "isbns": [
+                "9781498583008",
+                "1498583008"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Measurement Philosophy",
+                "Mesure Philosophie"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1615495126",
+            "title": "Approximations to probabilistic characteristics of stochastic differential equations",
+            "creator": "Jianbo Cui",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032163561",
-                "3032163560"
+                "9789819588138",
+                "9819588138"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Operator theory",
-                "Global analysis (Mathematics)",
-                "Functional analysis",
-                "Théorie des opérateurs",
-                "Analyse globale (Mathématiques)",
-                "Analyse fonctionnelle"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1606487749",
-            "title": "Computing and combinatorics : 32nd International Computing and Combinatorics Conference, COCOON 2026, Singapore, Singapore, July 23-25, 2026, Proceedings",
-            "creator": "COCOON (Conference)",
-            "date": "2027",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819233090",
-                "9819233097"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Combinatorial analysis Data processing Congresses",
-                "Computer science Mathematics Congresses",
-                "Informatique Mathématiques Congrès",
-                "Combinatorial analysis Data processing",
-                "Computer science Mathematics",
-                "Conference papers and proceedings"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610942387",
-            "title": "AI-driven mathematics education : from digital tools to ethical teaching practices",
-            "creator": "Manoj Sahni",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032312044",
-                "3032312043"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Study and teaching Data processing",
-                "Mathematics Computer-assisted instruction",
-                "Artificial intelligence Educational applications",
-                "Mathématiques Enseignement assisté par ordinateur",
-                "Intelligence artificielle Applications en éducation",
+                "Numerical analysis",
+                "Probabilities",
+                "Stochastic analysis",
+                "Stochastic processes",
+                "Differential equations",
+                "Numerical Analysis",
+                "Probability Theory",
+                "Stochastic Analysis",
+                "Stochastic Processes",
+                "Differential Equations",
+                "Analyse numérique",
+                "Probabilités",
+                "Analyse stochastique",
+                "Processus stochastiques",
+                "Équations différentielles",
+                "probability",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1610929366",
-            "title": "Combinatorics and combinatorial computing : MCCCC34, Normal, IL, USA, October 21-23, 2022",
-            "creator": "Midwestern Conference on Combinatorics and Combinatorial Computing",
-            "date": "2026",
-            "language": "eng",
+            "oclcNumber": "1500148167",
+            "title": "Introduccion al modelo clasico de regresion para cientificos de datos en R",
+            "creator": "JULIO CESAR ALONSO C.",
+            "date": "2024",
+            "language": "spa",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "EDITORIAL UNIVERSIDAD ICE",
             "isbns": [
-                "9783032085498",
-                "3032085497"
+                "6287630701",
+                "9786287630703"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Combinatorial analysis Congresses",
-                "Analyse combinatoire Congrès",
-                "Electronic books"
+                "Regression analysis",
+                "R (Computer program language)",
+                "Analyse de régression",
+                "R (Langage de programmation)"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1610929309",
-            "title": "An introduction to univalent functions",
-            "creator": "Rosihan M. Ali",
-            "date": "2026",
+            "oclcNumber": "1262572002",
+            "title": "COMPUTABLE STRUCTURE THEORY : within the arithmetic",
+            "creator": "ANTONIO MONTALBAN",
+            "date": "2021",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "CAMBRIDGE UNIV Press",
             "isbns": [
-                "9789819588169",
-                "9819588162"
+                "9781108534420",
+                "1108534422"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Univalent functions",
-                "Fonctions univalentes"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610927353",
-            "title": "Formal proofs in elementary set theory : rules of logic for formal proofs in Zermelo set theory",
-            "creator": "Krishna Suryanarayan",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032222398",
-                "3032222397"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Set theory",
-                "Théorie des ensembles",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610823663",
-            "title": "Geometric bifurcation theory : Fisher information geometry applied to dynamic and complex systems",
-            "creator": "Vinícius Barros Da Silva",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819582914",
-                "9819582911"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Bifurcation theory",
-                "Théorie de la bifurcation",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610818933",
-            "title": "Elements of functional analysis : from Banach spaces to elliptic problems",
-            "creator": "José M. Mazón",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032292100",
-                "3032292107"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Functional analysis",
-                "Analyse fonctionnelle"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610816199",
-            "title": "An invitation to Fourier analysis and distribution theory",
-            "creator": "Detlef Müller",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032315502",
-                "3032315506"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Fourier analysis",
-                "Theory of distributions (Functional analysis)",
-                "Analyse de Fourier",
-                "Théorie des distributions (Analyse fonctionnelle)",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1601646355",
-            "title": "Sustainable Innovations in Statistics and Data Science : first International Conference, SISD 2025, Bangalore, India, March 27-28, 2025, Revised selected papers",
-            "creator": "International Conference on Sustainable Innovations in Statistics and Data Science",
-            "date": "2027",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032299420",
-                "303229942X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical statistics Congresses",
-                "Data mining Congresses",
-                "Mathematical models Congresses",
-                "Exploration de données (Informatique) Congrès",
-                "Data mining",
-                "Mathematical models",
-                "Mathematical statistics",
-                "Electronic books",
-                "Conference papers and proceedings"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1609272684",
-            "title": "Timeless machines : computability across eras : 22nd Conference on Computability in Europe, CiE 2026, Trier, Germany, July 27-31, 2026, Proceedings",
-            "creator": "Conference on Computability in Europe",
-            "date": "2027",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032313485",
-                "3032313481"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Computable functions Congresses",
-                "Computer science Mathematics Congresses",
-                "Fonctions calculables Congrès",
-                "Informatique Mathématiques Congrès",
                 "Computable functions",
-                "Computer science Mathematics",
-                "Electronic books",
-                "Conference papers and proceedings"
+                "Fonctions calculables"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1610213420",
-            "title": "Fuzzy systems with applications to modeling and control of an aircraft",
-            "creator": "Dhan Jeet Singh",
-            "date": "2027",
+            "oclcNumber": "999354640",
+            "title": "The Topological Imagination : Spheres, Edges, and Islands",
+            "creator": "Angus Fletcher",
+            "date": "2016",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "Harvard University Press",
             "isbns": [
-                "9789819578887",
-                "9819578884"
+                "9780674968844",
+                "0674968840",
+                "0674968867",
+                "9780674968868"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Fuzzy systems",
-                "Aerodynamics",
-                "Systèmes flous",
-                "Aérodynamique",
-                "aerodynamics",
+                "Art and science",
+                "Knowledge, Theory of",
+                "Mathematics Philosophy",
+                "Topology",
+                "Art et sciences",
+                "Théorie de la connaissance",
+                "Mathématiques Philosophie",
+                "Topologie",
+                "epistemology",
+                "PHILOSOPHY / Aesthetics",
+                "Mathematics",
+                "Imagination",
+                "Kreativität",
+                "Sprache",
+                "Philosophie",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1612227518",
-            "title": "Optimal control in random environments : Pontryagin maximum principle with environment-dependent jumps and mean-field games with common Poissonian noise",
-            "creator": "Daniel Hernández-Hernández",
+            "oclcNumber": "811646934",
+            "title": "Single variable essential calculus",
+            "creator": "James Stewart",
+            "date": "2013",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Thomson Brooks/Cole",
+            "isbns": [
+                "9781133112761",
+                "1133112765"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Calculus",
+                "Calcul infinitésimal",
+                "calculus"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1570864622",
+            "title": "Infinite-dimensional spectral computations : foundations, algorithms, and modern applications",
+            "creator": "Matthew J. Colbrook",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": [
+                "9781009382502",
+                "1009382500"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Differential equations Data processing",
+                "Differential equations, Partial Data processing",
+                "Mathematical optimization",
+                "System analysis",
+                "Systems Analysis",
+                "Équations différentielles Informatique",
+                "Équations aux dérivées partielles Informatique",
+                "Optimisation mathématique",
+                "Analyse de systèmes",
+                "systems analysis"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1572356579",
+            "title": "Vectorial multifractal measures : theories and applications to branching random walks",
+            "creator": "Najmeddine Attia",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Springer Nature Switzerland",
+            "isbns": [
+                "3032200644",
+                "9783032200648"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Multifractals",
+                "Fractal analysis",
+                "Random walks (Mathematics)",
+                "Multifractales",
+                "Analyse fractale",
+                "Marches aléatoires (Mathématiques)"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1615495126",
+            "title": "Approximations to probabilistic characteristics of stochastic differential equations",
+            "creator": "Jianbo Cui",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032256416",
-                "3032256410"
+                "9789819588138",
+                "9819588138"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Stochastic control theory",
-                "Commande stochastique",
+                "Numerical analysis",
+                "Probabilities",
+                "Stochastic analysis",
+                "Stochastic processes",
+                "Differential equations",
+                "Numerical Analysis",
+                "Probability Theory",
+                "Stochastic Analysis",
+                "Stochastic Processes",
+                "Differential Equations",
+                "Analyse numérique",
+                "Probabilités",
+                "Analyse stochastique",
+                "Processus stochastiques",
+                "Équations différentielles",
+                "probability",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1613820940",
-            "title": "Zariski dense subgroups, number theory and geometric applications : mini courses and expository articles",
-            "creator": "Gopal Prasad",
+            "oclcNumber": "1615494882",
+            "title": "An invitation to Alexandrov geometry : CAT(0) Spaces",
+            "creator": "Stephanie Alexander",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9789819534371",
-                "9819534372"
+                "9783032253491",
+                "3032253497"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Number theory",
-                "Algebra",
-                "Algèbre",
-                "Théorie des nombres",
-                "algebra",
-                "Álgebra",
-                "Teoría de los números",
+                "Geometry, Riemannian",
+                "Generalized spaces",
+                "Riemannian manifolds",
+                "Géométrie de Riemann",
+                "Espaces généralisés",
+                "Variétés de Riemann",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1611480971",
-            "title": "Numbers from all angles",
-            "creator": "J. J. P. Veerman",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032100009",
-                "3032100003"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Number theory",
-                "Théorie des nombres",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1611480896",
-            "title": "Computer algebra in scientific computing : 28th International Workshop, CASC 2026, Bath, UK, August 31-September 4, 2026, Proceedings",
-            "creator": "International Workshop on Computer Algebra in Scientific Computing",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032345868",
-                "3032345863"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Algebra Data processing Congresses",
-                "Science Data processing Congresses",
-                "Computer science Mathematics Congresses",
-                "Sciences Informatique Congrès",
-                "Informatique Mathématiques Congrès"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1611878311",
-            "title": "Integrable peakon systems",
-            "creator": "Zhijun Qiao",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032177797",
-                "3032177790"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Integral equations",
-                "Mathematical physics",
-                "Équations intégrales",
-                "Physique mathématique",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1611877577",
-            "title": "Methusalem Seminars at Ghent Analysis and PDE Center : extended abstracts 2023/2024",
-            "creator": "David Santiago Gomez Cobos",
+            "oclcNumber": "1614914818",
+            "title": "Advances in dynamic games : theory, experiments, and applications",
+            "creator": "Guiomar Martín-Herrán",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Birkhäuser",
             "isbns": [
-                "9783032224934",
-                "3032224934"
+                "9783032227621",
+                "3032227623"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Differential equations, Partial",
-                "Équations aux dérivées partielles",
-                "Electronic books"
+                "Game theory Congresses",
+                "Dynamics Congresses",
+                "Game theory",
+                "Game Theory",
+                "Théorie des jeux Congrès",
+                "Dinámica",
+                "Teoría de juegos",
+                "Dynamics",
+                "Electronic books",
+                "Conference Proceedings",
+                "proceedings (reports)",
+                "Conference papers and proceedings",
+                "Actes de congrès"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1611130682",
-            "title": "Zariski dense subgroups, number theory and geometric applications : research articles",
-            "creator": "Gopal Prasad",
+            "oclcNumber": "1614913019",
+            "title": "A course on function spaces. I, Continuous and integrable functions",
+            "creator": "Dominic Breit",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9789819534425",
-                "9819534429"
+                "9783030806439",
+                "303080643X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Number theory",
-                "Algebra",
-                "Algèbre",
-                "Théorie des nombres",
-                "algebra",
-                "Álgebra",
-                "Teoría de los números",
-                "Electronic books"
+                "Function spaces",
+                "Espaces fonctionnels",
+                "Electronic books",
+                "textbooks",
+                "Textbooks",
+                "Manuels d'enseignement supérieur"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1611115544",
-            "title": "Backward stochastic Volterra integral equations",
-            "creator": "Tianxiao Wang",
+            "oclcNumber": "1614767130",
+            "title": "New trends in the applications of differential equations in sciences : NTADES 2025, Saints Constantine and Helena, Bulgaria, September 1-4",
+            "creator": "New Trends in the Applications of Differential Equations in Sciences",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032208484",
-                "3032208483"
+                "9783032170712",
+                "3032170710"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Volterra equations",
-                "Équations de Volterra",
-                "Electronic books"
+                "Differential equations Congresses",
+                "Mathematical analysis Congresses",
+                "Mathematical physics Congresses",
+                "Équations différentielles Congrès",
+                "Analyse mathématique Congrès",
+                "Physique mathématique Congrès"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1613089510",
-            "title": "Archimedes, the art of measurement",
-            "creator": "Marco Andreatta",
+            "oclcNumber": "1614766766",
+            "title": "The least square solution to an overdetermined system : theory and applications",
+            "creator": "Takashi Takiguchi",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032268693",
-                "3032268699"
+                "9789819200641",
+                "9819200644"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Archimedes",
-                "Measurement",
-                "Mesure",
-                "measuring",
-                "Electronic books"
+                "Least squares",
+                "Algebras, Linear",
+                "Algèbre linéaire"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1610464673",
-            "title": "Rough sets : International Joint Conference, IJCRS 2026, Cádiz, Spain, May 26-29, 2026, Proceedings",
-            "creator": "International Joint Conference on Rough Sets",
-            "date": "2027",
+            "oclcNumber": "679947",
+            "title": "What is mathematical logic?",
+            "creator": "John N. Crossley",
+            "date": "1972",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Oxford University Press",
+            "isbns": [
+                "9780198880875",
+                "0198880871",
+                "9780198850878",
+                "0198850875",
+                "0486264041",
+                "9780486264042"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Logic, Symbolic and mathematical",
+                "Logique symbolique et mathématique",
+                "31.10 logic, set theory",
+                "Mathematical logic"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1613506825",
+            "title": "ADVANCES IN DYNAMICS AND CONTROL OF FRACTIONAL DISCRETE TIME SYSTEMS : theories",
+            "creator": "",
+            "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Springer",
+            "publisher": "ELSEVIER ACADEMIC PRESS",
             "isbns": [
-                "9783032302281",
-                "3032302285"
+                "9780443450396",
+                "0443450390"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Rough sets Congresses",
-                "Ensembles approximatifs Congrès",
+                "Discrete-time systems"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1426007499",
+            "title": "MATEMATICAS AVANZADAS APLICADAS PARA INGENIERIA",
+            "creator": "EDUARDO MARLES SAENZ",
+            "date": "2024",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "PROGRAMA EDITORIAL UNIVER",
+            "isbns": [
+                "9585070812",
+                "9789585070813"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Análisis funcional",
+                "Matemáticas para ingenieros",
+                "Transformadas",
+                "Libros electrónicos"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1425804648",
+            "title": "ECUACIONES DIFERENCIALES PARCIALES",
+            "creator": "OMAR AGUILAR LORETO; JOSE ANTONIO MUNOZ GOMEZ",
+            "date": "2016",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "EDITORIAL UNIVERSIDAD DE",
+            "isbns": [
+                "6077425788",
+                "9786077425786"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Differential equations",
+                "Differential equations, Partial"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1535956236",
+            "title": "ESTADISTICA BAYESIANA, ANALISIS DE COMPONENTES PRINCIPALES Y FACTORIAL APLICADO A LA INVESTIGACION CIENTIFICA",
+            "creator": "RICARDO MARTIN GOMEZ ARCE; VICTOR HUMBERTO MATTOS",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "EDITORIAL MAR CARIBE",
+            "isbns": [
+                "9915698127",
+                "9789915698120"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Bayesian statistical decision theory",
+                "Principal components analysis"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1536453552",
+            "title": "To think like a statistician",
+            "creator": "Bradley Efron",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9780691245829",
+                "0691245827"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Statistics Popular works",
+                "Statistique Ouvrages de vulgarisation",
+                "Statistics",
+                "Popular works"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "47191786",
+            "title": "Teaching mathematics and its applications : an international journal of the IMA",
+            "creator": "Institute of Mathematics and Its Applications",
+            "date": "1982",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press on behalf of Institute of Mathematics and Its Applications",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Mathematics Study and teaching (Secondary) Periodicals",
+                "Mathematics Study and teaching (Secondary)",
+                "Apprentissage des mathématiques",
+                "Enseignement des mathématiques",
+                "Enseignement secondaire",
+                "Enseignement supérieur",
+                "Electronic journals",
+                "Periodicals",
+                "Périodique électronique (Descripteur de forme)",
+                "Ressource Internet (Descripteur de forme)"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "41964257",
+            "title": "IMA journal of applied mathematics",
+            "creator": "Institute of Mathematics and Its Applications",
+            "date": "1981",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Mathematics Periodicals",
+                "Mathematics",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "38403262",
+            "title": "Logic journal of the IGPL",
+            "creator": "Interest Group in Pure and Applied Logics",
+            "date": "1997-",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Logic, Symbolic and mathematical Periodicals",
+                "Logique symbolique et mathématique Périodiques",
+                "Mathematical Logic",
+                "Logic, Symbolic and mathematical",
+                "Logik",
+                "Zeitschrift",
+                "Online-Ressource",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "847369604",
+            "title": "Euler's Gem : the Polyhedron Formula and the Birth of Topology",
+            "creator": "David S. Richeson",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400838561",
+                "1400838568",
+                "9780691154572",
+                "0691154570"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematics",
+                "Polyhedra",
+                "Topology History",
+                "Mathématiques",
+                "MATHEMATICS / Geometry / General",
+                "MATHEMATICS / History & Philosophy",
+                "MATHEMATICS / Topology"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1552153152",
+            "title": "Optimization and learning via stochastic gradient search",
+            "creator": "Felisa Vázquez-Abad",
+            "date": "2025",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9780691245874",
+                "0691245878"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Mathematical optimization",
+                "Stochastic processes",
+                "Optimisation mathématique",
+                "Processus stochastiques",
+                "Applied",
+                "Stochastic Processes",
+                "Probability & Statistics",
+                "MATHEMATICS",
+                "Optimization",
                 "Electronic books"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1611789448",
-            "title": "Lebesgue's Theory of Singular Integrals Foundations of Modern Harmonic Analysis",
+            "oclcNumber": "823170151",
+            "title": "The geometry and topology of coxeter groups",
+            "creator": "Michael Davis",
+            "date": "©2008",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400845941",
+                "1400845947",
+                "1283851288",
+                "9781283851282"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Coxeter groups",
+                "Geometric group theory",
+                "Groupes de Coxeter",
+                "Théorie géométrique des groupes",
+                "MATHEMATICS Group Theory",
+                "MATHEMATICS Geometry General",
+                "Coxeter-Gruppe",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1475887179",
+            "title": "Dimension Theory",
+            "creator": "Witold Hurewicz",
+            "date": "1941",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400875665",
+                "1400875668"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Dimension theory (Topology)",
+                "Topology",
+                "Théorie de la dimension (Topologie)",
+                "Topologie",
+                "MATHEMATICS",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "778432717",
+            "title": "Hadamard matrices and their applications",
+            "creator": "K. J. Horadam",
+            "date": "2007",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400842902",
+                "1400842905"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Hadamard matrices",
+                "Matrices d'Hadamard",
+                "Applied",
+                "Matrices",
+                "MATHEMATICS",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "630532038",
+            "title": "The Equations : Icons of Knowledge",
+            "creator": "Sander Bais",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Amsterdam University Press",
+            "isbns": [
+                "9789048505395",
+                "9048505399",
+                "9786612631085",
+                "6612631082",
+                "9048520126",
+                "9789048520121"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Equations, Theory of",
+                "Logic, Symbolic and mathematical",
+                "Théorie des équations",
+                "Logique symbolique et mathématique",
+                "Science: general issues",
+                "Physics",
+                "MATHEMATICS Calculus",
+                "MATHEMATICS Mathematical Analysis",
+                "HISTORY / Europe / Western",
+                "Electronic books",
+                "Amsterdam University Press",
+                "AUP",
+                "Science, Medicine, and Technology",
+                "STEM",
+                "Science and Technology",
+                "SC & TECH",
+                "AUP Algemeen",
+                "AUP ALGEMEEN",
+                "MTH"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "948756256",
+            "title": "Étale cohomology",
+            "creator": "J. S. Milne",
+            "date": "1980",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400883981",
+                "1400883989",
+                "9780691273778",
+                "0691273774"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Geometry, Algebraic",
+                "Homology theory",
+                "Sheaf theory",
+                "Géométrie algébrique",
+                "Homologie",
+                "Théorie des faisceaux",
+                "MATHEMATICS Topology",
+                "Etalkohomologie",
+                "Cohomologie",
+                "Algebraïsche topologie",
+                "Electronic books",
+                "Abelian category",
+                "Abelian group",
+                "Adjoint functors",
+                "Affine variety",
+                "Alexander Grothendieck",
+                "Algebraic closure",
+                "Algebraic cycle",
+                "Algebraic equation",
+                "Algebraic space",
+                "Algebraically closed field",
+                "Artinian",
+                "Automorphism",
+                "Base change",
+                "Brauer group",
+                "CW complex",
+                "Cardinal number",
+                "Category of sets",
+                "Central simple algebra",
+                "Chow's lemma",
+                "Closed immersion",
+                "Codimension",
+                "Cohomology ring",
+                "Cohomology",
+                "Cokernel",
+                "Commutative diagram",
+                "Complex number",
+                "Dedekind domain",
+                "Derived category",
+                "Diagram (category theory)",
+                "Direct limit",
+                "Discrete valuation ring",
+                "Divisor",
+                "Epimorphism",
+                "Equivalence class",
+                "Existential quantification",
+                "Fibration",
+                "Field of fractions",
+                "Fine topology (potential theory)",
+                "Finite field",
+                "Finite morphism",
+                "Flat morphism",
+                "Functor",
+                "Fundamental class",
+                "Fundamental group",
+                "G-module",
+                "Galois cohomology",
+                "Galois extension",
+                "Galois group",
+                "Generic point",
+                "Group scheme",
+                "Gysin sequence",
+                "Henselian ring",
+                "Identity element",
+                "Inclusion map",
+                "Integral domain",
+                "Intersection (set theory)",
+                "Inverse limit",
+                "Invertible sheaf",
+                "Isomorphism class",
+                "Lefschetz pencil",
+                "Local ring",
+                "Maximal ideal",
+                "Module (mathematics)",
+                "Morphism of schemes",
+                "Morphism",
+                "Noetherian",
+                "Open set",
+                "Power series",
+                "Presheaf (category theory)",
+                "Prime ideal",
+                "Prime number",
+                "Principal homogeneous space",
+                "Profinite group",
+                "Projection (mathematics)",
+                "Projective variety",
+                "Quasi-compact morphism",
+                "Residue field",
+                "Riemann surface",
+                "Sheaf (mathematics)",
+                "Sheaf of modules",
+                "Special case",
+                "Spectral sequence",
+                "Stein factorization",
+                "Subalgebra",
+                "Subcategory",
+                "Subgroup",
+                "Subring",
+                "Subset",
+                "Surjective function",
+                "Tangent space",
+                "Theorem",
+                "Topological space",
+                "Topology",
+                "Torsion sheaf",
+                "Torsor (algebraic geometry)",
+                "Vector bundle",
+                "Weil conjecture",
+                "Yoneda lemma",
+                "Zariski topology",
+                "Zariski's main theorem"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "795331143",
+            "title": "Alan Turing : the enigma",
+            "creator": "Andrew Hodges",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400844975",
+                "1400844975",
+                "9781448137817",
+                "1448137810"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Turing, Alan, 1912-1954",
+                "Turing, Alan Mathison / 1912-1954",
+                "Mathematicians Great Britain Biography",
+                "Mathématiciens Grande-Bretagne Biographies",
+                "Second World War",
+                "Coding theory & cryptology",
+                "Artificial intelligence",
+                "BIOGRAPHY & AUTOBIOGRAPHY Science & Technology",
+                "MATHEMATICS History & Philosophy",
+                "COMPUTERS History",
+                "Mathematicians",
+                "Matematiker",
+                "Great Britain",
+                "Biography",
+                "Biographies"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1018307593",
+            "title": "Linear systems theory",
+            "creator": "João P. Hespanha",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "140089008X",
+                "9781400890088"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Linear systems Textbooks",
+                "System analysis Textbooks",
+                "Systèmes linéaires Manuels d'enseignement supérieur",
+                "Analyse de systèmes Manuels d'enseignement supérieur",
+                "SCIENCE System Theory",
+                "TECHNOLOGY & ENGINEERING Operations Research",
+                "MATHEMATICS Applied",
+                "Linear systems",
+                "System analysis",
+                "Textbooks"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "757991383",
+            "title": "Cycles, Transfers and Motivic Homology Theories",
+            "creator": "Vladimir Voevodsky",
+            "date": "April 2000",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press California Princeton Fulfillment Services [distributor]",
+            "isbns": [
+                "9780691048154",
+                "0691048150",
+                "140083712X",
+                "9781400837120",
+                "0691048142",
+                "9780691048147"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Algebraic cycles",
+                "Homology theory",
+                "Sheaf theory",
+                "Homologie",
+                "Théorie des faisceaux",
+                "Cycles algébriques",
+                "31.51 algebraic geometry",
+                "Algebraische Geometrie",
+                "Homologietheorie",
+                "Cohomologie",
+                "K-theorie",
+                "Faisceaux, Théorie des"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "852899130",
+            "title": "The universe in zero words : the story of mathematics as told through equations",
+            "creator": "Dana Mackenzie",
+            "date": "2012",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400841684",
+                "1400841682"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Equations Popular works",
+                "Mathematics History Popular works",
+                "Équations Ouvrages de vulgarisation",
+                "Mathématiques Histoire Ouvrages de vulgarisation",
+                "MATHEMATICS Algebra Elementary",
+                "SCIENCE Physics General",
+                "Equations",
+                "Mathematics",
+                "History",
+                "Popular works"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "852898983",
+            "title": "Infinity and the mind : the science and philosophy of the infinite",
+            "creator": "Rudy v. B. Rucker",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400849048",
+                "1400849047"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Logic, Symbolic and mathematical",
+                "Set theory",
+                "Infinite",
+                "Logique symbolique et mathématique",
+                "Théorie des ensembles",
+                "Infini",
+                "infinity",
+                "PHILOSOPHY Metaphysics",
+                "MATHEMATICS Infinity"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "903955603",
+            "title": "The calculus gallery : masterpieces from Newton to Lebesgue",
+            "creator": "William Dunham",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Princeton University Press",
+            "isbns": [
+                "9781400866793",
+                "1400866790",
+                "1322775710",
+                "9781322775715",
+                "0691095655",
+                "9780691095653"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Calculus History",
+                "Calcul infinitésimal Histoire",
+                "Calculus",
+                "Analysis",
+                "Analyse (wiskunde)",
+                "History",
+                "Geschichte 1650-1950"
+            ]
+        },
+        {
+            "topic": "36000000",
+            "oclcNumber": "1612934054",
+            "title": "Lebesgue's theory of singular integrals : foundations of modern harmonic analysis",
             "creator": "Rahul Jain",
             "date": "2026",
             "language": "eng",
@@ -1206,910 +2156,51 @@
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610531283",
-            "title": "New frontiers in homogenization and fractional calculus",
-            "creator": "Joaquim Duran i Lamiel",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Birkhäuser",
-            "isbns": [
-                "9783032200983",
-                "3032200989"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Homogenization (Differential equations) Congresses",
-                "Fractional calculus Congresses",
-                "Dérivées fractionnaires Congrès"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610531142",
-            "title": "Choquet integral and monotone sublinear operators",
-            "creator": "Sorin G. Gal",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Birkhäuser",
-            "isbns": [
-                "9783031717017",
-                "3031717015"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Integral operators",
-                "Monotone operators",
-                "Opérateurs intégraux",
-                "Opérateurs monotones"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610521574",
-            "title": "Reals by abstraction : an inquiry about epistemic economy in mathematics. Volume II, The real numbers",
-            "creator": "Marco Panza",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032004314",
-                "3032004314"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Philosophy",
-                "Numbers, Real",
-                "Mathématiques Philosophie",
-                "Nombres réels"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1610521314",
-            "title": "Logic, language, information, and computation : 32nd International Workshop, WoLLIC 2026, Lima, Peru, August 3-6, 2026, Proceedings",
-            "creator": "Workshop on Logic, Language, Information and Computation",
-            "date": "2027",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032334862",
-                "3032334861"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Logic, Symbolic and mathematical Congresses",
-                "Language and logic Congresses",
-                "Logique symbolique et mathématique Congrès",
-                "Langage et logique Congrès",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1612235613",
-            "title": "OpenIntro statistics",
-            "creator": "David M. Diez",
-            "date": "2023",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "[OpenIntro]",
-            "isbns": [
-                "9781943450268",
-                "1943450269"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Statistics Textbooks",
-                "Textbooks"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1612057940",
-            "title": "Teaching and learning mathematics with meaning : using and applying TIMSS",
-            "creator": "Jennie Golding",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032353528",
-                "3032353521"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Study and teaching",
-                "Mathématiques Étude et enseignement",
-                "Matemáticas Estudio y enseñanza",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1609316481",
-            "title": "Periodic elliptic partial differential operators : the main structures",
-            "creator": "Peter Kuchment",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009282451",
-                "100928245X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Elliptic operators",
-                "Partial differential operators",
-                "Opérateurs elliptiques",
-                "Opérateurs différentiels partiels"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1570339005",
-            "title": "Extremal graph and hypergraph theory : with Ramsey theory",
-            "creator": "Dhruv Mubayi",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009585835",
-                "1009585835",
-                "9781009585859",
-                "1009585851"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Extremal problems (Mathematics)",
-                "Graph theory",
-                "Hypergraphs",
-                "Ramsey theory",
-                "Problèmes extrémaux (Mathématiques)",
-                "Hypergraphes",
-                "Théorie de Ramsey"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1596676450",
-            "title": "Birational geometry and Manin's conjecture",
-            "creator": "Shō Tanimoto",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009611640",
-                "100961164X",
-                "9781009611619",
-                "1009611615"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Geometry, Algebraic",
-                "Géométrie algébrique",
-                "Geometría algebraica",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1596676704",
-            "title": "Modern statistical methods and theory : an introduction to nonparametric and high-dimensional statistics",
-            "creator": "Richard J. Samworth",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009160421",
-                "1009160427"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical statistics",
-                "Machine learning",
-                "Nonparametric statistics",
-                "Machine Learning",
-                "Statistics, Nonparametric",
-                "Statistique mathématique",
-                "Apprentissage automatique",
-                "Statistique non paramétrique",
-                "Estadística matemática",
-                "Aprendizaje automático",
-                "Estadística no paramétrica"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1573019666",
-            "title": "Optimization a bootcamp for machine learning, inverse problems, and control",
-            "creator": "Steven L. Brunton",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009755856",
-                "1009755854",
-                "9781009755849",
-                "1009755846"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Optimización matemática",
-                "Aprendizaje automático",
-                "Optimización matemática Proceso de datos",
-                "Mathematical optimization",
-                "Mathematical optimization Data processing",
-                "Machine learning",
-                "Inverse problems (Differential equations)",
-                "Problèmes inverses (Équations différentielles)",
-                "Apprentissage automatique",
-                "Optimisation mathématique"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1591602382",
-            "title": "Philosophy of mathematics after Wittgenstein",
-            "creator": "Sorin Bangu",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009574891",
-                "1009574892",
-                "9781009574945",
-                "1009574949"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Wittgenstein, Ludwig, 1889-1951 Influence",
-                "Mathematics Philosophy",
-                "Proof theory",
-                "Mathématiques Philosophie",
-                "Théorie de la preuve"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1591565153",
-            "title": "Effective metric structure theory",
-            "creator": "Johanna N.Y. Franklin",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
-            "isbns": [
-                "9783032133212",
-                "3032133211"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Metric spaces",
-                "Computable functions",
-                "Recursion theory",
-                "Fonctions calculables",
-                "Théorie de la récursivité",
-                "Espaces métriques",
-                "Algebra Data processing",
-                "Functional analysis"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1250079202",
-            "title": "Teaching math with examples",
-            "creator": "Michael Pershan",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "John Catt Educational, Ltd",
-            "isbns": [
-                "9781914351051",
-                "1914351053",
-                "9781914351044",
-                "1914351045"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Study and teaching",
-                "Mathématiques Étude et enseignement"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "259266137",
-            "title": "The Drunkard's walk : how randomness rules our lives",
-            "creator": "Leonard Mlodinow",
-            "date": "2009",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Pantheon Books",
-            "isbns": [
-                "9780307275172",
-                "0307275175"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Random variables",
-                "Probabilities",
-                "Chance",
-                "Probability",
-                "Variables aléatoires",
-                "Probabilités",
-                "Hasard",
-                "probability",
-                "Informational works",
-                "Documents d'information"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "990234295",
-            "title": "Moving math : how to use thinking skills to help students make sense of mathematical concepts and support numeracy development",
-            "creator": "Mary Fiore",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Pembroke Publishers",
-            "isbns": [
-                "9781551389257",
-                "1551389258"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Study and teaching (Elementary)",
-                "Numeracy Study and teaching (Elementary)",
-                "Critical thinking Study and teaching (Elementary)",
-                "Numératie Étude et enseignement (Primaire)",
-                "Pensée critique Étude et enseignement (Primaire)"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "923343217",
-            "title": "Mastering data analysis with R : gain clear insights into your data and solve real-world data science problems with R - from data munging to modeling and visualization",
-            "creator": "Gergely Daroczi",
-            "date": "2015",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Packt Publishing",
-            "isbns": [
-                "1783982039",
-                "9781783982035",
-                "9781783982028",
-                "1783982020"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "R (Computer program language)",
-                "Statistics Data processing",
-                "R (Langage de programmation)",
-                "Statistique Informatique",
-                "MATHEMATICS Applied",
-                "MATHEMATICS Probability & Statistics General"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1202616817",
-            "title": "Calculus : early transcendentals",
-            "creator": "James Stewart",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Cengage",
-            "isbns": [
-                "9781337613927",
-                "1337613924",
-                "9780357022290",
-                "0357022297"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Calculus Textbooks",
-                "Calculus",
-                "Textbooks"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1584385388",
-            "title": "Functional analysis : theory and applications",
-            "creator": "Ravi P. Agarwal",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443331756",
-                "0443331758"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Functional analysis",
-                "Analyse fonctionnelle"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1559037763",
-            "title": "An introduction to point-set topology : a hybrid Texas style approach",
-            "creator": "Shelby J. Kilmer",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443414022",
-                "0443414025"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Topology",
-                "Topologie"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1567032534",
-            "title": "LEARNING-DRIVEN GAME THEORY FOR AI : concepts, models, and applications",
-            "creator": "",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "MORGAN KAUFMANN",
-            "isbns": [
-                "9780443438530",
-                "0443438536"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Artificial intelligence",
-                "Game theory Data processing",
-                "Intelligence artificielle",
-                "artificial intelligence"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1570339173",
-            "title": "Trigonometry : from theory to application",
-            "creator": "João Ricardo Branco",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443445118",
-                "0443445117"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Trigonometry",
-                "Trigonométrie",
-                "trigonometry",
-                "Textbooks"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1570339001",
-            "title": "Introduction to fuzzy mathematics : with applications to global problems",
-            "creator": "John N. Mordeson",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press, an imprint of Elsevier",
-            "isbns": [
-                "9780443440984",
-                "0443440980"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Fuzzy mathematics",
-                "Mathématiques floues"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1559964520",
-            "title": "Implementing R for statistics",
-            "creator": "Muhammad Imran",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443383229",
-                "0443383227"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "R (Computer program language) Statistical methods",
-                "Statistics Data processing",
-                "R (Langage de programmation) Méthodes statistiques",
-                "Statistique Informatique",
-                "Statistique",
-                "statistics",
-                "R (Computer program language)"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1545082186",
-            "title": "Spatial statistics and analysis : techniques and applications",
-            "creator": "Anzhelika Antipova",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443248016",
-                "044324801X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Spatial analysis (Statistics)",
-                "Analyse spatiale (Statistique)",
-                "spatial analysis"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1569674874",
-            "title": "Fundamentals of statistics for researchers and data analysts",
-            "creator": "Shashi A. Chiplonkar",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Morgan Kaufmann",
-            "isbns": [
-                "0443447527",
-                "9780443447525"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Statistics Methodology",
-                "Statistics",
-                "Statistique Méthodologie",
-                "Statistique",
-                "statistics"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1569675118",
-            "title": "Extended hypergeometric functions and orthogonal polynomials",
-            "creator": "Praveen Agarwal",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443364853",
-                "0443364850"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Hypergeometric functions",
-                "Numerical analysis Computer programs",
-                "Orthogonal polynomials",
-                "Fonctions hypergéométriques",
-                "Polynômes orthogonaux"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1570421320",
-            "title": "Measure and integration : concepts, examples, and applications",
-            "creator": "Ahmed Ghatasheh",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press, an imprint of Elsevier",
-            "isbns": [
-                "9780443273919",
-                "044327391X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematical analysis",
-                "Analyse mathématique",
-                "Textbooks"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1584385967",
-            "title": "Stochastic analysis and control in energy, environmental and resource management applications",
-            "creator": "Hidekazu Yoshioka",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443329272",
-                "0443329273"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Stochastic analysis",
-                "Stochastic control theory",
-                "Analyse stochastique",
-                "Commande stochastique"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1101074183",
-            "title": "Statistical case studies  : a collaboration between academe and industry",
-            "creator": "Roxy Peck",
-            "date": "©1998",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Society for Industrial and Applied Mathematics ; American Statistical Association",
-            "isbns": [
-                "0898714133",
-                "9780898714135"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Statistics Case studies",
-                "Statistique Études de cas",
-                "Statistics",
-                "Case studies"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1548249246",
-            "title": "EVENT-DRIVEN STATE ESTIMATION FOR STOCHASTIC NETWORKED SYSTEMS",
-            "creator": "CONG HUANG",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443450150",
-                "0443450153"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Stochastic systems",
-                "Systèmes stochastiques"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1564130648",
-            "title": "An introduction to writing mathematical proofs : shifting gears from calculus to advanced mathematics",
-            "creator": "Thomas Bieske",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443439254",
-                "0443439257"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Authorship"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1609863604",
-            "title": "Japan-Korea developments in pure and applied mathematics : MSJ-KMS Joint Meeting, Sendai, Japan, September 19, 2023",
-            "creator": "MSJ-KMS Joint Meeting",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819585694",
-                "9819585694"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mathematics Congresses",
-                "Mathematics",
-                "Mathématiques",
-                "Mathématiques Congrès",
-                "Matemáticas",
-                "Electronic books",
-                "Conference Proceedings",
-                "proceedings (reports)",
-                "Conference papers and proceedings",
-                "Actes de congrès",
-                "Conferencias"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1609859037",
-            "title": "Exploring information geometry : recent advances and connections to topological field theory",
-            "creator": "Noémie C. Combe",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Birkhäuser",
-            "isbns": [
-                "9783032230546",
-                "3032230543"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Geometrical models in statistics",
-                "Topological fields",
-                "Modèles géométriques en statistiques",
-                "Corps topologiques",
-                "Topología algebraica",
-                "Algebraic topology",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1534177358",
-            "title": "Connecting history to secondary school mathematics : an investigation into mathematical intentions, then and now",
-            "creator": "David J. Carrejo",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Springer Nature Switzerland",
-            "isbns": [
-                "3032062187",
-                "9783032062185"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Mathematics Study and teaching (Secondary) History",
-                "Mathematics Study and teaching (Secondary)",
-                "History"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1564377945",
-            "title": "Representation theory and C*-algebras",
-            "creator": "Ali Baklouti",
-            "date": "2027",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "CRC Press, Taylor & Francis Group",
-            "isbns": [
-                "9781041162230",
-                "1041162235",
-                "9781041166627",
-                "1041166621"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Representations of Lie groups",
-                "C*-algebras",
+                "Singular integrals",
                 "Harmonic analysis",
-                "Représentations des groupes de Lie",
-                "C*-algèbres",
-                "Analyse harmonique",
-                "Representations of algebras"
+                "Intégrales singulières",
+                "Analyse harmonique"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1602628232",
-            "title": "A guide to generalized functions : linear, nonlinear, random, and infinite dimensional distributions",
-            "creator": "Uluğ Çapar",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Birkhäuser, an imprint of Springer Nature Switzerland",
-            "isbns": [
-                "9783032091833",
-                "3032091837"
-            ],
-            "newFormat": "Print Book",
+            "oclcNumber": "1430487924",
+            "title": "Mogilânsʹkij matematičnij žurnal",
+            "creator": "Nat︠s︡ionalʹnyĭ universytet \"Kyi︠e︡vo-Mohyli︠a︡nsʹka akademii︠a︡.\"",
+            "date": "2018",
+            "language": "rus",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "National University of Kyiv-Mohyla Academy, Faculty of Humanities",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Functions",
-                "Theory of distributions (Functional analysis)",
-                "Fonctions (Mathématiques)",
-                "Théorie des distributions (Analyse fonctionnelle)",
-                "functions (mathematics)"
+                "Mathematics Periodicals",
+                "Mathematics",
+                "Periodicals"
             ]
         },
         {
             "topic": "36000000",
-            "oclcNumber": "1595732801",
-            "title": "Proceedings of the 2026 5th International Conference on Social Sciences and Humanities and Arts (SSHA 2026)",
-            "creator": "Soraya Garcia-Esteban",
+            "oclcNumber": "1612942620",
+            "title": "Differential geometry and group theory",
+            "creator": "Alessio Zaccone",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Atlantis Press (Zeger Karssen)",
+            "publisher": "Springer",
             "isbns": [
-                "9782384765775",
-                "2384765779"
+                "9783032275189",
+                "3032275180"
             ],
             "newFormat": "eBook",
             "subjects": [
+                "Geometry, Differential",
+                "Group theory",
+                "Géométrie différentielle",
+                "Théorie des groupes",
                 "Electronic books"
-            ]
-        },
-        {
-            "topic": "36000000",
-            "oclcNumber": "1506583352",
-            "title": "Advances in cluster detection via order statistics, renewal processes and model selection methods with applications to financial forensic statistics",
-            "creator": "Kwabena Ansong Boateng",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "Mississippi State University",
-            "isbns": "",
-            "newFormat": "Thesis, Dissertation",
-            "subjects": [
-                "dissertations",
-                "Academic theses",
-                "Thèses et écrits académiques",
-                "Cluster;Concentrates;Minimum description length;Order statistics;Renewal process;Segmentation model",
-                "Concentrates",
-                "Minimum description length",
-                "Order statistics",
-                "Renewal process",
-                "Segmentation model"
             ]
         }
     ]
