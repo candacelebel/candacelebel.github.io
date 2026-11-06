@@ -1,756 +1,64 @@
 {
-    "period": "September 2026",
-    "updated": "As of 02 October 2026",
+    "period": "October 2026",
+    "updated": "As of 05 November 2026",
     "records": [
         {
             "topic": "10000000",
-            "oclcNumber": "1197677001",
-            "title": "VALPARAISO /  : un balcón urban = an urban balcony",
-            "creator": "Rodrigrigo Pérez de Arce Antoncich",
-            "date": "2019",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "EDICIONES UC",
-            "isbns": [
-                "9561424479",
-                "9789561424470"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Landscape architecture Chile",
-                "Architecture du paysage Chili",
-                "Landscape architecture",
-                "Valparaíso (Chile)",
-                "Chile",
-                "Chile Valparaíso"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1615938247",
-            "title": "Advances in Remote Sensing for Forest Fire Management : Technologies, Applications, Case Studies and Future Directions",
-            "creator": "Carmen Quintano",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443416934",
-                "0443416931"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Forest fires Remote sensing",
-                "Forest fires Prevention and control",
-                "Forest fires",
-                "Fire management",
-                "Forêts Incendies Télédétection",
-                "Forêts Incendies Prévention et maîtrise",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1617746578",
-            "title": "Aquaculture mycology and bacteriology",
-            "creator": "Frederick S. B. Kibenge",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780128123591",
-                "0128123591"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Aquaculture",
-                "Aquatic animals Microbiology",
-                "Aquatic animals Diseases",
-                "Mycology",
-                "Bacteriology, Agricultural",
-                "Aquacultural engineering",
-                "Faune aquatique Microbiologie",
-                "Faune aquatique Maladies",
-                "Mycologie",
-                "Bactériologie agricole"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1559962719",
-            "title": "Phytotoxicity of organic pollutants : impacts and management",
-            "creator": "Golam Jalal Ahammed",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443331114",
-                "0443331111"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Phytotoxins",
-                "Plants Effect of pollution on",
-                "Phytotoxines",
-                "Plantes Effets de la pollution sur"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1012790999",
-            "title": "Malaysian journal of animal science",
-            "creator": "Malaysian Society of Animal Production",
-            "date": "1995",
+            "oclcNumber": "1346797254",
+            "title": "International journal of agricultural sustainability",
+            "creator": "",
+            "date": "2003-",
             "language": "eng",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Malaysian Society of Animal Production",
+            "publisher": "Channel View publications",
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Animal culture Malaysia Periodicals",
-                "Animal culture Tropics Periodicals",
-                "Animal culture Periodicals",
-                "Animal breeding Malaysia Periodicals",
-                "Animal breeding Tropics Periodicals",
-                "Animal breeding Periodicals",
-                "Animal nutrition Malaysia Periodicals",
-                "Animal nutrition Tropics Periodicals",
-                "Animal nutrition Periodicals",
-                "Animal breeding",
-                "Animal culture",
-                "Animal nutrition",
-                "Malaysia",
-                "Tropics",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616497665",
-            "title": "Next-generation maize research",
-            "creator": "Mukesh Choudhary",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819207220",
-                "9819207223"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Corn",
-                "Maïs",
-                "corn (seed)"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616482301",
-            "title": "Biologization and sustainable development of agriculture : proceedings of the sixth International Conference on Agriculture Digitalization and Organic Production (ADOP 2026). Volume 2",
-            "creator": "International Conference on Agriculture Digitalization and Organic Production",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032350060",
-                "3032350069"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Agricultural innovations Congresses",
-                "Agriculture Automation Congresses",
-                "Organic farming Congresses",
-                "Sustainable agriculture Congresses",
-                "Agriculture Automatisation Congrès",
-                "Agriculture biologique Congrès",
-                "Agriculture durable Congrès",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616469810",
-            "title": "Future perspectives in broiler rearing : incorporating the broiler point of view",
-            "creator": "Henry van den Brand",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Burleigh Dodds Science Publishing",
-            "isbns": [
-                "9781835451519",
-                "1835451519",
-                "9781835451502",
-                "1835451500"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Broilers (Chickens)",
-                "Poulets à griller"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616469734",
-            "title": "Developing alternative animal feed ingredients",
-            "creator": "Nico van Belzen",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Burleigh Dodds Science Publishing Limited",
-            "isbns": [
-                "9781835452127",
-                "1835452124",
-                "9781835452110",
-                "1835452116"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Animal feeding",
-                "Animal nutrition",
-                "Animaux Alimentation"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "771231673",
-            "title": "Continuous Cover Forestry",
-            "creator": "Timo Pukkala",
-            "date": "2012",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer Science+Business Media B.V.",
-            "isbns": [
-                "9789400722026",
-                "9400722028",
-                "1283454777",
-                "9781283454773"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Life sciences",
-                "Forests and forestry",
-                "Environmental management",
-                "Nature conservation",
-                "Environmental economics",
-                "Forest management",
-                "Operations Research/Decision Theory",
-                "Sciences de la vie",
-                "Environnement Gestion",
-                "Nature Conservation",
-                "Économie de l'environnement",
-                "Forêts Gestion",
-                "biological sciences",
-                "environmental control",
-                "GARDENING Fruit",
-                "TECHNOLOGY & ENGINEERING Agriculture General",
-                "Forestry",
-                "Forestry Management",
-                "Environmental Management",
-                "Environmental Economics",
-                "Life Sciences"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1396936514",
-            "title": "Das Fleisch der Republik : Ein Lebensmittel und Die Entstehung der Modernen Landwirtschaft in Westdeutschland 1950-1990",
-            "creator": "Karl Christian Führer",
-            "date": "2022",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Walter de Gruyter GmbH",
-            "isbns": [
-                "3110794144",
-                "9783110794144"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "HISTORY / Europe / Germany",
-                "Consumerism",
-                "animal breeding",
-                "animal husbandry",
-                "retail"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1564484981",
-            "title": "Modelos matematicos sobre requerimientos de agua para los cultivos de papa, alverja, maiz y cebada",
-            "creator": "Zagalo Enrique Suarez|Delgado, Omaida Sepulveda|Gutierrez, Nelsy Rocio Gonzalez|Espitia, Lida Esperanza Riscanevo|Mesa, Miguel Patarroyo|Camargo, Luis Carlos Canaria Aguilar",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Editorial de la Universidad Pedagogica y Tecnologi",
-            "isbns": [
-                "9789586609746",
-                "958660974X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Climatic changes",
-                "Water balance (Hydrology)",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1523374725",
-            "title": "Ficología Aplicada Características, Usos y Cultivo de Algas Marinas",
-            "creator": "Enrique Javier Peña Salamanca",
-            "date": "2016",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Programa Editorial Universidad Del Valle",
-            "isbns": [
-                "9789587652840",
-                "9587652843"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Algas marinas",
-                "Cultivo de algas",
-                "Ficología",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1477222709",
-            "title": "Plantas Nativas para el Control de la Erosión",
-            "creator": "Virginia Alvarado García",
-            "date": "2020",
-            "language": "spa",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Editorial Tecnologica de Costa Rica",
-            "isbns": [
-                "9789977664965",
-                "997766496X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Soil-binding plants Costa Rica Identification",
-                "Endemic plants Costa Rica Identification",
-                "Couverture végétale du sol Costa Rica Identification",
-                "Plantes endémiques Costa Rica Identification",
-                "NATURE",
-                "Endemic plants",
-                "Soil-binding plants",
-                "Costa Rica",
-                "Electronic books",
-                "Field guides"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1004769925",
-            "title": "A history of the water hyacinth in Africa : the flower of life and death from 1800 to the present",
-            "creator": "Jeremiah Mutio Kitunda",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Lexington Books",
-            "isbns": [
-                "9781498524636",
-                "149852463X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Water hyacinth Nile River Region",
-                "Water hyacinth Control Nile River Region",
-                "Water hyacinth Africa",
-                "Water hyacinth Control Africa",
-                "Invasive plants Nile River Region",
-                "Invasive plants Control Nile River Region",
-                "Invasive plants Africa",
-                "Invasive plants Control Africa",
-                "Eichhornia Africa",
-                "Eichhornia Control Africa",
-                "Eichhornias Afrique",
-                "Eichhornias Lutte contre Afrique",
-                "Plantes envahissantes Afrique",
-                "Plantes envahissantes Lutte contre Afrique",
-                "Jacinthe d'eau Afrique",
-                "Jacinthe d'eau Lutte contre Afrique",
-                "Africa",
-                "African history",
-                "TECHNOLOGY & ENGINEERING Environmental General",
-                "Invasive plants",
-                "Invasive plants Control",
-                "Water hyacinth",
-                "Water hyacinth Control",
-                "Nile River Region"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1517395445",
-            "title": "The Garden at the End of Time Getting by in the Age of Climate Change",
-            "creator": "John Hanson Mitchell",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University of Massachusetts Press",
-            "isbns": [
-                "1685751539",
-                "9781685751531"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Mitchell, John Hanson",
-                "Gardeners Massachusetts",
-                "Rose gardens Massachusetts",
-                "Vegetation and climate Massachusetts",
-                "Gardening Environmental aspects Massachusetts",
-                "Gardens Social aspects Massachusetts",
-                "Jardiniers Massachusetts",
-                "Roseraies Massachusetts",
-                "Jardinage Aspect de l'environnement Massachusetts",
-                "Jardins Aspect social Massachusetts",
-                "BIOGRAPHY & AUTOBIOGRAPHY / General",
-                "Gardeners",
-                "Gardening Environmental aspects",
-                "Gardens Social aspects",
-                "Rose gardens",
-                "Vegetation and climate",
-                "Massachusetts"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1453504152",
-            "title": "Plants with purpose : twenty-five ecosystem multitaskers",
-            "creator": "Monika Maeckle",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Texas A&M University Press",
-            "isbns": [
-                "9781648432453",
-                "164843245X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sustainable horticulture Southwestern States",
-                "Restoration ecology Southwestern States",
-                "Plants, Edible Southwestern States",
-                "Multipurpose plants Southwestern States",
-                "Conservation plants Southwestern States",
-                "Horticulture durable États-Unis (Sud-Ouest)",
-                "Réhabilitation (Écologie) États-Unis (Sud-Ouest)",
-                "Plantes comestibles États-Unis (Sud-Ouest)",
-                "Plantes à usages multiples États-Unis (Sud-Ouest)",
-                "GARDENING / Ornamental Plants",
-                "GARDENING / Landscape",
-                "Conservation plants",
-                "Multipurpose plants",
-                "Plants, Edible",
-                "Restoration ecology",
-                "Sustainable horticulture",
-                "United States Southwestern States",
-                "Electronic books",
-                "recipes",
-                "Recipes",
-                "Recettes"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1615937650",
-            "title": "Landscapes in Trouble, Landscapes in Action Theories and Practices Between Space, Art and Ecology",
-            "creator": "Francesca Berni",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Mimesis Edizioni",
-            "isbns": [
-                "9788869775611",
-                "8869775615"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1257420454",
-            "title": "Canyon, mountain, cloud : absence and longing in American parks",
-            "creator": "Tyra Olstad",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oregon State University Press",
-            "isbns": [
-                "9780870711046",
-                "0870711040"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Parks United States",
-                "National parks and reserves United States",
-                "Parcs nationaux États-Unis",
-                "National parks and reserves",
-                "Parks",
-                "United States"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1424746374",
-            "title": "De l'oenologie à la Viticulture  : 3e édition Augmentée",
-            "creator": "Alain Carbonneau",
-            "date": "2024",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Quae",
-            "isbns": [
-                "9782759238415",
-                "2759238415"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Wine and wine making",
-                "Viticulture"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1617457772",
-            "title": "Sunset water-wise gardening",
-            "creator": "Sunset",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Sunset Publishing Corporation",
-            "isbns": [
-                "0376038640",
-                "9780376038647"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Landscape gardening Water conservation",
-                "Jardins Architecture Eau Conservation"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1614464068",
-            "title": "Integrating welfare and sustainability in poultry systems",
-            "creator": "Dana L. M. Campbell",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443405952",
-                "0443405956"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Animal welfare",
-                "Poultry",
+                "Sustainable agriculture Periodicals",
+                "Agriculture durable Périodiques",
                 "Sustainable agriculture",
-                "Volailles",
-                "Agriculture durable",
-                "sustainable agriculture (discipline)"
+                "Periodicals",
+                "landbouw",
+                "agriculture",
+                "bedrijfssystemen",
+                "farming systems",
+                "voedselvoorziening",
+                "food supply",
+                "duurzaamheid (sustainability)",
+                "sustainability",
+                "alternatieve landbouw",
+                "alternative farming",
+                "Alternative Farming",
+                "Organic Animal Production",
+                "Alternatieve Landbouw",
+                "Biologische dierlijke productie"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1602629286",
-            "title": "The Manila clam Ruditapes philippinarum : science and significance of a globalised species",
-            "creator": "John Humphreys",
+            "oclcNumber": "1573634163",
+            "title": "Cheese Trekking How Microbes, Landscapes, Livestock, and Human Cultures Shape Terroir",
+            "creator": "Trevor Warmedahl",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Elsevier",
+            "publisher": "Rizzoli",
             "isbns": [
-                "9780443367052",
-                "0443367051"
+                "9781645022992",
+                "1645022994"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Manila clam",
-                "Manila clam culture",
-                "Palourde japonaise"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1602527007",
-            "title": "Multiple abiotic stresses in plants : mechanisms and management strategies",
-            "creator": "Koushik Chakraborty",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443274251",
-                "0443274258"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Crops Effect of stress on",
-                "Crops and climate",
-                "Plants Effect of stress on",
-                "Plants Effect of global warming on",
-                "Cultures Effets du stress sur",
-                "Cultures et climat",
-                "Plantes Effets du stress sur",
-                "Plantes Effets du réchauffement de la Terre sur"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1612544198",
-            "title": "Quantum computing and instrumentation for smart agriculture",
-            "creator": "Shubham Mahajan",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443442483",
-                "0443442487"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Agricultural informatics",
-                "Agriculture Data processing",
-                "Quantum computers",
-                "Agriculture Informatique",
-                "Ordinateurs quantiques"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1612198509",
-            "title": "Dairy 4.0 : revolutionizing the dairy sector through industry 4.0",
-            "creator": "",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443447310",
-                "0443447314"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Dairy products industry Technological innovations",
-                "Industry 4.0",
-                "Industrie laitière Innovations",
-                "Industrie 4.0"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1610515017",
-            "title": "Plant-derived feed additives and animal-based foods : linking animal health, product quality, and consumer perceptions",
-            "creator": "Mohamed E. Abd El-Hack",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443454479",
-                "0443454477"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Feed additives",
-                "Plant products"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1610426256",
-            "title": "Sustainable agriculture : technologies, application, and practices",
-            "creator": "Wasswa Shafik",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443367168",
-                "0443367167"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sustainable agriculture",
-                "Agriculture durable",
-                "sustainable agriculture (discipline)"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1609861499",
-            "title": "Our natural lab : remarkable stories of science from America's National Parks",
-            "creator": "Robert B. Lull",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Oxford University Press",
-            "isbns": [
-                "9780197824450",
-                "0197824455",
-                "9780197824436",
-                "0197824439"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "United States. National Park Service History",
-                "National parks and reserves United States",
-                "Research United States History",
-                "Science United States History",
-                "Parcs nationaux États-Unis",
-                "Sciences États-Unis Histoire",
-                "Earth Sciences",
-                "SCIENCE",
-                "Geography",
-                "Sedimentology & Stratigraphy",
-                "Natural History",
-                "Soil Science",
-                "Agronomy",
-                "Agriculture",
-                "TECHNOLOGY & ENGINEERING",
-                "National parks and reserves",
-                "Research History",
-                "Science History",
-                "United States",
+                "Cheesemaking",
+                "Pastoral systems",
+                "Fromage Fabrication",
+                "Pastoralisme",
+                "cheese making",
+                "Essays & Travelogues",
+                "TRAVEL",
+                "COOKING",
                 "Electronic books"
             ]
         },
@@ -779,2246 +87,2330 @@
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1561527560",
-            "title": "Biochar X",
-            "creator": "Guizhou da xue",
-            "date": "2025",
+            "oclcNumber": "1117044728",
+            "title": "Planta daninha",
+            "creator": "Sociedade Brasileira de Herbicidas e Ervas Daninhas",
+            "date": "1994",
+            "language": "por",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Sociedade Brasileira de Herbicidas e Ervas Daninhas",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Herbicides Periodicals",
+                "Plants Effect of herbicides on Periodicals",
+                "Weeds Control Periodicals",
+                "Herbicides Périodiques",
+                "Plantes Effets des herbicides sur Périodiques",
+                "Mauvaises herbes Lutte contre Périodiques",
+                "Herbicides",
+                "Plants Effect of herbicides on",
+                "Weeds Control",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1224681164",
+            "title": "Iran agricultural research",
+            "creator": "Dānishgāh-i Shīrāz. Dānishkadah-i Kishāvarzī.",
+            "date": "19uu",
             "language": "eng",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Maximum Academic Press",
+            "publisher": "College of Agriculture, Shiraz University",
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Agriculture Periodicals",
+                "Agriculture Research Iran Periodicals",
+                "Agriculture Périodiques",
+                "Agriculture",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "930340009",
+            "title": "EC",
+            "creator": "Purdue University Cooperative Extension Service",
+            "date": "1965",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Purdue University, Cooperative Extension Service",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Agriculture Economic aspects Indiana",
+                "Agriculture Aspect économique Indiana",
+                "Agriculture Economic aspects",
+                "Indiana"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "947076771",
+            "title": "Salud y Tecnología Veterinaria",
+            "creator": "Universidad Peruana Cayetano Heredia Facultad de Medicina Veterinaria y Zootecnia",
+            "date": "2013",
+            "language": "spa",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Facultad de Medicina Veterinaria y Zootecnia, Universidad Peruana Cayetano Heredia",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Veterinary medicine Periodicals",
+                "Veterinary medicine Peru Periodicals",
+                "Animals Diseases Periodicals",
+                "Animals Diseases Peru Periodicals",
+                "Veterinary medicine",
+                "Animals Diseases",
+                "Peru",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1290616184",
+            "title": "Integrated nematode management  : state-of-the-art and visions for the future",
+            "creator": "Richard A. Sikora",
+            "date": "2022",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CAB International",
+            "isbns": [
+                "9781789247558",
+                "1789247551"
+            ],
+            "newFormat": "eBook",
             "subjects": ""
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1097053595",
-            "title": "Jurnal pertanian terpadu",
-            "creator": "Sekolah Tinggi Pertanian Kutai Timur",
-            "date": "2013",
-            "language": "ind",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Sekolah Tinggi Pertanian Kutai Timur",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Indonesia Periodicals",
-                "Integrated agricultural systems Indonesia Periodicals",
-                "Agriculture",
-                "Integrated agricultural systems",
-                "Indonesia",
-                "Electronic journals",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "893979094",
-            "title": "Information Processing in Agriculture",
-            "creator": "",
-            "date": "2014",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "China Agricultural University",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Data processing Periodicals",
-                "Agriculture Research Periodicals",
-                "Agriculture",
-                "Technology",
-                "Agriculture Data processing",
-                "Agriculture Research",
-                "Electronic journals",
-                "Periodicals",
-                "Agriculture - General"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1115084263",
-            "title": "Laimburg journal",
-            "creator": "Versuchszentrum Laimburg",
+            "oclcNumber": "1290595520",
+            "title": "Tendons",
+            "creator": "Hasan Sözen",
             "date": "2019",
-            "language": "ger",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Versuchszentrum Laimburg",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Periodicals",
-                "Food science Periodicals",
-                "Agriculture",
-                "Food science",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1076418146",
-            "title": "Türkiye tarımsal araştırmalar dergisi",
-            "creator": "Siirt Üniversitesi Ziraat Fakültesi",
-            "date": "2014",
-            "language": "tur",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Siirt Üniversitesi, Ziraat Fakültesi",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Periodicals",
-                "Agriculture Turkey Periodicals",
-                "Agriculture",
-                "Turkey",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "999546968",
-            "title": "International journal of tropical veterinary and biomedical research",
-            "creator": "Universitas Syiah Kuala Fakultas Kedokteran Hewan",
-            "date": "2016",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Faculty of Veterinary Medicine, Syiah Kuala University, in cooperation with Center for Tropical Veterinary Studies of Syiah Kuala University and Indonesian Veterinary Medical Association (PDHI)",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Veterinary tropical medicine Periodicals",
-                "Veterinary medicine Indonesia Periodicals",
-                "Biology Research Periodicals",
-                "Veterinary tropical medicine",
-                "Veterinary medicine",
-                "Biology Research",
-                "Indonesia",
-                "Electronic journals",
-                "Periodicals",
-                "Veterinary Medicine"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "49796801",
-            "title": "Journal of Central European agriculture",
-            "creator": "Sveučilište u Zagrebu Agronomski fakultet",
-            "date": "2000-",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Faculty of Agriculture, University of Zagreb",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Periodicals",
-                "Agronomy Periodicals",
-                "Agriculture Europe, Central Periodicals",
-                "Agriculture Europe, Eastern Periodicals",
-                "Food industry and trade Europe, Central Periodicals",
-                "Food industry and trade Europe, Eastern Periodicals",
-                "Agriculture",
-                "Agronomy",
-                "Food industry and trade",
-                "Central Europe",
-                "Eastern Europe",
-                "Electronic journals",
-                "Periodicals",
-                "Agriculture - General"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "317991742",
-            "title": "Agricultura tropica et subtropica",
-            "creator": "Česká zemědělská univerzita v Praze",
-            "date": "1975",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Versita De Gruyter Open",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Tropics Periodicals",
-                "Agriculture Periodicals",
-                "Agriculture Régions tropicales Périodiques",
-                "Agriculture Périodiques",
-                "Tropické zemědělství",
-                "Agriculture Tropics",
-                "Agriculture",
-                "Tropics",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1417810343",
-            "title": "ISPEC journal of agricultural sciences",
-            "creator": "İktisadi Kalkınma ve Sosyal Araştırmalar Enstitüsü",
-            "date": "2017",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "IKSAD (Institute of Economic Development and Social Research)",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agriculture Turkey Periodicals",
-                "Agriculture",
-                "Turkey",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1417809004",
-            "title": "Journal of marine and coastal science",
-            "creator": "Universitas Airlangga Fakultas Perikanan dan Kelautan",
-            "date": "2012",
-            "language": "ind",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Faculty of Fisheries and Marine, Universitas Airlangga",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Aquaculture Periodicals",
-                "Aquaculture Indonesia Periodicals",
-                "Marine sciences Periodicals",
-                "Marine sciences Indonesia Periodicals",
-                "Coastal biology Periodicals",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "762006688",
-            "title": "Acta technologica agriculturae",
-            "creator": "Slovenská pol̕nohospodárska univerzita v Nitre",
-            "date": "1998",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Versita De Groyter Open",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Agricultural engineering Periodicals",
-                "Agricultural engineering",
-                "Electronic journals",
-                "Periodicals"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "9217855",
-            "title": "All about ground covers",
-            "creator": "Don Dimond",
-            "date": "©1982",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Ortho Books",
-            "isbns": [
-                "0897210107",
-                "9780897210102"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Ground cover plants",
-                "Plantes couvre-sol"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "59131428",
-            "title": "Shrubs",
-            "creator": "Andrew McIndoe",
-            "date": "2005",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Horticulture Publications",
-            "isbns": [
-                "1558707484",
-                "9781558707481"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Shrubs",
-                "Ornamental shrubs",
-                "Arbustes",
-                "Arbustes d'ornement",
-                "shrubs"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616041910",
-            "title": "Nature-Based Solutions for European Vineyards : Solutions for Transformative Change",
-            "creator": "Udaya Sekhar Nagothu",
-            "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Taylor & Francis Group",
+            "publisher": "IntechOpen",
             "isbns": [
-                "1003715109",
-                "9781003715108",
-                "1040771920",
-                "9781040771921",
-                "9781040771914",
-                "1040771912"
+                "9781839629853",
+                "1839629851",
+                "9781839629860",
+                "183962986X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Vineyards Environmental aspects Europe",
-                "Viticulture Environmental aspects Europe",
-                "Crops and climate Europe",
-                "Agricultural systems Environmental aspects Europe",
-                "Sustainable agriculture Europe",
-                "Vignobles Aspect de l'environnement Europe",
-                "Viticulture Aspect de l'environnement Europe",
-                "Cultures et climat Europe",
-                "Systèmes agricoles Aspect de l'environnement Europe",
-                "Agriculture durable Europe",
-                "Electronic books"
+                "Tendons",
+                "Muscles Anatomy",
+                "Muscles Anatomie"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1616272128",
-            "title": "Sustainability in aquaculture and fisheries",
-            "creator": "Rahul Kumar",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032166050",
-                "3032166055"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Sustainable aquaculture",
-                "Fishery management Environmental aspects",
-                "Aquaculture durable",
-                "Pêches Gestion Aspect de l'environnement",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616294514",
-            "title": "Agriculture 4.0 : towards a new agri-food ecosystem",
-            "creator": "Franco da Silveira",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032245526",
-                "3032245524"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Artificial intelligence Agricultural applications",
-                "Internet of things Industrial applications",
-                "Intelligence artificielle Applications agricoles",
-                "Internet des objets Applications industrielles",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616288506",
-            "title": "Fabricating nature : Shenzhen's urban parks as contested topography",
-            "creator": "Xinyu Liu",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9789819582082",
-                "9819582083"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Urban parks China Shenzhen Shi",
-                "Landscape architecture China Shenzhen Shi",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1616154542",
-            "title": "Chemical-free weed control : outcomes on medicinal and aromatic plants",
-            "creator": "Vítor João Pereira Domingues Martinho",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Springer",
-            "isbns": [
-                "9783032346995",
-                "3032346991"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Weeds Control",
-                "Mauvaises herbes Lutte contre",
-                "plant health treatment",
-                "plant health product",
-                "crop production",
-                "sustainable agriculture",
-                "EU agricultural market",
-                "agrarian law",
-                "EU law - national law",
-                "European Union",
-                "plant life",
-                "biodiversity"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1475857028",
-            "title": "The Extraordinary Story of the Apple",
-            "creator": "David Mabberley",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Royal Botanic Gardens, Kew",
-            "isbns": [
-                "9781842466988",
-                "1842466984"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Apples History",
-                "Apples Pictorial works",
-                "GARDENING",
-                "Apples",
-                "Electronic books",
-                "History",
-                "Illustrated works",
-                "Pictures"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1410562149",
-            "title": "NEMA  : competitive plant nematology for agriculture : A Compilation of Contents for ICAR-JRF, SRF, ARS/NET, SAU’S Entrance Exams, M.Sc. and Ph.D",
-            "creator": "Irphan Mohammad Pinjara",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "BIOTECH",
-            "isbns": [
-                "9354611907",
-                "9789354611902"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Plant nematodes",
-                "Nématodes phytoparasites"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1530625597",
-            "title": "Healthy bees : managing pests, diseases and other disorders of the honey bee",
-            "creator": "Douglas Sommerville",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "State of NSW through the Department of Primary Industries and Regional Development",
-            "isbns": [
-                "9781760588632",
-                "1760588636"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Honeybee Diseases",
-                "Varroa disease",
-                "Honeybee Parasites",
-                "Bee culture",
-                "Abeille Maladies",
-                "Varroase",
-                "Abeille Parasites",
-                "Apiculture"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1354208358",
-            "title": "Constructing Gardens, Cultivating the City  : Paris's New Parks, 1977-1995",
-            "creator": "Amanda Shoaf Vincent",
+            "oclcNumber": "1388657034",
+            "title": "Why Agriculture Productivity Falls The Political Economy of Agrarian Transition",
+            "creator": "Rashed Titumir",
             "date": "2023",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "University of Pennsylvania Press",
+            "publisher": "Purdue University Press",
             "isbns": [
-                "1512823864",
-                "9781512823868"
+                "9781612498348",
+                "1612498345",
+                "1612498353",
+                "9781612498355"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Parks France Paris",
-                "Gardens France Paris",
-                "Gardens, French France Paris",
-                "City planning France Paris",
-                "Landscape architecture France Paris",
-                "Jardins France Paris",
-                "Jardins français France Paris",
-                "Architecture du paysage France Paris",
-                "City planning",
-                "Gardens",
-                "Gardens, French",
-                "Landscape architecture",
-                "Parks",
-                "France Paris"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1476953881",
-            "title": "Living With the Trees of Life  : A Practical Guide to Rebooting the Planet through Tropical Agriculture and Putting Farmers First",
-            "creator": "Roger Leakey",
-            "date": "2024",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CABI",
-            "isbns": [
-                "9781800625006",
-                "1800625006",
-                "9781800624993",
-                "1800624999"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Agriculture",
-                "Ecology",
-                "Forests and forestry",
-                "Life sciences",
                 "Science",
-                "Technology",
-                "Electronic books",
-                "Sciences de la vie",
                 "Sciences",
-                "Technologie",
-                "Livres numériques",
-                "agriculture (discipline)",
-                "biological sciences",
                 "science (modern discipline)",
-                "e-books",
-                "Tropical Agriculture",
-                "Life Sciences",
-                "SCIENCE",
-                "Forestry",
-                "TECHNOLOGY & ENGINEERING"
+                "Science / Life Sciences / Horticulture",
+                "economics irrigation biodiversity pesticides rural Green Revolution fertilisers sustainability mechanisation"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1415910152",
-            "title": "Évaluation écologique des aménagements paysagers",
-            "creator": "Aymeric Lazarin",
-            "date": "2022",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Éditions Quae ; Educagri éditions",
-            "isbns": [
-                "9782759235094",
-                "2759235092",
-                "2759235106",
-                "9782759235100"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Landscaping industry",
-                "Aménagement paysager Industrie"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1451662849",
-            "title": "SOIL SALINITY AND ALKALINITY",
-            "creator": "ANANDKUMAR NAOREM",
-            "date": "2025",
+            "oclcNumber": "1619446366",
+            "title": "Pastoral prosperities : rethinking African drylands",
+            "creator": "Samuel F. Derbyshire",
+            "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "NIPA",
+            "publisher": "UCL Press",
             "isbns": [
-                "9358873078",
-                "9789358873078"
+                "9781806552108",
+                "1806552108"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Arid regions Africa",
+                "Pastoral systems Africa",
+                "Régions arides Afrique",
+                "Pastoralisme Afrique",
+                "Arid regions",
+                "Pastoral systems",
+                "Africa"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1619446228",
+            "title": "Voices for change : an oral history of the environmental movement in the UK, 1970-2020",
+            "creator": "Toby Butler",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "UCL Press",
+            "isbns": [
+                "9781806551781",
+                "1806551780"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Activism Great Britain History 20th century",
+                "Activism Great Britain History 21st century",
+                "Environmentalism Great Britain History 20th century",
+                "Environmentalism Great Britain History 21st century",
+                "Environmentalism History",
+                "Great Britain",
+                "1900-1999",
+                "1970-2020",
+                "2000-2099"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096645192",
+            "title": "Soil Health and Land Use Management",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9533076143",
+                "9789533076140"
             ],
             "newFormat": "eBook",
             "subjects": ""
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1531590820",
-            "title": "Agricultural nanotechnology : applications and industry trends",
-            "creator": "",
-            "date": "2025",
+            "oclcNumber": "1423543562",
+            "title": "Disease, health and ape conservation",
+            "creator": "Alison White",
+            "date": "2023",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Royal Society of Chemistry",
+            "publisher": "Cambridge University Press",
             "isbns": [
-                "9781837677320",
-                "1837677328",
-                "9781837677313",
-                "183767731X"
+                "9781009071727",
+                "1009071726"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Agricultural innovations",
-                "Nanotechnology",
-                "Sustainable agriculture Technological innovations",
-                "Agriculture Innovations",
-                "Nanotechnologie",
-                "Agriculture durable Innovations",
+                "Apes Diseases",
+                "Apes Conservation"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1350303938",
+            "title": "Beekeeping and bee conservation : advances in research",
+            "creator": "Emerson Dechechi Chambo",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9535142003",
+                "9789535142003",
+                "9535124129",
+                "9789535124122"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Bee culture",
+                "Apiculture",
+                "Life Sciences",
+                "Entomology",
+                "Agricultural and Biological Sciences",
+                "Melittology"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1350301777",
+            "title": "Canine medicine : recent topics and advanced research",
+            "creator": "Hussein Abdelhay Elsayed Kaoud",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9535173294",
+                "9789535173298",
+                "9535128329",
+                "9789535128328"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Dogs Diseases",
+                "Veterinary medicine",
+                "Chiens Maladies",
+                "Médecine vétérinaire",
+                "veterinary medicine",
+                "Cynology",
+                "Veterinary Medicine and Science",
+                "Health Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096622051",
+            "title": "Soil Erosion Studies",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9533077107",
+                "9789533077109"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096619988",
+            "title": "Insights from Veterinary Medicine",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9535110055",
+                "9789535110057"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096619611",
+            "title": "Herbicides and Environment",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9533074760",
+                "9789533074764"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1545135806",
+            "title": "Approches interdisciplinaires en santé animale : Dialogue entre sciences sociales et vétérinaires",
+            "creator": "Christian Ducrot",
+            "date": "2024",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Editions Quae",
+            "isbns": [
+                "9782759239733",
+                "275923973X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Wild animals as pets",
+                "Wildlife art",
+                "Animaux sauvages (Animaux familiers)",
+                "Art animalier"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1325916187",
+            "title": "Primates",
+            "creator": "Mark Burke",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789232165",
+                "1789232163",
+                "9781789232172",
+                "1789232171",
+                "9781838812522",
+                "1838812520"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Primates Diseases Epidemiology",
+                "Primates Maladies Épidémiologie",
+                "Life Sciences",
+                "Animal Biology",
+                "Agricultural and Biological Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1147276007",
+            "title": "Selling the Sea, Fishing for Power: A study of conflict over marine tenure in Kei Islands, Eastern Indonesia",
+            "creator": "Dedi Supriadi Adhuri",
+            "date": "2013",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "ANU Press",
+            "isbns": [
+                "9781922144829",
+                "1922144827",
+                "1922144835",
+                "9781922144836"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Fishery management",
+                "Marine resources Indonesia",
+                "Fishery management Indonesia",
+                "Economics",
+                "Pêches Gestion",
+                "Ressources marines Indonésie",
+                "Pêches Gestion Indonésie",
+                "Économie politique",
+                "economics",
+                "Fisheries & related industries",
+                "Business & Economics / Industries / Food Industry",
+                "Marine resources",
+                "Indonesia"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1325907702",
+            "title": "Brassica Germplasm - Characterization, Breeding and Utilization",
+            "creator": "Mohamed Ahmed El-Esawi",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789842418",
+                "1789842417",
+                "9781789842425",
+                "1789842425",
+                "9781838816001",
+                "1838816003"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Brassica Breeding",
+                "Life Sciences",
                 "Agronomy",
-                "Industrial & Technical",
-                "Chemistry",
-                "SCIENCE",
-                "Nanoscience",
-                "Nanotechnology & MEMS",
-                "TECHNOLOGY & ENGINEERING",
-                "Agriculture",
-                "Sustainable agriculture",
+                "Agricultural and Biological Sciences",
+                "Plant Genetics"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1154301972",
+            "title": "Understanding and Managing Emerald Ash Borer Impacts on Ash Forests",
+            "creator": "Randall Kolka",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "MDPI",
+            "isbns": [
+                "9783038971658",
+                "3038971650",
+                "9783038971641",
+                "3038971642"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Emerald ash borer",
+                "Forest management",
+                "Agrile du frêne",
+                "Forêts Gestion"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1325859637",
+            "title": "Next Generation Plant Breeding",
+            "creator": "Yelda",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789239256",
+                "1789239257",
+                "9781789239263",
+                "1789239265",
+                "9781838815424",
+                "1838815422"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Plant breeding",
+                "Plantes Amélioration",
+                "Life Sciences",
+                "Agronomy",
+                "Agricultural and Biological Sciences",
+                "Plant Genetics"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1412620973",
+            "title": "Guide to the Naturalized and Invasive Plants of Eastern Africa",
+            "creator": "Arne Witt",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CAB International",
+            "isbns": [
+                "9781789249552",
+                "1789249554"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
                 "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1529917832",
-            "title": "Regenerative medicine in small animal musculoskeletal conditions : a practical guide for veterinary professionals",
-            "creator": "Russell Chandler",
-            "date": "2025",
+            "oclcNumber": "1439974752",
+            "title": "Global exposition of wildlife management",
+            "creator": "Gbolagade Akeem Lameed",
+            "date": "2017",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "5m Books",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9781789183795",
-                "1789183790",
-                "9781789183788",
-                "1789183782",
-                "9781789183771",
-                "1789183774"
+                "9535154818",
+                "9789535154815",
+                "9535130269",
+                "9789535130260"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Pet medicine",
-                "Musculoskeletal system Diseases Animal models",
-                "Veterinary medicine",
-                "Regeneration (Biology)",
-                "Regenerative medicine",
-                "Médecine des animaux familiers",
-                "Régénération (Biologie)",
-                "Médecine vétérinaire",
-                "Médecine régénératrice",
-                "veterinary medicine"
+                "Wildlife management"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1525632591",
-            "title": "Landscape planning : sustainable practices, design and urban development",
-            "creator": "Muge Unal",
-            "date": "2025",
+            "oclcNumber": "1096456768",
+            "title": "Déforestation dans le monde tropical",
+            "creator": "Simon Pomel",
+            "date": "1998",
+            "language": "fre",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Presses universitaires de Bordeaux",
+            "isbns": [
+                "9782867812187",
+                "2867812186",
+                "9791030003826"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1439916149",
+            "title": "Soybean : The Basis of Yield, Biomass and Productivity",
+            "creator": "Minobu Kasai",
+            "date": "2017",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers",
+            "publisher": "IntechOpen",
             "isbns": [
-                "9798895306505"
+                "9535148508",
+                "9789535148500",
+                "9535131184",
+                "9789535131182"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Urban landscape architecture",
-                "Urban vegetation management",
-                "City planning",
-                "Landscape architecture Planning",
-                "Landscape gardening Planning",
-                "Sustainable development",
-                "Architecture du paysage Planification",
-                "Jardins Architecture Planification",
-                "Développement durable",
-                "Paysage urbain",
-                "Flore urbaine Gestion",
-                "sustainable development",
-                "urban landscapes"
+                "Agriculture",
+                "agriculture (discipline)",
+                "Life Sciences",
+                "Plant Biology",
+                "Agricultural and Biological Sciences",
+                "Agrology"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1248600913",
-            "title": "Mineral nutrition of livestock",
-            "creator": "N. F. Suttle",
+            "oclcNumber": "1096884568",
+            "title": "Soybean and Health",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "953307535X",
+                "9789533075358"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1439915838",
+            "title": "Sustainable Home Design by Applying Control Science",
+            "creator": "Kazutoshi Fujihira",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9535136585",
+                "9789535136583"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Sustainable horticulture",
+                "Horticulture durable",
+                "Life Sciences",
+                "Environmental Design",
+                "Sustainability",
+                "Environmental Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1439898493",
+            "title": "Grape and Wine Biotechnology",
+            "creator": "Antonio Morata",
+            "date": "2016",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9535154575",
+                "9789535154570",
+                "9535126938",
+                "9789535126935"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Grapes",
+                "Life Sciences",
+                "Horticulture",
+                "Agricultural and Biological Sciences",
+                "Viticulture"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1439849709",
+            "title": "Wheat improvement, management and utilization",
+            "creator": "Ruth Wanyera",
+            "date": "2017",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9535148281",
+                "9789535148289",
+                "9535131524",
+                "9789535131526"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Wheat",
+                "Life Sciences",
+                "Plant Biology",
+                "Food Technology",
+                "Agricultural and Biological Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1163816717",
+            "title": "Criticality of the Rare Earth Elements: Current and Future Sources and Recycling",
+            "creator": "Simon Jowitt",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "MDPI",
+            "isbns": [
+                "9783038970187",
+                "3038970182"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Life cycle costing",
+                "Metals Recycling",
+                "Conservation of natural resources",
+                "Coût du cycle de vie",
+                "Métaux Recyclage",
+                "Conservation des ressources naturelles"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1605660713",
+            "title": "De la porcinocultura al aula : un programa de aprendizaje sostenible en la formación agropecuaria",
+            "creator": "Javier Francisco Casimiro Urcos",
+            "date": "2025",
+            "language": "spa",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Sophia Editions",
+            "isbns": [
+                "9781968794064",
+                "1968794069"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Swine industry Study and teaching Peru",
+                "Swine Breeding Peru",
+                "Agricultural education Peru",
+                "Sustainable agriculture Study and teaching Peru",
+                "Environmental management Study and teaching Peru",
+                "Porcs Industrie Étude et enseignement Pérou",
+                "Enseignement agricole Pérou",
+                "Agriculture durable Étude et enseignement Pérou",
+                "Environnement Gestion Étude et enseignement Pérou",
+                "Agricultural education",
+                "Environmental management Study and teaching",
+                "Sustainable agriculture Study and teaching",
+                "Swine Breeding",
+                "Peru"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1369662127",
+            "title": "Gender-Responsive Researchers Equipped for Agricultural Transformation  : Trainer's Manual for the Gender-Responsive Plant Breeding Course",
+            "creator": "Margaret Najjingo Mangheni",
             "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "CAB International",
             "isbns": [
-                "9781789240948",
-                "1789240948",
-                "9781789240931",
-                "178924093X"
+                "9781800620513",
+                "1800620519"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Minerals in animal nutrition",
-                "Minéraux dans l'alimentation des animaux"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1110659060",
-            "title": "Biotechnology of fruit and nut crops",
-            "creator": "Richard E Litz",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CABI",
-            "isbns": [
-                "9781780648293",
-                "1780648294",
-                "9781780648286",
-                "1780648286"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Fruit Propagation",
-                "Nuts Propagation",
-                "Fruit Biotechnology",
-                "Nuts Biotechnology",
-                "Fruits Multiplication",
-                "Noix Multiplication",
-                "Fruits Biotechnologie",
-                "Noix Biotechnologie",
                 "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1574222871",
-            "title": "Belonging with Indigenous lands : resurgence, reciprocity, and environmental stewardship in the Tla-o-qui-aht Tribal Parks",
-            "creator": "John Reid-Hresko",
-            "date": "2026",
+            "oclcNumber": "1096660858",
+            "title": "Fungal Pathogenicity",
+            "creator": "",
+            "date": "19uu",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "UBC Press",
+            "publisher": "InTech",
             "isbns": [
-                "9780774872409",
-                "9780774872416",
-                "0774872403",
-                "0774872411"
+                "9535123939",
+                "9789535123934"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096653566",
+            "title": "Research in Organic Farming",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9533073810",
+                "9789533073811"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096904454",
+            "title": "Livestock Science",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9535128647",
+                "9789535128649"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Protected areas Tla-o-qui-aht First Nations",
-                "Environmental management Tla-o-qui-aht First Nations",
-                "Protected areas British Columbia Tofino",
-                "Environmental management British Columbia Tofino",
-                "Human ecology Tla-o-qui-aht First Nations",
-                "Human ecology British Columbia Tofino",
-                "Protected areas Social aspects Tla-o-qui-aht First Nations",
-                "Protected areas Social aspects British Columbia Tofino",
-                "Protected areas Economic aspects Tla-o-qui-aht First Nations",
-                "Protected areas Economic aspects British Columbia Tofino",
-                "Environmental management",
-                "Ethnic relations",
-                "Human ecology",
-                "Protected areas",
-                "Protected areas Economic aspects",
-                "Race relations",
-                "Tofino (B.C.) Race relations",
-                "Tofino (B.C.) Ethnic relations",
-                "British Columbia Tofino",
-                "Tla-o-qui-aht First Nations",
-                "Electronic books"
+                "Livestock Research",
+                "Life Sciences",
+                "Animal Biology",
+                "Agricultural and Biological Sciences",
+                "Typology"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1164185240",
-            "title": "A guide to oral communication in veterinary medicine",
-            "creator": "Ryane E. Englar",
+            "oclcNumber": "1096652085",
+            "title": "Pesticides in the Modern World - Trends in Pesticides Analysis",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "953307437X",
+                "9789533074375"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "65640303",
+            "title": "Soil erosion and carbon dynamics",
+            "creator": "Eric Roose",
+            "date": "2006",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "CRC, Taylor & Francis",
+            "isbns": [
+                "0203491939",
+                "9780203491935",
+                "1566706882",
+                "9781566706889",
+                "1135460558",
+                "9781135460556",
+                "1280377402",
+                "9781280377402",
+                "9786610377404",
+                "6610377405",
+                "9780367577940",
+                "0367577941",
+                "9780429208768",
+                "0429208766",
+                "9781135460549",
+                "113546054X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Soil erosion Congresses",
+                "Carbon cycle (Biogeochemistry) Congresses",
+                "Soils Carbon content Congresses",
+                "Sols Érosion Congrès",
+                "Cycle du carbone (Biogéochimie) Congrès",
+                "Sols Teneur en carbone Congrès",
+                "TECHNOLOGY & ENGINEERING Agriculture Agronomy Soil Science",
+                "Carbon cycle (Biogeochemistry)",
+                "Soil erosion",
+                "Soils Carbon content",
+                "Conference papers and proceedings"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "823739244",
+            "title": "Nature divided : land degradation in South Africa",
+            "creator": "Timm Hoffman",
+            "date": "2001",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Cape Town Press",
+            "isbns": [
+                "9781920499358",
+                "1920499350",
+                "9781919895673",
+                "1919895671"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Land degradation South Africa",
+                "Soil erosion South Africa",
+                "Terres Dégradation Afrique du Sud",
+                "Sols Érosion Afrique du Sud",
+                "BUSINESS & ECONOMICS Environmental Economics",
+                "BUSINESS & ECONOMICS Green Business",
+                "NATURE Natural Resources",
+                "TECHNOLOGY & ENGINEERING Agriculture General",
+                "Land degradation",
+                "Soil erosion",
+                "South Africa"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096875527",
+            "title": "Soybean Physiology and Biochemistry",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9533075341",
+                "9789533075341"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1240530728",
+            "title": "Rice Crop - Current Developments",
+            "creator": "Zafar Hayat Khan",
+            "date": "2018",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9781789236002",
+                "1789236002",
+                "1838814337",
+                "9781838814335",
+                "1789236010",
+                "9781789236019"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Rice Breeding",
+                "Rice Diseases and pests",
+                "Riz Maladies et fléaux",
+                "Life Sciences",
+                "Agronomy",
+                "Agricultural and Biological Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1240527928",
+            "title": "Climate Resilient Agriculture - Strategies and Perspectives",
+            "creator": "Arun K. Shanker",
+            "date": "2018",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9789535138952",
+                "9535138952"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1240524860",
+            "title": "Honey Analysis - New Advances and Challenges",
+            "creator": "Vagner de Alencar Arnaut de Toledo",
             "date": "2020",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9781789851199",
+                "178985119X"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1235843646",
+            "title": "Gestion durable des eaux et des sols au Maroc  : Valorisation des techniques traditionnelles méditerranéennes",
+            "creator": "Éric Roose",
+            "date": "2014",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IRD Éditions",
+            "isbns": [
+                "9782709917902",
+                "2709917904"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1240523698",
+            "title": "Forest Degradation Around the World",
+            "creator": "Mohd Nazip Suratman",
+            "date": "2020",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9781789238334",
+                "1789238331"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1154229112",
+            "title": "Forest Soil Respiration under Climate Changing",
+            "creator": "Mirco Rodeghiero",
+            "date": "2018",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "5M Publishing",
+            "publisher": "MDPI",
             "isbns": [
-                "9781789181234",
-                "1789181232",
-                "9781789181241",
-                "1789181240"
+                "9783038971795",
+                "3038971790",
+                "9783038971788",
+                "3038971782"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Communication in medicine",
-                "Oral communication",
-                "Veterinary medicine",
-                "Veterinary Medicine",
-                "Communication en médecine",
-                "Communication orale",
-                "Médecine vétérinaire",
-                "veterinary medicine"
+                "Respiration",
+                "Forest soils",
+                "Sols forestiers"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1281787856",
-            "title": "Rabbit production",
-            "creator": "Steven D. Lukefahr",
+            "oclcNumber": "1240517442",
+            "title": "Coffee - Production and Research",
+            "creator": "Dalyse Toledo Castanheira",
+            "date": "2020",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9781838808846",
+                "1838808841"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096657485",
+            "title": "Agricultural Chemistry",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9535110268",
+                "9789535110262"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1202546520",
+            "title": "Cotton Research",
+            "creator": "Ibrokhim Y. Abdurakhmonov",
+            "date": "2016",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1350318315",
+            "title": "Potato : From Incas to All Over the World",
+            "creator": "Mustafa Yildiz",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "1838813446",
+                "9781838813444",
+                "1789232554",
+                "9781789232554"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Agricultural productivity",
+                "Agriculture Productivité",
+                "Life Sciences",
+                "Plant Biology",
+                "Biotechnology",
+                "Agricultural and Biological Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1326183192",
+            "title": "Landscape Architecture - The Sense of Places, Models and Applications",
+            "creator": "Amjad Almusaed",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789237122",
+                "1789237122",
+                "9781789237139",
+                "1789237130",
+                "9781838812744",
+                "1838812741"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Landscape architecture Environmental aspects",
+                "Architecture du paysage Aspect de l'environnement",
+                "Life Sciences",
+                "Landscape Ecology",
+                "Ecology",
+                "Environmental Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1154201614",
+            "title": "Control of Communicable Diseases in Human and in Animal Populations: 70th Anniversary Year of the Birth of Professor Rick Speare (2 August 1947 - 5 June 2016)",
+            "creator": "Jorg Heukelbach",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "MDPI",
+            "isbns": [
+                "9783038973157",
+                "3038973157",
+                "9783038973140",
+                "3038973149"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Veterinarians",
+                "Disease management",
+                "Disease Management",
+                "Vétérinaires",
+                "Gestion thérapeutique",
+                "veterinarians"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1235840474",
+            "title": "Grain Legumes",
+            "creator": "Aakash Kumar Goyal",
+            "date": "2016",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9789535127208",
+                "9535127209"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096888293",
+            "title": "Water Quality, Soil and Managing Irrigation of Crops",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9535104268",
+                "9789535104261"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1326080527",
+            "title": "Ruminants - The Husbandry, Economic and Health Aspects",
+            "creator": "Muhammad Abubakar",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789230482",
+                "1789230489",
+                "9781789230499",
+                "1789230497",
+                "9781838813369",
+                "1838813365"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Animal biotechnology",
+                "Biotechnologie animale",
+                "Veterinary Medicine and Science",
+                "Animal Science",
+                "Health Sciences"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1096886353",
+            "title": "The Molecular Basis of Plant Genetic Diversity",
+            "creator": "",
+            "date": "19uu",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9535101579",
+                "9789535101574"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1326006134",
+            "title": "National Parks - Management and Conservation",
+            "creator": "Mohd Nazip Suratman",
+            "date": "2018",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "InTech",
+            "isbns": [
+                "9781789231243",
+                "1789231248",
+                "9781789231250",
+                "1789231256",
+                "9781838814472",
+                "1838814477"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "National parks and reserves Management",
+                "Parcs nationaux Gestion",
+                "Engineering",
+                "Physical Sciences",
+                "Engineering and Technology",
+                "Environmental Conservation & Protection",
+                "Environmental Engineering"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1202542587",
+            "title": "Cassava",
+            "creator": "Viduranga Waisundara",
+            "date": "2018",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Cassava",
+                "Manioc",
+                "cassava (starch)",
+                "Life Sciences",
+                "Plant Biology",
+                "Agricultural and Biological Sciences",
+                "Plant Ecology"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1235836320",
+            "title": "Theriogenology",
+            "creator": "Rita Payan Carreira",
+            "date": "2017",
+            "language": "und",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "IntechOpen",
+            "isbns": [
+                "9789535134770",
+                "9535134779"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1410151303",
+            "title": "Der montierte Fluss Donaunarrative in Text, Film und Fotografie",
+            "creator": "Anton Holzer",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Franz Steiner Verlag",
+            "isbns": [
+                "9783515134590",
+                "351513459X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Antiques",
+                "Collectibles",
+                "Antiquités (Objets anciens)",
+                "Objets de collection",
+                "antiques (object genre)",
+                "collectibles",
+                "Antiques & collectables",
+                "Antiques & Collectibles"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1368419432",
+            "title": "The Age of the Soybean An Environmental History of Soy During the Great Acceleration",
+            "creator": "Claiton Marcio da Silva",
             "date": "2022",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "CABI",
+            "publisher": "The White Horse Press",
             "isbns": [
-                "9781789249811",
-                "1789249813",
-                "9781789249804",
-                "1789249805"
+                "1912186659",
+                "9781912186655"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Rabbits"
+                "Conservation of the environment",
+                "Trees, wildflowers & plants",
+                "Humanities",
+                "Nature",
+                "Environmental Conservation & Protection",
+                "Plants",
+                "History"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1615515858",
-            "title": "Green alternatives to antibiotics in animal health",
-            "creator": "Rifat Ullah Khan",
+            "oclcNumber": "1409693126",
+            "title": "Dogs, Past and Present: An Interdisciplinary Perspective",
+            "creator": "Ivana Fiore",
+            "date": "2023",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Archaeopress Publishing Ltd",
+            "isbns": [
+                "1803273550",
+                "9781803273556",
+                "9781803273549",
+                "1803273542"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Social sciences",
+                "Archaeology",
+                "Engineering",
+                "Technology",
+                "Agriculture",
+                "Domestic animals",
+                "Sciences sociales",
+                "Archéologie",
+                "Ingénierie",
+                "Technologie",
+                "Animaux domestiques",
+                "social sciences",
+                "archaeology",
+                "engineering",
+                "agriculture (discipline)",
+                "History",
+                "Art Pastoralism Dogs Burials Domestication Culture"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621657333",
+            "title": "Forest Sustainability : The History, the Challenge, the Promise",
+            "creator": "Floyd, Donald W.",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Forest History Society",
+            "isbns": [
+                "9780890300886",
+                "0890300887"
+            ],
+            "newFormat": "eBook",
+            "subjects": ""
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1619917908",
+            "title": "Rabbit farming in the Middle Ages and beyond : a landscape history",
+            "creator": "David Gould",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Liverpool University Press",
+            "isbns": [
+                "9781807810474",
+                "9781807810467",
+                "180781047X",
+                "1807810461"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Livestock Great Britain History To 1500",
+                "Rabbit fur",
+                "Rabbit meat",
+                "Rabbits Great Britain History To 1500",
+                "Rabbits Breeding",
+                "Lapin (Viande)",
+                "Livestock History",
+                "Rabbits",
+                "Great Britain"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "55132225",
+            "title": "Perennials",
+            "creator": "",
+            "date": "2003, ©1996",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Covent Garden Books",
+            "isbns": [
+                "0681626690",
+                "9780681626690"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Perennials Handbooks, manuals, etc",
+                "Perennials Pictorial works",
+                "Plantes vivaces Guides, manuels, etc",
+                "Plantes vivaces Ouvrages illustrés",
+                "Perennials",
+                "handbooks",
+                "Handbooks and manuals",
+                "Illustrated works",
+                "Guides et manuels"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1159047067",
+            "title": "The nature of oaks : the rich ecology of our most essential native trees",
+            "creator": "Douglas W. Tallamy",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Timber Press",
+            "isbns": [
+                "9781643260440",
+                "1643260448"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Oak",
+                "Oak Ecology United States",
+                "Trees Ecology United States",
+                "Chêne",
+                "Chêne Écologie États-Unis",
+                "Arbres Écologie États-Unis",
+                "oak (wood)",
+                "GARDENING / Trees",
+                "NATURE / Ecosystems & Habitats / Forests & Rainforests",
+                "NATURE / Environmental Conservation & Protection",
+                "NATURE / Plants / Trees",
+                "NATURE / Trees & Forests",
+                "SCIENCE / Life Sciences / Ecology",
+                "Trees Ecology",
+                "Oak Ecology",
+                "United States",
+                "Nature / Plants - Trees"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1263756541",
+            "title": "Envisioning landscapes : the transformative environments of OJB",
+            "creator": "Peter Walker",
+            "date": "2021",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "PrintBook",
+            "publisher": "Monacelli, a Phaidon Company",
+            "isbns": [
+                "9781580935678",
+                "1580935672"
+            ],
+            "newFormat": "Print Book",
+            "subjects": [
+                "Burnett, James (Landscape architect) Themes, motives",
+                "Burnett, James (Landscape architect) Interviews",
+                "Office of James Burnett",
+                "Landscape architecture",
+                "Landscape gardening",
+                "Urban parks Pictorial works",
+                "Urban parks United States",
+                "Urban parks Landscape architecture United States",
+                "Architecture du paysage",
+                "Jardins Architecture",
+                "Parcs urbains Ouvrages illustrés",
+                "Parcs urbains États-Unis",
+                "Parcs urbains Architecture du paysage États-Unis",
+                "landscape gardening",
+                "landscape architecture (discipline)",
+                "Themes, motives",
+                "Urban parks",
+                "United States",
+                "interviews",
+                "Interviews",
+                "Pictorial works",
+                "Illustrated works",
+                "Ouvrages illustrés"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1583184077",
+            "title": "Fruits and Plains : The Horticultural Transformation of America",
+            "creator": "Philip J. Pauly",
+            "date": "2008",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Harvard University Press",
+            "isbns": [
+                "9780674276758",
+                "0674276752"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "HISTORY / United States / General",
+                "SCIENCE / History",
+                "SCIENCE / Life Sciences / General"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621542819",
+            "title": "Parametric landscape architecture planning and design",
+            "creator": "Yangyang Yuan",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9789819203093",
-                "9819203090"
+                "9789819580118",
+                "9819580110"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Anti-infective agents in veterinary medicine",
-                "Drug resistance in microorganisms",
-                "Antiinfectieux en médecine vétérinaire",
+                "Landscape design",
+                "Aménagement paysager",
                 "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1370216911",
-            "title": "Politika lesa : debata o Národním parku Šumava v letech 1991-2010",
-            "creator": "Michal Hořejší",
-            "date": "2022",
-            "language": "cze",
+            "oclcNumber": "1140383398",
+            "title": "Gender and green governance : the political economy of women's presence within and beyond community forestry",
+            "creator": "Bina Agarwal",
+            "date": "2013",
+            "language": "eng",
             "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Filozofická fakulta Univerzity Karlovy",
-            "isbns": [
-                "9788076710931",
-                "8076710936"
-            ],
-            "newFormat": "Print Book",
+            "specificFormat": "Digital",
+            "publisher": "Oxford University Press",
+            "isbns": "",
+            "newFormat": "eBook",
             "subjects": [
-                "Forests and forestry Czech Republic Národní park Šumava",
-                "Forest policy Czech Republic Národní park Šumava",
-                "Forest management Czech Republic Národní park Šumava",
-                "Discourse analysis Czech Republic",
-                "Debates and debating Czech Republic",
-                "Débats et controverses République tchèque",
-                "National parks and reserves",
-                "Forest policy",
-                "Forest ecology",
-                "Nature conservation",
-                "Národní park Šumava (Czech Republic) Environmental conditions",
-                "Czech Republic Národní park Šumava",
-                "History"
+                "Community forestry",
+                "Women in forestry",
+                "Women and the environment",
+                "Foresterie communautaire",
+                "Femmes en foresterie",
+                "Femmes et environnement"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1266189223",
-            "title": "Animal oncology",
-            "creator": "S. Sivaseelan",
-            "date": "2021",
+            "oclcNumber": "1140380344",
+            "title": "The pesticide detox : towards a more sustainable agriculture",
+            "creator": "Jules N. Pretty",
+            "date": "2005",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Associated Publishing Company",
+            "publisher": "Routledge (Publisher)",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Agricultural pests Biological control",
+                "Pesticides Environmental aspects",
+                "Ennemis des cultures Lutte biologique contre"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1140374399",
+            "title": "Climate and agriculture in the Pacific Islands : future perspectives",
+            "creator": "William Aalbersberg",
+            "date": "1993",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of the South Pacific. Institute of Pacific Studies",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Climatic changes Oceania",
+                "Crops and climate Oceania",
+                "Climat Changements Océanie",
+                "Cultures et climat Océanie",
+                "Climatic changes",
+                "Crops and climate",
+                "Oceania"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1140355694",
+            "title": "Climate variability, climate change, and fisheries",
+            "creator": "Michael H. Glantz",
+            "date": "2005",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Cambridge University Press",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Fisheries Climatic factors",
+                "Climatic changes",
+                "Pêches Facteurs climatiques",
+                "Climat Changements",
+                "climate change"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1140352507",
+            "title": "Saving the seed : genetic diversity and European agriculture",
+            "creator": "Renée Vellvé",
+            "date": "2009",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Routledge (Publisher)",
+            "isbns": "",
+            "newFormat": "eBook",
+            "subjects": [
+                "Crops Germplasm resources Europe",
+                "Gene banks, Plant Europe",
+                "Germplasm resources conservation",
+                "Cultures Ressources génétiques Europe",
+                "Banques de gènes végétaux Europe",
+                "Conservation des ressources génétiques",
+                "Crops Germplasm resources",
+                "Gene banks, Plant",
+                "Europe"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621519884",
+            "title": "Natural regeneration dynamics of forests after fires in the Kostanay Region : assessment of the natural regeneration dynamics of forests after fires",
+            "creator": "Zhanar Ozgeldinova",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
             "isbns": [
-                "9789390259090",
-                "9390259096"
+                "9783032196446",
+                "3032196442"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Veterinary oncology",
-                "Tumors in animals",
-                "Veterinary medicine",
-                "Cancérologie vétérinaire",
-                "Tumeurs chez les animaux",
-                "Médecine vétérinaire",
-                "veterinary medicine"
+                "Forest regeneration Kazakhstan",
+                "Forest fires Environmental aspects Kazakhstan",
+                "Geography",
+                "Soil science",
+                "Environmental management",
+                "Géographie",
+                "Pédologie",
+                "Environnement Gestion",
+                "soil science",
+                "environmental control",
+                "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1416257898",
-            "title": "Journal of research",
-            "creator": "Punjab Agricultural University",
-            "date": "1964",
+            "oclcNumber": "900409233",
+            "title": "Shifting cultivation and environmental change : indigenous people, agriculture and forest conservation",
+            "creator": "Malcolm Cairns",
+            "date": "2015",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Routledge",
+            "isbns": [
+                "9781317750192",
+                "1317750195",
+                "9781317750185",
+                "1317750187",
+                "9781317750178",
+                "1317750179",
+                "9781315796321",
+                "1315796325"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Agriculture Environmental aspects",
+                "Forests and forestry Environmental aspects",
+                "Forest conservation",
+                "Indigenous peoples",
+                "Agriculture Aspect de l'environnement",
+                "Forêts Conservation",
+                "TECHNOLOGY & ENGINEERING Agriculture General",
+                "BUSINESS & ECONOMICS Real Estate General"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621641025",
+            "title": "Beyond Income Subjective Well-Being and Rural Transformation in Asia",
+            "creator": "Wanglin Ma",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9789819249572",
+                "9819249570"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621634276",
+            "title": "Behavioural Interventions and Agricultural Innovation : Evidence-Based Strategies to Drive Technology Adoption",
+            "creator": "Julius J. Okello",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032310668",
+                "3032310660"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621632448",
+            "title": "Mangrove Rice Farming : Lessons in Sustainability and Climate Change Adaptation from Guiné Bissau",
+            "creator": "Franco Tesio",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032341358",
+                "3032341353"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1352978915",
+            "title": "Media kedokteran hewan",
+            "creator": "",
+            "date": "1990",
             "language": "eng",
             "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "Punjab Agricultural University",
+            "publisher": "Faculty of Veterinary Medicine, Universitas Airlangga",
             "isbns": "",
             "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Agriculture India Periodicals",
-                "Agriculture Periodicals",
-                "Agriculture Inde Périodiques",
-                "Agriculture Périodiques",
-                "Agriculture",
-                "India",
+                "Veterinary medicine Periodicals",
+                "Médecine vétérinaire Périodiques",
+                "Veterinaria Publicaciones periódicas",
+                "Veterinary medicine",
                 "Periodicals"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1201384418",
-            "title": "Nationalizing nature : Iguazu Falls and National Parks at the Brazil-Argentina Border",
-            "creator": "Frederico Freitas",
-            "date": "2021",
+            "oclcNumber": "85447408",
+            "title": "Czech journal of animal science = Zivočišná výroba",
+            "creator": "Ústav zemědělských a potravinářských informací.",
+            "date": "1998",
             "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781108844833",
-                "1108844839"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Nature conservation Boundaries Iguaçu Falls (Argentina and Brazil)",
-                "Conservation of natural resources Boundaries Iguaçu Falls (Argentina and Brazil)",
-                "Borderlands Brazil",
-                "Borderlands Argentina",
-                "Borderlands",
-                "Boundaries",
-                "Iguaçu Falls (Argentina and Brazil) Boundaries",
-                "Parque Nacional do Iguaçu (Brazil)",
-                "Parque Nacional Iguazú (Argentina)",
-                "Argentina Boundaries Brazil",
-                "Brazil Boundaries Argentina",
-                "Parque Nacional do Iguaçu (Brésil)",
-                "Parque Nacional Iguazú (Argentine)",
-                "Argentina",
-                "Argentina Parque Nacional Iguazú",
-                "Brazil",
-                "Brazil Parque Nacional do Iguaçu",
-                "South America Iguaçu Falls)"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1469378058",
-            "title": "FOREST TREES AND FORESTRY",
-            "creator": "G. Frederick Schwarz",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
+            "generalFormat": "Jrnl",
             "specificFormat": "Digital",
-            "publisher": "AGRI HORTI PRESS",
-            "isbns": [
-                "9359193119",
-                "9789359193113"
-            ],
-            "newFormat": "eBook",
+            "publisher": "Česká akademie zemědělských věd",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Forests and forestry United States",
-                "Forests and forestry Europe",
-                "Forests and forestry",
-                "Europe",
-                "United States"
+                "Animal culture Periodicals",
+                "Élevage Périodiques",
+                "Animal culture",
+                "Veeteelt",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1141039993",
-            "title": "TRADITIONAL CHEESES FROM SELECTED REGIONS IN ASIA, EUROPE, AND SOUTH AMERICA",
-            "creator": "CELILE AYLIN OLUK; OYA BERKAY KARACA",
-            "date": "2020",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "BENTHAM Science PUBLISHER",
-            "isbns": [
-                "9811432368",
-                "9789811432361"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Cheese Varieties",
-                "Fromage Variétés",
-                "Food Science",
-                "TECHNOLOGY & ENGINEERING",
-                "Technology & Engineering / Food Science"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1469378009",
-            "title": "SOILS AND SOIL CULTIVATION",
-            "creator": "FRANK D GARDNER",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "AGRI HORTI PRESS",
-            "isbns": [
-                "935919218X",
-                "9789359192185"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Soils",
-                "Sols"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1252428405",
-            "title": "Beware of dog : how media portrays the aggressive canine",
-            "creator": "Melissa Crawley",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "McFarland & Company, Inc., Publishers",
-            "isbns": [
-                "9781476643243",
-                "1476643245"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Dangerous dogs",
-                "Fighting dogs",
-                "Dogs in motion pictures",
-                "Dogs on television",
-                "Chiens dangereux",
-                "Chiens de combat",
-                "Chiens au cinéma",
-                "Chiens à la télévision",
-                "Dogs",
-                "Media Studies",
-                "PETS",
-                "SOCIAL SCIENCE",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1288422828",
-            "title": "Impact of artificial reefs on the environment and communities",
-            "creator": "Jorge Ramos",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "IGI Global",
-            "isbns": [
-                "9781668423448",
-                "1668423448",
-                "9781668423455",
-                "1668423456"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Artificial reefs Social aspects",
-                "Artificial reefs Economic aspects",
-                "Marine ecotourism",
-                "Sustainable tourism",
-                "Récifs artificiels Aspect social",
-                "Récifs artificiels Aspect économique",
-                "Écotourisme marin",
-                "Tourisme durable"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1524001717",
-            "title": "Procedures for Analyzing Chemical Quality of Milk and Milk Products Volume 03",
-            "creator": "Soma Maji",
-            "date": "uuuu",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nipa Genx Electronic Resources & Solutions",
-            "isbns": [
-                "9358870214",
-                "9789395763837",
-                "9395763833",
-                "9789358870213"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Milk Analysis",
-                "Dairy products Analysis",
-                "Milk Quality",
-                "Dairy products Quality",
-                "Lait Analyse",
-                "Produits laitiers Analyse",
-                "Lait Qualité",
-                "Produits laitiers Qualité"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1535770503",
-            "title": "Sustainable agriculture applications using large language models",
-            "creator": "Raghavendra Devadas M.",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Bentham Science Publishers",
-            "isbns": [
-                "9798898810184"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Agriculture Data processing",
-                "Artificial intelligence Agricultural applications",
-                "Agriculture Informatique",
-                "Intelligence artificielle Applications agricoles",
-                "COMPUTERS / Artificial Intelligence / General",
-                "Intelligence (AI) & Semantics",
-                "COMPUTERS",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1147862637",
-            "title": "Achieving sustainable cultivation of tropical fruits",
-            "creator": "Elhadi M. Yahia",
+            "oclcNumber": "1439960331",
+            "title": "Ukrainian journal of forest and wood science = Український журнал лісівніцтва та деревинознавства",
+            "creator": "Національний університет біоресурсів і природокористування України",
             "date": "2019",
             "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Національний університет біоресурсів і природокористування України",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Forests and forestry Periodicals",
+                "Ecology Periodicals",
+                "Ecology",
+                "Forests and forestry",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1621699394",
+            "title": "Soil profiles : with photos by Roy Simonson",
+            "creator": "Alfred E. Hartemink",
+            "date": "2026",
+            "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Burleigh Dodds Science Publishing",
+            "publisher": "Springer",
             "isbns": [
-                "9781786762870",
-                "1786762870",
-                "0429266634",
-                "9780429266638"
+                "9783032301666",
+                "3032301661"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Tropical fruit",
-                "Fruit-culture",
-                "Sustainable agriculture",
-                "Fruits tropicaux",
-                "Agriculture durable",
-                "sustainable agriculture (discipline)",
-                "Horticulture",
-                "Botany",
-                "Life Sciences",
-                "SCIENCE",
-                "Tropical Agriculture",
+                "Simonson, Roy W",
+                "Soil profiles",
+                "Profils pédologiques",
+                "soil profiles (orthographic projections)",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1620781576",
+            "title": "Behavioural interventions and agricultural innovation : evidence-based strategies to drive technology adoption",
+            "creator": "Julius Okello",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032310668",
+                "3032310660"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Agricultural innovations"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1620212197",
+            "title": "Mangrove rice farming : lessons in sustainability and climate change adaptation from Guiné Bissau",
+            "creator": "Franco Tesio",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Springer",
+            "isbns": [
+                "9783032341358",
+                "3032341353"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Rice farming Guinea-Bissau",
+                "Mangrove ecology Guinea-Bissau",
+                "Mangrove swamps Guinea-Bissau",
+                "Riziculture Guinée-Bissau",
+                "Écologie des mangroves Guinée-Bissau",
+                "Mangroves Guinée-Bissau"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1619708647",
+            "title": "Applied Research in Field Crop Pathology for Indiana, 2019",
+            "creator": "Darcy E. P. Telenko",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "",
+            "isbns": [
+                "9781626713574",
+                "162671357X"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Agriculture Indiana",
+                "Plant diseases Indiana",
+                "Plantes Maladies et fléaux Indiana",
                 "Agriculture",
-                "TECHNOLOGY & ENGINEERING",
-                "Crop Science",
-                "Agronomy",
-                "Sustainable Agriculture",
-                "Pest Control",
+                "Plant diseases",
+                "Indiana",
                 "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1257818534",
-            "title": "Advances in measuring soil health",
-            "creator": "Wilfred Otten",
-            "date": "2021",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Burleigh Dodds Science Publishing",
-            "isbns": [
-                "9781003048046",
-                "1003048048",
-                "9781786764294",
-                "1786764296",
-                "1786764288",
-                "9781786764287"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Soil science",
-                "Pédologie",
-                "soil science",
-                "TECHNOLOGY Agriculture General",
-                "TECHNOLOGY Agriculture Crop Science",
-                "TECHNOLOGY Agriculture Soil Science",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1523977696",
-            "title": "Food and Livelihood Security",
-            "creator": "N. K. Dhal",
-            "date": "uuuu",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nipa Genx Electronic Resources & Solutions",
-            "isbns": [
-                "8119002431",
-                "9788119002429",
-                "8119002423",
-                "9788119002436"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Agricultural innovations India",
-                "Agriculture Economic aspects India",
-                "Food security India",
-                "Crops and climate India",
-                "Sustainable agriculture India",
-                "Agriculture Innovations Inde",
-                "Agriculture Aspect économique Inde",
-                "Sécurité alimentaire Inde",
-                "Cultures et climat Inde",
-                "Agriculture durable Inde",
-                "Agricultural innovations",
-                "Agriculture Economic aspects",
-                "Crops and climate",
-                "Food security",
-                "Sustainable agriculture",
-                "India"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1451098946",
-            "title": "LABORATORY GUIDE FOR IDENTIFICATION OF PLANT PATHOGENIC FUNGI",
-            "creator": "S. G. BORKAR; AJAYASREE; T.S; P. SRILATHA; JAYASHR",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "NIPA",
-            "isbns": [
-                "9358871695",
-                "9789358871692"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Phytopathogenic fungi Identification",
-                "Fungal diseases of plants",
-                "Champignons phytopathogènes Identification",
-                "Plantes Maladies cryptogamiques",
-                "Phytopathogenic fungi",
-                "Field guides"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1450873896",
-            "title": "SUSTAINABLE PRODUCTION TECHNOLOGIES FOR HORTICULTURAL CROPS",
-            "creator": "BALRAJ SINGH; A.K. SINGH; B.S. TOMAR; J.K. RANJAN",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "NIPA",
-            "isbns": [
-                "9358873647",
-                "9789358873641"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Horticultural crops Technological innovations India",
-                "Sustainable horticulture India",
-                "Cultures horticoles Innovations Inde",
-                "Horticulture durable Inde",
-                "Sustainable horticulture",
-                "India"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1450873654",
-            "title": "SOIL HEALTH MANAGEMENT FOR SUSTAINABLE DEVELOPMENT GOALS",
-            "creator": "HANUMAN SINGH JATAV; TAQI ZARA",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "NIPA",
-            "isbns": [
-                "9358872675",
-                "9789358872675"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Soil management",
-                "Soil conservation",
-                "Sustainable agriculture",
-                "Sols Conservation",
-                "Agriculture durable",
-                "sustainable agriculture (discipline)"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1450873317",
-            "title": "TROPICAL AND SUBTROPICAL VEGETABLE CROPS 2nd fully revised and enlarged edition",
-            "creator": "DIPIKA SAHOO; . BHIMASEN NAIK",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "NIPA",
-            "isbns": [
-                "8119103629",
-                "9788119103621"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Tropical vegetables Textbooks",
-                "Tropical crops Textbooks",
-                "Tropical crops",
-                "Tropical vegetables",
-                "Textbooks"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1512071534",
-            "title": "Beyond the blue : smart IoT solutions for precision microalgae cultivation in aquaculture",
-            "creator": "Polaki Suman",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Nova Science Publishers",
-            "isbns": [
-                "9798895304525"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Algae culture",
-                "Microalgae",
-                "Internet of things",
-                "Microalgues",
-                "Internet des objets"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1517841791",
-            "title": "Composting : fundamentals and recent advances",
-            "creator": "Antoni Sánchez",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Royal Society of Chemistry",
-            "isbns": [
-                "9781837673650",
-                "1837673659",
-                "1837673667",
-                "9781837673667"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Compost",
-                "Waste disposal sites",
-                "Refuse and refuse disposal",
-                "Déchets Élimination",
-                "Waste Management",
-                "Sustainable Development",
-                "Development",
-                "BUSINESS & ECONOMICS",
-                "Environmental (see also Environmental Science)",
-                "Chemistry",
-                "SCIENCE",
-                "Environmental)",
-                "TECHNOLOGY & ENGINEERING",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1314627262",
-            "title": "Key questions in urban pest management : a study and revision guide",
-            "creator": "Partho Dhang",
-            "date": "2022",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CAB International",
-            "isbns": [
-                "1800620179",
-                "9781800620162",
-                "1800620160",
-                "9781800620179"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Urban pests Control",
-                "Animaux et plantes nuisibles urbains Lutte contre",
-                "Entomology",
-                "Pest Control",
-                "TECHNOLOGY & ENGINEERING",
-                "Zoology",
-                "Life Sciences",
-                "SCIENCE"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1602526513",
-            "title": "Advances in rice research for abiotic stress tolerance",
-            "creator": "Mirza Hasanuzzaman",
+            "oclcNumber": "1611485879",
+            "title": "The Great Horse Flu : A Forgotten Contagion and the Fate of Reconstruction America",
+            "creator": "Thomas G. Andrews",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Woodhead Publishing",
+            "publisher": "The University of North Carolina Press",
             "isbns": [
-                "9780443334665",
-                "0443334668"
+                "9781469698458",
+                "9781469698465",
+                "1469698455",
+                "1469698463"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Rice Effect of stress on",
-                "Riz Effets du stress sur",
-                "Rice"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1611161896",
-            "title": "Aztec science : the genetic origin of maize, pollination, and plant sexuality recorded in art",
-            "creator": "Helen Burgos-Ellis",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "University Press of Colorado",
-            "isbns": [
-                "9781646429134",
-                "1646429133",
-                "9781646428205",
-                "164642820X"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Codex Borgianus",
-                "Corn Mythology Mexico",
-                "Corn in art",
-                "Nahuas Agriculture History",
-                "Aztec calendar",
-                "Calendrier aztèque",
-                "Corn Mythology",
-                "Nahuas Agriculture",
-                "Mexico",
-                "History"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1568742215",
-            "title": "The coveted mount : the horse in South Asian history",
-            "creator": "Pratyay Nath",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cambridge University Press",
-            "isbns": [
-                "9781009700672",
-                "1009700677",
-                "9781009700627",
-                "1009700626"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Horses Symbolic aspects South Asia",
-                "Horses Social aspects South Asia History",
-                "Horses South Asia History",
-                "Human-animal relationships South Asia History",
-                "Chevaux Aspect social Asie méridionale Histoire",
-                "Chevaux Asie méridionale Histoire",
+                "Equine influenza United States History 19th century",
+                "Horses Diseases Political aspects United States",
+                "Reconstruction (U.S. history, 1865-1877)",
+                "Equine influenza History 19th century",
+                "Grippe équine Histoire 19e siècle",
+                "Chevaux Maladies Aspect politique États-Unis",
+                "19th Century",
+                "Veterinary Medicine",
+                "MEDICAL",
                 "Horses",
-                "Horses Symbolic aspects",
-                "Horses Social aspects",
-                "Human-animal relationships",
-                "South Asia",
-                "History"
+                "Animals",
+                "NATURE",
+                "Disease & Health Issues",
+                "SOCIAL SCIENCE",
+                "United States",
+                "HISTORY",
+                "Equine influenza",
+                "History",
+                "1800-1899"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1432986526",
-            "title": "Ackerbau des Lebendigen Tiere, Wissenschaft und Anthroposophie in der biodynamischen Landwirtschaft",
-            "creator": "Stéphanie Majerus",
-            "date": "2024",
-            "language": "ger",
-            "generalFormat": "Book",
-            "specificFormat": "thsis",
-            "publisher": "transcript",
-            "isbns": [
-                "9783839470381",
-                "3839470382"
-            ],
-            "newFormat": "Thesis, Dissertation",
+            "oclcNumber": "1005818514",
+            "title": "Jurnal hama dan penyakit tumbuhan tropika",
+            "creator": "Universitas Lampung Jurusan Proteksi Tanaman",
+            "date": "2001",
+            "language": "ind",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Department of Plant Protection, Faculty of Agriculture, Universitas Lampung in collaboration with Entomological Society of Indonesia (PEI), Indonesian Phytopathological Society (PFI)",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
             "subjects": [
-                "Steiner, Rudolf 1861-1925",
-                "RELIGION / General",
-                "Anthroposophie",
-                "Biologisch-dynamische Wirtschaftsweise",
-                "Ackerbau",
-                "Biodynamik",
-                "Landwirtschaft",
-                "Hochschulschrift",
+                "Plant diseases Tropics Periodicals",
+                "Plant diseases",
+                "Tropics",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "647226189",
+            "title": "The Iraqi journal of agricultural science",
+            "creator": "Jāmiʻat Baghdād. College of Agriculture, Abu Ghraib",
+            "date": "1966",
+            "language": "eng",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "College of Agriculture, University of Baghdad",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Agriculture Iraq Periodicals",
+                "Agriculture Irak Périodiques",
                 "Agriculture",
-                "Animal",
-                "Anthropology of Religion",
-                "Anthroposophy",
-                "Arable Farming",
-                "Biodynamics",
-                "Cultural Anthropology",
-                "Demeter",
-                "Germany",
-                "Human Ecology",
-                "Human-animal Relationship",
-                "Nature",
-                "Religion",
-                "Religious Studies",
-                "Sociology of Religion",
-                "Spirituality",
-                "Sustainability",
-                "Switzerland"
+                "Iraq",
+                "Periodical",
+                "periodicals",
+                "Periodicals",
+                "Périodiques"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1607857325",
-            "title": "Doubled haploid methods in cereals",
-            "creator": "Ana María Castillo",
+            "oclcNumber": "1058096973",
+            "title": "Bartin Orman Fakültesi dergisi",
+            "creator": "Zonguldak Karaelmas Üniversitesi Bartın Orman Fakültesi",
+            "date": "2001",
+            "language": "tur",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Bartin Üniversitesi Orman Fakültesi Adina",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Forests and forestry Periodicals",
+                "Forests and forestry Turkey Periodicals",
+                "Forests and forestry",
+                "Turkey",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1116917893",
+            "title": "Mljekarstvo",
+            "creator": "",
+            "date": "2001",
+            "language": "hrv",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Izdavac̈ki zavod Jugoslavenske akademije",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Dairying",
+                "Industrie laitière",
+                "Periodical"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1076449276",
+            "title": "Revista cubana de ciencias forestales",
+            "creator": "",
+            "date": "2013",
+            "language": "spa",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Revista cubana de ciencias forestales",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Forests and forestry Research",
+                "Electronic journals",
+                "Periodicals"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "60387069",
+            "title": "Pesquisa veterinária brasileira",
+            "creator": "Colégio Brasileiro de Patologia Animal",
+            "date": "1981",
+            "language": "por",
+            "generalFormat": "Jrnl",
+            "specificFormat": "Digital",
+            "publisher": "Colégio Brasileiro de Patologia Animal",
+            "isbns": "",
+            "newFormat": "eJournal, eMagazine",
+            "subjects": [
+                "Veterinary medicine Periodicals",
+                "Veterinary medicine Brazil Periodicals",
+                "Médecine vétérinaire Périodiques",
+                "Médecine vétérinaire Brésil Périodiques",
+                "Veterinary medicine",
+                "Brazil",
+                "Periodicals",
+                "dierpathologie",
+                "animal pathology",
+                "diergezondheid",
+                "animal health",
+                "ziektebestrijding",
+                "disease control",
+                "veeartsenijkunde",
+                "veterinary medicine",
+                "diergeneeskunde",
+                "veterinary science",
+                "dierziektepreventie",
+                "animal disease prevention",
+                "Veterinary Science (General)",
+                "Diergeneeskunde (algemeen)"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1619319605",
+            "title": "Rural innovation ecosystems and agricultural transition : empirical insights, theoretical approaches and governance challenges",
+            "creator": "Gianluca Brunori",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Humana Press",
+            "publisher": "Palgrave Macmillan",
             "isbns": [
-                "9781071652459",
-                "1071652451"
+                "9783032331571",
+                "3032331579"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Grain Breeding Technological innovations",
-                "Grain Biotechnology",
-                "Céréales Biotechnologie"
+                "Agricultural innovations",
+                "Agriculture Technology transfer",
+                "Rural development",
+                "Agriculture Transfert de technologie",
+                "Développement rural",
+                "rural development",
+                "Electronic books"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1574773091",
-            "title": "Plant immunity : methods and protocols",
-            "creator": "Tsutomu Kawasaki",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press",
-            "isbns": [
-                "9781071651384",
-                "1071651382"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Plants Disease and pest resistance Laboratory manuals",
-                "Plants Disease and pest resistance",
-                "Plantes Résistance aux maladies et fléaux",
-                "Plantes Résistance aux maladies et fléaux Manuels de laboratoire",
-                "Plantas Resistencia a plagas y enfermedades"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1059130682",
-            "title": "Phytoplasmas : methods and protocols",
-            "creator": "Rita Musetti",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press : Springer",
-            "isbns": [
-                "9781493988372",
-                "1493988379"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Phytoplasmas Laboratory manuals",
-                "Phytoplasmas",
-                "Phytoplasma",
-                "Laboratory Manuals",
-                "Phytoplasmes Manuels de laboratoire",
-                "Phytoplasmes",
-                "Botany & plant sciences",
-                "Science Life Sciences Botany",
-                "Laboratory Manual",
-                "Laboratory manuals",
-                "Manuels de laboratoire"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1569777001",
-            "title": "Phytoplasma : methods and protocols",
-            "creator": "Katrin Janik",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press",
-            "isbns": [
-                "9781071651049",
-                "1071651048"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Phytoplasma diseases Laboratory manuals",
-                "Phytoplasma Disease",
-                "Phytoplasmoses",
-                "Phytoplasmoses Manuels de laboratoire",
-                "Phytoplasma diseases"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1593104982",
-            "title": "Plant antiviral resistance : methods and protocols",
-            "creator": "Guanwei Wu",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press",
-            "isbns": [
-                "9781071653005",
-                "1071653008"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Plants Virus resistance",
-                "Virus diseases of plants",
-                "Plantes Résistance aux virus",
-                "Plantes Maladies à virus"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1615327146",
-            "title": "Robotics and digital technologies in agriculture : proceedings of the Sixth International Conference on Agriculture Digitalization and Organic Production (ADOP 2026). Volume 1",
-            "creator": "International Conference on Agriculture Digitalization and Organic Production",
+            "oclcNumber": "1619116334",
+            "title": "Fisheries sustainability in the EU : intersections of competitiveness, policy, and food security",
+            "creator": "Mohd Alsaleh",
             "date": "2027",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032350107",
-                "3032350107"
+                "9789819244966",
+                "981924496X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Agricultural innovations Congresses",
-                "Agriculture Automation Congresses",
-                "Robotics Congresses",
-                "Organic farming Congresses",
-                "Agriculture Automatisation Congrès",
-                "Robotique Congrès",
-                "Agriculture biologique Congrès",
-                "Electronic books",
-                "proceedings (reports)",
-                "Conference papers and proceedings",
-                "Actes de congrès"
+                "Sustainable fisheries European Union countries",
+                "Fishery policy European Union countries",
+                "Pêches durables Pays de l'Union européenne",
+                "Pêches Politique gouvernementale Pays de l'Union européenne"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1046449072",
-            "title": "Functional genomics in Medicago truncatula : methods and protocols",
-            "creator": "Luis A. Cañas",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press : Springer",
-            "isbns": [
-                "9781493986330",
-                "1493986333"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Medicago Laboratory manuals",
-                "Life sciences",
-                "Medicago truncatula",
-                "Biological Science Disciplines",
-                "Medicago Manuels de laboratoire",
-                "Sciences de la vie",
-                "biological sciences",
-                "Botany & plant sciences",
-                "Science Life Sciences Botany",
-                "Medicago",
-                "Genòmica",
-                "Genètica vegetal",
-                "Electronic books",
-                "Laboratory Manual",
-                "Laboratory manuals",
-                "Manuels de laboratoire",
-                "Llibres electrònics"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1545535607",
-            "title": "Transgenic plants : methods and protocols",
-            "creator": "Nitish Kumar",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press",
-            "isbns": [
-                "9781071648032",
-                "1071648039"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Transgenic plants Laboratory manuals",
-                "Plantes transgéniques Manuels de laboratoire",
-                "Transgenic plants",
-                "Laboratory manuals",
-                "Manuels de laboratoire"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1005923386",
-            "title": "Maize : methods and protocols",
-            "creator": "L. Mark Lagrimini",
-            "date": "2018",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Humana Press",
-            "isbns": [
-                "9781493973156",
-                "1493973150"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Corn Laboratory manuals",
-                "Maïs Manuels de laboratoire",
-                "Botany & plant sciences",
-                "Science Life Sciences Botany",
-                "Corn",
-                "Laboratory Manual",
-                "Laboratory manuals",
-                "Manuels de laboratoire"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1545100616",
-            "title": "Legume genomics : methods and protocols",
-            "creator": "Mukesh Jain",
+            "oclcNumber": "1613424011",
+            "title": "Artificial intelligence in livestock omics : applications, challenges, and future perspectives",
+            "creator": "Navid Ghavi Hossein-Zadeh",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
-            "publisher": "Humana Press",
+            "publisher": "Academic Press",
             "isbns": [
-                "9781071648209",
-                "1071648209"
+                "9780443456640",
+                "044345664X"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Legumes Genetics Laboratory manuals",
-                "Legumes Genetics",
-                "Legumes Biotechnology",
-                "Legumes",
-                "Laboratory manuals",
-                "Manuels de laboratoire"
+                "Artificial intelligence Agricultural applications",
+                "Livestock Technological innovations",
+                "Intelligence artificielle Applications agricoles"
             ]
         },
         {
             "topic": "10000000",
-            "oclcNumber": "1614769517",
-            "title": "Governance literacy : advanced theory and applications of interactive governance",
-            "creator": "Ratana Chuenpagdee",
+            "oclcNumber": "1596675657",
+            "title": "Q is for garden : tending the histories of queer cultivation",
+            "creator": "Jenny Chamarette",
+            "date": "2026",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Manchester University Press",
+            "isbns": [
+                "9781526197344",
+                "1526197340",
+                "9781526197320",
+                "1526197324"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Agriculturists",
+                "Botanists",
+                "Botany",
+                "Gardeners",
+                "Gardening",
+                "Sexual minorities",
+                "Sexual minority culture",
+                "Agronomes",
+                "Botanistes",
+                "Jardiniers",
+                "Jardinage",
+                "Culture des minorités sexuelles",
+                "agriculturists",
+                "botanists",
+                "gardeners",
+                "gardening",
+                "SOCIAL SCIENCE / Gender Studies",
+                "Electronic books"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "311060466",
+            "title": "Creating outdoor classrooms : schoolyard habitats and gardens for the Southwest",
+            "creator": "Lauri Macmillan Johnson",
+            "date": "2008",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "University of Texas Press",
+            "isbns": [
+                "9780292794177",
+                "0292794177"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "School gardens Southwestern States Design",
+                "Nature study Southwestern States",
+                "Outdoor learning laboratories Southwestern States",
+                "Nature Étude et enseignement États-Unis (Sud-Ouest)",
+                "Classes de nature États-Unis (Sud-Ouest)",
+                "ARCHITECTURE Landscape",
+                "GARDENING Garden Design",
+                "GARDENING Landscape",
+                "EDUCATION Teaching Methods & Materials General",
+                "Nature study",
+                "Outdoor learning laboratories",
+                "United States Southwestern States"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1545002263",
+            "title": "The basics of edible insect rearing : Handbook for the production chain",
+            "creator": "J. Claeys",
+            "date": "2022",
+            "language": "eng",
+            "generalFormat": "Book",
+            "specificFormat": "Digital",
+            "publisher": "Brill | Wageningen Academic",
+            "isbns": [
+                "9086869025",
+                "9789086869022"
+            ],
+            "newFormat": "eBook",
+            "subjects": [
+                "Insects Breeding and exploitation"
+            ]
+        },
+        {
+            "topic": "10000000",
+            "oclcNumber": "1617886513",
+            "title": "Canine science : an interdisciplinary look at our best friend",
+            "creator": "Ana Gabriela Jiménez",
             "date": "2026",
             "language": "eng",
             "generalFormat": "Book",
             "specificFormat": "Digital",
             "publisher": "Springer",
             "isbns": [
-                "9783032217738",
-                "3032217733"
+                "9783032315151",
+                "3032315158"
             ],
             "newFormat": "eBook",
             "subjects": [
-                "Fishery policy",
-                "Fishery law and legislation",
-                "Small-scale fisheries",
-                "Pêches Politique gouvernementale",
-                "Pêche artisanale"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1611776731",
-            "title": "Community Trees and Forests : Improving Environmental and Human Well-Being",
-            "creator": "David J. Nowak",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Elsevier",
-            "isbns": [
-                "9780443329135",
-                "0443329133"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Urban forestry",
-                "Trees in cities"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1596677126",
-            "title": "Smart aquaponic farming : an intelligent production system for aquaponics",
-            "creator": "Daoliang Li",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443289460",
-                "0443289468"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Aquaponics",
-                "Aquaponie"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1610425494",
-            "title": "Intelligent gene editing in plants : the convergence of AI and CRISPR",
-            "creator": "Aftab Ahmad",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443440809",
-                "0443440808"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Artificial intelligence Biological applications",
-                "CRISPR (Genetics)",
-                "Plant genetic engineering",
-                "Intelligence artificielle Applications biologiques",
-                "CRISPR (Génétique)",
-                "Génie génétique végétal"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1602628874",
-            "title": "Whey : composition, processing, applications, health benefits and waste utilization",
-            "creator": "Bhavbhuti M. Mehta",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Academic Press",
-            "isbns": [
-                "9780443276491",
-                "0443276498"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Whey",
-                "Whey products",
-                "Petit-lait",
-                "Produits du petit-lait"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1612545821",
-            "title": "Jens Jensen : nature's artist",
-            "creator": "William H. Tishler",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "3 Fields Books, an imprint of the University of Illinois Press",
-            "isbns": [
-                "9780252049019",
-                "0252049012"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Jensen, Jens, 1860-1951",
-                "Clearing Folk School (Ellison Bay, Wis.)",
-                "Landscape architects United States Biography",
-                "Landscape architects Wisconsin Biography",
-                "Conservationists United States Biography",
-                "Conservationists Wisconsin Biography",
-                "Natural areas",
-                "Landscape architecture",
-                "Écologistes (Défenseurs de l'environnement) États-Unis Biographies",
-                "Architectes paysagistes États-Unis Biographies",
-                "Architectes paysagistes Wisconsin Biographies",
-                "Écologistes (Défenseurs de l'environnement) Wisconsin Biographies",
-                "Réserves naturelles",
-                "Architecture du paysage",
-                "nature reserves",
-                "landscape architecture (discipline)",
-                "Conservationists",
-                "Landscape architects",
-                "United States",
-                "Biographies",
-                "Biography"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1439843523",
-            "title": "Le Travail du Sol Dans les Systèmes Mécanisés Tropicaux",
-            "creator": "Roland Pirot",
-            "date": "1997",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Quae",
-            "isbns": [
-                "2876148137",
-                "9782876148130"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Farm mechanization",
-                "Soil management"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1425871258",
-            "title": "RECHERCHE AGRICOLE ET INNOVATION EN AFRIQUE TROPICALE",
-            "creator": "ELLEN HANAK FREUD; PIERRE-MARIE BOSC",
-            "date": "1995",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "CIRAD",
-            "isbns": [
-                "287614817X",
-                "9782876148178"
-            ],
-            "newFormat": "eBook",
-            "subjects": ""
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1602525963",
-            "title": "Schistosomiasis of animals in Uzbekistan",
-            "creator": "Djalaliddin Azimov",
-            "date": "2026",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "IntechOpen",
-            "isbns": [
-                "9781806321049",
-                "1806321041"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Schistosomiasis Uzbekistan",
-                "Veterinary parasitology Uzbekistan",
-                "Schistosomiasis",
-                "Veterinary parasitology",
-                "Uzbekistan"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1240835130",
-            "title": "L'ACADEMIE D'AGRICULTURE DE FRANCE;UNE VISION DE L'AGRICULTURE FRANCAISE DE L'ENTRE-DEUX-GUERRES",
-            "creator": "BERNARD ROUX",
-            "date": "2021",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "EDITIONS L'HARMATTAN",
-            "isbns": [
-                "2140172515",
-                "9782140172519"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Académie d'agriculture de France",
-                "Agriculture France History 20th century",
-                "Agriculture and state France History 20th century",
-                "Politique agricole France Histoire 20e siècle",
-                "Agriculture",
-                "Agriculture and state",
-                "France",
-                "History",
-                "1900-1999"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1507826288",
-            "title": "Création Variétale Chez les Plantes Cultivées : Des Méthodes Conventionnelles Aux Outils Modernes",
-            "creator": "André. Gallais",
-            "date": "2025",
-            "language": "fre",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Quae",
-            "isbns": "",
-            "newFormat": "eBook",
-            "subjects": [
-                "Plant breeding",
-                "Plantes Amélioration"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1602076650",
-            "title": "Analysis of Parameters Potentially Responsible for the Variety Specific Allergenicity of Apples (Malus Domestica Borkh. )",
-            "creator": "Julia Kaeswurm",
-            "date": "2025",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Cuvillier Verlag",
-            "isbns": [
-                "3689526558",
-                "9783689526559"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Food allergy",
-                "Apples",
-                "SCIENCE / Chemistry / General",
-                "Electronic books"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1609389103",
-            "title": "Tigre gente = Jaguar people",
-            "creator": "Joanna Natasegara",
-            "date": "2022",
-            "language": "spa",
-            "generalFormat": "Video",
-            "specificFormat": "Digital",
-            "publisher": "Green Planet Films",
-            "isbns": "",
-            "newFormat": "eVideo",
-            "subjects": [
-                "Wild animal trade South America",
-                "Wild animal trade China",
-                "Jaguar",
-                "Poaching South America",
-                "Animaux sauvages Commerce Chine",
-                "Animaux sauvages Commerce Amérique du Sud",
-                "Braconnage Amérique du Sud",
-                "Poaching",
-                "Wild animal trade",
-                "China",
-                "South America",
-                "Documentary films",
-                "Nonfiction films",
-                "Films autres que de fiction"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "900783853",
-            "title": "Garden insects of North America : the ultimate guide to backyard bugs",
-            "creator": "Whitney Cranshaw",
-            "date": "2004",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "Digital",
-            "publisher": "Princeton University Press",
-            "isbns": [
-                "9781400866786",
-                "1400866782"
-            ],
-            "newFormat": "eBook",
-            "subjects": [
-                "Garden pests North America Identification",
-                "Animaux et plantes nuisibles des jardins Amérique du Nord Identification",
-                "GARDENING Essays",
-                "GARDENING Reference",
-                "GARDENING Vegetables",
-                "SCIENCE Life Sciences Horticulture",
-                "Garden pests",
-                "North America",
-                "Electronic books",
-                "Field guides"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1218831",
-            "title": "Home landscaping",
-            "creator": "",
-            "date": "1974",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "A.B. Morse",
-            "isbns": [
-                "0064650359",
-                "9780064650359"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Landscape gardening",
-                "Plants, Ornamental Pictorial works",
-                "Jardins Architecture",
-                "landscape gardening",
-                "Plants, Ornamental",
-                "illustrated books",
-                "Illustrated works",
-                "Pictorial works",
-                "Ouvrages illustrés"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "70877776",
-            "title": "Conifers for gardens : an illustrated encyclopedia",
-            "creator": "Richard L. Bitner",
-            "date": "2007",
-            "language": "eng",
-            "generalFormat": "Book",
-            "specificFormat": "PrintBook",
-            "publisher": "Timber Press",
-            "isbns": [
-                "9780881928303",
-                "0881928305"
-            ],
-            "newFormat": "Print Book",
-            "subjects": [
-                "Conifers Varieties Pictorial works",
-                "Plants, Ornamental Pictorial works",
-                "Ornamental conifers Pictorial works",
-                "Conifères Variétés Ouvrages illustrés",
-                "Plantes d'ornement Ouvrages illustrés",
-                "Conifères d'ornement Ouvrages illustrés",
-                "Ornamental conifers",
-                "Conifers Varieties",
-                "Plants, Ornamental",
-                "illustrated books",
-                "Illustrated works",
-                "Pictorial works",
-                "Ouvrages illustrés"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "1356790021",
-            "title": "Jurnal HPT (Hama Penyakit Tumbuhan)",
-            "creator": "",
-            "date": "2013",
-            "language": "ind",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "Departemen Hama dan Penyakit Tumbuhan, Fakultas Pertanian, Universitas Brawijaya, 2013-",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Plant diseases Periodicals",
-                "Plantes Maladies et fléaux Périodiques",
-                "Patología vegetal Publicaciones periódicas",
-                "Plant diseases",
-                "Periodical",
-                "periodicals",
-                "Periodicals",
-                "Périodiques",
-                "Revistas"
-            ]
-        },
-        {
-            "topic": "10000000",
-            "oclcNumber": "853475265",
-            "title": "Scientific papers. Series D, Animal science",
-            "creator": "Universitatea de Științe Agronomice și Medicină Veterinară București Facultatea de Zootehnie",
-            "date": "2012",
-            "language": "eng",
-            "generalFormat": "Jrnl",
-            "specificFormat": "Digital",
-            "publisher": "University of Agronomic Sciences and Veterinary Medicine of Bucharest",
-            "isbns": "",
-            "newFormat": "eJournal, eMagazine",
-            "subjects": [
-                "Zoology Periodicals",
-                "Zoologie Périodiques",
-                "Zoology",
-                "Periodicals",
-                "Zeitschrift",
-                "Animal Sciences"
+                "Dogs",
+                "Dogs Behavior",
+                "Dogs Health",
+                "Veterinary medicine",
+                "Chiens",
+                "Chiens Mœurs et comportement",
+                "Chiens Santé",
+                "Médecine vétérinaire",
+                "veterinary medicine"
             ]
         }
     ]
